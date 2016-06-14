@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Classifying ReachOut posts with a radial basis function SVM
+ShortPaperTitle#=%=#Classifying ReachOut posts with a radial basis function SVM
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Christopher Brew
+JobTitle#==#
+Organization#==#Thomson Reuters Corporate Research and Development
+Abstract#==#The ReachOut clinical psychology shared task challenge addresses the problem of
+providing
+an automatic triage for posts to a support forum for people with a history of
+mental health issues.
+Posts are classified into \verb+green+, \verb+amber+, \verb+red+ and
+\verb+crisis+. The non-green
+categories correspond to increasing levels of urgency for some form of
+intervention.
+The Thomson Reuters submissions arose from an idea about self-training and
+ensemble learning.
+The available labeled training set is small (947 examples) and the class
+distribution unbalanced.
+It was therefore hoped to develop a method that would make use of the larger
+dataset of unlabeled
+posts provided by the organisers. This did not work, but  the performance
+of a radial basis function SVM intended as a baseline was relatively good.
+Therefore, the report 
+focuses on the latter, aiming to understand the reasons for its performance.
+Author{1}{Firstname}#=%=#Chris
+Author{1}{Lastname}#=%=#Brew
+Author{1}{Email}#=%=#cbrew@acm.org
+Author{1}{Affiliation}#=%=#Thomson Reuters Corporate Research
+
+==========

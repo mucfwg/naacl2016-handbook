@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#536
+FinalPaperTitle#=%=#ECNU at SemEval-2016 Task 4: An Empirical Investigation of Traditional NLP Features and Word Embedding Features for Sentence-level and Topic-level Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#A Study of NLP Features and Word Embedding Features for Multi-level Sentiment Analysis in Twitter
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yunxiao Zhou
+JobTitle#==#
+Organization#==#East China Normal University
+No.500 Dongchuan Road, Shanghai
+Abstract#==#This paper reports our submissions to Task 4, i.e., Sentiment Analysis in
+Twitter (SAT), in SemEval 2016, which consists of five subtasks grouped into
+two levels: (1) sentence level, i.e., message polarity classification (subtask
+A), and (2) topic level, i.e., tweet classification and quantification
+according to two-point scale (subtask B and D) or five-point scale (subtask C
+and E). We participated in all these five subtasks. To address these subtasks,
+we investigated several traditional Natural Language Processing (NLP) features
+including sentiment lexicon, linguistic and domain specific features, and word
+embedding features together with supervised machine learning methods.
+Officially released results showed that our systems rank above average.
+Author{1}{Firstname}#=%=#Yunxiao
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#10122130215@ecnu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Zhihua
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#51131201039@ecnu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Man
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+
+==========

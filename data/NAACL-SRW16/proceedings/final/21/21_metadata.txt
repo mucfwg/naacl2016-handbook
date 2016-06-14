@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Phylogenetic simulations over constraint-based grammar formalisms
+ShortPaperTitle#=%=#Phylogenetic simulations over constraint-based grammar formalisms
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Andrew Lamont
+JobTitle#==#
+Organization#==#
+Abstract#==#Computational phylogenetics has been shown to be effective over grammatical
+characteristics. Recent work suggests that constraint-based formalisms are
+compatible with such an approach (Eden, 2013). In this paper, we report on
+simulations to determine how useful constraint-based formalisms are in
+phylogenetic research and under what conditions.
+
+Popular computational methods for phylogenetic research (estimating the
+evolutionary histories of languages) primarily involve comparisons over cognate
+sets (Nichols and Warnow, 2008).  Recent works (Dunn et al., 2005; Longobardi 
+and Guardiano, 2009) indicate that comparing sets of grammatical parameters can
+be effective as well.  However, generating a large number of meaningful
+parameters remains a formal obstacle.  In this paper we argue that
+constraint-based grammar formalisms may be exploited for parameter generation,
+and explore to what extent such research is feasible.
+Author{1}{Firstname}#=%=#Andrew
+Author{1}{Lastname}#=%=#Lamont
+Author{1}{Email}#=%=#andrew.m.lamont@gmail.com
+Author{1}{Affiliation}#=%=#Indiana University / LINGUIST List
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Washington
+Author{2}{Email}#=%=#jonwashi@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+
+==========

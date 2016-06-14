@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Generating Clinically Relevant Texts: A Case Study on Life-Changing Events
+ShortPaperTitle#=%=#Generating Clinically Relevant Texts: A Case Study on Life-Changing Events
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mayuresh Oak
+JobTitle#==#
+Organization#==#Rochester Institute of Technology,
+Rochester, NY-14623,USA
+Abstract#==#The need to protect privacy poses unique challenges to behavioral research. For
+instance, researchers often can not use examples drawn directly from such data
+to explain or illustrate key findings. In this research, we use data-driven
+models to synthesize realistic-looking data, focusing on discourse produced by
+social-media participants announcing life-changing events. We comparatively
+explore the performance of distinct techniques for generating synthetic
+linguistic data across different linguistic units and topics. 
+Our approach offers utility not only for reporting on qualitative behavioral
+research on such data, where directly quoting a participant's content can
+unintentionally reveal sensitive information about the participant, but also
+for clinical computational system developers, for whom access to realistic
+synthetic data may be sufficient for the software development process.
+Accordingly, thi work also has implications for computational linguistics at
+large.
+Author{1}{Firstname}#=%=#Mayuresh
+Author{1}{Lastname}#=%=#Oak
+Author{1}{Email}#=%=#mso4106@rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Anil
+Author{2}{Lastname}#=%=#Behera
+Author{2}{Email}#=%=#akb2701@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Titus
+Author{3}{Lastname}#=%=#Thomas
+Author{3}{Email}#=%=#tpt7797@rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+Author{4}{Firstname}#=%=#Cecilia
+Author{4}{Lastname}#=%=#Ovesdotter Alm
+Author{4}{Email}#=%=#coagla@rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+Author{5}{Firstname}#=%=#Emily
+Author{5}{Lastname}#=%=#Prud'hommeaux
+Author{5}{Email}#=%=#emilypx@gmail.com
+Author{5}{Affiliation}#=%=#Rochester Institute of Technology
+Author{6}{Firstname}#=%=#Christopher
+Author{6}{Lastname}#=%=#Homan
+Author{6}{Email}#=%=#cmh@cs.rit.edu
+Author{6}{Affiliation}#=%=#Rochester Institute of Technology
+Author{7}{Firstname}#=%=#Raymond
+Author{7}{Lastname}#=%=#Ptucha
+Author{7}{Email}#=%=#rwpeec@rit.edu
+Author{7}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

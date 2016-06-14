@@ -1,0 +1,12 @@
+abbrev CORBON
+type Workshop
+title Workshop on Coreference Resolution Beyond OntoNotes (CORBON 2016)
+url http://corbon.nlp.ipipan.waw.pl/
+booktitle Proceedings of the Workshop on Coreference Resolution Beyond OntoNotes (CORBON 2016)
+month June
+year 2016
+location Ann Arbor, Michigan
+publisher Association for Computational Linguistics
+chairs Maciej Ogrodniczuk (Linguistic Engineering Group, Institute of Computer Science, Polish Academy of Sciences)
+chairs Vincent Ng (Computer Science Department, The University of Texas at Dallas)
+bib_url http://www.aclweb.org/anthology/W16-07%02d

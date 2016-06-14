@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#331
+FinalPaperTitle#=%=#Know-Center at SemEval-2016 Task 5: Using Word Vectors with Typed Dependencies for Opinion Target Expression Extraction
+ShortPaperTitle#=%=#Using Word Vectors with Typed Dependencies for Opinion Target Expression Extraction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Stefan Falk
+JobTitle#==#
+Organization#==#Know-Center GmbH
+Inffeldgasse 13/6
+A-8010 Graz
+Abstract#==#This paper describes our participation in
+SemEval-2016 Task 5 for Subtask 1, Slot 2.
+The challenge demands to find domain specific
+target expressions on sentence level that
+refer to reviewed entities. The detection of target
+words is achieved by using word vectors
+and its grammatical dependency relationships
+to classify each word in a sentence into target
+or non-target. A heuristic based function
+then expands the classified target words to the
+whole target phrase. Our system achieved an
+F1 score of 56.816% for this task.
+Author{1}{Firstname}#=%=#Stefan
+Author{1}{Lastname}#=%=#Falk
+Author{1}{Email}#=%=#sfalk@know-center.at
+Author{1}{Affiliation}#=%=#KnowCenter Graz
+Author{2}{Firstname}#=%=#Andi
+Author{2}{Lastname}#=%=#Rexha
+Author{2}{Email}#=%=#arexha@know-center.at
+Author{2}{Affiliation}#=%=#KnowCenter Graz
+Author{3}{Firstname}#=%=#Roman
+Author{3}{Lastname}#=%=#Kern
+Author{3}{Email}#=%=#rkern@know-center.at
+Author{3}{Affiliation}#=%=#KnowCenter Graz
+
+==========

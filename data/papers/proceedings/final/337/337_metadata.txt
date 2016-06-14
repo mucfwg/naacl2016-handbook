@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#337
+FinalPaperTitle#=%=#Building Chinese Affective Resources in Valence-Arousal Dimensions
+ShortPaperTitle#=%=#Building Chinese Affective Resources in Valence-Arousal Dimensions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Liang-Chih Yu
+JobTitle#==#Associate Professor
+Organization#==#No. 135, Yuan Tung Rd., Taoyuan City, Taiwan
+Abstract#==#An increasing amount of research has recently focused on representing affective
+states as continuous numerical values on multiple dimensions, such as the
+valence-arousal (VA) space. Compared to the categorical approach that
+represents affective states as several classes (e.g., positive and negative),
+the dimensional approach can provide more fine-grained sentiment analysis.
+However, affective resources with valence-arousal ratings are still very rare,
+especially for the Chinese language. Therefore, this study builds 1) an
+affective lexicon called Chinese valence-arousal words (CVAW) containing 1,653
+words, and 2) an affective corpus called Chinese valence-arousal text (CVAT)
+containing 2,009 sentences extracted from web texts. To improve the annotation
+quality, a corpus cleanup procedure is used to remove outlier ratings and
+improper texts. Experiments using CVAW words to predict the VA ratings of the
+CVAT corpus show results comparable to those obtained using English affective
+resources.
+Author{1}{Firstname}#=%=#Liang-Chih
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#lcyu@saturn.yzu.edu.tw
+Author{1}{Affiliation}#=%=#Yuan Ze University
+Author{2}{Firstname}#=%=#Lung-Hao
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#lunghaolee@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Shuai
+Author{3}{Lastname}#=%=#Hao
+Author{3}{Email}#=%=#stanhao@outlook.com
+Author{3}{Affiliation}#=%=#Yuan Ze University
+Author{4}{Firstname}#=%=#Jin
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#wangjin@ynu.edu.cn
+Author{4}{Affiliation}#=%=#Yunnan University
+Author{5}{Firstname}#=%=#Yunchao
+Author{5}{Lastname}#=%=#He
+Author{5}{Email}#=%=#yunchaohe@gmail.com
+Author{5}{Affiliation}#=%=#Yunnan University
+Author{6}{Firstname}#=%=#Jun
+Author{6}{Lastname}#=%=#Hu
+Author{6}{Email}#=%=#jx_hujun@163.com
+Author{6}{Affiliation}#=%=#Nanchang University
+Author{7}{Firstname}#=%=#K. Robert
+Author{7}{Lastname}#=%=#Lai
+Author{7}{Email}#=%=#krlai@saturn.yzu.edu.tw
+Author{7}{Affiliation}#=%=#Yuan Ze University
+Author{8}{Firstname}#=%=#Xuejie
+Author{8}{Lastname}#=%=#Zhang
+Author{8}{Email}#=%=#xjzhang@ynu.edu.cn
+Author{8}{Affiliation}#=%=#Yunnan University
+
+==========

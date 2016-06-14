@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#416
+FinalPaperTitle#=%=#GTI at SemEval-2016 Task 5: SVM and CRF for Aspect Detection and Unsupervised Aspect-Based Sentiment Analysis
+ShortPaperTitle#=%=#GTI: SVM and CRF for Aspect Detection and Unsupervised Aspect-Based Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milagros Fernández-Gavilanes
+JobTitle#==#
+Organization#==#AtlantTIC Centre - University of Vigo
+Escuela de Ingeniería de Telecomunicación
+Campus Universitario
+36310 Vigo - Spain
+Abstract#==#This paper describes in detail the approach carried out by the GTI research
+group for SemEval 2016 Task 5: Aspect-Based Sentiment Analysis, for the
+different subtasks proposed, as well as languages and dataset contexts. In
+particular, we developed a system for category detection based on SVM, for
+opinion target detection based on CRFs, for restaurants domain in English and
+Spanish languages, and for aspect-based sentiment analysis, with an
+unsupervised approach based on lexicons and syntactic dependencies, in English
+language for laptops and restaurants domains.
+Author{1}{Firstname}#=%=#Tamara
+Author{1}{Lastname}#=%=#Álvarez-López
+Author{1}{Email}#=%=#talvarez@gti.uvigo.es
+Author{1}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Juncal-Martínez
+Author{2}{Email}#=%=#jonijm@gti.uvigo.es
+Author{2}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{3}{Firstname}#=%=#Milagros
+Author{3}{Lastname}#=%=#Fernández-Gavilanes
+Author{3}{Email}#=%=#milagros.fernandez@gti.uvigo.es
+Author{3}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{4}{Firstname}#=%=#Enrique
+Author{4}{Lastname}#=%=#Costa-Montenegro
+Author{4}{Email}#=%=#kike@gti.uvigo.es
+Author{4}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{5}{Firstname}#=%=#Francisco Javier
+Author{5}{Lastname}#=%=#González-Castaño
+Author{5}{Email}#=%=#javier@det.uvigo.es
+Author{5}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+
+==========

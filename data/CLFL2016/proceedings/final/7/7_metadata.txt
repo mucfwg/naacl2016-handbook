@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Gender-Distinguishing Features in Film Dialogue
+ShortPaperTitle#=%=#Gender-Distinguishing Features in Film Dialogue
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alexandra Schofield
+JobTitle#==#
+Organization#==#Cornell University
+Ithaca, NY 14853
+Abstract#==#Film scripts provide a means of examining generalized western social
+perceptions of accepted human behavior. In particular, we focus on how
+dialogue in films describes gender, identifying linguistic and structural
+differences in speech for men and women and in same and different-gendered
+pairs. Using the Cornell Movie-Dialogs Corpus, we identify significant
+linguistic and structural features of dialogue that differentiate genders in
+conversation and analyze how those effects relate to existing literature on
+gender in film.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Schofield
+Author{1}{Email}#=%=#xanda@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Leo
+Author{2}{Lastname}#=%=#Mehr
+Author{2}{Email}#=%=#ljm262@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

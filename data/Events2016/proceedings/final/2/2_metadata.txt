@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Annotation of causal and aspectual structure of events in RED: a preliminary report
+ShortPaperTitle#=%=#Annotation of causal and aspectual structure of events in RED: a preliminary report
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#William Croft
+JobTitle#==#
+Organization#==#University of New Mexico
+MSC03 2130 Linguistics
+Albuquerque NM 87131-0001
+USA
+Abstract#==#Causal and temporal relations among events
+are typically analyzed in terms of interclausal
+relations. Yet participants in a monoclausal
+event interact causally as well, and monoclausal
+events unfold in temporal phases. We
+propose an annotation scheme for the resulting
+analysis of event structure types. The annotation
+scheme is based on a fine-grained analysis
+of aspectual structure combined with a
+novel analysis of physical event types based
+on proposals in the theoretical linguistics literature.
+By decomposing complex events in
+a clause, we will ultimately model the overall
+dynamic causal network of entities interacting
+over time described in a text.
+Author{1}{Firstname}#=%=#William
+Author{1}{Lastname}#=%=#Croft
+Author{1}{Email}#=%=#wcroft@unm.edu
+Author{1}{Affiliation}#=%=#University of New Mexico
+Author{2}{Firstname}#=%=#Pavlina
+Author{2}{Lastname}#=%=#Peskova
+Author{2}{Email}#=%=#pavlinap@unm.edu
+Author{2}{Affiliation}#=%=#University of New Mexico
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Regan
+Author{3}{Email}#=%=#reganman@unm.edu
+Author{3}{Affiliation}#=%=#University of New Mexico
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#524
+FinalPaperTitle#=%=#SimiHawk at SemEval-2016 Task 1: A Deep Ensemble System for Semantic Textual Similarity
+ShortPaperTitle#=%=#SimiHawk at SemEval-2016 Task 1: A Deep Ensemble System for Semantic Textual Similarity
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Peter Potash
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the SimiHawk system submission from UMass Lowell for the
+core Semantic Textual Similarity task at SemEval-2016. We built four systems: a
+small feature-based system that leverages word alignment and machine
+translation quality evaluation metrics, two end-to-end LSTM-based systems, and
+an ensemble system. The LSTM-based systems used either a simple LSTM
+architecture or a Tree-LSTM structure. We found that of the three base systems,
+the feature-based model obtained the best results, outperforming each
+LSTM-based model's correlation by .06. Ultimately, the ensemble system was able
+to outperform it substantially, obtaining a weighted Pearson correlation of
+0.738, and placing 7th out of 115 participating systems. We find that the
+ensemble system's success comes largely from its ability to form a consensus
+and eliminate complementary noise from its base systems' predictions.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Potash
+Author{1}{Email}#=%=#ppotash@cs.uml.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Lowell
+Author{2}{Firstname}#=%=#William
+Author{2}{Lastname}#=%=#Boag
+Author{2}{Email}#=%=#william_boag@student.uml.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts, Lowell
+Author{3}{Firstname}#=%=#Alexey
+Author{3}{Lastname}#=%=#Romanov
+Author{3}{Email}#=%=#jgc128@outlook.com
+Author{3}{Affiliation}#=%=#UMass Lowell
+Author{4}{Firstname}#=%=#Vasili
+Author{4}{Lastname}#=%=#Ramanishka
+Author{4}{Email}#=%=#vramanis@cs.uml.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts Lowell
+Author{5}{Firstname}#=%=#Anna
+Author{5}{Lastname}#=%=#Rumshisky
+Author{5}{Email}#=%=#arum@cs.uml.edu
+Author{5}{Affiliation}#=%=#University of Massachusetts Lowell
+
+==========

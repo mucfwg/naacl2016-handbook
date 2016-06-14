@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#500
+FinalPaperTitle#=%=#SemEval-2016 Task 2: Interpretable Semantic Textual Similarity
+ShortPaperTitle#=%=#SemEval-2016 Task 2: Interpretable Semantic Textual Similarity
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#eneko
+JobTitle#==#
+Organization#==#University of the Basque Country
+Manual Lardizabal, 1
+20018 - Donostia
+Abstract#==#The final goal of Interpretable Semantic Textual Similarity (iSTS) is to build
+systems that explain which are the differences and commonalities between two
+sentences. The task adds an explanatory level on top of STS, formalized as an
+alignment between the chunks in the two input sentences, indicating the
+relation and similarity score of each alignment. The task provides train and
+test data on three datasets: news headlines, image captions and student
+answers. It attracted nine teams, totaling 20 runs. All datasets and the
+annotation guideline are freely available.
+Author{1}{Firstname}#=%=#Eneko
+Author{1}{Lastname}#=%=#Agirre
+Author{1}{Email}#=%=#e.agirre@ehu.eus
+Author{1}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{2}{Firstname}#=%=#Aitor
+Author{2}{Lastname}#=%=#Gonzalez-Agirre
+Author{2}{Email}#=%=#aitor.gonzalezagirre@gmail.com
+Author{2}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{3}{Firstname}#=%=#Inigo
+Author{3}{Lastname}#=%=#Lopez-Gazpio
+Author{3}{Email}#=%=#inigo.lopez@ehu.es
+Author{3}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{4}{Firstname}#=%=#Montse
+Author{4}{Lastname}#=%=#Maritxalar
+Author{4}{Email}#=%=#montse.maritxalar@ehu.es
+Author{4}{Affiliation}#=%=#University of the Basque Country
+Author{5}{Firstname}#=%=#German
+Author{5}{Lastname}#=%=#Rigau
+Author{5}{Email}#=%=#german.rigau@ehu.es
+Author{5}{Affiliation}#=%=#UPV/EHU
+Author{6}{Firstname}#=%=#Larraitz
+Author{6}{Lastname}#=%=#Uria
+Author{6}{Email}#=%=#larraitz.uria@ehu.eus
+Author{6}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+
+==========

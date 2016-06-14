@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Enriching Wikidata with Frame Semantics
+ShortPaperTitle#=%=#Enriching Wikidata with Frame Semantics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hatem Mousselly Sergieh
+JobTitle#==#
+Organization#==#Technische Universität Darmstadt
+Department of Computer Science
+Ubiquitous Knowledge Processing Lab
+Hochschulstraße 10 
+64289 Darmstadt
+Germany
+Abstract#==#Wikidata is a large-scale, multilingual and freely available knowledge base. It
+contains more than 14 million facts, however, it is still missing linguistic
+information. In this paper, we aim to bridge this gap by aligning Wikidata with
+ FrameNet lexicon. We propose an approach based on word embedding to identify a
+mapping between Wikidata relations, called properties, and FrameNet frames and
+to annotate the arguments of each relation with the semantic roles of the
+matching frames. 
+Early empirical results show the advantage of our approach compared to other
+baseline methods.
+Author{1}{Firstname}#=%=#Hatem
+Author{1}{Lastname}#=%=#Mousselly Sergieh
+Author{1}{Email}#=%=#mousselly-sergieh@ukp.informatik.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technischen Universität Darmstadt
+Author{2}{Firstname}#=%=#Iryna
+Author{2}{Lastname}#=%=#Gurevych
+Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

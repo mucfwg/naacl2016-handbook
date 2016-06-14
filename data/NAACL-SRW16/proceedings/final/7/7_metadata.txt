@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Automatic tagging and retrieval of E-Commerce products based on visual features
+ShortPaperTitle#=%=#Automatic tagging and retrieval of E-Commerce products based on visual features
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Vasu Sharma
+JobTitle#==#
+Organization#==#Indian Institute of Technology, Kanpur
+Abstract#==#This paper describes an automatic tag assignment algorithm for various e
+commerce products where tag allotment is done solely based on the visual
+features in the image. It then builds a tag based product retrieval system
+using the allotted tags.
+The explosive growth of e-commerce products being sold online has made manual
+annotation infeasible. Without such tagging it is very hard for customers to
+search and find these products. Hence a scalable approach catering
+to a large number of product images and allocating meaningful tags is
+essential. This will also eliminate the need for the laborious process of
+manually tagging such products. It can be the basis of an efficient tag based
+product retrieval system.
+In this paper we propose one such approach based on feature extraction using
+Deep Convolutional Neural Networks to learn descriptive semantic features from
+product images. Then we use inverse distance weighted K-nearest neighbours
+classifiers together with several other multi-label classification approaches
+to assign appropriate tags to the images. We demonstrate the functioning of our
+algorithm for the Amazon product dataset for various categories of products
+like clothing and apparel, electronics, sports equipment etc.
+Author{1}{Firstname}#=%=#Vasu
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#sharma.vasu55@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Kanpur
+Author{2}{Firstname}#=%=#Harish
+Author{2}{Lastname}#=%=#Karnick
+Author{2}{Email}#=%=#hk@cse.iitk.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Kanpur
+
+==========

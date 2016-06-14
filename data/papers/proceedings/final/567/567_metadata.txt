@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#567
+FinalPaperTitle#=%=#Effective Crowd Annotation for Relation Extraction
+ShortPaperTitle#=%=#Effective Crowd Annotation for Relation Extraction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Angli Liu
+JobTitle#==#
+Organization#==#Computer Science and Engineering, University of Washington
+185 W Stevens Way NE, Seattle, WA 98195
+Abstract#==#Can crowdsourced annotation of training data boost performance for relation
+extraction over methods based solely on distant supervision?  While
+crowdsourcing has been shown effective for many NLP tasks, previous researchers
+found only minimal improvement when applying the method to relation extraction.
+ This paper demonstrates that a much larger boost is possible, e.g., raising F1
+from 0.40 to 0.60. Furthermore, the gains are due to a simple, generalizable
+technique, Gated Instruction, which combines an interactive tutorial, feedback
+to correct errors during training, and improved screening.
+Author{1}{Firstname}#=%=#Angli
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#anglil@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Soderland
+Author{2}{Email}#=%=#soderlan@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Bragg
+Author{3}{Email}#=%=#jbragg@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Christopher H.
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Email}#=%=#chrislin@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Xiao
+Author{5}{Lastname}#=%=#Ling
+Author{5}{Email}#=%=#xiaoling@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+Author{6}{Firstname}#=%=#Daniel S.
+Author{6}{Lastname}#=%=#Weld
+Author{6}{Email}#=%=#weld@cs.washington.edu
+Author{6}{Affiliation}#=%=#University of Washington
+
+==========

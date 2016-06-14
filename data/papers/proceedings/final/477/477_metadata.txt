@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#477
+FinalPaperTitle#=%=#Expected F-Measure Training for Shift-Reduce Parsing with Recurrent Neural Networks
+ShortPaperTitle#=%=#Expected F-Measure Training for Shift-Reduce Parsing with Recurrent Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenduan Xu
+JobTitle#==#
+Organization#==#Computer Lab, Cambridge University, UK
+Abstract#==#We present expected F-measure training for
+shift-reduce parsing with RNNs, which enables
+the learning of a global parsing model
+optimized for sentence-level F1. We apply
+the model to CCG parsing, where it improves
+over a strong greedy RNN baseline, by 1.47%
+F1, yielding state-of-the-art results for shift-reduce
+CCG parsing.
+Author{1}{Firstname}#=%=#Wenduan
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#xuwenduan@gmail.com
+Author{1}{Affiliation}#=%=#Cambridge University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Auli
+Author{2}{Email}#=%=#michael.auli@gmail.com
+Author{2}{Affiliation}#=%=#Facebook AI Research
+Author{3}{Firstname}#=%=#Stephen
+Author{3}{Lastname}#=%=#Clark
+Author{3}{Email}#=%=#sc609@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

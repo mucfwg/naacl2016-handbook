@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#632
+FinalPaperTitle#=%=#Automatically Inferring Implicit Properties in Similes
+ShortPaperTitle#=%=#Automatically Inferring Implicit Properties in Similes
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ashequl Qadir
+JobTitle#==#
+Organization#==#School of Computing
+University of Utah
+Salt Lake City, UT 84112, USA
+Abstract#==#A simile is a figure of speech comparing two
+fundamentally different things. Sometimes, a
+simile will explain the basis of a comparison
+by explicitly mentioning a shared property.
+For example, “my room is as cold as Antarctica”
+gives “cold” as the property shared by
+the room and Antarctica. But most similes do
+not give an explicit property (e.g., “my room
+feels like Antarctica”) leaving the reader to infer
+that the room is cold. We tackle the problem
+of automatically inferring implicit properties
+evoked by similes. Our approach involves
+three steps: (1) generating candidate
+properties from different sources, (2) evaluating
+properties based on the influence of multiple
+simile components, and (3) aggregated
+ranking of the properties. We also present an
+analysis showing that the difficulty of inferring
+an implicit property for a simile correlates
+with its interpretive diversity.
+Author{1}{Firstname}#=%=#Ashequl
+Author{1}{Lastname}#=%=#Qadir
+Author{1}{Email}#=%=#asheq@cs.utah.edu
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Ellen
+Author{2}{Lastname}#=%=#Riloff
+Author{2}{Email}#=%=#riloff@cs.utah.edu
+Author{2}{Affiliation}#=%=#University of Utah
+Author{3}{Firstname}#=%=#Marilyn A.
+Author{3}{Lastname}#=%=#Walker
+Author{3}{Email}#=%=#maw@soe.ucsc.edu
+Author{3}{Affiliation}#=%=#University of California Santa Cruz
+
+==========

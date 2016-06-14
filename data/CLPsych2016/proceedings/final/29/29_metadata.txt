@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Combining Multiple Classifiers Using Global Ranking for ReachOut.com Post Triage
+ShortPaperTitle#=%=#Combining Multiple Classifiers Using Global Ranking for ReachOut.com Post Triage
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Hong-Jie Dai
+JobTitle#==#Assistant Professor
+Organization#==#National Taitung University
+369, Sec. 2, University Rd., Taitung, Taiwan, R.O.C.
+Abstract#==#In this paper, we present our methods for the 2016 CLPPsych shared task. We
+extracted and selected eight features from the corpus consisting of posts from
+ReachOut.com including the information of the post’s source board, numbers of
+kudos and views, post time, ranks of the authors, unigram of the body and
+subject, frequency of the used emotion icons, and the topic model features. Two
+support vector machine models were trained with the extracted features. A
+baseline system was also developed, which uses the calculated log likelihood
+ratio (LLR) for each token to rank a post. Finally, the prediction results of
+the above three systems were integrated by using a global ranking algorithm
+with the weighted Borda-fuse (WBF) model and the linear combination model. The
+best F-score achieved by our systems is 0.3 which is based on the global
+ranking method with WBF.
+Author{1}{Firstname}#=%=#Chen-Kai
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xd150612@gmail.com
+Author{1}{Affiliation}#=%=#Department of Computer Science and Information Engineering, National Taitung University, Taitung, Taiwan
+Author{2}{Firstname}#=%=#Hong-Jie
+Author{2}{Lastname}#=%=#Dai
+Author{2}{Email}#=%=#hjdai@tmu.edu.tw
+Author{2}{Affiliation}#=%=#Taipei Medical University
+Author{3}{Firstname}#=%=#Chih-Wei
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#cwchen123@gmail.com
+Author{3}{Affiliation}#=%=#Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taiwan
+Author{4}{Firstname}#=%=#Jitendra
+Author{4}{Lastname}#=%=#Jonnagaddala
+Author{4}{Email}#=%=#jitendra.jonnagaddala@unsw.edu.au
+Author{4}{Affiliation}#=%=#School of Public Health and Community Medicine, University of New South Wales, Sydney, Australia
+Author{5}{Firstname}#=%=#Nai-Wen
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Email}#=%=#naiwun@gmail.com
+Author{5}{Affiliation}#=%=#Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taipei, Taiwan
+
+==========

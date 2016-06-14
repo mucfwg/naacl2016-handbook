@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#366
+FinalPaperTitle#=%=#Multilingual Relation Extraction using Compositional Universal Schema
+ShortPaperTitle#=%=#Multilingual Relation Extraction using Compositional Universal Schema
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Patrick Verga
+JobTitle#==#Graduate Student
+Organization#==#Patrick Verga
+155 Lincoln Ave Apt A
+Amherst MA 01002
+Abstract#==#Universal schema builds a knowledge base (KB) of entities and relations by
+jointly embedding all relation types from input KBs as well as textual patterns
+observed in raw text. In most previous applications of universal schema, each
+textual pattern is represented as a single embedding, preventing generalization
+to unseen patterns. Recent work employs a neural network to capture patterns’
+compositional semantics, providing generalization to all possible input text.
+In response, this paper introduces significant further improvements to the
+coverage and flexibility of universal schema relation extraction: predictions
+for entities unseen in training and multilingual transfer learning to domains
+with no annotation. We evaluate our model through extensive experiments on the
+English and Spanish TAC KBP benchmark, outperforming the top system from TAC
+2013 slot-filling using no handwritten patterns or additional annotation. We
+also consider a multilingual setting in which English training data entities
+overlap with the seed KB, but Spanish text does not. Despite having no
+annotation for Spanish data, we train an accurate predictor, with additional
+improvements obtained by tying word embeddings across languages. Furthermore,
+we find that multilingual training improves English relation extraction
+accuracy. Our approach is thus suited to broad-coverage automated knowledge
+base construction in a variety of languages and domains.
+Author{1}{Firstname}#=%=#Patrick
+Author{1}{Lastname}#=%=#Verga
+Author{1}{Email}#=%=#pat@cs.umass.edu
+Author{1}{Affiliation}#=%=#UMass Amherst
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Belanger
+Author{2}{Email}#=%=#david.b.belanger@gmail.com
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Emma
+Author{3}{Lastname}#=%=#Strubell
+Author{3}{Email}#=%=#strubell@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Email}#=%=#beroth@cs.umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{5}{Firstname}#=%=#Andrew
+Author{5}{Lastname}#=%=#McCallum
+Author{5}{Email}#=%=#mccallum@cs.umass.edu
+Author{5}{Affiliation}#=%=#UMass Amherst
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#157
+FinalPaperTitle#=%=#Entity-balanced Gaussian pLSA for Automated Comparison
+ShortPaperTitle#=%=#Entity-balanced Gaussian pLSA for Automated Comparison
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Danish Contractor
+JobTitle#==#
+Organization#==#
+Abstract#==#Community created content (e.g., product descriptions, reviews) typically
+discusses one entity at a time and it can be hard as well as time consuming for
+a user to compare two or more entities. In response, we define a novel task of
+automatically generating entity  comparisons from text. Our output is a table
+that semantically clusters descriptive phrases about entities. Our clustering
+algorithm is a Gaussian extension of probabilistic latent semantic analysis
+(pLSA), in which each phrase is represented in word vector embedding space. In
+addition, our algorithm attempts to balance information about entities in each
+cluster to generate meaningful comparison tables, where possible. We test our
+system’s effectiveness on two domains, travel articles and movie reviews, and
+find that entity-balanced clusters are strongly preferred by users.
+Author{1}{Firstname}#=%=#Danish
+Author{1}{Lastname}#=%=#Contractor
+Author{1}{Email}#=%=#dcontrac@in.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research & Indian Institute of Technology, New Delhi
+Author{2}{Firstname}#=%=#Parag
+Author{2}{Lastname}#=%=#Singla
+Author{2}{Email}#=%=#parags@cse.iitd.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, New Delhi
+Author{3}{Firstname}#=%=#
+Author{3}{Lastname}#=%=#Mausam
+Author{3}{Email}#=%=#mausam@cs.washington.edu
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Delhi
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#463
+FinalPaperTitle#=%=#JUNITMZ: Identifying Semantic Similarity Using Levenshtein Ratio
+ShortPaperTitle#=%=#JUNITMZ: Identifying Semantic Similarity Using Levenshtein Ratio
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#SANDIP SARKAR
+JobTitle#==#
+Organization#==#JADAVPUR UNIVERSITY 
+KOLKATA-75
+STATE-WEST BENGAL
+INDIA
+Abstract#==#We use METEOR for our task. We also use Levenshtein Ratio and unigram matching
+without stop-word to find the semantic similarity of two sentences.
+Author{1}{Firstname}#=%=#Sandip
+Author{1}{Lastname}#=%=#Sarkar
+Author{1}{Email}#=%=#sandipsarkar.ju@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Dipankar
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Partha
+Author{3}{Lastname}#=%=#Pakray
+Author{3}{Email}#=%=#parthapakray@gmail.com
+Author{3}{Affiliation}#=%=#NIT MIZORAM
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Gelbukh
+Author{4}{Email}#=%=#gelbukh@gelbukh.com
+Author{4}{Affiliation}#=%=#Instituto Politécnico Nacional, Mexico
+
+==========

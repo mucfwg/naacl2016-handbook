@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#SODA:Service Oriented Domain Adaptation Architecture for Microblog Categorization
+ShortPaperTitle#=%=#SODA:Service Oriented Domain Adaptation Architecture for Microblog Categorization
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Himanshu
+JobTitle#==#Research Scientist
+Organization#==#Xerox Research Center India, Bemgaluru, INDIA
+Abstract#==#We demonstrate SODA (Service Oriented Domain Adaptation) for efficient and
+scalable cross-domain microblog categorization which works on the principle of
+transfer learning. It is developed on a novel similarity-based iterative domain
+adaptation algorithm while extended with features such as active learning and
+interactive GUI to be used by business professionals. SODA demonstrates
+efficient classification accuracy on new collections while minimizing and
+sometimes eliminating the need for expensive data labeling efforts. SODA also
+implements an active learning (AL) technique to select informative instances
+from the new collection to seek annotations, if a small amount of labeled data
+is required by the adaptation algorithm.
+Author{1}{Firstname}#=%=#Himanshu Sharad
+Author{1}{Lastname}#=%=#Bhatt
+Author{1}{Email}#=%=#himanshu.bhatt@xerox.com
+Author{1}{Affiliation}#=%=#Xerox Research Center India
+Author{2}{Firstname}#=%=#Sandipan
+Author{2}{Lastname}#=%=#Dandapat
+Author{2}{Email}#=%=#sandipan.dandapat@xerox.com
+Author{2}{Affiliation}#=%=#Xerox Research Centre India
+Author{3}{Firstname}#=%=#Peddamuthu
+Author{3}{Lastname}#=%=#Balaji
+Author{3}{Email}#=%=#balaji.peddamuthu2@xerox.com
+Author{3}{Affiliation}#=%=#Xerox Research Centre India
+Author{4}{Firstname}#=%=#Shourya
+Author{4}{Lastname}#=%=#Roy
+Author{4}{Email}#=%=#shourya.roy@xerox.com
+Author{4}{Affiliation}#=%=#Xerox
+Author{5}{Firstname}#=%=#Sharmistha
+Author{5}{Lastname}#=%=#Jat
+Author{5}{Email}#=%=#sharmistha.jat@gmail.com
+Author{5}{Affiliation}#=%=#Indian Institute of Science, Bangalore
+Author{6}{Firstname}#=%=#Deepali
+Author{6}{Lastname}#=%=#Semwal
+Author{6}{Email}#=%=#semwaldeepali@gmail.com
+Author{6}{Affiliation}#=%=#
+
+==========

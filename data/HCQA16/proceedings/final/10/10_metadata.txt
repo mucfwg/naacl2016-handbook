@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#"A Distorted Skull Lies in the Bottom Center..." Identifying Paintings from Text Descriptions
+ShortPaperTitle#=%=#"A Distorted Skull Lies in the Bottom Center..." Identifying Paintings from Text Descriptions
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Anupam Guha
+JobTitle#==#
+Organization#==#University of Maryland, College Park
+Department of Computer Science
+Abstract#==#Most question answering systems use symbolic or text information. We present a
+dataset for a task that requires understanding descriptions of visual themes
+and their layout: identifying paintings from their descriptions. We annotate
+paintings with contour data, align regions with entity mentions from an
+ontology, and associate image regions with text spans from descriptions. A
+simple embedding-based method applied to text-to-image coreferences achieves
+state-of-the-art results on our task when paired with bipartite matching. The
+task is made all the more difficult by scarcity of training data.
+Author{1}{Firstname}#=%=#Anupam
+Author{1}{Lastname}#=%=#Guha
+Author{1}{Email}#=%=#aguha@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Iyyer
+Author{2}{Email}#=%=#m.iyyer@gmail.com
+Author{2}{Affiliation}#=%=#University of Maryland, College Park
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Email}#=%=#jordan.boyd.graber@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado
+
+==========

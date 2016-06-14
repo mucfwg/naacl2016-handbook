@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#529
+FinalPaperTitle#=%=#SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings
+ShortPaperTitle#=%=#SemanticZ at SemEval-2016 Task 3:Ranking Relevant Answers in Community Question Answering
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Preslav Nakov
+JobTitle#==#Senior Scientist
+Organization#==#QCRI, HBKU
+Abstract#==#We describe our system for finding good answers in a community forum, as
+defined in SemEval-2016, Task 3 on Community Question Answering. Our approach
+relies on several semantic similarity features based on fine-tuned word
+embeddings and topics similarities. In the main Subtask C, our primary
+submission was ranked third, with a MAP of 51.68 and accuracy of 69.94. In
+Subtask A, our primary submission was also third, with MAP of 77.58 and
+accuracy of 73.39.
+Author{1}{Firstname}#=%=#Todor
+Author{1}{Lastname}#=%=#Mihaylov
+Author{1}{Email}#=%=#tbmihailov@gmail.com
+Author{1}{Affiliation}#=%=#Sofia University
+Author{2}{Firstname}#=%=#Preslav
+Author{2}{Lastname}#=%=#Nakov
+Author{2}{Email}#=%=#preslav.nakov@gmail.com
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+
+==========

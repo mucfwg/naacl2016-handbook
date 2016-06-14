@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#IKE - An Interactive Tool for Knowledge Extraction
+ShortPaperTitle#=%=#IKE - An Interactive Tool for Knowledge Extraction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Bhavana Dalvi
+JobTitle#==#
+Organization#==#Allen Institute for Artificial Intelligence
+Abstract#==#Recent work on information extraction has suggested that fast, interactive
+tools can be highly effective; however, creating a usable system is
+challenging, and few publically available tools exist. In this paper we present
+IKE, a new extraction tool that performs fast, interactive bootstrapping to
+develop high-quality extraction patterns for targeted relations. Central to IKE
+is the notion that an extraction pattern can be treated as a search query over
+a corpus. To operationalize this, IKE uses a novel query language that is
+expressive, easy to understand, and fast to execute - essential requirements
+for a practical system. It is also the first interactive extraction tool to
+seamlessly integrate symbolic (boolean) and distributional (similarity-based)
+methods for search. An initial evaluation suggests that relation tables can be
+populated substantially faster than by manual pattern
+authoring while retaining accuracy, and more reliably than fully automated
+tools, an important
+step towards practical KB construction. We are making IKE publicly available
+(http://allenai.org/software/interactive-knowledge-extraction).
+Author{1}{Firstname}#=%=#Bhavana
+Author{1}{Lastname}#=%=#Dalvi
+Author{1}{Email}#=%=#bhavanad@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#Sumithra
+Author{2}{Lastname}#=%=#Bhakthavatsalam
+Author{2}{Email}#=%=#sumithrab@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Clark
+Author{3}{Email}#=%=#csquared@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Clark
+Author{4}{Email}#=%=#peterc@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Oren
+Author{5}{Lastname}#=%=#Etzioni
+Author{5}{Email}#=%=#orene@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{6}{Firstname}#=%=#Anthony
+Author{6}{Lastname}#=%=#Fader
+Author{6}{Email}#=%=#afader@gmail.com
+Author{6}{Affiliation}#=%=#N/A
+Author{7}{Firstname}#=%=#Dirk
+Author{7}{Lastname}#=%=#Groeneveld
+Author{7}{Email}#=%=#dirkg@allenai.org
+Author{7}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+
+==========

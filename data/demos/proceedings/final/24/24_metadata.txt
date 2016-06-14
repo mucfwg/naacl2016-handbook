@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Scaling Up Word Clustering
+ShortPaperTitle#=%=#Scaling Up Word Clustering
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jon Dehdari
+JobTitle#==#
+Organization#==#DFKI
+Saarbrücken, Germany
+Abstract#==#Word clusters improve performance in many NLP tasks including training neural
+network language models, but current increases in datasets are outpacing the
+ability of word clusterers to handle them. In this paper we present a novel
+bidirectional, interpolated, refining, and alternating (BIRA) predictive
+exchange algorithm and introduce ClusterCat, a clusterer based on this
+algorithm. We show that ClusterCat is 3-85 times faster than four other
+well-known clusterers, while also improving upon the predictive exchange
+algorithm's perplexity by up to 18%. Notably, ClusterCat clusters a 2.5 billion
+token English News Crawl corpus in 3 hours. We also evaluate in a machine
+translation setting, resulting in shorter training times achieving the same
+translation quality measured in BLEU scores. ClusterCat is portable and freely
+available.
+Author{1}{Firstname}#=%=#Jon
+Author{1}{Lastname}#=%=#Dehdari
+Author{1}{Email}#=%=#jon@dehdari.org
+Author{1}{Affiliation}#=%=#DFKI & Uni Saarland
+Author{2}{Firstname}#=%=#Liling
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#alvations@gmail.com
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#van Genabith
+Author{3}{Email}#=%=#josef.van_genabith@dfki.de
+Author{3}{Affiliation}#=%=#DFKI
+
+==========

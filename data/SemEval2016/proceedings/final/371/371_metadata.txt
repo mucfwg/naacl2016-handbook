@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#371
+FinalPaperTitle#=%=#CLaC at SemEval-2016 Task 11: Exploring linguistic and psycho-linguistic Features for Complex Word Identification
+ShortPaperTitle#=%=#Exploring linguistic and psycho-linguistic Features for Complex Word Identification
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Elnaz Davoodi
+JobTitle#==#
+Organization#==#Concordia University
+Montreal, Quebec, Canada H3G 2W1
+Abstract#==#This paper describes the system deployed by the CLaC-EDLK team to the SemEval
+2016, Complex Word Identification task. The goal is to identify if a given word
+in a given context is simple or complex. Our system relies on linguistic
+features and cognitive complexity. We used several supervised models; however
+the Random Forest model outperformed the others. Overall we achieved a
+performance of 68.8% in the task, ranking us 21 out of 45 systems.
+Author{1}{Firstname}#=%=#Elnaz
+Author{1}{Lastname}#=%=#Davoodi
+Author{1}{Email}#=%=#e_davoo@cse.concordia.ca
+Author{1}{Affiliation}#=%=#Concordia University
+Author{2}{Firstname}#=%=#Leila
+Author{2}{Lastname}#=%=#Kosseim
+Author{2}{Email}#=%=#kosseim@cs.concordia.ca
+Author{2}{Affiliation}#=%=#Concordia University
+
+==========

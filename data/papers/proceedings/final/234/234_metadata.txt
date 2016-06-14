@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#234
+FinalPaperTitle#=%=#Interpretese vs. Translationese: The Uniqueness of Human Strategies in Simultaneous Interpretation
+ShortPaperTitle#=%=#Interpretese vs. Translationese: The Uniqueness of Human Strategies in Simultaneous Interpretation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#He He
+JobTitle#==#
+Organization#==#University of Maryland, College Park, MD 20740, USA
+Abstract#==#Computational approaches to simultaneous interpretation are held back by how
+little we know about the tactics human interpreters use. We produce a parallel
+corpus of translated and simultaneously interpreted text and study differences
+between them through a computational approach. Our analysis reveals that human
+interpreters regularly apply several effective tactics to reduce translation
+latency, including sentence segmentation and passivization. In addition to
+these unique, clever strategies, we show that limited human memory also causes
+other idiosyncratic properties of human interpretation such as generalization
+and omission of source content.
+Author{1}{Firstname}#=%=#He
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#hhe@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
+Author{2}{Firstname}#=%=#Jordan
+Author{2}{Lastname}#=%=#Boyd-Graber
+Author{2}{Email}#=%=#jordan.boyd.graber@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado
+Author{3}{Firstname}#=%=#Hal
+Author{3}{Lastname}#=%=#Daumé III
+Author{3}{Email}#=%=#me@hal3.name
+Author{3}{Affiliation}#=%=#UMD
+
+==========

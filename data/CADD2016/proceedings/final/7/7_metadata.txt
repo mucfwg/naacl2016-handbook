@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Individual Differences in Strategic Deception
+ShortPaperTitle#=%=#Individual Differences in Strategic Deception
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Darren S Appling
+JobTitle#==#
+Organization#==#Georgia Tech Research Institute
+250 14th Street NW
+Atlanta, GA 30332
+Abstract#==#While text-based deception in computer mediated communication has been studied,
+e.g., Zhou (2005) and Duran et al. (2010), there has been less focus on the
+differentiation of strategies for deception, especially those which may
+manifest in  modern communication, such as found in social media. In this
+paper, we extend our previous work on the evaluation of linguistic indicators
+to strategic deception (Appling et al., 2015), by evaluating the relationship
+between personality and deceptive strategy use and the utilization of
+linguistic features for inferring both (personality and deception). We find
+that even with a relatively small corpus, there is evidence that personality is
+related to particular deception strategies, though in short social media
+communications, these personality traits are difficult to infer using standard
+linguistic measures (e.g., LIWC). We also describe the corpus we collected from
+an experiment in which subjects engaged in deception through a social media
+platform.
+Author{1}{Firstname}#=%=#Scott
+Author{1}{Lastname}#=%=#Appling
+Author{1}{Email}#=%=#scott.appling@gtri.gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Erica
+Author{2}{Lastname}#=%=#Briscoe
+Author{2}{Email}#=%=#erica.briscoe@gtri.gateh.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

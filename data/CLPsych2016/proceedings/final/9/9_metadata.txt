@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#The language of mental health problems in social media
+ShortPaperTitle#=%=#The language of mental health problems in social media
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anika Oellrich
+JobTitle#==#
+Organization#==#King's College London, London, UK
+Abstract#==#Online social media, such as Reddit, has become an important resource to share
+personal experiences and communicate with others. Among other personal
+information, some social media users communicate about mental health problems
+they are experiencing, with the intention of getting advice, support or empathy
+from other users. Here, we investigate the language of Reddit posts specific to
+mental health, to define linguistic characteristics that could be helpful for
+further applications. The latter include attempting to identify posts that need
+urgent attention due to their nature, e.g. when someone announces their
+intentions of ending their life by suicide or harming others. Our results show
+that there are a variety of linguistic features that are discriminative across
+mental health user communities and that can be further exploited in subsequent
+classification tasks. Furthermore, while negative sentiment is almost uniformly
+expressed across the entire data set, we demonstrate that there are also
+condition-specific vocabularies used in social media to communicate about
+particular disorders. Source code and related materials are available from:
+\url{https://github.com/gkotsis/reddit-mental-health}.
+Author{1}{Firstname}#=%=#George
+Author{1}{Lastname}#=%=#Gkotsis
+Author{1}{Email}#=%=#gkotsis@gmail.com
+Author{1}{Affiliation}#=%=#King's College London
+Author{2}{Firstname}#=%=#Anika
+Author{2}{Lastname}#=%=#Oellrich
+Author{2}{Email}#=%=#anika.oellrich@kcl.ac.uk
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Tim
+Author{3}{Lastname}#=%=#Hubbard
+Author{3}{Email}#=%=#tim.hubbard@kcl.ac.uk
+Author{3}{Affiliation}#=%=#King's College London
+Author{4}{Firstname}#=%=#Richard
+Author{4}{Lastname}#=%=#Dobson
+Author{4}{Email}#=%=#richard.j.dobson@kcl.ac.uk
+Author{4}{Affiliation}#=%=#King's College London
+Author{5}{Firstname}#=%=#Maria
+Author{5}{Lastname}#=%=#Liakata
+Author{5}{Email}#=%=#m.liakata@warwick.ac.uk
+Author{5}{Affiliation}#=%=#University of Warwick
+Author{6}{Firstname}#=%=#Sumithra
+Author{6}{Lastname}#=%=#Velupillai
+Author{6}{Email}#=%=#sumithra@kth.se
+Author{6}{Affiliation}#=%=#School of Computer Science and Communication, KTH, Stockholm
+Author{7}{Firstname}#=%=#Rina
+Author{7}{Lastname}#=%=#Dutta
+Author{7}{Email}#=%=#rina.2.dutta@kcl.ac.uk
+Author{7}{Affiliation}#=%=#King's College London
+
+==========

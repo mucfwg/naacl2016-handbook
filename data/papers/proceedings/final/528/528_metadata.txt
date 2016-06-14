@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#528
+FinalPaperTitle#=%=#Black Holes and White Rabbits: Metaphor Identification with Visual Features
+ShortPaperTitle#=%=#Black Holes and White Rabbits: Metaphor Identification with Visual Features
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ekaterina Shutova
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#Metaphor is pervasive in our communication, which makes it an important problem
+for natural language processing (NLP). Numerous approaches to metaphor
+processing have thus been proposed, all of which relied on linguistic features
+and textual data to construct their models. Human metaphor comprehension is,
+however, known to rely on both our linguistic and perceptual experience, and
+vision can play a particularly important role when metaphorically projecting
+imagery across domains. In this paper, we present the first metaphor
+identification method that simultaneously draws knowledge from linguistic and
+visual data. Our results demonstrate that it outperforms linguistic and visual
+models in isolation, as well as being competitive with the best-performing
+metaphor identification methods, that rely on hand-crafted knowledge about
+domains and perception.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Shutova
+Author{1}{Email}#=%=#es407@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Douwe
+Author{2}{Lastname}#=%=#Kiela
+Author{2}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge Computer Laboratory
+Author{3}{Firstname}#=%=#Jean
+Author{3}{Lastname}#=%=#Maillard
+Author{3}{Email}#=%=#jean@maillard.it
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

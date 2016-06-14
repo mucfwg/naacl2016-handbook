@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#356
+FinalPaperTitle#=%=#Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best–Worst Scaling
+ShortPaperTitle#=%=#Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best–Worst Scaling
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Access to word–sentiment associations is useful for many applications,
+including sentiment analysis, stance detection, and linguistic analysis.
+However, manually assigning fine-grained sentiment association scores to words
+has many challenges with respect to keeping annotations consistent. We apply
+the annotation technique of Best–Worst Scaling to obtain real-valued
+sentiment association scores for words and phrases in three different domains:
+general English, English Twitter, and Arabic Twitter. We show that on all three
+domains the ranking of words by sentiment remains remarkably consistent even
+when the annotation process is repeated with a different set of annotators. We
+also, for the first time, determine the minimum difference in sentiment
+association that is perceptible to native speakers of a language.
+Author{1}{Firstname}#=%=#Svetlana
+Author{1}{Lastname}#=%=#Kiritchenko
+Author{1}{Email}#=%=#svetlana.kiritchenko@nrc-cnrc.gc.ca
+Author{1}{Affiliation}#=%=#NRC
+Author{2}{Firstname}#=%=#Saif M.
+Author{2}{Lastname}#=%=#Mohammad
+Author{2}{Email}#=%=#uvgotsaif@gmail.com
+Author{2}{Affiliation}#=%=#National Research Council Canada
+
+==========

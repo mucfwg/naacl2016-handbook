@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#406
+FinalPaperTitle#=%=#GUIR at SemEval-2016 task 12: Temporal Information Processing for Clinical Narratives
+ShortPaperTitle#=%=#Temporal Information Processing for Clinical Narratives
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Arman Cohan
+JobTitle#==#
+Organization#==#Georgetown University, 3700 O St NW, Washington DC, 20057
+Abstract#==#Extraction and interpretation of temporal information from clinical text is
+essential for clinical practitioners and researchers. SemEval 2016 Task 12
+(Clinical TempEval) addressed this challenge using the THYME 1 corpus, a corpus
+of clinical narratives annotated with temporal information with TimeML 2
+guidelines. We developed and evaluated approaches for: extraction of temporal
+expressions (TIMEX3) and EVENTs; TIMEX3 and EVENT attributes; document-time
+relations; and narrative container relations. Our approach is based on
+supervised learning (CRF and logistic regression), utilizing various sets of
+syntactic, lexical and semantic features with addition of manually crafted
+rules. Our system demonstrated substantial improvements over the baselines in
+all the tasks.
+Author{1}{Firstname}#=%=#Arman
+Author{1}{Lastname}#=%=#Cohan
+Author{1}{Email}#=%=#arman@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Meurer
+Author{2}{Email}#=%=#kam346@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+Author{3}{Firstname}#=%=#Nazli
+Author{3}{Lastname}#=%=#Goharian
+Author{3}{Email}#=%=#nazli@ir.cs.georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+
+==========

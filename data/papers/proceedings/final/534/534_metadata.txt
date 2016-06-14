@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#534
+FinalPaperTitle#=%=#Inter-document Contextual Language model
+ShortPaperTitle#=%=#Inter-document Contextual Language model
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we examine the impact of employing contextual, structural
+information from a tree-structured document set to derive a language model. Our
+results show that this information significantly improves the accuracy of the
+resultant model.
+Author{1}{Firstname}#=%=#Quan Hung
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#quanthdhcn@gmail.com
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Ingrid
+Author{2}{Lastname}#=%=#Zukerman
+Author{2}{Email}#=%=#Ingrid.Zukerman@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

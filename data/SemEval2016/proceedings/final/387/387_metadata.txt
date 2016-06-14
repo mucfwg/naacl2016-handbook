@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#387
+FinalPaperTitle#=%=#FBK-HLT-NLP at SemEval-2016 Task 2: A Multitask, Deep Learning Approach for Interpretable Semantic Textual Similarity
+ShortPaperTitle#=%=#FBK-HLT-NLP at SemEval-2016 Task 2: A Multitask, Deep Learning Approach
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Simone Magnolini
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler,
+Via S. Croce, 77, 38122 Trento,Italy
+Abstract#==#We present the system developed at FBK for the SemEval 2016 Shared Task 2
+"Interpretable Semantic Textual Similarity" as well as the results of the
+submitted runs. We use a single  neural network classification model for
+predicting the alignment at chunk level,  the relation type of the alignment 
+and  the similarity scores. Our best run was ranked as first in one the
+subtracks (i.e. raw input data, Student Answers), among 12 runs submitted.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Magnolini
+Author{1}{Email}#=%=#magnolini@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler (FBK), University of Brescia
+Author{2}{Firstname}#=%=#Anna
+Author{2}{Lastname}#=%=#Feltracco
+Author{2}{Email}#=%=#feltracco@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{3}{Firstname}#=%=#Bernardo
+Author{3}{Lastname}#=%=#Magnini
+Author{3}{Email}#=%=#magnini@fbk.eu
+Author{3}{Affiliation}#=%=#FBK
+
+==========

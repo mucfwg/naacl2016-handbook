@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#428
+FinalPaperTitle#=%=#UTA DLNLP at SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation
+ShortPaperTitle#=%=#UTA DLNLP at SemEval-2016 Task 1: Semantic Textual Similarity
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Peng Li
+JobTitle#==#
+Organization#==#Computer Science and Engineering, University of Texas at Arlington 
+316 ERB Building, 500 UTA Blvd., Arlington, TX, 76019
+Abstract#==#In this paper, we report an implementation of neural network based approaches
+for semantic textual similarity prediction. We leverage multi-layer
+bidirectional LSTM to learn sentence representation. Then we construct matching
+features followed by Highway Multilayer Perceptron to make predictions. 
+Experimental results demonstrate that this approach can't get better results on
+standard evaluation datasets.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jerryli1981@gmail.com
+Author{1}{Affiliation}#=%=#University of Texas, Arlington
+Author{2}{Firstname}#=%=#Heng
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#heng@uta.edu
+Author{2}{Affiliation}#=%=#University of Texas, Arlington
+
+==========

@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#490
+FinalPaperTitle#=%=#UTHealth at SemEval-2016 Task 12: an End-to-End System for Temporal Information Extraction from Clinical Notes
+ShortPaperTitle#=%=#UTHealth at SemEval-2016 Task 12
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#HEE JIN LEE
+JobTitle#==#
+Organization#==#University of Texas  Health Science Center at Houston
+Abstract#==#The 2016 Clinical TempEval challenge addresses temporal information extraction
+from clinical notes. The challenge is composed of six sub-tasks, each of which
+is to identify: (1) event mention spans, (2) time expression spans, (3) event
+attributes, (4) time attributes, (5) events’ temporal relations to the
+document
+creation times (DocTimeRel), and (6) narrative container relations among events
+and times. In this article, we present an end-to-end system that addresses all
+six sub-tasks. Our system achieved the best performance for all six sub-tasks
+when plain texts were given as input. It also performed best for narrative
+container relation identification when gold standard event/time annotations
+were given.
+Author{1}{Firstname}#=%=#Hee-Jin
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#hee.jin.lee@uth.tmc.edu
+Author{1}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{2}{Firstname}#=%=#Hua
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#Hua.Xu@uth.tmc.edu
+Author{2}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{3}{Firstname}#=%=#Jingqi
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#Jingqi.Wang@uth.tmc.edu
+Author{3}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{4}{Firstname}#=%=#Yaoyun
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#Yaoyun.Zhang@uth.tmc.edu
+Author{4}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{5}{Firstname}#=%=#Sungrim
+Author{5}{Lastname}#=%=#Moon
+Author{5}{Email}#=%=#Sungrim.Moon@uth.tmc.edu
+Author{5}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{6}{Firstname}#=%=#Jun
+Author{6}{Lastname}#=%=#Xu
+Author{6}{Email}#=%=#Jun.Xu@uth.tmc.edu
+Author{6}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+Author{7}{Firstname}#=%=#Yonghui
+Author{7}{Lastname}#=%=#Wu
+Author{7}{Email}#=%=#Younghui.Wu@uth.tmc.edu
+Author{7}{Affiliation}#=%=#University of Texas Health Science Center at Houston
+
+==========

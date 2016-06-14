@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Estimating the amenibility of new domains for deception detection
+ShortPaperTitle#=%=#Testing new domains for deception research
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Eileen Fitzpatrick
+JobTitle#==#
+Organization#==#Montclair State University
+Montclair NJ 07043
+Abstract#==#In this paper we present an initial experiment in the estimation of the
+amenability of new domains to true/false classification. We choose four
+domains, two of which have been classified for deception, and use the
+out-of-rank distance measure on n-grams to aid in deciding whether the third
+and fourth domains are amenable to T/F classification. We then use a classifier
+covered in the literature to train and test on the verified domains to
+de-termine whether the relative similarity among the domains can be a predictor
+of classifica-tion accuracy.
+Author{1}{Firstname}#=%=#Eileen
+Author{1}{Lastname}#=%=#Fitzpatrick
+Author{1}{Email}#=%=#fitzpatricke@mail.montclair.edu
+Author{1}{Affiliation}#=%=#Montclair State University
+Author{2}{Firstname}#=%=#Joan
+Author{2}{Lastname}#=%=#Bachenko
+Author{2}{Email}#=%=#jbachenko@linguistech.com
+Author{2}{Affiliation}#=%=#Linguistech
+
+==========

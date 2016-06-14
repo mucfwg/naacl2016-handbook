@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#696
+FinalPaperTitle#=%=#Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement
+ShortPaperTitle#=%=#Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Hua He
+JobTitle#==#
+Organization#==#University of Maryland College Park
+Abstract#==#Textual similarity measurement is a challenging problem, as it requires
+understanding the semantics of input sentences. Most previous neural network
+models use coarse-grained sentence modeling, which has difficulty capturing
+fine-grained word-level information for semantic comparisons. As an
+alternative, we propose to explicitly model pairwise word interactions and
+present a novel similarity focus mechanism to identify important
+correspondences for better similarity measurement. Our ideas are implemented in
+a novel neural network architecture that demonstrates state-of-the-art accuracy
+on three SemEval tasks and two answer selection tasks.
+Author{1}{Firstname}#=%=#Hua
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#huah@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
+Author{2}{Firstname}#=%=#Jimmy
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#jimmylin@umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+
+==========

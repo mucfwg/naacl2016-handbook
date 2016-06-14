@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#649
+FinalPaperTitle#=%=#Deconstructing Complex Search Tasks: a Bayesian Nonparametric Approach for Extracting Sub-tasks
+ShortPaperTitle#=%=#Deconstructing Complex Search Tasks
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Rishabh Mehrotra
+JobTitle#==#
+Organization#==#University College London
+London, UK
+Abstract#==#Search tasks, comprising a series of search queries serving a common
+informational need, have steadily emerged as accurate units for developing the
+next generation of task-aware web search systems. Most prior research in this
+area has focused on segmenting chronologically ordered search queries into
+higher level tasks. A more naturalistic viewpoint would involve treating query
+logs as convoluted structures of tasks-subtasks, with complex search tasks
+being decomposed into more focused sub-tasks. In this work, we focus on
+extracting sub-tasks from a given collection of on-task search queries. We
+jointly leverage insights from Bayesian nonparametrics and word embeddings to
+identify and extract sub-tasks from a given collection of \textit{on-task}
+queries. Our proposed model can inform the design of the next generation of
+task-based search systems that leverage user's task behavior for better support
+and personalization.
+Author{1}{Firstname}#=%=#Rishabh
+Author{1}{Lastname}#=%=#Mehrotra
+Author{1}{Email}#=%=#erishabh@gmail.com
+Author{1}{Affiliation}#=%=#University College London
+Author{2}{Firstname}#=%=#Prasanta
+Author{2}{Lastname}#=%=#Bhattacharya
+Author{2}{Email}#=%=#news.aaruush@gmail.com
+Author{2}{Affiliation}#=%=#NUS
+Author{3}{Firstname}#=%=#Emine
+Author{3}{Lastname}#=%=#Yilmaz
+Author{3}{Email}#=%=#emine.yilmaz@gmail.com
+Author{3}{Affiliation}#=%=#University College London
+
+==========

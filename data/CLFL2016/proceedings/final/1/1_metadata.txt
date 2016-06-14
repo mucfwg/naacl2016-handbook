@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Automatic Text Generation by Learning from Literary Structures
+ShortPaperTitle#=%=#Automatic Text Generation by Learning from Literary Structures
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jose Angel Daza
+JobTitle#==#Author
+Organization#==#Centro de Investigación en Computación, Instituto Politécnico Nacional, CIC-IPN.
+J.D. Bátiz e/ M.O. de Mendizábal, 07738, Mexico City, Mexico.
+Abstract#==#Most of the work dealing with automatic story production is based on a generic
+architecture for text generation; however, the resulting stories still lack of
+a style that can be called literary. We believe that in order to automatically
+generate stories that could be compared with human authors, a specific
+methodology for fiction text generation should be defined. We also believe that
+it is essential for stories to produce the idea of originality to the reader.
+Our methodology proposes a corpus-based approach for generating stories that
+can be called creative and also hold a style similar to human fiction texts. We
+also show how these stories hold plausible syntax and coherence and are
+perceived as interesting by human evaluators.
+Author{1}{Firstname}#=%=#Angel
+Author{1}{Lastname}#=%=#Daza
+Author{1}{Email}#=%=#josdaza.a@gmail.com
+Author{1}{Affiliation}#=%=#Centro de Investigación en Computación, Instituto Politécnico Nacional
+Author{2}{Firstname}#=%=#Hiram
+Author{2}{Lastname}#=%=#Calvo
+Author{2}{Email}#=%=#hiramcalvo@gmail.com
+Author{2}{Affiliation}#=%=#Center for Computing Research
+Author{3}{Firstname}#=%=#Jesús
+Author{3}{Lastname}#=%=#Figueroa-Nazuno
+Author{3}{Email}#=%=#jfn@cic.ipn.mx
+Author{3}{Affiliation}#=%=#Centro de Investigación en Computación, Instituto Politécnico Nacional
+
+==========

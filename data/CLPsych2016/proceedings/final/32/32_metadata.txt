@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Classification of mental health forum posts
+ShortPaperTitle#=%=#Classification of mental health forum posts
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Glen Pink
+JobTitle#==#
+Organization#==#Schwa lab, School of Information Technologies
+University of Sydney NSW 2006, Australia
+Abstract#==#We detail our approach to the CLPsych 2016 triage of mental health forum posts
+shared task. We experiment with a number of features in a logistic regression
+classification approach. Our baseline approach with lexical features from a
+post and previous posts in the reply chain gives our best performance of 0.33,
+which is roughly the median for the task.
+Author{1}{Firstname}#=%=#Glen
+Author{1}{Lastname}#=%=#Pink
+Author{1}{Email}#=%=#glenpink@gmail.com
+Author{1}{Affiliation}#=%=#University of Sydney
+Author{2}{Firstname}#=%=#Will
+Author{2}{Lastname}#=%=#Radford
+Author{2}{Email}#=%=#wejradford@gmail.com
+Author{2}{Affiliation}#=%=#Hugo
+Author{3}{Firstname}#=%=#Ben
+Author{3}{Lastname}#=%=#Hachey
+Author{3}{Email}#=%=#bhachey@hugo.ai
+Author{3}{Affiliation}#=%=#Hugo Australia
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#529
+FinalPaperTitle#=%=#A Diversity-Promoting Objective Function for Neural Conversation Models
+ShortPaperTitle#=%=#A Diversity-Promoting Objective Function for Neural Conversation Models
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Michel Galley
+JobTitle#==#
+Organization#==#Microsoft Research, Redmond, WA, USA
+Abstract#==#Sequence-to-sequence neural network models
+for generation of conversational responses tend
+to generate safe, commonplace responses (e.g.,
+I don’t know) regardless of the input. We suggest
+that the traditional objective function, i.e.,
+the likelihood of output (response) given input
+(message) is unsuited to response generation
+tasks. Instead we propose using Maximum Mutual
+Information (MMI) as the objective function
+in neural models. Experimental results
+demonstrate that the proposed MMI models
+produce more diverse, interesting, and appropriate
+responses, yielding substantive gains in
+BLEU scores on two conversational datasets
+and in human evaluations.
+Author{1}{Firstname}#=%=#Jiwei
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jiweil@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Michel
+Author{2}{Lastname}#=%=#Galley
+Author{2}{Email}#=%=#mgalley@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Brockett
+Author{3}{Email}#=%=#chrisbkt@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Jianfeng
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Email}#=%=#jfgao@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{5}{Firstname}#=%=#Bill
+Author{5}{Lastname}#=%=#Dolan
+Author{5}{Email}#=%=#billdol@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

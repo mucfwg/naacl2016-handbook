@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#How to Handle Split Antecedents in Tamil?
+ShortPaperTitle#=%=#How to Handle Split Antecedents in Tamil?
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#sobha
+JobTitle#==#Member Research Staff
+Organization#==#AU-KBC Research Centre,
+MIT Campus of Anna University, Chennai, India
+Abstract#==#Resolution of the anaphoric entities in natural language text is very much
+essential to extract the complete information from the text. In this paper, we
+present a methodology to resolve one of the difficult pronouns, plural pronouns
+with split antecedents in Tamil. We have used a salience measure based approach
+with salience factors obtained from sub-categorization information of nouns and
+selectional restriction rules of the verbs. We have evaluated our approach with
+Tamil novel corpus and the results are encouraging.
+Author{1}{Firstname}#=%=#Vijay
+Author{1}{Lastname}#=%=#Sundar Ram
+Author{1}{Email}#=%=#sundar@au-kbc.org
+Author{1}{Affiliation}#=%=#AU-KBC Research Centre, Anna University
+Author{2}{Firstname}#=%=#Sobha
+Author{2}{Lastname}#=%=#Lalitha Devi
+Author{2}{Email}#=%=#sobha@au-kbc.org
+Author{2}{Affiliation}#=%=#AU-KBC Research Centre, Anna University
+
+==========

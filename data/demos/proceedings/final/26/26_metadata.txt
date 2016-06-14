@@ -1,0 +1,118 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Task Completion Platform: A self-serve multi-domain goal oriented dialogue platform
+ShortPaperTitle#=%=#Task Completion Platform: A self-serve multi-domain goal oriented dialogue platform
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Paul A. Crook
+JobTitle#==#
+Organization#==#Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052 
+USA
+Abstract#==#We demonstrate the Task Completion Platform (TCP); a multi-domain dialogue
+platform that can host and execute large numbers of goal-orientated dialogue
+tasks. The platform features a task configuration language, TaskForm, that
+allows the definition of each individual task to be decoupled from the
+overarching dialogue policy used by the platform to complete those tasks. This
+separation
+allows for simple and rapid authoring of new tasks, while dialogue policy and
+platform functionality evolve independent of the tasks. The current platform
+includes machine learnt models that provide contextual slot carry-over,
+flexible item selection, and task selection/switching. Any new task immediately
+gains the benefit of these pieces of built-in platform functionality. The
+platform
+is used to power many of the multi-turn dialogues supported by the Cortana
+personal assistant.
+Author{1}{Firstname}#=%=#Paul
+Author{1}{Lastname}#=%=#Crook
+Author{1}{Email}#=%=#pacrook@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Corporation
+Author{2}{Firstname}#=%=#Alex
+Author{2}{Lastname}#=%=#Marin
+Author{2}{Email}#=%=#alemari@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Corporation
+Author{3}{Firstname}#=%=#Vipul
+Author{3}{Lastname}#=%=#Agarwal
+Author{3}{Email}#=%=#vipulag@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Corporation
+Author{4}{Firstname}#=%=#Khushboo
+Author{4}{Lastname}#=%=#Aggarwal
+Author{4}{Email}#=%=#khushboa@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Corporation
+Author{5}{Firstname}#=%=#Tasos
+Author{5}{Lastname}#=%=#Anastasakos
+Author{5}{Email}#=%=#tasosanas@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Corporation
+Author{6}{Firstname}#=%=#Ravi
+Author{6}{Lastname}#=%=#Bikkula
+Author{6}{Email}#=%=#ravib@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Corporation
+Author{7}{Firstname}#=%=#Daniel
+Author{7}{Lastname}#=%=#Boies
+Author{7}{Email}#=%=#daboies@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Corporation
+Author{8}{Firstname}#=%=#Asli
+Author{8}{Lastname}#=%=#Celikyilmaz
+Author{8}{Email}#=%=#asli.ca@live.com
+Author{8}{Affiliation}#=%=#Microsoft
+Author{9}{Firstname}#=%=#Senthilkumar
+Author{9}{Lastname}#=%=#Chandramohan
+Author{9}{Email}#=%=#sechand@microsoft.com
+Author{9}{Affiliation}#=%=#Microsoft
+Author{10}{Firstname}#=%=#Zhaleh
+Author{10}{Lastname}#=%=#Feizollahi
+Author{10}{Email}#=%=#zhalef@microsoft.com
+Author{10}{Affiliation}#=%=#Microsoft Corporation
+Author{11}{Firstname}#=%=#Roman
+Author{11}{Lastname}#=%=#Holenstein
+Author{11}{Email}#=%=#rholens@microsoft.com
+Author{11}{Affiliation}#=%=#Microsoft Corporation
+Author{12}{Firstname}#=%=#Minwoo
+Author{12}{Lastname}#=%=#Jeong
+Author{12}{Email}#=%=#minwoo.jeong@microsoft.com
+Author{12}{Affiliation}#=%=#Microsoft
+Author{13}{Firstname}#=%=#Omar
+Author{13}{Lastname}#=%=#Khan
+Author{13}{Email}#=%=#omarzia.khan@microsoft.com
+Author{13}{Affiliation}#=%=#Microsoft
+Author{14}{Firstname}#=%=#Young-Bum
+Author{14}{Lastname}#=%=#Kim
+Author{14}{Email}#=%=#ybkim@microsoft.com
+Author{14}{Affiliation}#=%=#Microsoft
+Author{15}{Firstname}#=%=#Elizabeth
+Author{15}{Lastname}#=%=#Krawczyk
+Author{15}{Email}#=%=#elkrawcz@microsoft.com
+Author{15}{Affiliation}#=%=#Microsoft Corporation
+Author{16}{Firstname}#=%=#Xiaohu
+Author{16}{Lastname}#=%=#Liu
+Author{16}{Email}#=%=#derekliu@microsoft.com
+Author{16}{Affiliation}#=%=#Microsoft Corp
+Author{17}{Firstname}#=%=#Danko
+Author{17}{Lastname}#=%=#Panic
+Author{17}{Email}#=%=#dpanic@microsoft.com
+Author{17}{Affiliation}#=%=#Microsoft Corporation
+Author{18}{Firstname}#=%=#Vasiliy
+Author{18}{Lastname}#=%=#Radostev
+Author{18}{Email}#=%=#vasiliyr@microsoft.com
+Author{18}{Affiliation}#=%=#Microsoft Corporation
+Author{19}{Firstname}#=%=#Nikhil
+Author{19}{Lastname}#=%=#Ramesh
+Author{19}{Email}#=%=#nikhilr@microsoft.com
+Author{19}{Affiliation}#=%=#Microsoft Corporation
+Author{20}{Firstname}#=%=#Jean-Phillipe
+Author{20}{Lastname}#=%=#Robichaud
+Author{20}{Email}#=%=#jerobich@microsoft.com
+Author{20}{Affiliation}#=%=#Microsoft Corporation
+Author{21}{Firstname}#=%=#Alexandre
+Author{21}{Lastname}#=%=#Rochette
+Author{21}{Email}#=%=#alrochet@microsoft.com
+Author{21}{Affiliation}#=%=#Microsoft Corporation
+Author{22}{Firstname}#=%=#Logan
+Author{22}{Lastname}#=%=#Stromberg
+Author{22}{Email}#=%=#lostromb@microsoft.com
+Author{22}{Affiliation}#=%=#Microsoft Corporation
+Author{23}{Firstname}#=%=#Ruhi
+Author{23}{Lastname}#=%=#Sarikaya
+Author{23}{Email}#=%=#ruhi_sarikaya@yahoo.com
+Author{23}{Affiliation}#=%=#Microsoft
+
+==========

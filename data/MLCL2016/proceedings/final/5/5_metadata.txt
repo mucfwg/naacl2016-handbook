@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Cross-lingual Dependency Transfer : What Matters? Assessing the Impact of Pre- and Post-processing
+ShortPaperTitle#=%=#Cross-lingual Dependency Transfer : What Matters? Assessing the Impact of Pre- and Post-processing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ophélie Lacroix
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we propose to analyze the pre- and post-processing steps applied
+in the context of cross-lingual dependency transfer. To this aim, we employ a
+simple transfer strategy that operates on partially annotated projected data.
+We show that a good data selection strategy is a key point in successfully
+transferring dependencies and that better data selection techniques need to be
+developed in order to achieve the performance of fully supervised methods.
+Author{1}{Firstname}#=%=#Ophélie
+Author{1}{Lastname}#=%=#Lacroix
+Author{1}{Email}#=%=#ophelie.lacroix@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Wisniewski
+Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{3}{Firstname}#=%=#François
+Author{3}{Lastname}#=%=#Yvon
+Author{3}{Email}#=%=#yvon@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

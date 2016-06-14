@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Discontinuous parsing with continuous trees
+ShortPaperTitle#=%=#Discontinuous parsing with continuous trees
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wolfgang Maier
+JobTitle#==#
+Organization#==#University of Düsseldorf, Universitätsstr. 1, 40225 Düsseldorf, Germany
+Abstract#==#We introduce a new method for incremental shift-reduce parsing of discontinuous
+constituency trees, based on the fact that discontinuous trees can be
+transformed into continuous trees by changing the order of the terminal nodes.
+It allows for a clean formulation of different oracles, leads to faster parsers
+and provides better results. Our best system achieves an F1 of 80.02 on TIGER.
+Author{1}{Firstname}#=%=#Wolfgang
+Author{1}{Lastname}#=%=#Maier
+Author{1}{Email}#=%=#maierw@hhu.de
+Author{1}{Affiliation}#=%=#University of Düsseldorf
+Author{2}{Firstname}#=%=#Timm
+Author{2}{Lastname}#=%=#Lichte
+Author{2}{Email}#=%=#lichte@phil.uni-duesseldorf.de
+Author{2}{Affiliation}#=%=#University of Düsseldorf
+
+==========

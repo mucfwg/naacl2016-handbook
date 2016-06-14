@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#A Comparison of Weak Supervision methods for Knowledge Base Construction
+ShortPaperTitle#=%=#A Comparison of Weak Supervision methods for Knowledge Base Construction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ameet Soni
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a comparison of weak and distant supervision methods for producing
+proxy examples for supervised relation extraction.  We find that 
+knowledge-based weak supervision tends to outperform popular distance
+supervision techniques, providing a higher yield of positive examples and more
+accurate models.
+Author{1}{Firstname}#=%=#Ameet
+Author{1}{Lastname}#=%=#Soni
+Author{1}{Email}#=%=#soni@cs.swarthmore.edu
+Author{1}{Affiliation}#=%=#Swarthmore College
+Author{2}{Firstname}#=%=#Dileep
+Author{2}{Lastname}#=%=#Viswanathan
+Author{2}{Email}#=%=#diviswan@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Firstname}#=%=#Niranjan
+Author{3}{Lastname}#=%=#Pachaiyappan
+Author{3}{Email}#=%=#nirapach@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University
+Author{4}{Firstname}#=%=#Sriraam
+Author{4}{Lastname}#=%=#Natarajan
+Author{4}{Email}#=%=#natarasr@indiana.edu
+Author{4}{Affiliation}#=%=#Indiana University
+
+==========

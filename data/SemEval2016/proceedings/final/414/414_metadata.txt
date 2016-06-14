@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#414
+FinalPaperTitle#=%=#Aicyber at SemEval-2016 Task 4: i-vector based sentence representation
+ShortPaperTitle#=%=#Aicyber at SemEval-2016 Task 4: i-vector based sentence representation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#STEVEN DU
+JobTitle#==#
+Organization#==#www.aicyber.com ,   No. 39 Nanjing Road, Capitaland International Trade Center Block B 1604, Tianjin, China
+Abstract#==#This paper introduces aicyber's systems for SemEval 2016 , Task 4A. The first
+system is build on vector space model, the second system is build on a new
+framework to estimate sentence vector, it is inspired by the i-vector in
+speaker verification domain. Both systems are evaluated on SemEval 2016
+(Task4A) as well as IMDB dataset. Evaluation results show that the i-vector
+based sentence vector is an alternative approach to present sentence.
+Author{1}{Firstname}#=%=#Steven
+Author{1}{Lastname}#=%=#Du
+Author{1}{Email}#=%=#steven@aicyber.com
+Author{1}{Affiliation}#=%=#www.aicyber.com
+Author{2}{Firstname}#=%=#Xi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhangxi@aicyber.com
+Author{2}{Affiliation}#=%=#www.aicyber.com
+
+==========

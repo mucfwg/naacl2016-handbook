@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Sentiment Analysis - What are we talking about?
+ShortPaperTitle#=%=#Sentiment Analysis - What are we talking about?
+NumberOfPages#=%=#1
+CopyrightSigned#=%=#Balahur
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic affect detection and classification from text is a complex task in
+Natural Language Pro-cessing, whose tackling requires not only the use of
+established methods in the field, but also the use of knowledge extracted from
+theories in Psy-chology, Cognitive Science, Social Psychology or
+Neuropsychology. 
+
+For the past decade, there has been a large amount of research done in the
+field. Neverthe-less, many issues remain to be tackled, starting from a common
+understanding of what we mean by the concepts involved and integrating the
+re-search in the appropriate context. 
+
+In this intro talk, my aim is to give a broad over-view of the issues involved
+in tackling the task, from the definition of the terms, to some of the tasks
+that have been defined and some of the methods employed.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Balahur
+Author{1}{Email}#=%=#alexandra.balahur@jrc.ec.europa.eu
+Author{1}{Affiliation}#=%=#Joint Research Centre, European Commission
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#465
+FinalPaperTitle#=%=#Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders
+ShortPaperTitle#=%=#Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Simon Suster
+JobTitle#==#
+Organization#==#University of Groningen, Groningen, The Netherlands
+Abstract#==#We present an approach to learning multi-sense word embeddings relying both on
+monolingual and bilingual information. Our model consists of an encoder, which
+uses monolingual and bilingual context (i.e. a parallel sentence) to choose a
+sense for a given word, and a decoder which predicts context words based on the
+chosen sense. The two components are estimated jointly. We observe that the
+word representations induced from bilingual data outperform the monolingual
+counterparts across a range of evaluation tasks, even though crosslingual
+information is not available at test time.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Šuster
+Author{1}{Email}#=%=#s.suster@rug.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Titov
+Author{2}{Email}#=%=#titov@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Gertjan
+Author{3}{Lastname}#=%=#van Noord
+Author{3}{Email}#=%=#g.j.m.van.noord@rug.nl
+Author{3}{Affiliation}#=%=#University of Groningen
+
+==========

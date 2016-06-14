@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#441
+FinalPaperTitle#=%=#UoB-UK: A Flexible and Extendable System for Semantic Text Similarity using Types, Surprise and Phrase Linking
+ShortPaperTitle#=%=#UoB-UK: An Extendable System for Semantic Text Similarity using Types, Surprise and Phrase Linking
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Harish Tayyar Madabushi
+JobTitle#==#
+Organization#==#University of Birmingham,
+Birmingham, West Midlands,
+United Kingdom
+B15 2TT
+Abstract#==#We present in this paper a system for measuring Semantic Text Similarity (STS)
+in English. We introduce three novel techniques: the use of Types, methods of
+linking phrases and the use of a Surprise Factor to generate 8,370 similarity
+measures, which we then combine using Support Vector and Kernel Ridge
+Regression. Our system out performs the State of the Art in SemEval 2015 and
+our best performing run achieved a score of .7094 on the 2016 test set as a
+whole, and over 0.8 on the majority of the datasets. Additionally, the use of
+Surprise, Types and phrase linking is not limited to STS and can be used across
+various Natural Language Processing tasks, while our method of combining scores
+provides a flexible way of combining variously generated Similarity Scores.
+Author{1}{Firstname}#=%=#Harish
+Author{1}{Lastname}#=%=#Tayyar Madabushi
+Author{1}{Email}#=%=#h.t.madabushi@pgr.bham.ac.uk
+Author{1}{Affiliation}#=%=#University of Birmingham
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Buhagiar
+Author{2}{Email}#=%=#mab544@student.bham.ac.uk
+Author{2}{Affiliation}#=%=#University of Birmingham
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#m.g.lee@cs.bham.ac.uk
+Author{3}{Affiliation}#=%=#University of Birmingham
+
+==========

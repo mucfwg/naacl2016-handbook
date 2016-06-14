@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Learning Translations for Tagged Words: Extending the Translation Lexicon of an ITG for Low Resource Languages
+ShortPaperTitle#=%=#Learning Translations for Tagged Words
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Markus Saers
+JobTitle#==#
+Organization#==#Human Language Technology Center
+Department of Computer Science and Engineering
+The Hong Kong University of Science and Technology
+HKUST, Clear Water Bay, Kowloon, Hong Kong
+Abstract#==#We tackle the challenge of learning part-of-speech classified translations as
+part of an inversion transduction grammar, by learning translations for English
+words with known part-of-speech tags, both from existing translation lexica and
+from parallel corpora. When translating from a low resource language into
+English, we can expect to have rich resources for English, such as treebanks,
+and small amounts of bilingual resources, such as translation lexica and
+parallel corpora. We solve the problem of integrating these heterogeneous
+resources into a single model using stochastic Inversion Transduction Grammars,
+which we augment with wildcards to handle unknown translations.
+Author{1}{Firstname}#=%=#Markus
+Author{1}{Lastname}#=%=#Saers
+Author{1}{Email}#=%=#masaers@cs.ust.hk
+Author{1}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Dekai
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#dekai@cs.ust.hk
+Author{2}{Affiliation}#=%=#HKUST
+
+==========

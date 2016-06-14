@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#348
+FinalPaperTitle#=%=#NUIG-UNLP at SemEval-2016 Task 13: A Simple Word Embedding-based Approach for Taxonomy Extraction
+ShortPaperTitle#=%=#NUIG-UNLP: A Simple Word Embedding-based Approach for Taxonomy Extraction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Joel Pocostales Merce
+JobTitle#==#
+Organization#==#The Insight Centre for Data Analytics
+National University of Ireland, Galway
+The DERI Building
+IDA Business Park,
+Lower Dangan,
+Galway, Ireland
+Abstract#==#This paper describes the NUIG-UNLP system submitted to SemEval-2016, Task 13.
+We implement a semi-supervised method that extracts hypernym candidates for the
+terms provided in the test list. The main assumption of our system is that
+hypernyms may be induced by adding a vector offset to the corresponding hyponym
+word embedding. The vector offset is obtained as the average offset between 200
+pairs of hyponym-hypernym in the same vector space. Our approach ranked second
+on
+connectivity (c.c.) and categorisation (i.i.) for the English taxonomy
+construction, and fifth on the overall ranking. Despite of these modest
+results, our system achieved comparable evaluations scores with the other
+participants.
+Author{1}{Firstname}#=%=#Joel
+Author{1}{Lastname}#=%=#Pocostales
+Author{1}{Email}#=%=#joel.pocostales@insight-centre.org
+Author{1}{Affiliation}#=%=#Insight Centre for Data Analytics
+
+==========

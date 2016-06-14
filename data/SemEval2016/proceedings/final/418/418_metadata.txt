@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#418
+FinalPaperTitle#=%=#TAXI at SemEval-2016 Task 13: a Taxonomy Induction Method based on Lexico-Syntactic Patterns, Substrings and Focused Crawling
+ShortPaperTitle#=%=#TAXI: a Taxonomy Induction Method based on Patterns, Substrings and Focused Crawling
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alexander Panchenko
+JobTitle#==#
+Organization#==#TU Darmstadt, LT Group,
+Hochschulstr. 10, 64289 Darmstadt, Deutschland
+Abstract#==#We present a system for taxonomy construction that reached the first place in
+all subtasks of the SemEval 2016 challenge on Taxonomy Extraction Evaluation.
+Our simple yet effective approach harvests hypernyms with substring inclusion
+and Hearst-style lexico-syntactic patterns from domain-specific texts obtained
+via language model based focused crawling. Extracted taxonomies are evaluated
+on English, Dutch, French and Italian for three domains each  (Food,
+Environment and Science). Evaluations against a gold standard and by human
+judgment show that our method outperforms more complex and knowledge-rich
+approaches on most domains and languages. Furthermore, to adapt the method to a
+new domain or language, only a small amount of manual labour is needed.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Panchenko
+Author{1}{Email}#=%=#panchenko.alexander@gmail.com
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Firstname}#=%=#Stefano
+Author{2}{Lastname}#=%=#Faralli
+Author{2}{Email}#=%=#stefano@informatik.uni-mannheim.de
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Eugen
+Author{3}{Lastname}#=%=#Ruppert
+Author{3}{Email}#=%=#ruppert@lt.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#TU Darmstadt
+Author{4}{Firstname}#=%=#Steffen
+Author{4}{Lastname}#=%=#Remus
+Author{4}{Email}#=%=#remus@cs.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#TU Darmstadt
+Author{5}{Firstname}#=%=#Hubert
+Author{5}{Lastname}#=%=#Naets
+Author{5}{Email}#=%=#hubert.naets@uclouvain.be
+Author{5}{Affiliation}#=%=#Université catholique de Louvain / Centre de traitement automatique du langage
+Author{6}{Firstname}#=%=#Cedrick
+Author{6}{Lastname}#=%=#Fairon
+Author{6}{Email}#=%=#cedrick.fairon@uclouvain.be
+Author{6}{Affiliation}#=%=#UCLouvain
+Author{7}{Firstname}#=%=#Simone Paolo
+Author{7}{Lastname}#=%=#Ponzetto
+Author{7}{Email}#=%=#simone@informatik.uni-mannheim.de
+Author{7}{Affiliation}#=%=#University of Mannheim
+Author{8}{Firstname}#=%=#Chris
+Author{8}{Lastname}#=%=#Biemann
+Author{8}{Email}#=%=#biem@cs.tu-darmstadt.de
+Author{8}{Affiliation}#=%=#TU Darmstadt
+
+==========

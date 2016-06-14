@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#77
+FinalPaperTitle#=%=#Joint Learning Templates and Slots for Event Schema Induction
+ShortPaperTitle#=%=#Joint Learning Templates and Slots for Event Schema Induction
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lei Sha
+JobTitle#==#
+Organization#==#Peking University, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871
+Abstract#==#Automatic event schema induction (AESI) means to extract meta-event from raw
+text, in other words, to find out what types (templates) of event may exist in
+the raw text and what roles (slots) may exist in each event type. In this
+paper, we propose a joint entity-driven model to learn templates and slots
+simultaneously based on the constraints of templates and slots in the same
+sentence. In addition, the entities' semantic information is also considered
+for the inner connectivity of the entities. We borrow the normalized cut
+criteria in image segmentation to divide the entities into more accurate
+template clusters and slot clusters.  The experiment shows that our model gains
+a relatively higher result than  previous work.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Sha
+Author{1}{Email}#=%=#shalei120@sina.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Sujian
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lisujian@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Baobao
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#chbb@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Zhifang
+Author{4}{Lastname}#=%=#Sui
+Author{4}{Email}#=%=#szf@pku.edu.cn
+Author{4}{Affiliation}#=%=#
+
+==========

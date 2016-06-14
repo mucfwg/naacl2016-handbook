@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#English Resource Semantics
+ShortPaperTitle#=%=#English Resource Semantics
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Flickinger
+Author{1}{Email}#=%=#danf@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford
+Author{2}{Firstname}#=%=#Emily M.
+Author{2}{Lastname}#=%=#Bender
+Author{2}{Email}#=%=#ebender@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Woodley
+Author{3}{Lastname}#=%=#Packard
+Author{3}{Email}#=%=#sweaglesw@sweaglesw.org
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

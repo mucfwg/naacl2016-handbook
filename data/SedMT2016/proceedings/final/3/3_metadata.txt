@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Deterministic natural language generation from meaning representations for machine translation
+ShortPaperTitle#=%=#Deterministic language generation from meaning representations
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Alastair Butler
+JobTitle#==#
+Organization#==#National Institute for Japanese Language and Linguistics, 10-2 Midori-cho, Tachikawa City, Tokyo, 190-8561, Japan
+Abstract#==#This paper describes a deterministic method for generating natural language
+suited to being part of a machine translation system with meaning
+representations as the level for language transfer. Starting from
+Davidsonian/Penman meaning representations, syntactic trees are built following
+the Penn Parsed Corpus of Modern British English, from which the yield (i.e.,
+the words) can be taken. The novel contribution is to highlight exploiting the
+presentation of meaning content to inform decisions regarding the selection of
+language constructions: active vs. passive, argument subject vs. expletive it
+vs. existential there, discourse vs. intra-sentential coordination vs.
+adverbial clause vs. participial clause vs. purpose clause, and infinitive
+clause vs. finite clause vs. small clause vs. relative clause vs. it cleft.
+Author{1}{Firstname}#=%=#Alastair
+Author{1}{Lastname}#=%=#Butler
+Author{1}{Email}#=%=#ajb129@hotmail.com
+Author{1}{Affiliation}#=%=#Tohoku University
+
+==========

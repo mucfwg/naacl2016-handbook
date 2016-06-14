@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Exploring Autism Spectrum Disorders Using HLT
+ShortPaperTitle#=%=#Exploring Autism Spectrum Disorders Using HLT
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mark Y LIberman
+JobTitle#==#
+Organization#==#University of Pennsylvania
+Abstract#==#The phenotypic complexity of Autism Spectrum Disorder motivates the application
+of modern computational methods to large collections of observational data,
+both for improved clinical diagnosis and for better scientific understanding.
+We have begun to create a corpus of annotated language samples relevant to this
+research, and we plan to join with other researchers in pooling and publishing
+such resources on a large scale. The goal of this paper is to present some
+initial explorations to illustrate the opportunities that such datasets will
+afford.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Parish-Morris
+Author{1}{Email}#=%=#julia.parish.morris@gmail.com
+Author{1}{Affiliation}#=%=#Center for Autism Research, Children's Hospital of Philadelphia
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Liberman
+Author{2}{Email}#=%=#myl@cis.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Neville
+Author{3}{Lastname}#=%=#Ryant
+Author{3}{Email}#=%=#nryant@gmail.com
+Author{3}{Affiliation}#=%=#Linguistic Data Consortium
+Author{4}{Firstname}#=%=#Christopher
+Author{4}{Lastname}#=%=#Cieri
+Author{4}{Email}#=%=#ccieri@ldc.upenn.edu
+Author{4}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{5}{Firstname}#=%=#Leila
+Author{5}{Lastname}#=%=#Bateman
+Author{5}{Email}#=%=#batemanl@email.chop.edu
+Author{5}{Affiliation}#=%=#Center for Autism Research, Children's Hospital of Philadelphia
+Author{6}{Firstname}#=%=#Emily
+Author{6}{Lastname}#=%=#Ferguson
+Author{6}{Email}#=%=#fergusone1@email.chop.edu
+Author{6}{Affiliation}#=%=#Center for Autism Research, Children's Hospital of Philadelphia
+Author{7}{Firstname}#=%=#Robert
+Author{7}{Lastname}#=%=#Schultz
+Author{7}{Email}#=%=#schultzrt@email.chop.edu
+Author{7}{Affiliation}#=%=#Center for Autism Research, Children's Hospital of Philadelphia
+
+==========

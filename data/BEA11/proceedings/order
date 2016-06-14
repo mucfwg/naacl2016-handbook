@@ -1,0 +1,44 @@
+* Thursday June 16, 2016
++ 08:45--09:00 Load Oral Presentations
++ 09:00--09:15 Opening Remarks
+49 09:15--09:40  # The Effect of Multiple Grammatical Errors on Processing Non-Native Writing
+8 09:40--10:05  # Text Readability Assessment for Second Language Learners
+41 10:05--10:30  # Automatic Generation of Context-Based Fill-in-the-Blank Exercises Using Co-occurrence Likelihoods and Google n-grams
++ 10:30--11:00 Break
+40 11:00--11:25  # Automated classification of collaborative problem solving interactions in simulated science tasks
+6 11:25--11:50  # Computer-assisted stylistic revision with incomplete and noisy feedback. A pilot study
+56 11:50--12:15  # A Report on the Automatic Evaluation of Scientific Writing Shared Task
++ 12:25--02:00 Lunch
++ 02:00--02:45 Poster and Demo Session A
+34   # Topicality-Based Indices for Essay Scoring
+7   # Predicting the Spelling Difficulty of Words for Language Learners
+9   # Characterizing Text Difficulty with Word Frequencies
+19   # Unsupervised Modeling of Topical Relevance in L2 Learner Text
+53   # UW-Stanford System Description for AESW 2016 Shared Task on Grammatical Error Detection
+35   # Shallow Semantic Reasoning from an Incomplete Gold Standard for Learner Language
+54   # The NTNU-YZU System in the AESW Shared Task: Automated Evaluation of Scientific Writing Using a Convolutional Neural Network
+25   # Automated scoring across different modalities
+24   # Model Combination for Correcting Preposition Selection Errors
+20   # Pictogrammar: an AAC device based on a semantic grammar
+22   # Detecting Context Dependence in Exercise Item Candidates Selected from Corpora
+55   # Feature-Rich Error Detection in Scientific Writing Using Logistic Regression
+18   # Bundled Gap Filling: A New Paradigm for Unambiguous Cloze Exercises
++ 02:45--03:30 Poster and Demo Session B
+44   # Evaluation Dataset (DT-Grade) and Word Weighting Approach towards Constructed Short Answers Assessment in Tutorial Dialogue Context
+31   # Linguistically Aware Information Retrieval: Providing Input Enrichment for Second Language Learners
+13   # Enhancing STEM Motivation through Personal and Communal Values: NLP for Assessment of Utility Value in Student Writing
+39   # Cost-Effectiveness in Building a Low-Resource Morphological Analyzer for Learner Language
+26   # Automatically Scoring Tests of Proficiency in Music Instruction
+50   # Combined Tree Kernel-based classifiers for Assessing Quality of Scientific Text
+47   # Augmenting Course Material with Open Access Textbooks
+17   # Exploring the Intersection of Short Answer Assessment, Authorship Attribution, and Plagiarism Detection
+52   # Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction
+51   # Combining Off-the-shelf Grammar and Spelling Tools for the Automatic Evaluation of Scientific Writing (AESW) Shared Task 2016
+16   # Candidate re-ranking for SMT-based grammatical error correction
+12   # Spoken Text Difficulty Estimation Using Linguistic Features
+38   # Automatically Extracting Topical Components for a Response-to-Text Writing Assessment
++ 03:30--04:00 Break
+37 04:00--04:20  # Sentence Similarity Measures for Fine-Grained Estimation of Topical Relevance in Learner Essays
+46 04:20--04:45  # Insights from Russian second language readability classification: complexity-dependent training requirements, and feature evaluation of multiple categories
+32 04:45--05:10  # Investigating Active Learning for Short-Answer Scoring
++ 05:10--05:25 Closing Remarks

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#470
+FinalPaperTitle#=%=#Neural Network-Based Abstract Generation for Opinions and Arguments
+ShortPaperTitle#=%=#Neural Network-Based Abstract Generation for Opinions and Arguments
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lu Wang
+JobTitle#==#
+Organization#==#Northeastern University
+360 Huntington Ave., Boston, MA 02115, USA
+Abstract#==#We study the problem of generating abstractive summaries for opinionated text.
+We propose an attention-based neural network model that is able to absorb
+information from multiple text units to construct informative, concise, and
+fluent summaries. An importance-based sampling method is designed to allow the
+encoder to integrate information from an important subset of input. Automatic
+evaluation indicates that our system outperforms state-of-the-art abstractive
+and extractive summarization systems on two newly collected datasets of movie
+reviews and arguments. Our system summaries are also rated as more informative
+and grammatical in human evaluation.
+Author{1}{Firstname}#=%=#Lu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#luwang@ccs.neu.edu
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Wang
+Author{2}{Lastname}#=%=#Ling
+Author{2}{Email}#=%=#wanglin1122@gmail.com
+Author{2}{Affiliation}#=%=#Google DeepMind
+
+==========

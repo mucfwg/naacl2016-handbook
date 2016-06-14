@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#99
+FinalPaperTitle#=%=#Embedding Lexical Features via Low-Rank Tensors
+ShortPaperTitle#=%=#Embedding Lexical Features via Low-Rank Tensors
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mo Yu
+JobTitle#==#
+Organization#==#Harbin Institute of Technology
+Abstract#==#Modern NLP models rely heavily on engineered features, which often combine word
+and contextual information into complex lexical features. Such combination
+results in large numbers of features, which can lead to over-fitting. We
+present a new model that represents complex lexical features, which contains
+parts for words, contextual information and labels, in a tensor that captures
+conjunction information among these parts. We apply low-rank tensor
+approximations to the corresponding parameter tensors to reduce the parameter
+space and improve prediction speed. Furthermore, we investigate two methods for
+handling features that include n-grams of mixed lengths. Our model achieves
+state-of-the-art results on tasks in relation extraction, PP-attachment, and
+preposition disambiguation.
+Author{1}{Firstname}#=%=#Mo
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#gflfof@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Dredze
+Author{2}{Email}#=%=#mdredze@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Raman
+Author{3}{Lastname}#=%=#Arora
+Author{3}{Email}#=%=#arora@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Matthew R.
+Author{4}{Lastname}#=%=#Gormley
+Author{4}{Email}#=%=#mgormley@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

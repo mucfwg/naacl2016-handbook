@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#312
+FinalPaperTitle#=%=#Learning Distributed Word Representations For Bidirectional LSTM Recurrent Neural Network
+ShortPaperTitle#=%=#Learning Distributed Word Representations For Bidirectional LSTM Recurrent Neural Network
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Peilu Wang
+JobTitle#==#
+Organization#==#3-East 307 SEIEE Building, Shanghai Jiao Tong University, Minhang District, Shanghai, China
+Abstract#==#Bidirectional long short-term memory (BLSTM) recurrent neural network (RNN) has
+been successfully applied in many tagging tasks and shows state-of-the-art
+performance. To involve word-level information, BLSTM-RNN uses the distributed
+representations of words. Thus training better distributed word representations
+is an alternative way to improve the performance of BLSTM-RNN on tagging tasks
+aside refining model. In this work, we propose a novel approach to learn
+distributed word representations with BLSTM-RNN. Experimental results show that
+our approach learns high qualified distributed word representations, as the
+trained representations significantly elevate the performance of BLSTM-RNN on
+three tagging tasks: part-of-speech tagging, chunking and named entity
+recognition, surpassing word representations trained by other published
+methods.
+Author{1}{Firstname}#=%=#Peilu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#peiluwang@163.com
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Yao
+Author{2}{Lastname}#=%=#Qian
+Author{2}{Email}#=%=#yqian@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+Author{3}{Firstname}#=%=#Frank K.
+Author{3}{Lastname}#=%=#Soong
+Author{3}{Email}#=%=#frankkps@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Lei
+Author{4}{Lastname}#=%=#He
+Author{4}{Email}#=%=#helei@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+Author{5}{Firstname}#=%=#Hai
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{5}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

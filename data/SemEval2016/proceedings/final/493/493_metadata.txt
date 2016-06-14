@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#493
+FinalPaperTitle#=%=#SemEval-2016 Task 7: Determining Sentiment Intensity of English and Arabic Phrases
+ShortPaperTitle#=%=#SemEval-2016 Task 7: Determining Sentiment Intensity of English and Arabic Phrases
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a shared task on automatically determining sentiment intensity of a
+word or a phrase. The words and phrases are taken from three domains: general
+English, English Twitter, and Arabic Twitter. The phrases include those
+composed of negators, modals, and degree adverbs as well as phrases formed by
+words with opposing polarities. For each of the three domains, we assembled the
+datasets that include multi-word phrases and their constituent words, both
+manually annotated for real-valued sentiment intensity scores. The three
+datasets were presented as the test sets for three separate tasks (each
+focusing on a specific domain). Five teams submitted nine system outputs for
+the three tasks. All datasets created for this shared task are freely available
+to the research community.
+Author{1}{Firstname}#=%=#Svetlana
+Author{1}{Lastname}#=%=#Kiritchenko
+Author{1}{Email}#=%=#svetlana.kiritchenko@nrc-cnrc.gc.ca
+Author{1}{Affiliation}#=%=#NRC
+Author{2}{Firstname}#=%=#Saif
+Author{2}{Lastname}#=%=#Mohammad
+Author{2}{Email}#=%=#uvgotsaif@gmail.com
+Author{2}{Affiliation}#=%=#National Research Council Canada
+Author{3}{Firstname}#=%=#Mohammad
+Author{3}{Lastname}#=%=#Salameh
+Author{3}{Email}#=%=#msalameh@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+
+==========

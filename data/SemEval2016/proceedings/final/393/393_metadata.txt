@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#393
+FinalPaperTitle#=%=#UWB at SemEval-2016 Task 7: Novel Method for Automatic Sentiment Intensity Determination
+ShortPaperTitle#=%=#UWB at SemEval-2016 Task 7: Novel Method for Automatic Sentiment Intensity Determination
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ladislav Lenc
+JobTitle#==#
+Organization#==#University of West Bohemia
+Univerzitni 8, 30614, Pilsen
+Abstract#==#We present a novel method for determining sentiment intensity. The main goal is
+to assign a phrase a score from 0 to 1 which indicates the strength of its
+association with positive sentiment. The proposed model uses a rich set of
+features with Gaussian processes regression model that computes the final
+score. The system was evaluated on the data from 7th task of SemEval 2016. Our
+regression model trained on the development data reached Kendall rank
+correlation of 0.659 on general English phrases and 0.414 on English Twitter
+test data.
+Author{1}{Firstname}#=%=#Ladislav
+Author{1}{Lastname}#=%=#Lenc
+Author{1}{Email}#=%=#llenc@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#University of West Bohemia
+Author{2}{Firstname}#=%=#Pavel
+Author{2}{Lastname}#=%=#Král
+Author{2}{Email}#=%=#pkral@kiv.zcu.cz
+Author{2}{Affiliation}#=%=#University of West Bohemia
+Author{3}{Firstname}#=%=#Václav
+Author{3}{Lastname}#=%=#Rajtmajer
+Author{3}{Email}#=%=#rajtmajv@kiv.zcu.cz
+Author{3}{Affiliation}#=%=#University of West Bohemia
+
+==========

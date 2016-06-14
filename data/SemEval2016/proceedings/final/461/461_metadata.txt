@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#461
+FinalPaperTitle#=%=#IHS-RD-Belarus at SemEval-2016 Task 1: Multistage Approach for Measuring Semantic Similarity
+ShortPaperTitle#=%=#IHS-RD-Belarus at SemEval-2016 Task 1: Multistage Approach for Measuring Semantic Similarity
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marina Chernyshevich
+JobTitle#==#
+Organization#==#IHS Global
+106 Pobediteley avenue, room 237,
+Minsk, Belarus
+Abstract#==#This paper describes the system for rating the degree of semantic equivalence
+between two text snippets developed by team IHS-RD-Belarus for the SemEval 2016
+STS shared task (Task 1). To predict the human ratings of text similarity we
+use a support vector regression model with multiple features representing
+similarity and difference scores calculated for each pair of sentences.
+Author{1}{Firstname}#=%=#Maryna
+Author{1}{Lastname}#=%=#Beliuha
+Author{1}{Email}#=%=#Marina.Beliuga@ihs.com
+Author{1}{Affiliation}#=%=#IHS inc. / IHS Global Belarus
+Author{2}{Firstname}#=%=#Maryna
+Author{2}{Lastname}#=%=#Chernyshevich
+Author{2}{Email}#=%=#Marina.Chernyshevich@ihs.com
+Author{2}{Affiliation}#=%=#IHS Inc. / IHS Global Belarus
+
+==========

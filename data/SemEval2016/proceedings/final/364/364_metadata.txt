@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#364
+FinalPaperTitle#=%=#aueb.twitter.sentiment at SemEval-2016 Task 4: A Weighted Ensemble of SVMs for Twitter Sentiment Analysis
+ShortPaperTitle#=%=#aueb.twitter.sentiment
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Stavros Giorgis
+JobTitle#==#
+Organization#==#NLP Group, Department of Informatics
+Athens University of Economics and Business
+Patission 76, GR-104 34 Athens, Greece
+Abstract#==#This paper describes the system with which we participated in SemEval-2016 Task
+4 (Sentiment Analysis in Twitter) and specifically the Message Polarity
+Classification subtask. Our system is a weighted ensemble of two systems. The
+first one is based on a previous sentiment analysis system and uses manually
+crafted features. The second system of our ensemble uses features based on word
+embeddings. Our ensemble was ranked 5th among 34 teams. The source code of our
+system is publicly available.
+Author{1}{Firstname}#=%=#Stavros
+Author{1}{Lastname}#=%=#Giorgis
+Author{1}{Email}#=%=#sgiorgis1992@gmail.com
+Author{1}{Affiliation}#=%=#Department of Informatics, Athens University of Economics and Business
+Author{2}{Firstname}#=%=#Apostolos
+Author{2}{Lastname}#=%=#Rousas
+Author{2}{Email}#=%=#ap.rousas@gmail.com
+Author{2}{Affiliation}#=%=#Department of Informatics, Athens University of Economics and Business
+Author{3}{Firstname}#=%=#John
+Author{3}{Lastname}#=%=#Pavlopoulos
+Author{3}{Email}#=%=#annis.pavlo@gmail.com
+Author{3}{Affiliation}#=%=#Department of Informatics, Athens University of Economics and Business
+Author{4}{Firstname}#=%=#Prodromos
+Author{4}{Lastname}#=%=#Malakasiotis
+Author{4}{Email}#=%=#rulller@gmail.com
+Author{4}{Affiliation}#=%=#Athens University of Economics and Business, Department of Informatics
+Author{5}{Firstname}#=%=#Ion
+Author{5}{Lastname}#=%=#Androutsopoulos
+Author{5}{Email}#=%=#ionandr@gmail.com
+Author{5}{Affiliation}#=%=#Athens University of Economics and Business
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#483
+FinalPaperTitle#=%=#ECNU at SemEval-2016 Task 5: Extracting Effective Features from Relevant Fragments in Sentence for Aspect-Based Sentiment Analysis in Reviews
+ShortPaperTitle#=%=#Extracting Effective Features from Relevant Fragments  for Aspect-Based Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mengxiao Jiang
+JobTitle#==#
+Organization#==#East China Normal University
+No.500 Dongchuan Road, Shanghai
+Abstract#==#This paper describes our systems submitted to the Sentence-level and Text-level
+Aspect-Based Sentiment Analysis (ABSA) task (i.e., Task 5) in SemEval-2016.
+The task involves two phases, namely, Aspect Detection phase and Sentiment
+Polarity Classification phase. We participated in the second phase of both
+subtasks in laptop and restaurant domains, which focuses on the sentiment
+analysis based on the given aspect. In this task, we extracted four types of
+features (i.e., Sentiment Lexicon Features, Linguistic Features, Topic Model
+Features and Word2vec Feature) from certain fragments related to  aspect rather
+than the whole sentence. Then the proposed features are fed into supervised
+classifiers for sentiment analysis. Our submissions rank above average.
+Author{1}{Firstname}#=%=#Mengxiao
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#51151201080@ecnu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Zhihua
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#51131201039@ecnu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Man
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+
+==========

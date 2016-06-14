@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#620
+FinalPaperTitle#=%=#Simple, Fast Noise-Contrastive Estimation for Large RNN Vocabularies
+ShortPaperTitle#=%=#Simple, Fast Noise-Contrastive Estimation for Large RNN Vocabularies
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Barret Zoph
+JobTitle#==#
+Organization#==#USC Information Sciences Institute
+Abstract#==#We present a simple algorithm to efficiently train language models with
+noise-contrastive estimation (NCE) on graphics processing units (GPUs). Our
+NCE-trained language models achieve significantly lower perplexity on the One
+Billion Word Benchmark language modeling challenge, and contain one sixth of
+the parameters of the best single model in Chelba et al. (2013). When
+incorporated into a strong Arabic-English machine translation system they give
+a strong boost in translation quality. We release a toolkit so that others may
+also train large-scale, large vocabulary LSTM language models with NCE,
+parallelizing computation across multiple GPUs.
+Author{1}{Firstname}#=%=#Barret
+Author{1}{Lastname}#=%=#Zoph
+Author{1}{Email}#=%=#barretzoph@gmail.com
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Ashish
+Author{2}{Lastname}#=%=#Vaswani
+Author{2}{Email}#=%=#vaswani@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California Information Sciences Institute
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#May
+Author{3}{Email}#=%=#jonmay@gmail.com
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Knight
+Author{4}{Email}#=%=#knight@isi.edu
+Author{4}{Affiliation}#=%=#USC/ISI
+
+==========

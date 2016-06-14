@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#597
+FinalPaperTitle#=%=#Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment
+ShortPaperTitle#=%=#Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yogarshi Vyas
+JobTitle#==#
+Organization#==#University of Maryland
+Abstract#==#We introduce the task of cross-lingual lexical entailment, which aims to detect
+whether the meaning of a word in one language can be inferred from the meaning
+of a word in another language. We construct a gold standard for this task, and
+propose an unsupervised solution based on distributional word representations.
+As commonly done in the monolingual setting, we assume a word e entails a
+word f if the prominent context features of e are a subset of those of f.
+To address the challenge of comparing contexts across languages, we propose a
+novel method for inducing sparse bilingual word representations from
+monolingual and parallel texts. Our approach yields an F-score of 70%, and
+significantly outperforms strong baselines based on translation and on existing
+word representations.
+Author{1}{Firstname}#=%=#Yogarshi
+Author{1}{Lastname}#=%=#Vyas
+Author{1}{Email}#=%=#yogarshi@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Marine
+Author{2}{Lastname}#=%=#Carpuat
+Author{2}{Email}#=%=#marine@cs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+
+==========

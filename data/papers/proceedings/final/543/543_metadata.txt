@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#543
+FinalPaperTitle#=%=#Emergent: a novel data-set for stance classification
+ShortPaperTitle#=%=#Emergent: a novel data-set for stance classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andreas Vlachos
+JobTitle#==#
+Organization#==#University of Sheffield
+Abstract#==#We present Emergent, a novel data-set derived from a digital journalism project
+for rumour debunking. The data-set contains 300 rumoured claims and 2,595
+associated news articles, collected and labelled by journalists with an
+estimation of their veracity true, false or unverified. Each associated article
+is summarized into a headline and labelled to indicate whether its stance is
+for, against, or observing the claim, where observing indicates that the
+article merely repeats the claim. Thus, Emergent provides a  real-world data
+source for a variety of natural language processing tasks in the context of
+fact-checking. Further to presenting the dataset, we address the task of
+determining the article headline stance with respect to the claim. For this
+purpose we use a logistic regression classifier and develope features that
+examine the headline and its agreement with the claim. The accuracy achieved
+was 73% which is 26% higher than the one achieved by the Excitement Open
+Platform (Magnini et al., 2014).
+Author{1}{Firstname}#=%=#William
+Author{1}{Lastname}#=%=#Ferreira
+Author{1}{Email}#=%=#ferreiraw@gmail.com
+Author{1}{Affiliation}#=%=#University College London
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Vlachos
+Author{2}{Email}#=%=#a.vlachos@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#495
+FinalPaperTitle#=%=#HMC at SemEval-2016 Task 11: Identifying Complex Words Using Depth-limited Decision Trees
+ShortPaperTitle#=%=#Identifying Complex Words Using Depth-limited Decision Trees
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Julie Medero
+JobTitle#==#
+Organization#==#301 Platt Blvd.
+Computer Science Department
+Claremont, CA 91711
+Abstract#==#We present two systems created for SemEval-2016 Task 11: Complex Word
+Identification. Our two systems, a regression tree and decision tree, were
+trained with a word’s unigram and lemma word counts, average
+age-of-acquisition, and a measure of concreteness. The systems ranked 5th and
+6th, respectively, on the test set by G-score (the harmonic mean between
+accuracy and recall). With the regression tree’s predictions earning a
+G-score of 0.766, and the decision tree’s earning 0.765, the two systems
+scored within 1 percent of the score of the best-performing system in the task.
+Author{1}{Firstname}#=%=#Maury
+Author{1}{Lastname}#=%=#Quijada
+Author{1}{Email}#=%=#mquijada@hmc.edu
+Author{1}{Affiliation}#=%=#Harvey Mudd College
+Author{2}{Firstname}#=%=#Julie
+Author{2}{Lastname}#=%=#Medero
+Author{2}{Email}#=%=#julie@cs.hmc.edu
+Author{2}{Affiliation}#=%=#Harvey Mudd College
+
+==========

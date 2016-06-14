@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#624
+FinalPaperTitle#=%=#Automatic Generation and Scoring of Positive Interpretations from Negated Statements
+ShortPaperTitle#=%=#Automatic Generation and Scoring of Positive Interpretations from Negated Statements
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Eduardo Blanco
+JobTitle#==#
+Organization#==#University of North Texas
+1155 Union Circle #311277
+Denton, Texas 76203-5017
+Abstract#==#This paper presents a methodology to extract positive interpretations from
+negated statements. First, we automatically generate plausible interpretations
+using well-known grammar rules and manipulating semantic roles. Second, we
+score plausible alternatives according to their likelihood. Manual annotations
+show that the positive interpretations are intuitive to humans, and
+experimental results show that the scoring task can be automated.
+Author{1}{Firstname}#=%=#Eduardo
+Author{1}{Lastname}#=%=#Blanco
+Author{1}{Email}#=%=#eduardo.blanco@unt.edu
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Zahra
+Author{2}{Lastname}#=%=#Sarabi
+Author{2}{Email}#=%=#ZahraSarabi@my.unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+
+==========

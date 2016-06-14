@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#436
+FinalPaperTitle#=%=#HHU at SemEval-2016 Task 1: Multiple Approaches to Measuring Semantic Textual Similarity
+ShortPaperTitle#=%=#HHU at SemEval-2016 Task 1: Multiple Approaches to Measuring Semantic Textual Similarity
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Matthias Liebeck
+JobTitle#==#
+Organization#==#Matthias Liebeck
+Heinrich Heine University Düsseldorf
+Abstract#==#This paper describes our participation in the SemEval-2016 Task 1: Semantic
+Textual Similarity (STS). We developed three methods for the English subtask
+(STS Core). The first method is unsupervised and uses WordNet and word2vec to
+measure a token-based overlap. In our second approach, we train a neural
+network on two features. The third method uses word2vec and LDA with regression
+splines.
+Author{1}{Firstname}#=%=#Matthias
+Author{1}{Lastname}#=%=#Liebeck
+Author{1}{Email}#=%=#liebeck@cs.uni-duesseldorf.de
+Author{1}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Pollack
+Author{2}{Email}#=%=#Philipp.Pollack@uni-duesseldorf.de
+Author{2}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+Author{3}{Firstname}#=%=#Pashutan
+Author{3}{Lastname}#=%=#Modaresi
+Author{3}{Email}#=%=#modaresi@cs.uni-duesseldorf.de
+Author{3}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+Author{4}{Firstname}#=%=#Stefan
+Author{4}{Lastname}#=%=#Conrad
+Author{4}{Email}#=%=#conrad@cs.uni-duesseldorf.de
+Author{4}{Affiliation}#=%=#Heinrich Heine University Düsseldorf
+
+==========

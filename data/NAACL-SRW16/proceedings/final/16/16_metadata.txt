@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Effects of Communicative Pressures on Novice L2 Learners' Use of Optional Formal Devices
+ShortPaperTitle#=%=#Effects of Communicative Pressures on Novice L2 Learners' Use of Optional Formal Devices
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yoav Binoun
+JobTitle#==#
+Organization#==#Saarland University
+66123 Saarbruecken
+Germany
+Abstract#==#We conducted an Artificial Language Learning experiment to examine the
+production behavior of language learners in a dynamic communicative setting.
+Participants were exposed to a miniature language with two optional formal
+devices and were then asked to use the acquired language to transfer
+information in a cooperative game. The results showed that language learners
+optimize their use of the optional formal devices to transfer information
+efficiently and that they avoid the production of ambiguous information. These
+results could be used within the context of a language model such that the
+model can more accurately reflect the production behavior of human language
+learners.
+Author{1}{Firstname}#=%=#Yoav
+Author{1}{Lastname}#=%=#Binoun
+Author{1}{Email}#=%=#yoavybinoun@gmail.com
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Francesca
+Author{2}{Lastname}#=%=#Delogu
+Author{2}{Email}#=%=#francesca.delogu@gmail.com
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Clayton
+Author{3}{Lastname}#=%=#Greenberg
+Author{3}{Email}#=%=#claytong@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Mindaugas
+Author{4}{Lastname}#=%=#Mozuraitis
+Author{4}{Email}#=%=#mindauga@coli.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+Author{5}{Firstname}#=%=#Matthew
+Author{5}{Lastname}#=%=#Crocker
+Author{5}{Email}#=%=#crocker@coli.uni-sb.de
+Author{5}{Affiliation}#=%=#Saarland University
+
+==========

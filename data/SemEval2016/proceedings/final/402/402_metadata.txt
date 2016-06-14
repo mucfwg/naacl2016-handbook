@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#402
+FinalPaperTitle#=%=#DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs
+ShortPaperTitle#=%=#DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Soroush Vosoughi
+JobTitle#==#
+Organization#==#MIT
+Cambridge, MA 02139
+USA
+Abstract#==#This paper describes our approach for the Detecting Stance in Tweets task
+(SemEval-2016 Task 6). We utilized recent advances in short text categorization
+using deep learning to create word-level and character-level models. The choice
+between word-level and character-level models in each particular case was
+informed through validation performance. Our final system is a combination of
+classifiers using word-level or character-level models. We also employed novel
+data augmentation techniques to expand and diversify our training dataset, thus
+making our system more robust. Our system achieved a macro-average precision,
+recall and F1-scores of 0.67, 0.61 and 0.635 respectively.
+Author{1}{Firstname}#=%=#Prashanth
+Author{1}{Lastname}#=%=#Vijayaraghavan
+Author{1}{Email}#=%=#pralav@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Sysoev
+Author{2}{Email}#=%=#isysoev@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Soroush
+Author{3}{Lastname}#=%=#Vosoughi
+Author{3}{Email}#=%=#soroush@media.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+Author{4}{Firstname}#=%=#Deb
+Author{4}{Lastname}#=%=#Roy
+Author{4}{Email}#=%=#dkroy@media.mit.edu
+Author{4}{Affiliation}#=%=#MIT
+
+==========

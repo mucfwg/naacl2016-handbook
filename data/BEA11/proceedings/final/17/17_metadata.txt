@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Exploring the Intersection of Short Answer Assessment, Authorship Attribution, and Plagiarism Detection
+ShortPaperTitle#=%=#Intersection of Short Answer Assessment, Authorship Attribution, and Plagiarism Detection
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Björn Rudzewitz
+JobTitle#==#Research Assistant
+Organization#==#University of Tübingen
+SFB 833, Project A4
+Nauklerstrasse 35
+DE-72074 Tübingen
+Abstract#==#In spite of methodological and conceptual parallels, the computational
+linguistic applications short answer scoring (Burrows et al., 2015), authorship
+attribution (Stamatatos, 2009), and plagiarism detection (Zesch and Gurevych,
+2012) haven’t been linked in practice. This work explores the practical
+usefulness of the combination of features from each of these fields for two
+tasks: semantic learner language classification, and plagiarism detection. The
+experiments show that incorporating features from the other domain yields
+significant improvements. A feature analysis reveals that robust lexical and
+semantic features are most informative for these tasks.
+Author{1}{Firstname}#=%=#Björn
+Author{1}{Lastname}#=%=#Rudzewitz
+Author{1}{Email}#=%=#brzdwtz@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tübingen
+
+==========

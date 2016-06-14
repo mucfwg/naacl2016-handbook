@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#TransRead: Designing a Bilingual Reading Experience with Machine Translation Technologies
+ShortPaperTitle#=%=#TransRead: Designing a Bilingual Reading Experience with Machine Translation Technologies
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Francois Yvon
+JobTitle#==#
+Organization#==#LIMSI, CNRS
+Rue john von Neumann
+91 403 Orsay Cédex
+Abstract#==#In this paper, we use multilingual Natural Language Processing (NLP) tools to
+improve the reading experience of parallel texts on mobile devices. Such
+enterprise poses multiple challenging issues both from the NLP and from the
+Human Computer Interaction (HCI) perspectives. We discuss these problems and
+report on our own solutions, now implemented in a full-fledge bilingual reading
+device.
+Author{1}{Firstname}#=%=#François
+Author{1}{Lastname}#=%=#Yvon
+Author{1}{Email}#=%=#yvon@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI/CNRS
+Author{2}{Firstname}#=%=#Yong
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#yong.xu@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI, CNRS, Université Paris-Saclay
+Author{3}{Firstname}#=%=#Marianna
+Author{3}{Lastname}#=%=#Apidianaki
+Author{3}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{4}{Firstname}#=%=#Clément
+Author{4}{Lastname}#=%=#Pillias
+Author{4}{Email}#=%=#clement.pillias@cnam.fr
+Author{4}{Affiliation}#=%=#CEDRIC/CNAM
+Author{5}{Firstname}#=%=#Pierre
+Author{5}{Lastname}#=%=#Cubaud
+Author{5}{Email}#=%=#pierre-henri.cubaud@cnam.fr
+Author{5}{Affiliation}#=%=#CEDRIC/CNAM
+
+==========

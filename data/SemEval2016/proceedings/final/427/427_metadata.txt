@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#427
+FinalPaperTitle#=%=#TALN at SemEval-2016 Task 11: Modelling Complex Words by Contextual, Lexical and Semantic Features
+ShortPaperTitle#=%=#TALN at SemEval-2016 Task 11: Modelling Complex Words by Contextual, Lexical and Semantic Features
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#FRANCESCO RONZANO
+JobTitle#==#
+Organization#==#Department of Information and Communication Technologies (DTIC)
+Universitat Pompeu Fabra
+Tangèr 122, Barcelona (08018), Spain
+Abstract#==#This paper presents the participation of the TALN team in the Complex Word
+Identification Task of SemEval-2016 (Task 11). The purpose of the task was to
+determine if a word in a given sentence can be judged as complex or not by a
+certain target audience. To experiment with word complexity identification
+approaches, Task organizers provided a training set of 2,237 words judged as
+complex or not by 20 human evaluators, together with the sentence in which each
+word occurs. In our contribution we modelled each word to evaluate as a numeric
+vector populated with a set of lexical, semantic and contextual features that
+may help assess the complexity of a word. We trained a Random Forest classifier
+to automatically decide if each word is complex or not. We submitted two runs
+in which we respectively considered unweighted and weighted instances of
+complex words to train our classifier, where the weight of each instance is
+proportional to the number of evaluators that judged the word as complex. Our
+system scored as the third best performing one.
+Author{1}{Firstname}#=%=#Francesco
+Author{1}{Lastname}#=%=#Ronzano
+Author{1}{Email}#=%=#francesco.ronzano@upf.edu
+Author{1}{Affiliation}#=%=#Natural Language Processing Group (TALN), Universitat Pompeu Fabra, Barcelona
+Author{2}{Firstname}#=%=#Ahmed
+Author{2}{Lastname}#=%=#Abura'ed
+Author{2}{Email}#=%=#ahmed.aburaed@upf.edu
+Author{2}{Affiliation}#=%=#Natural Language Processing Group (TALN), Universitat Pompeu Fabra, Barcelona
+Author{3}{Firstname}#=%=#Luis
+Author{3}{Lastname}#=%=#Espinosa Anke
+Author{3}{Email}#=%=#luis.espinosa@upf.edu
+Author{3}{Affiliation}#=%=#Natural Language Processing Group (TALN), Universitat Pompeu Fabra, Barcelona
+Author{4}{Firstname}#=%=#Horacio
+Author{4}{Lastname}#=%=#Saggion
+Author{4}{Email}#=%=#horacio.saggion@upf.edu
+Author{4}{Affiliation}#=%=#Natural Language Processing Group (TALN), Universitat Pompeu Fabra, Barcelona
+
+==========

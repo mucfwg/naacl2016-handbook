@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#540
+FinalPaperTitle#=%=#ITNLP-AiKF at SemEval-2016 Task 3 a quesiton answering system using community QA repository
+ShortPaperTitle#=%=#ITNLP-AiKF at SemEval-2016 Task 3 a quesiton answering system using community QA repository
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chang e Jia
+JobTitle#==#
+Organization#==#Harbin Institute of Technology, Harbin Heilongjiang 150001, China
+Beijing Huilan Technology Co.,Ltd.
+Abstract#==#Community Question Answering (CAQ) sys-tems play an important role in people's
+lives due to the huge knowledge accumulated in them. In order to take full
+advantage of the huge knowledge, the target of semeval2016 task3 is to find the
+best answers to a new question in CQA. This work proposes to use rich semantic
+text similarity (STS) features to complete the task. We address the task as a
+ranking problem and Support Vector Regres-sion (SVR) model is chosen to combine
+rich semantic similarity features and context fea-tures. Finally, we used
+genetic algorithm to do feature selection. Our method achieves an MAP (mean
+average precision) of 71.52%, 71.43% and 48.49% in subtask A, B and C
+respectively.  It ranked 8th in subtask A and subtask B, and 7th  in subtask C.
+Author{1}{Firstname}#=%=#Chang e
+Author{1}{Lastname}#=%=#Jia
+Author{1}{Email}#=%=#bright_fall@sina.com
+Author{1}{Affiliation}#=%=#Intelligence Technlolgy and Natural Language Processing Laboratory, Harbin Institute of Technology
+
+==========

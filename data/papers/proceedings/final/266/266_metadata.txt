@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#266
+FinalPaperTitle#=%=#Learning Distributed Representations of Sentences from Unlabelled Data
+ShortPaperTitle#=%=#Learning Distributed Representations of Sentences from Unlabelled Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Unuspervised methods for learning distributed representations of words are
+ubiquitous in today's NLP research, but far less is known about the best ways
+to learn distributed phrase or sentence representations from unlabelled data.
+This paper is a systematic comparison of models that learn such
+representations. We find that the optimal approach depends critically on the
+intended application. Deeper, more complex models are preferable for
+representations to be used in supervised systems, but shallow log-linear models
+work best for building representation spaces that can be decoded with simple
+spatial distance metrics. We also propose two new unsupervised
+representation-learning objectives designed to optimise the trade-off between
+training time, domain portability and performance.
+Author{1}{Firstname}#=%=#Felix
+Author{1}{Lastname}#=%=#Hill
+Author{1}{Email}#=%=#fh295@cam.ac.uk
+Author{1}{Affiliation}#=%=#Cambridge University
+Author{2}{Firstname}#=%=#Kyunghyun
+Author{2}{Lastname}#=%=#Cho
+Author{2}{Email}#=%=#kyunghyun.cho@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Korhonen
+Author{3}{Email}#=%=#alk23@cam.ac.uk
+Author{3}{Affiliation}#=%=#Cambridge University
+
+==========

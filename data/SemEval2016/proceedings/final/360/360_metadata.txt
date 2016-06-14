@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#360
+FinalPaperTitle#=%=#TwiSE at SemEval-2016 Task 4: Twitter Sentiment Classification
+ShortPaperTitle#=%=#TwiSE at SemEval-2016 Task 4: Twitter Sentiment Classification
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Georgios Balikas
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the participation of the team ``TwiSE'' in the SemEval
+2016 challenge.
+Specifically, we participated in Task 4, namely ``Sentiment Analysis in
+Twitter'' for which we implemented
+sentiment classification systems for subtasks A, B, C and D.
+Our approach consists of two steps. In the first step, we generate and validate
+diverse  feature sets for twitter sentiment evaluation, inspired by the work of
+participants of previous editions of such challenges. 
+In the second step, we focus on the optimization of the evaluation measures of
+the different subtasks. To this end, we examine different learning strategies
+by validating them on the data provided by the task organisers. For our final
+submissions we used an ensemble learning approach (stacked generalization) for
+Subtask A and single linear models for the rest of the subtasks. In the
+official leaderboard we were ranked 9/35, 8/19, 1/11 and 2/14 for subtasks A,
+B, C and D respectively. The code can be found at
+\url{https://github.com/balikasg/SemEval2016-Twitter_Sentiment_Evaluation}.
+Author{1}{Firstname}#=%=#Georgios
+Author{1}{Lastname}#=%=#Balikas
+Author{1}{Email}#=%=#georgios.balikas@imag.fr
+Author{1}{Affiliation}#=%=#University Grenoble-Alpes
+Author{2}{Firstname}#=%=#Massih-Reza
+Author{2}{Lastname}#=%=#Amini
+Author{2}{Email}#=%=#Massih-Reza.Amini@imag.fr
+Author{2}{Affiliation}#=%=#University Grenoble-Alpes
+
+==========

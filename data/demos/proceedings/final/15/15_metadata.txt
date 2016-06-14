@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Linguistica 5: Unsupervised Learning of Linguistic Structure
+ShortPaperTitle#=%=#Linguistica 5: Unsupervised Learning of Linguistic Structure
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jackson Lee
+JobTitle#==#Graduate Student
+Organization#==#University of Chicago
+1115 East 58th Street
+Chicago, IL 60637, USA
+Abstract#==#This paper introduces Linguistica 5, a software for unsupervised learning of
+linguistic structure. It is a descendant of Goldsmith's (2001, 2006)
+Linguistica. Open-source and written in Python, the new Linguistica 5 is both a
+graphical user interface software and a Python library. While Linguistica 5
+inherits its predecessors' strength in unsupervised learning of natural
+language morphology, it incorporates significant improvements in multiple ways.
+Notable new features include tools for data visualization as well as
+straightforward extensions for both its components and embedding in other
+programs.
+Author{1}{Firstname}#=%=#Jackson
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#jsllee@uchicago.edu
+Author{1}{Affiliation}#=%=#University of Chicago
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Goldsmith
+Author{2}{Email}#=%=#goldsmith@uchicago.edu
+Author{2}{Affiliation}#=%=#University of Chicago
+
+==========

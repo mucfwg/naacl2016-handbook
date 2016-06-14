@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#339
+FinalPaperTitle#=%=#Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning
+ShortPaperTitle#=%=#Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sarath Chandar
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently there has been a lot of interest in learning common representations
+for multiple views of data. Typically, such common representations are learned
+using a parallel corpus between the two views (say, 1M images and their English
+captions). In this work, we address a real-world scenario where no direct
+parallel data is available between two views of interest (say, V1 and V2) but
+parallel data is available between each of these views and a pivot view (V3).
+We propose a model for learning a common representation for  V1, V2 and V3
+using only the parallel data available between V1V3 and V2V3. The proposed
+model is generic and even works when there are n views of interest and only one
+pivot view which acts as a bridge between them. There are two specific
+downstream applications that we focus on (i) transfer learning between
+languages L1,L2,...,Ln using a pivot language L and (ii) cross modal access
+between images and a language L1 using a pivot language L2. Our model achieves
+state-of-the-art performance in multilingual document classification on
+the publicly available multilingual TED corpus and promising results in
+multilingual multimodal retrieval on a new dataset created and
+released as a part of this work.
+Author{1}{Firstname}#=%=#Janarthanan
+Author{1}{Lastname}#=%=#Rajendran
+Author{1}{Email}#=%=#rsdjjana@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Madras
+Author{2}{Firstname}#=%=#Mitesh M.
+Author{2}{Lastname}#=%=#Khapra
+Author{2}{Email}#=%=#mikhapra@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM, India Research Laboratory
+Author{3}{Firstname}#=%=#Sarath
+Author{3}{Lastname}#=%=#Chandar
+Author{3}{Email}#=%=#sarathcse2008@gmail.com
+Author{3}{Affiliation}#=%=#University of Montreal
+Author{4}{Firstname}#=%=#Balaraman
+Author{4}{Lastname}#=%=#Ravindran
+Author{4}{Email}#=%=#ravi@cse.iitm.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Madras
+
+==========

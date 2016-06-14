@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Text Readability Assessment for Second Language Learners
+ShortPaperTitle#=%=#Text Readability Assessment for Second Language Learners
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Menglin Xia
+JobTitle#==#
+Organization#==#Computer Laboratory, University of Cambridge
+William Gates Building, Cambridge, CB3 0FD, UK
+Abstract#==#This paper addresses the task of readability assessment for the texts aimed at
+second language (L2) learners. One of the major challenges in this task is the
+lack of significantly sized level-annotated data. For the present work, we
+collected a dataset of CEFR-graded texts tailored for learners of English as an
+L2 and investigated text readability assessment for both native and L2
+learners. We applied a generalization method to adapt models trained on larger
+native corpora to estimate text readability for learners, and explored domain
+adaptation and self-learning techniques to make use of the native data to
+improve system performance on the limited L2 data. In our experiments, the best
+performing model for readability on learner texts achieves an accuracy of 0.797
+and PCC of 0.938.
+Author{1}{Firstname}#=%=#Menglin
+Author{1}{Lastname}#=%=#Xia
+Author{1}{Email}#=%=#mx223@cam.ac.uk
+Author{1}{Affiliation}#=%=#Computer Laboratory, University of Cambridge
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Kochmar
+Author{2}{Email}#=%=#ek358@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#Computer Laboratory, University of Cambridge
+Author{3}{Firstname}#=%=#Ted
+Author{3}{Lastname}#=%=#Briscoe
+Author{3}{Email}#=%=#ejb1@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#Computer Laboratory, University of Cambridge
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#294
+FinalPaperTitle#=%=#Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence
+ShortPaperTitle#=%=#Improved Neural Network-based Multilabel Classification with Initialization Using Label Cooccurrence
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gakuto Kurata
+JobTitle#==#
+Organization#==#IBM Research - Tokyo
+19-21 NIHONBASHI-HAKOZAKICHO
+CHUO-KU,
+TOKYO,  103-8510, JP
+Abstract#==#In a multi-label text classification task, in which multiple labels can be
+assigned to one text, label co-occurrence itself is informative.
+We propose a novel neural network initialization method to treat some of the
+neurons in the final hidden layer as dedicated neurons for each pattern of
+label
+co-occurrence.
+These dedicated neurons are initialized to connect to the corresponding
+co-occurring labels with stronger weights than to others.
+In experiments with a natural language query classification task, which
+requires multi-label classification, our initialization method improved
+classification accuracy without any computational overhead in training and
+evaluation.
+Author{1}{Firstname}#=%=#Gakuto
+Author{1}{Lastname}#=%=#Kurata
+Author{1}{Email}#=%=#gakuto@jp.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Xiang
+Author{2}{Email}#=%=#bingxia@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Watson
+Author{3}{Firstname}#=%=#Bowen
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#zhou@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Watson
+
+==========

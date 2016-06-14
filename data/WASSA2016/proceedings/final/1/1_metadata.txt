@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Political Issue Extraction Model: A Novel Hierarchical Topic Model That Uses Tweets By Political And Non-Political Authors
+ShortPaperTitle#=%=#Political Issue Extraction Model: A Novel Hierarchical Topic Model
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Aditya Joshi
+JobTitle#==#
+Organization#==#IITB-Monash Research Academy, IIT Bombay, Powai, Mumbai - 400076, India
+Abstract#==#People often use social media to discuss opinions, including political ones. We
+refer to relevant topics in these discussions as political issues, and the
+alternate stands towards these topics as political positions. We present a
+Political Issue Extraction (PIE) model that is capable of discovering political
+issues and positions from an unlabeled dataset of tweets. A strength of this
+model is that it uses twitter timelines of political and non-political authors,
+and affiliation information of only political authors. The model estimates
+word-specific distributions (that denote political issues and positions) and
+hierarchical author/group-specific distributions (that show how these issues
+divide people). Our experiments using a dataset of 2.4 million tweets from the
+US show that this model effectively captures the desired properties (with
+respect to words and groups) of political discussions. We also evaluate
+the two components of the model by experimenting with: (a) Use to alternate
+strategies to classify words, and (b) Value addition due to incorporation of
+group membership information. Estimated distributions are then used to predict
+political affiliation with 68\% accuracy.
+Author{1}{Firstname}#=%=#Aditya
+Author{1}{Lastname}#=%=#Joshi
+Author{1}{Email}#=%=#adityaj@cse.iitb.ac.in
+Author{1}{Affiliation}#=%=#IITB-Monash Research Academy
+Author{2}{Firstname}#=%=#Pushpak
+Author{2}{Lastname}#=%=#Bhattacharyya
+Author{2}{Email}#=%=#pushpakbh@gmail.com
+Author{2}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Carman
+Author{3}{Email}#=%=#mark.carman@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

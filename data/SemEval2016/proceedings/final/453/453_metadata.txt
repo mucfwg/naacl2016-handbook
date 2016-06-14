@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#453
+FinalPaperTitle#=%=#RICOH at SemEval-2016 Task 1: IR-based Semantic Textual Similarity Estimation
+ShortPaperTitle#=%=#RICOH at SemEval-2016 Task 1: IR-based Semantic Textual Similarity Estimation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hideo Itoh
+JobTitle#==#
+Organization#==#RICOH Company Ltd. 
+16-1, Shinei, Tsuzuki, Yokohama, Japan
+Abstract#==#This paper describes our IR (Information Retrieval) 
+based method for Semantic Textual Similarity (STS)
+in the SemEval 2016 task 1.
+The main feature of our approach is 
+to extend a conventional IR-based scheme 
+by incorporating word alignment results.
+This enables us to develop a more fine-grained 
+similarity measurement.
+In the evaluation results, 
+we have seen that the proposed method improves upon 
+a conventional IR-based method on average.
+In addition, one of our submissions achieved 
+the best performance for the ``postediting'' data set.
+Author{1}{Firstname}#=%=#Hideo
+Author{1}{Lastname}#=%=#Itoh
+Author{1}{Email}#=%=#hideo.itoh@nts.ricoh.co.jp
+Author{1}{Affiliation}#=%=#RICOH Company Ltd.
+
+==========

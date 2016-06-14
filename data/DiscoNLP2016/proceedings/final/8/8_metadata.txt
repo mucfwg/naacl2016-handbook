@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Discontinuous Genitives in Hindi/Urdu
+ShortPaperTitle#=%=#Discontinuous Genitives in Hindi/Urdu
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sebastian Sulger
+JobTitle#==#
+Organization#==#Department of Linguistics, University of Konstanz
+Konstanz, Germany
+Abstract#==#This paper discusses genitive phrases in Hindi/Urdu in general and puts a
+particular focus on genitive scrambling, a process whereby the basic order of
+constituents is changed. In Hindi/Urdu, genitive phrases may not only occur at
+different structural positions within the NP that they modify; under the right
+circumstances, they can also be found outside of the NP, yielding discontinuous
+structures. The theoretical challenge is to identify and formalize the
+linguistic constraints that govern genitive scrambling. Further, a successful
+computational treatment correctly attaches the genitive phrase to its head NP.
+I use a Lexical-Functional Grammar to solve both challenges, demonstrating that
+the constraints can be aptly formulated using a functional uncertainty path.
+Successful attachment further depends on the morphological agreement of the
+genitive phrase with its head. On a theoretical level, the present contribution
+sheds light on the possibilities of NP discontinuities in a morphologically
+rich language like Hindi/Urdu.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Sulger
+Author{1}{Email}#=%=#sebastian.sulger@uni-konstanz.de
+Author{1}{Affiliation}#=%=#University of Konstanz
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#357
+FinalPaperTitle#=%=#USAAR at SemEval-2016 Task 11: Complex Word Identification with Sense Entropy and Sentence Perplexity
+ShortPaperTitle#=%=#Complex Word Identification with Sense Entropy and Sentence Perplexity
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liling Tan
+JobTitle#==#
+Organization#==#Saarland Unviersity, Campus, 66123 Saabrucken
+Abstract#==#This paper describes an information-theoretic approach to complex word
+identification using a classifier based on an entropy based measure based on
+word senses and sentence-level perplexity features. We describe the motivation
+behind these features based on information density and demonstrate that they
+perform modestly well in the complex word identification task in SemEval-2016.
+We also discuss the possible improvements that can be made to future work by
+exploring the subjectivity of word complexity and more robust evaluation
+metrics for the complex word identification task.
+Author{1}{Firstname}#=%=#José Manuel
+Author{1}{Lastname}#=%=#Martínez Martínez
+Author{1}{Email}#=%=#chozelinek@gmail.com
+Author{1}{Affiliation}#=%=#Universität des Saarlandes
+Author{2}{Firstname}#=%=#Liling
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#alvations@gmail.com
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

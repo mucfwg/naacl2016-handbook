@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#437
+FinalPaperTitle#=%=#PMI-cool at SemEval-2016 Task 3: Experiments with PMI and Goodness Polarity Lexicons for Community Question Answering
+ShortPaperTitle#=%=#PMI-cool at SemEval-2016 Task 3: Experiments with PMI and Lexicons for Community Question Answering
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Daniel Balchev
+JobTitle#==#
+Organization#==#Sofia University
+Abstract#==#We describe our submission to SemEval-2016 Task 3 on Community Question
+Answering. We participated in subtask A, which asks to rerank the comments from
+the thread for a given forum question from good to bad. 
+Our approach focuses on the generation and use of goodness polarity lexicons,
+similarly to the sentiment polarity lexicons, which are very popular in
+sentiment analysis. In particular, we use a combination of bootstrapping and
+pointwise mutual information to estimate the strength of association between a
+word (from a large unannotated set of question-answer threads) and the class of
+good/bad comments.
+We then use various features based on these lexicons to train a regression
+model, whose predictions we use to induce the final comment ranking. While our
+system was not very strong as it lacked important features, our lexicons
+contributed to the strong performance of another top-performing system.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Balchev
+Author{1}{Email}#=%=#dbalchev@gmail.com
+Author{1}{Affiliation}#=%=#Sofia University
+Author{2}{Firstname}#=%=#Yasen
+Author{2}{Lastname}#=%=#Kiprov
+Author{2}{Email}#=%=#yasen.kiprov@gmail.com
+Author{2}{Affiliation}#=%=#Sofia University
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Koychev
+Author{3}{Email}#=%=#koychev@fmi.uni-sofia.bg
+Author{3}{Affiliation}#=%=#Sofia University
+Author{4}{Firstname}#=%=#Preslav
+Author{4}{Lastname}#=%=#Nakov
+Author{4}{Email}#=%=#preslav.nakov@gmail.com
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+
+==========

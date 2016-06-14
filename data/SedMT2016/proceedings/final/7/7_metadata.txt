@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Towards Semantic-based Hybrid Machine Translation between Bulgarian and English
+ShortPaperTitle#=%=#Towards Semantic-based Hybrid Machine Translation between Bulgarian and English
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Kiril Simov
+JobTitle#==#
+Organization#==#Linguistic Modelling Department, IICT-BAS
+Abstract#==#The paper focuses on the creation of a semantic-based hybrid Machine
+Translation system between Bulgarian and English in the domain of Information
+Technology. The preprocessing strategies are presented. A method for the
+substitution of English word forms with the synsets or Bulgarian representative
+lemmas is discussed. Finally, the creation of a factored model in the Moses
+system is described.
+Author{1}{Firstname}#=%=#Kiril
+Author{1}{Lastname}#=%=#Simov
+Author{1}{Email}#=%=#kivs@bultreebank.org
+Author{1}{Affiliation}#=%=#Linguistic Modeling Department, IICT-BAS
+Author{2}{Firstname}#=%=#Petya
+Author{2}{Lastname}#=%=#Osenova
+Author{2}{Email}#=%=#petya@bultreebank.org
+Author{2}{Affiliation}#=%=#Sofia University and IICT-BAS
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Popov
+Author{3}{Email}#=%=#alex.popov@bultreebank.org
+Author{3}{Affiliation}#=%=#Linguistic Modeling Department, IICT-BAS
+
+==========

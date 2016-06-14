@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#338
+FinalPaperTitle#=%=#Improving event prediction by representing script participants
+ShortPaperTitle#=%=#Improving event prediction by representing script participants
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Vera Demberg
+JobTitle#==#
+Organization#==#Saarland University, 66123 Saarbruecken, Germany
+Abstract#==#Automatically learning script knowledge has proved difficult, with previous
+work not or just barely beating a most-frequent baseline. Script knowledge is a
+type of world knowledge which can however be useful for various task in NLP and
+psycholinguistic modelling. We here propose a model that includes participant
+information (i.e., knowledge about which participants are relevant for a
+script) and show, on the Dinners from Hell corpus as well as the InScript
+corpus, that this knowledge helps us to significantly improve prediction
+performance on the narrative cloze task.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Ahrendt
+Author{1}{Email}#=%=#simona@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Vera
+Author{2}{Lastname}#=%=#Demberg
+Author{2}{Email}#=%=#vera@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Learning Knowledge Base Inference with Neural Theorem Provers
+ShortPaperTitle#=%=#Learning Knowledge Base Inference with Neural Theorem Provers
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tim Rocktäschel
+JobTitle#==#
+Organization#==#University College London
+Dept. of Computer Science (1ES) 
+Gower Street 
+London WC1E 6BT 
+United Kingdom
+Abstract#==#In this paper we present a proof-of-concept implementation of Neural Theorem
+Provers (NTPs), end-to-end differentiable counterparts of discrete theorem
+provers that per- form first-order inference on vector representations of
+symbols using function-free, possibly parameterized, rules. As such, NTPs
+follow a long tradition of neural-symbolic approaches to automated knowledge
+base inference, but differ in that they are differentiable with respect to
+representations of symbols in a knowledge base and can thus learn
+representations of predicates, constants, as well as rules of predefined
+structure. Furthermore, they still allow us to incorporate domain- knowledge
+provided as rules. The NTP presented here is realized via a differentiable
+version of the backward chaining algorithm. It operates on substitution
+representations and is able to learn complex logical dependencies from training
+facts of small knowledge bases.
+Author{1}{Firstname}#=%=#Tim
+Author{1}{Lastname}#=%=#Rocktäschel
+Author{1}{Email}#=%=#tim.rocktaeschel@gmail.com
+Author{1}{Affiliation}#=%=#University College London
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Riedel
+Author{2}{Email}#=%=#sebastian.riedel@gmail.com
+Author{2}{Affiliation}#=%=#UCL
+
+==========

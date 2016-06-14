@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#537
+FinalPaperTitle#=%=#MAWPS: A Math Word Problem Repository
+ShortPaperTitle#=%=#MAWPS: A Math Word Problem Repository
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#rik
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work across several AI subdisciplines has focused on automatically
+solving math word problems.  In this paper we introduce MAWPS, an online
+repository of Math Word Problems, to provide a unified testbed to evaluate
+different algorithms. MAWPS allows for the automatic construction of datasets
+with particular characteristics, providing tools for tuning the lexical and
+template overlap of a dataset as well as for filtering ungrammatical problems
+from web-sourced corpora. The online nature of this repository facilitates easy
+community contribution. At present, we have amassed 3,320 problems, including
+the full datasets used in several prominent works.
+Author{1}{Firstname}#=%=#Rik
+Author{1}{Lastname}#=%=#Koncel-Kedziorski
+Author{1}{Email}#=%=#kedzior@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Subhro
+Author{2}{Lastname}#=%=#Roy
+Author{2}{Email}#=%=#sroy9@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+Author{3}{Firstname}#=%=#Aida
+Author{3}{Lastname}#=%=#Amini
+Author{3}{Email}#=%=#amini91@uw.edu
+Author{3}{Affiliation}#=%=#Student
+Author{4}{Firstname}#=%=#Nate
+Author{4}{Lastname}#=%=#Kushman
+Author{4}{Email}#=%=#nkushman@mit.edu
+Author{4}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{5}{Firstname}#=%=#Hannaneh
+Author{5}{Lastname}#=%=#Hajishirzi
+Author{5}{Email}#=%=#hannaneh@washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

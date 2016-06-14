@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#Dependency Sensitive Convolutional Neural Networks for Modeling Sentences and Documents
+ShortPaperTitle#=%=#Dependency Sensitive Convolutional Neural Networks for Modeling Sentences and Documents
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rui Zhang
+JobTitle#==#
+Organization#==#Department of EECS
+University of Michigan
+Ann Arbor, MI, USA
+Abstract#==#The goal of sentence and document modeling is to accurately represent the
+meaning of sentences and documents for various Natural Language Processing
+tasks. In this work, we present Dependency Sensitive Convolutional Neural
+Networks (DSCNN) as a general-purpose classification system for both sentences
+and documents. DSCNN hierarchically builds textual representations by
+processing pretrained word embeddings via Long Short-Term Memory networks and
+subsequently extracting features with convolution operators. Compared with
+existing recursive neural models with tree structures, DSCNN does not rely on
+parsers and expensive phrase labeling, and thus is not restricted to
+sentence-level tasks. Moreover, unlike other CNN-based models that analyze
+sentences locally by sliding windows, our system captures both the dependency
+information within each sentence and relationships across sentences in the same
+document. Experiment results demonstrate that our approach is achieving
+state-of-the-art performance on several tasks, including sentiment analysis,
+question type classification, and subjectivity classification.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#ryanzh@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Honglak
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#honglak@eecs.umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Dragomir R.
+Author{3}{Lastname}#=%=#Radev
+Author{3}{Email}#=%=#radev@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#544
+FinalPaperTitle#=%=#DCU-SEManiacs at SemEval-2016 Task 1: Synthetic Paragram Embeddings for Semantic Textual Similarity
+ShortPaperTitle#=%=#DCU-SEManiacs at SemEval-2016 Task 1: Synthetic Paragram Embeddings for Semantic Textual Similarity
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chris Hokamp
+JobTitle#==#
+Organization#==#Dublin City University
+Glasnevin, Dublin 9
+Ireland
+Abstract#==#We experiment with learning word representations designed to be combined into
+sentence-level semantic representations, using an objective function which does
+not directly make use of the supervised scores provided with the training data,
+instead opting for a simpler objective which encourages similar phrases to be
+close together in the embedding space. This simple objective lets us start with
+high-quality embeddings trained using PPDB~\cite{Wieting16paragram,ppdb:2013},
+and then tune these embeddings using the official STS task training data, as
+well as synthetic paraphrases for each test dataset, obtained by pivoting
+through machine translation. 
+
+Our submissions include runs which only compare the similarity of phrases in
+the embedding space, directly using the similarity score to produce
+predictions, as well as a run which uses vector similarity in addition to a
+suite of features we investigated for our 2015 Semeval submission.
+
+For the crosslingual task, we simply translate the Spanish sentences to
+English, and use the same system we designed for the monolingual task.
+Author{1}{Firstname}#=%=#Chris
+Author{1}{Lastname}#=%=#Hokamp
+Author{1}{Email}#=%=#chris.hokamp@gmail.com
+Author{1}{Affiliation}#=%=#Dublin City University - CNGL
+Author{2}{Firstname}#=%=#Piyush
+Author{2}{Lastname}#=%=#Arora
+Author{2}{Email}#=%=#parora@computing.dcu.ie
+Author{2}{Affiliation}#=%=#Dublin City University
+
+==========

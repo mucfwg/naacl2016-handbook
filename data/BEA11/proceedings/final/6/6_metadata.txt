@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Computer-assisted stylistic revision with incomplete and noisy feedback. A pilot study
+ShortPaperTitle#=%=#Computer-assisted stylistic revision with incomplete and noisy feedback
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#CHRSTIAN M. MEYER
+JobTitle#==#
+Organization#==#Ubiquitous Knowledge Processing Lab
+Technische Universität Darmstadt
+Hochschulstraße 10
+64283 Darmstadt
+Germany
+http://www.ukp.tu-darmstadt.de
+Abstract#==#We investigate how users of intelligent writing assistance tools deal with
+correct, incorrect, and incomplete feedback. To this end, we conduct an
+empirical user study around an L1 text revision task for German. Our
+participants should revise stylistic issues in two given texts using a novel
+web-based writing environment that highlights potential issues and provides
+corresponding feedback messages. In comparison to a control group, we find that
+precision plays a more important role than recall, which confirms previous
+findings for other languages, issue types, user groups, and experimental
+setups.
+Author{1}{Firstname}#=%=#Christian M.
+Author{1}{Lastname}#=%=#Meyer
+Author{1}{Email}#=%=#meyer@ukp.informatik.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Johann Frerik
+Author{2}{Lastname}#=%=#Koch
+Author{2}{Email}#=%=#frerikko@gmail.com
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

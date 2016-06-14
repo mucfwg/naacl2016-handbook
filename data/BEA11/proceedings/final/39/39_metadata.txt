@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Cost-Effectiveness in Building a Low-Resource Morphological Analyzer for Learner Language
+ShortPaperTitle#=%=#Cost-Effectiveness in Building a Low-Resource Morphological Analyzer for Learner Language
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Scott Ledbetter
+JobTitle#==#
+Organization#==#Indiana University
+Bloomington, IN, USA
+Abstract#==#In this paper, we describe the development of a morphological analyzer for
+learner Hungarian, outlining extensions to a resource-light system that can be
+developed by different types of experts. Specifically, we discuss linguistic
+rule writing, resource creation, and different system settings, and our
+evaluation showcases the amount of improvement one gets for differing levels
+and kinds of effort, enabling other researchers to spend their time and energy
+as effectively as possible.
+Author{1}{Firstname}#=%=#Scott
+Author{1}{Lastname}#=%=#Ledbetter
+Author{1}{Email}#=%=#saledbet@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Firstname}#=%=#Markus
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Email}#=%=#md7@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+
+==========

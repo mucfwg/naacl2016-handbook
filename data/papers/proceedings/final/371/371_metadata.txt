@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#371
+FinalPaperTitle#=%=#Large-scale Multitask Learning for Machine Translation Quality Estimation
+ShortPaperTitle#=%=#Large-scale Multitask Learning for Machine Translation Quality Estimation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kashif
+JobTitle#==#
+Organization#==#
+Abstract#==#Multitask learning has been proven a useful technique in a number of Natural
+Language Processing applications where data is scarce and naturally diverse.
+Examples include learning from data of different domains and learning from
+annotations on translation quality provided by multiple annotators. {\em Tasks}
+in these scenarios would be the domains or the annotators. When faced with
+limited data for each task, a framework for the learning of tasks in parallel
+while using a shared representation is clearly helpful: what is learned for a
+given task can be transferred to other tasks while the particularities of each
+task are still modelled independently. Focusing on machine translation quality
+estimation as application, in this paper we show that multitask learning is
+also useful in cases where data is abundant. Based on two large-scale datasets,
+we explore models with multiple annotators and multiple languages and show that
+state-of-the-art multitask learning algorithms lead to improved results in all
+settings.
+Author{1}{Firstname}#=%=#Kashif
+Author{1}{Lastname}#=%=#Shah
+Author{1}{Email}#=%=#kashif.shah@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Lucia
+Author{2}{Lastname}#=%=#Specia
+Author{2}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

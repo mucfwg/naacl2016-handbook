@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Implicit Aspect Detection in Restaurant Reviews using Cooccurence of Words
+ShortPaperTitle#=%=#Implicit Aspect Detection in Restaurant Reviews using Cooccurence of Words
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Rrubaa Panchendrarajan
+JobTitle#==#
+Organization#==#Department of Computer Science and Engineering
+University of Moratuwa
+Kadubedda 10400, Sri Lanka
+Abstract#==#For aspect-level sentiment analysis, the important
+first step is to identify the aspects and their associated entities
+from customer reviews. Aspects can be either explicit or implicit,
+where the identification of the latter is more difficult. For restaurant
+reviews, this difficulty is escalated due to the vast number of
+entities and aspects present in reviews. The existing work for
+implicit aspect identification in restaurant reviews has the limitation of
+choosing at most one implicit aspect for each sentence.
+Furthermore, they deal with only a limited set of aspects related
+to restaurant reviews. This paper presents a novel approach for
+implicit aspect detection, which overcomes these two limitations.
+Our approach yields an F1-measure of 0.842 for a set of restaurant reviews
+collected from Yelp.
+Author{1}{Firstname}#=%=#Rrubaa
+Author{1}{Lastname}#=%=#Panchendrarajan
+Author{1}{Email}#=%=#ruba.11@cse.mrt.ac.lk
+Author{1}{Affiliation}#=%=#University of Moratuwa
+Author{2}{Firstname}#=%=#Nazick
+Author{2}{Lastname}#=%=#Ahamed
+Author{2}{Email}#=%=#nazick.11@cse.mrt.ac.lk
+Author{2}{Affiliation}#=%=#University of Moratuwa
+Author{3}{Firstname}#=%=#Brunthavan
+Author{3}{Lastname}#=%=#Murugaiah
+Author{3}{Email}#=%=#bruntha.11@cse.mrt.ac.lk
+Author{3}{Affiliation}#=%=#University of Moratuwa
+Author{4}{Firstname}#=%=#Prakhash
+Author{4}{Lastname}#=%=#Sivakumar
+Author{4}{Email}#=%=#prakhash.11@cse.mrt.ac.lk
+Author{4}{Affiliation}#=%=#University Of Moratuwa
+Author{5}{Firstname}#=%=#Surangika
+Author{5}{Lastname}#=%=#Ranathunga
+Author{5}{Email}#=%=#surangika@cse.mrt.ac.lk
+Author{5}{Affiliation}#=%=#University of Moratuwa
+Author{6}{Firstname}#=%=#Akila
+Author{6}{Lastname}#=%=#Pemasiri
+Author{6}{Email}#=%=#akila@cse.mrt.ac.lk
+Author{6}{Affiliation}#=%=#University of Moratuwa
+
+==========

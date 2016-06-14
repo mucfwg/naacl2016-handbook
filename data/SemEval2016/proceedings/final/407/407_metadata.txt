@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#407
+FinalPaperTitle#=%=#SemEval-2016 Task 12: Clinical TempEval
+ShortPaperTitle#=%=#SemEval-2016 Task 12: Clinical TempEval
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Steven Bethard
+JobTitle#==#
+Organization#==#University of Alabama at Birmingham
+Birmingham, AL 35294, USA
+Abstract#==#Clinical TempEval 2016 evaluated temporal information extraction systems on the
+clinical domain. Nine sub-tasks were included, covering problems in time
+expression identification, event expression identification and temporal
+relation identification. Participant systems were trained and evaluated on a
+corpus of clinical and pathology notes from the Mayo Clinic, annotated with an
+extension of TimeML for the clinical domain. 14 teams submitted a total of 40
+system runs, with the best systems achieving near-human performance on
+identifying events and times. On identifying temporal relations, there was a
+gap between the best systems and human performance, but the gap was less than
+half the gap of Clinical TempEval 2015.
+Author{1}{Firstname}#=%=#Steven
+Author{1}{Lastname}#=%=#Bethard
+Author{1}{Email}#=%=#bethard@uab.edu
+Author{1}{Affiliation}#=%=#University of Alabama at Birmingham
+Author{2}{Firstname}#=%=#Guergana
+Author{2}{Lastname}#=%=#Savova
+Author{2}{Email}#=%=#guergana.savova@childrens.harvard.edu
+Author{2}{Affiliation}#=%=#Harvard
+Author{3}{Firstname}#=%=#Wei-Te
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#weite.chen@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado at Boulder
+Author{4}{Firstname}#=%=#Leon
+Author{4}{Lastname}#=%=#Derczynski
+Author{4}{Email}#=%=#leon.derczynski@sheffield.ac.uk
+Author{4}{Affiliation}#=%=#University of Sheffield
+Author{5}{Firstname}#=%=#James
+Author{5}{Lastname}#=%=#Pustejovsky
+Author{5}{Email}#=%=#jamesp@cs.brandeis.edu
+Author{5}{Affiliation}#=%=#Brandeis University
+Author{6}{Firstname}#=%=#Marc
+Author{6}{Lastname}#=%=#Verhagen
+Author{6}{Email}#=%=#marc@cs.brandeis.edu
+Author{6}{Affiliation}#=%=#Brandeis University
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#The Challenge of Sentiment Quantification
+ShortPaperTitle#=%=#The Challenge of Sentiment Quantification
+NumberOfPages#=%=#1
+CopyrightSigned#=%=#Sebastiani
+JobTitle#==#
+Organization#==#
+Abstract#==#Among the many challenges that sentiment analysis
+(SA) faces, I want to concentrate on one which has
+not received much attention within the SA community,
+but that is going to play a major role in future
+applications: Sentiment Quantification (SQ) (Esuli
+and Sebastiani, 2010). Quantification is defined as
+the task of estimating the prevalence (i.e., relative
+frequency) of the classes of interest in a set of unlabelled
+data via supervised learning (Forman, 2008);
+examples of SQ are (i) determining the prevalence
+of endorsements in a set of tweets about a political
+candidate, or (ii) determining the prevalence of rebuttals
+in a set of reviews of a given book. A na¨ıve
+way to tackle quantification is by classifying each
+unlabelled item independently and computing the
+fraction of such items that have been attributed the
+class. However, a good classifier is not necessarily
+a good quantifier: assuming the binary case, even if
+(FP +FN) is comparatively small, bad quantification
+accuracy results if FP and FN are significantly
+different (since perfect quantification coincides with
+the case FP = FN). This has led researchers to
+study quantification as a task on its own right, rather
+than as a byproduct of classification.
+Author{1}{Firstname}#=%=#Fabrizio
+Author{1}{Lastname}#=%=#Sebastiani
+Author{1}{Email}#=%=#fsebastiani@qf.org.qa
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+
+==========

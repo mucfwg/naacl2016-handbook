@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#The Use of Second Life for Deception Detection Research
+ShortPaperTitle#=%=#The Use of Second Life for Deception Detection Research
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#stephen kunath
+JobTitle#==#
+Organization#==#4651 carisbrooke ln, fairfax, va 22030
+Abstract#==#Detecting deception in natural language is a problem amenable to economic
+analysis.
+Economics typically assumes that individuals are self-interested, which leads
+them to perform actions in accord with their own goals.
+The field of experimental economics emerged to construct environments wherein
+human subjects make decisions so as to test economic hypotheses.
+Experimental economists recently have developed virtual worlds to better
+situate experiment subjects in more realistic environments.
+Virtual word experiments represent an exciting new area for deception research
+as they offer insight into individuals both acting out and communicating in
+accord with their intentions.
+This paper describes the use of virtual world experiments for economic research
+incorporating the detection of deceptive individuals.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#Kunath
+Author{1}{Email}#=%=#skunath@gmu.edu
+Author{1}{Affiliation}#=%=#George Mason University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#McCabe
+Author{2}{Email}#=%=#kmccabe@gmu.edu
+Author{2}{Affiliation}#=%=#George Mason University
+
+==========

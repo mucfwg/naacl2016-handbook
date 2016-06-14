@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#450
+FinalPaperTitle#=%=#BIT at SemEval-2016 Task 1: Sentence Similarity Based on Alignments and Vector with the Weight of Information Content
+ShortPaperTitle#=%=#Sentence Similarity Based on Alignments and Vector with the Weight of Information Content
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hao Wu
+JobTitle#==#
+Organization#==#Beijing Institute of Technology
+Zhongguancun South Street No.5, Haidian District, Beijing, 100081, China
+Abstract#==#This paper describes three unsupervised systems
+for determining the semantic similarity
+between two short texts or sentences submitted
+to the SemEval 2016 Task 1, all of which
+make use of only off-the-shelf software and
+data making them easy to replicate. Two
+systems achieved a similar Pearson correlation
+coefficient (0.64661 by simple vector, 0.65319
+by word alignments). We include experiments
+on using our alignment based system on evaluation
+data from the 2014 and 2015 STS shared
+task. The results suggest that beyond the
+core similarity algorithm, other factors such as
+data preprocessing and use of domain-specific
+knowledge are also important to similarity
+prediction performance.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#hao123wu@gmail.com
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Heyan
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#hhy63@bit.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Institute of Technology
+Author{3}{Firstname}#=%=#Wenpeng
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Email}#=%=#lwp@qlu.edu.cn
+Author{3}{Affiliation}#=%=#QiLu University of Technology
+
+==========

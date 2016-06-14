@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#253
+FinalPaperTitle#=%=#Visualizing and Understanding Neural Models in NLP
+ShortPaperTitle#=%=#Visualizing and Understanding Neural Models in NLP
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#While neural networks have been successfully applied to many NLP tasks
+the resulting vector-based models are very difficult to interpret.
+For example it's not clear how they achieve {\em compositionality},
+building sentence meaning from the meanings of words and phrases.
+In this paper we describe strategies for visualizing compositionality 
+in neural models for NLP, inspired by similar work in computer vision.
+We first plot unit values to visualize compositionality of negation,
+intensification, and 
+concessive clauses, allowing us to see well-known markedness asymmetries in
+negation.
+We then introduce methods for visualizing a unit's {\em salience},
+the amount that
+it contributes to the final composed meaning from first-order derivatives. 
+Our general-purpose methods may have wide applications for understanding
+compositionality and other semantic properties of deep networks.
+Author{1}{Firstname}#=%=#Jiwei
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jiweil@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Xinlei
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#xinleic@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Eduard
+Author{3}{Lastname}#=%=#Hovy
+Author{3}{Email}#=%=#hovy@cmu.edu
+Author{3}{Affiliation}#=%=#CMU
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Jurafsky
+Author{4}{Email}#=%=#jurafsky@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

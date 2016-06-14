@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#498
+FinalPaperTitle#=%=#UWB at SemEval-2016 Task 11: Exploring Features for Complex Word Identification
+ShortPaperTitle#=%=#UWB at SemEval-2016 Task 11: Exploring Features for Complex Word Identification
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Michal Konkol
+JobTitle#==#
+Organization#==#NTIS -- New Technologies for the Information Society,
+Department of Computer Science and Engineering,
+Faculty of Applied Sciences,
+University of West Bohemia,
+Univerzitní 8, 306 14 Plzeň
+Czech Republic
+Abstract#==#In this paper, we present our system developed for the SemEval 2016 Task 11:
+Complex Word Identification. Our team achieved the 3rd place among 21
+participants. Our systems ranked 4th and 13th among 42 submitted systems. We
+proposed multiple features suitable for complex word identification, evaluated
+them, and discussed their properties. According to the results of our
+experiments, our final system used maximum entropy classifier with a single
+feature -- document frequency.
+Author{1}{Firstname}#=%=#Michal
+Author{1}{Lastname}#=%=#Konkol
+Author{1}{Email}#=%=#konkol@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#University of West Bohemia
+
+==========

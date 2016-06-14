@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Demonyms and Compound Relational Nouns in Nominal Open IE
+ShortPaperTitle#=%=#Demonyms and Compound Relational Nouns in Nominal Open IE
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Harinder Pal
+JobTitle#==#
+Organization#==#Indian Institute of Technology Delhi
+Abstract#==#Extracting open relational tuples that are mediated by nouns (instead of verbs)
+is important since titles and entity attributes are often expressed nominally.
+While appositives and possessives are easy to handle, a difficult and important
+class of nominal extractions requires interpreting compound noun phrases(e.g.,
+“Google CEO Larry Page”). We substantially improve the quality of Open IE
+from compound noun phrases by focusing on phenomena like demonyms and compound
+relational nouns. We release RELNOUN 2.2,which obtains 3.5 times yield with
+over 15 point improvement in precision compared to RELNOUN 1.1, a publically
+available nominal Open IE system.
+Author{1}{Firstname}#=%=#Harinder
+Author{1}{Lastname}#=%=#Pal
+Author{1}{Email}#=%=#sethi.harinder@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology at Delhi
+Author{2}{Firstname}#=%=#Mausam
+Author{2}{Lastname}#=%=#-
+Author{2}{Email}#=%=#mausam@cs.washington.edu
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Delhi
+
+==========

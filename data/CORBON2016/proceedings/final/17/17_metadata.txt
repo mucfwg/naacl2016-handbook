@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Experiments on bridging across languages and genres
+ShortPaperTitle#=%=#Experiments on bridging across languages and genres
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yulia Grishina
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we introduce a typology of bridging relations applicable to
+multiple languages and genres. After discussing our annotation guidelines, we
+describe annotation experiments on the German part of our parallel coreference
+corpus and show that our inter-annotator agreement results are reliable,
+considering both antecedent selection and relation assignment. In order to
+validate our theoretical model on other languages, we manually transfer German
+annotations to the English and Russian sides of the corpus and briefly discuss
+first results that suggest the promise of our approach.
+Furthermore, for the complete exploration of extended coreference relations, we
+exploit an existing near-identity scheme to augment our annotations with
+near-identity links, and we report on the results.
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Lastname}#=%=#Grishina
+Author{1}{Email}#=%=#grishina@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+
+==========

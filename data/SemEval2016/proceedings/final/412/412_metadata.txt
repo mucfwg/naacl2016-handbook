@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#412
+FinalPaperTitle#=%=#CNRC: Experiments in Crosslingual Semantic Textual Similarity
+ShortPaperTitle#=%=#CNRC: Experiments in Crosslingual Semantic Textual Similarity
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#National Research Council Canada
+1200 Montreal Rd
+Ottawa, ON K1A0R6
+Abstract#==#We describe the systems entered by the National Research Council Canada in the
+SemEval-2016 Task1: Crosslingual Semantic Textual Similarity. We tried two
+approaches: One computes a true crosslingual similarity based on features
+extracted from lexical semantics and shallow semantic structures of the source
+and target fragments, combined using a linear model.  The other approach relies
+on Statistical Machine Translation, followed by a monolingual semantic
+similarity, relying again on syntactic and semantic features. We report our
+experiments using trial data, as well as official final results on the
+evaluation data.
+Author{1}{Firstname}#=%=#Chi-kiu
+Author{1}{Lastname}#=%=#Lo
+Author{1}{Email}#=%=#chikiu.lo@gmail.com
+Author{1}{Affiliation}#=%=#NRC Canada
+Author{2}{Firstname}#=%=#Cyril
+Author{2}{Lastname}#=%=#Goutte
+Author{2}{Email}#=%=#cyril.goutte@gmail.com
+Author{2}{Affiliation}#=%=#National Research Council Canada
+Author{3}{Firstname}#=%=#Michel
+Author{3}{Lastname}#=%=#Simard
+Author{3}{Email}#=%=#michel.simard@nrc.gc.ca
+Author{3}{Affiliation}#=%=#NRC
+
+==========

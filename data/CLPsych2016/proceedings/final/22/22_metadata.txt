@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Predicting Post Severity in Mental Health Forums
+ShortPaperTitle#=%=#Predicting Post Severity in Mental Health Forums
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Shervin Malmasi
+JobTitle#==#
+Organization#==#Macquarie University
+Abstract#==#We present our approach to predicting the severity of user posts in a mental
+health forum. This system was developed to compete in the 2016 Computational
+Linguistics and Clinical Psychology (CLPsych) Shared Task. Our entry employs a
+meta-classifier which uses a set of of base classifiers constructed from
+lexical, syntactic and metadata features. These classifiers were generated for
+both the target posts as well as their contexts, which included both preceding
+and subsequent posts. The output from these classifiers was used to train a
+meta-classifier, which outperformed all individual classifiers as well as an
+ensemble classifier. This meta-classifier was then extended to a Random Forest
+of meta-classifiers, yielding further improvements in classification accuracy.
+We achieved competitive results, ranking first among a total of 60 submitted
+entries in the competition.
+Author{1}{Firstname}#=%=#Shervin
+Author{1}{Lastname}#=%=#Malmasi
+Author{1}{Email}#=%=#shervin.malmasi@students.mq.edu.au
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Marcos
+Author{2}{Lastname}#=%=#Zampieri
+Author{2}{Email}#=%=#marcos.zampieri@uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Dras
+Author{3}{Email}#=%=#mark.dras@mq.edu.au
+Author{3}{Affiliation}#=%=#Macquarie University
+
+==========

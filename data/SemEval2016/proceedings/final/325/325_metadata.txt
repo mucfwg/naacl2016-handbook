@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#325
+FinalPaperTitle#=%=#RIGA at SemEval-2016 Task 8: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy
+ShortPaperTitle#=%=#RIGA: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Guntis Barzdins
+JobTitle#==#Professor
+Organization#==#University of Latvia, IMCS
+Rainis Blvd 29
+Riga, LV-1459
+Latvia
+Abstract#==#Two extensions to the AMR smatch scoring script are presented. The first
+extension combines the smatch scoring script with the C6.0 rule-based
+classifier to produce a human-readable report on the error patterns frequency
+observed in the scored AMR graphs. This first extension results in 4% gain over
+the state-of-art CAMR baseline parser by adding to it a manually crafted
+wrapper fixing the identified CAMR parser errors. The second extension combines
+a per-sentence smatch with an ensemble method for selecting the best AMR graph
+among the set of AMR graphs for the same sentence. This second modification
+automatically yields further 0.4% gain when applied to outputs of two
+nondeterministic AMR parsers: a CAMR+wrapper parser and a novel character-level
+neural translation AMR parser. For AMR parsing task the character-level neural
+translation attains surprising 7% gain over the carefully optimized word-level
+neural translation. Overall, we achieve smatch F1=62% on the SemEval-2016
+official scoring set and F1=67% on the LDC2015E86 test set.
+Author{1}{Firstname}#=%=#Guntis
+Author{1}{Lastname}#=%=#Barzdins
+Author{1}{Email}#=%=#guntis@latnet.lv
+Author{1}{Affiliation}#=%=#University of Latvia
+Author{2}{Firstname}#=%=#Didzis
+Author{2}{Lastname}#=%=#Gosko
+Author{2}{Email}#=%=#didzis.gosko@leta.lv
+Author{2}{Affiliation}#=%=#LETA
+
+==========

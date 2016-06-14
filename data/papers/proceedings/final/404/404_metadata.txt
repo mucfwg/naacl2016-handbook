@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#404
+FinalPaperTitle#=%=#Eyes Don't Lie: Predicting Machine Translation Quality Using Eye Movement
+ShortPaperTitle#=%=#Eyes Don't Lie: Predicting Machine Translation Quality Using Eye Movement
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hassan Sajjad
+JobTitle#==#Scientist
+Organization#==#QCRI, Tornado tower 10th floor, WestBay 5825, Doha, Qatar
+Abstract#==#Poorly translated text is often disfluent and difficult to read. In contrast,
+well-formed translations require less time to process. In this paper, we model
+the differences in reading patterns of Machine Translation (MT) evaluators
+using novel features extracted from their gaze data, and we learn to predict
+the quality scores given by those evaluators. We test our predictions in a
+pairwise ranking scenario, measuring Kendall’s tau correlation with the
+judgments. We show that our features provide information beyond fluency, and
+can be combined with BLEU for better predictions. Furthermore, our results show
+that reading patterns can be used to build semi-automatic metrics that
+anticipate the scores given by the evaluators.
+Author{1}{Firstname}#=%=#Hassan
+Author{1}{Lastname}#=%=#Sajjad
+Author{1}{Email}#=%=#hsajjad@qf.org.qa
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{2}{Firstname}#=%=#Francisco
+Author{2}{Lastname}#=%=#Guzmán
+Author{2}{Email}#=%=#fguzman@qf.org.qa
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Nadir
+Author{3}{Lastname}#=%=#Durrani
+Author{3}{Email}#=%=#ndurrani@qf.org.qa
+Author{3}{Affiliation}#=%=#QCRI
+Author{4}{Firstname}#=%=#Ahmed
+Author{4}{Lastname}#=%=#Abdelali
+Author{4}{Email}#=%=#aabdelali@qf.org.qa
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{5}{Firstname}#=%=#Houda
+Author{5}{Lastname}#=%=#Bouamor
+Author{5}{Email}#=%=#hbouamor@qatar.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Irina
+Author{6}{Lastname}#=%=#Temnikova
+Author{6}{Email}#=%=#irina.temnikova@gmail.com
+Author{6}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{7}{Firstname}#=%=#Stephan
+Author{7}{Lastname}#=%=#Vogel
+Author{7}{Email}#=%=#svogel@qf.org.qa
+Author{7}{Affiliation}#=%=#Qatar Computing Research Institute
+
+==========

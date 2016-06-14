@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#517
+FinalPaperTitle#=%=#Overfitting at SemEval-2016 Task 3: Detecting Semantically Similar Questions in Community Question Answering Forums with Word Embeddings
+ShortPaperTitle#=%=#Overfitting at SemEval-2016 Task 3: Question-Question Similarity
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hujie Wang
+JobTitle#==#
+Organization#==#University of Waterloo
+200 University Ave WWaterloo, ON N2L 3G1, Canada
+Abstract#==#This paper presents an approach for estimating the question-question similarity
+of an English dataset specified in Shared Task 3, subtask B of SemEval-2016.
+Given a new question and a set of the first 10 related questions retrieved by a
+search engine, participants are asked to produce a binary relevant/irrelevant
+judgement and rerank the related questions according to their similarity with
+respect to the original question. Our submitted system uses a 2-layer
+feed-forward neural network with the averages of word embedding vectors to
+predict the semantic similarity score of two questions. We also evaluate the
+results of Random Forests and Support Vector Machine in comparison to the
+Neural Network. Results on the test dataset show that the model achieves a Mean
+Average Precision 69.681.
+Author{1}{Firstname}#=%=#Hujie
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wanghujie@gmail.com
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Pascal
+Author{2}{Lastname}#=%=#Poupart
+Author{2}{Email}#=%=#ppoupart@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+
+==========

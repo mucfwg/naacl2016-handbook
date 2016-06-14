@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Semi-supervised and unsupervised categorization of posts in Web discussion forums using part-of-speech information and minimal features
+ShortPaperTitle#=%=#Semi-supervised and unsupervised categorization of posts in Web discussion forums
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Krish Perumal
+JobTitle#==#
+Organization#==#
+Abstract#==#Web discussion forums typically contain posts that fall into different
+categories such as question, solution, feedback, spam, etc. Automatic
+identification of these categories can aid information retrieval that is
+tailored for specific user requirements. Previously, a number of supervised
+methods have attempted to solve this problem; however, these depend on the
+availability of abundant training data. A few existing unsupervised and
+semi-supervised approaches are either focused on identifying only one or two
+categories, or do not discuss category-specific performance. In contrast, this
+work proposes methods for identifying multiple categories, and also analyzes
+the category-specific performance. These methods are based on sequence models
+(specifically, hidden Markov Models) that can model language for each category
+using both probabilistic word and part-of-speech information, and minimal
+manually specified features. The unsupervised version initializes the models
+using clustering, whereas the semi-supervised version uses few manually labeled
+forum posts. Empirical evaluations demonstrate that these methods are more
+accurate than previous ones.
+Author{1}{Firstname}#=%=#Krish
+Author{1}{Lastname}#=%=#Perumal
+Author{1}{Email}#=%=#krishperumal11@gmail.com
+Author{1}{Affiliation}#=%=#University of Toronto
+Author{2}{Firstname}#=%=#Graeme
+Author{2}{Lastname}#=%=#Hirst
+Author{2}{Email}#=%=#gh@cs.toronto.edu
+Author{2}{Affiliation}#=%=#University of Toronto
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#645
+FinalPaperTitle#=%=#PRIMT: A Pick-Revise Framework for Interactive Machine Translation
+ShortPaperTitle#=%=#PRIMT: A Pick-Revise Framework for IMT
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shanbo Cheng
+JobTitle#==#
+Organization#==#State Key Laboratory for Novel Software Technology
+Nanjing University
+Nanjing 210023, China
+Abstract#==#Interactive machine translation (IMT) is a method which uses human-computer
+interactions to improve the quality of MT. Traditional IMT methods employ a
+left-to-right order for the interactions, which is difficult to directly modify
+critical errors at the end of the sentence. In this paper, we propose an IMT
+framework in which the interaction is decomposed into two simple human actions:
+picking a critical translation error (Pick) and revising the translation
+(Revise). The picked phrase could be at any position of the sentence, which
+improves the efficiency of human computer interaction. We also propose
+automatic suggestion models for the two actions to further reduce the cost of
+human interaction. Experiment results demonstrate that by interactions through
+either one of the actions, the translation quality could be significantly
+improved. Greater gains could be achieved by iteratively performing both
+actions.
+Author{1}{Firstname}#=%=#Shanbo
+Author{1}{Lastname}#=%=#Cheng
+Author{1}{Email}#=%=#cshanbo@gmail.com
+Author{1}{Affiliation}#=%=#Nanjing University
+Author{2}{Firstname}#=%=#Shujian
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangshujian@gmail.com
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#Huadong
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#chenhd@nlp.nju.edu.cn
+Author{3}{Affiliation}#=%=#Nanjing University
+Author{4}{Firstname}#=%=#Xin-Yu
+Author{4}{Lastname}#=%=#Dai
+Author{4}{Email}#=%=#daixinyu@nju.edu.cn
+Author{4}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{5}{Firstname}#=%=#Jiajun
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#chenjj@nju.edu.cn
+Author{5}{Affiliation}#=%=#Nanjing University
+
+==========

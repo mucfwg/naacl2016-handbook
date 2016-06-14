@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#513
+FinalPaperTitle#=%=#DTSim at SemEval-2016 Task 2: Interpreting Similarity of Texts Based on Automated Chunking, Chunk Alignment and Semantic Relation Prediction
+ShortPaperTitle#=%=#DTSim at SemEval Task2: Interpreting Similarity Based on Chunking, Alignment & Relation Prediction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rajendra Banjade
+JobTitle#==#
+Organization#==#The University of Memphis, Memphis, Tennessee, USA
+Abstract#==#In this paper we describe our system (DTSim) submitted at SemEval-2016 Shared
+Task 2: Interpretable Semantic Textual Similarity (iSTS). We participated in
+both gold chunks category (texts chunked by human experts and provided by the
+task organizers) and system chunks category (participants had to automatically
+chunk the input texts). We developed a Conditional Random Fields based chunker
+and applied rules blended with semantic similarity methods in order to predict
+chunk alignments, alignment types and similarity scores. Our system obtained F1
+score up to 0.648 in predicting the chunk alignment types and scores together
+and was one of the top performing systems overall.
+Author{1}{Firstname}#=%=#Rajendra
+Author{1}{Lastname}#=%=#Banjade
+Author{1}{Email}#=%=#rbanjade@memphis.edu
+Author{1}{Affiliation}#=%=#The University of Memphis
+Author{2}{Firstname}#=%=#Nabin
+Author{2}{Lastname}#=%=#Maharjan
+Author{2}{Email}#=%=#nmharjan@memphis.edu
+Author{2}{Affiliation}#=%=#The University of Memphis
+Author{3}{Firstname}#=%=#Nobal Bikram
+Author{3}{Lastname}#=%=#Niraula
+Author{3}{Email}#=%=#nb.niraula@gmail.com
+Author{3}{Affiliation}#=%=#Boeing Research & Technology
+Author{4}{Firstname}#=%=#Vasile
+Author{4}{Lastname}#=%=#Rus
+Author{4}{Email}#=%=#vrus@memphis.edu
+Author{4}{Affiliation}#=%=#The University of Memphis
+
+==========

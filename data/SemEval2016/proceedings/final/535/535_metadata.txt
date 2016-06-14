@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#535
+FinalPaperTitle#=%=#CMU at SemEval-2016 Task 8: Graph-based AMR Parsing with Infinite Ramp Loss
+ShortPaperTitle#=%=#CMU: Graph-based AMR Parsing with Infinite Ramp Loss
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jeffrey Flanigan
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA
+15213-3891
+Abstract#==#We present improvements to the JAMR parser as part of the SemEval 2016 Shared
+Task 8 on AMR parsing. The major contributions are: improved concept coverage
+using external resources and features, an improved aligner, and a novel loss
+function for structured prediction called infinite ramp, which is a
+generalization of the structured SVM to problems with unreachable training
+instances.
+Author{1}{Firstname}#=%=#Jeffrey
+Author{1}{Lastname}#=%=#Flanigan
+Author{1}{Email}#=%=#jeffflanigan@gmail.com
+Author{1}{Affiliation}#=%=#CMU
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Dyer
+Author{2}{Email}#=%=#cdyer@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Jaime
+Author{4}{Lastname}#=%=#Carbonell
+Author{4}{Email}#=%=#jgc@cs.cmu.edu
+Author{4}{Affiliation}#=%=#
+
+==========

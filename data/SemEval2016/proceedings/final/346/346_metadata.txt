@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#346
+FinalPaperTitle#=%=#NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features
+ShortPaperTitle#=%=#NLANGP: Improving Aspect Based Sentiment Analysis using Neural Network Features
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhiqiang Toh
+JobTitle#==#
+Organization#==#Institute for Infocomm Research
+1 Fusionopolis Way
+#21-01 Connexis (South Tower)
+Singapore 138632
+Abstract#==#This paper describes our system submitted to Aspect Based Sentiment Analysis
+Task 5 of SemEval-2016. Our system consists of two components: binary
+classifiers trained using single layer feedforward network for aspect category
+classification (Slot 1), and sequential labeling classifiers for opinion target
+extraction (Slot 2). Besides extracting a variety of lexicon features,
+syntactic features, and cluster features, we explore the use of deep learning
+systems to provide additional neural network features. Our system achieves the
+best performances on the English datasets, ranking 1st for four evaluations
+(Slot 1 for both restaurant and laptop domains, Slot 2, and Slot 1 & 2).
+Author{1}{Firstname}#=%=#Zhiqiang
+Author{1}{Lastname}#=%=#Toh
+Author{1}{Email}#=%=#ztoh@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research
+Author{2}{Firstname}#=%=#Jian
+Author{2}{Lastname}#=%=#Su
+Author{2}{Email}#=%=#sujian@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

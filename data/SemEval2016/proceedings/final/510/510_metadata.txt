@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#510
+FinalPaperTitle#=%=#UNBNLP at SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation
+ShortPaperTitle#=%=#UNBNLP at SemEval-2016 Task 1
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#PC
+JobTitle#==#
+Organization#==#University of New Brunswick
+P.O. Box 4400
+Fredericton, NB E3B 5A3
+Abstract#==#In this paper we consider several approaches to predicting semantic textual
+similarity using word embeddings, as well as methods for forming embeddings for
+larger units of text. We compare these methods to several baselines, and find
+that none of them outperform the baselines. We then consider both a supervised
+and unsupervised approach to combining these methods which achieve modest
+improvements over the baselines.
+Author{1}{Firstname}#=%=#Milton
+Author{1}{Lastname}#=%=#King
+Author{1}{Email}#=%=#milton.king@unb.ca
+Author{1}{Affiliation}#=%=#University of New Brunswick
+Author{2}{Firstname}#=%=#Waseem
+Author{2}{Lastname}#=%=#Gharbieh
+Author{2}{Email}#=%=#waseem.gharbieh@unb.ca
+Author{2}{Affiliation}#=%=#University of New Brunswick
+Author{3}{Firstname}#=%=#SoHyun
+Author{3}{Lastname}#=%=#Park
+Author{3}{Email}#=%=#sohyun.park@unb.ca
+Author{3}{Affiliation}#=%=#University of New Brunswick
+Author{4}{Firstname}#=%=#Paul
+Author{4}{Lastname}#=%=#Cook
+Author{4}{Email}#=%=#paul.cook@unb.ca
+Author{4}{Affiliation}#=%=#University of New Brunswick
+
+==========

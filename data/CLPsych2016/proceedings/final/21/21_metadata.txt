@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Automatic Triage of Mental Health Forum Posts
+ShortPaperTitle#=%=#Automatic Triage of Mental Health Forum Posts
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Benjamin Shickel
+JobTitle#==#
+Organization#==#University of Florida
+Gainesville, FL 32611
+Abstract#==#As part of the 2016 Computational Linguistics and Clinical Psychology (CLPsych)
+shared task, participants were asked to construct systems to automatically
+classify mental health forum posts into four categories, representing how
+urgently posts require moderator attention. This paper details the system
+implementation from the University of Florida, in which we compare several
+distinct models and show that best performance is achieved with domain-specific
+preprocessing, n-gram feature extraction, and cross-validated linear models.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Shickel
+Author{1}{Email}#=%=#shickelb@ufl.edu
+Author{1}{Affiliation}#=%=#University of Florida
+Author{2}{Firstname}#=%=#Parisa
+Author{2}{Lastname}#=%=#Rashidi
+Author{2}{Email}#=%=#parisa.rashidi@ufl.edu
+Author{2}{Affiliation}#=%=#University of Florida
+
+==========

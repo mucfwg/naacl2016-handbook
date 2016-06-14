@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#515
+FinalPaperTitle#=%=#SemEval-2016 Task 10: Detecting Minimal Semantic Units and their Meanings (DiMSUM)
+ShortPaperTitle#=%=#SemEval-2016 Task 10: Detecting Minimal Semantic Units and their Meanings (DiMSUM)
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Nathan Schneider
+JobTitle#==#
+Organization#==#University of Edinburgh
+School of Informatics
+10 Crichton Street
+Edinburgh EH9 8AB
+United Kingdom
+Abstract#==#This task combines the labeling of multiword expressions and supersenses
+(coarse-grained classes) in an explicit, yet broad-coverage paradigm for
+lexical semantics. Nine systems participated; the best scored 57.7% F1 in a
+multi-domain evaluation setting, indicating that the task remains largely
+unresolved. An error analysis reveals that a large number of instances in the
+data set are either hard cases, which no systems get right, or easy cases,
+which all systems correctly solve.
+Author{1}{Firstname}#=%=#Nathan
+Author{1}{Lastname}#=%=#Schneider
+Author{1}{Email}#=%=#nschneid@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Dirk
+Author{2}{Lastname}#=%=#Hovy
+Author{2}{Email}#=%=#mail@dirkhovy.com
+Author{2}{Affiliation}#=%=#Center for Language Technology, University of Copenhagen
+Author{3}{Firstname}#=%=#Anders
+Author{3}{Lastname}#=%=#Johannsen
+Author{3}{Email}#=%=#anders@johannsen.com
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Firstname}#=%=#Marine
+Author{4}{Lastname}#=%=#Carpuat
+Author{4}{Email}#=%=#marine@cs.umd.edu
+Author{4}{Affiliation}#=%=#University of Maryland
+
+==========

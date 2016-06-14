@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#668
+FinalPaperTitle#=%=#Supertagging With LSTMs
+ShortPaperTitle#=%=#Supertagging With LSTMs
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yonatan Bisk
+JobTitle#==#
+Organization#==#Information Sciences Institute
+University of Southern California
+Abstract#==#In this paper we present new state-of-the-art performance on CCG supertagging
+and parsing.  Our model outperforms existing approaches by an absolute gain of
+1.5%.  We analyze the performance of several neural models and demonstrate that
+while feed-forward  architectures can compete with bidirectional LSTMs on POS
+tagging, models that encode the complete sentence are necessary for the long
+range syntactic information encoded in supertags.
+Author{1}{Firstname}#=%=#Ashish
+Author{1}{Lastname}#=%=#Vaswani
+Author{1}{Email}#=%=#vaswani@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California Information Sciences Institute
+Author{2}{Firstname}#=%=#Yonatan
+Author{2}{Lastname}#=%=#Bisk
+Author{2}{Email}#=%=#ybisk@yonatanbisk.com
+Author{2}{Affiliation}#=%=#ISI/USC
+Author{3}{Firstname}#=%=#Kenji
+Author{3}{Lastname}#=%=#Sagae
+Author{3}{Email}#=%=#ksagae@gmail.com
+Author{3}{Affiliation}#=%=#KITT.AI
+Author{4}{Firstname}#=%=#Ryan
+Author{4}{Lastname}#=%=#Musa
+Author{4}{Email}#=%=#ramusa2@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

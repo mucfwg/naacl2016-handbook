@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#507
+FinalPaperTitle#=%=#PotTS at SemEval-2016 Task 4: Sentiment Analysis of Twitter Using Character-level Convolutional Neural Networks.
+ShortPaperTitle#=%=#Sentiment Analysis of Twitter Using Character-level Convolutional Neural Networks.
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Uladzimir Sidarenka
+JobTitle#==#
+Organization#==#University of Potsdam
+Abstract#==#This paper presents an alternative approach to polarity and intensity
+classification of sentiments in microblogs.  In contrast to previous
+works, which either relied on carefully designed hand-crafted feature
+sets or automatically derived neural embeddings for words, our method
+harnesses character embeddings as its main input units.  We obtain
+task-specific vector representations of characters by training a deep
+multi-layer convolutional neural network on the labeled dataset
+provided to the participants of the SemEval-2016 Shared Task 4
+*Sentiment Analysis in Twitter; Nakov, 2016) and subsequently evaluate
+our classifiers on subtasks B (two-way polarity classification) and C
+(joint five-way prediction of polarity and intensity) of this
+competition.  Our first system, which uses three manifold convolution
+sets followed by four non-linear layers, ranks 16 in the former track;
+while our second network, which consists of a single convolutional
+filter set followed by a highway layer and three non-linearities with
+linear mappings in-between, attains the 10-th place on subtask C.
+Author{1}{Firstname}#=%=#Uladzimir
+Author{1}{Lastname}#=%=#Sidarenka
+Author{1}{Email}#=%=#wlsidorenko@gmail.com
+Author{1}{Affiliation}#=%=#University of Potsdam
+
+==========

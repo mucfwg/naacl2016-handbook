@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#208
+FinalPaperTitle#=%=#Unsupervised Learning of Prototypical Fillers for Implicit Semantic Role Labeling
+ShortPaperTitle#=%=#Unsupervised Learning of Prototypical Fillers for Implicit Semantic Role Labeling
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Niko Schenk
+JobTitle#==#
+Organization#==#Niko Schenk
+Applied Computational Linguistics Lab
+Fachbereich für Informatik und Mathematik
+Goethe-Universität Frankfurt am Main
+Robert-Mayer-Straße 10
+D-60325 Frankfurt am Main
+Abstract#==#Gold annotations for supervised implicit semantic role labeling are extremely
+sparse and costly. As a lightweight alternative, this paper describes an
+approach based on unsupervised parsing which can do without iSRL-specific
+training data: We induce prototypical roles from large amounts of explicit SRL
+annotations paired with their distributed word representations. An evaluation
+shows competitive performance with supervised methods on the SemEval 2010 data,
+and our method can easily be applied to predicates (or languages) for which no
+training annotations are available.
+Author{1}{Firstname}#=%=#Niko
+Author{1}{Lastname}#=%=#Schenk
+Author{1}{Email}#=%=#n.schenk@em.uni-frankfurt.de
+Author{1}{Affiliation}#=%=#Goethe University Frankfurt am Main
+Author{2}{Firstname}#=%=#Christian
+Author{2}{Lastname}#=%=#Chiarcos
+Author{2}{Email}#=%=#christian.chiarcos@web.de
+Author{2}{Affiliation}#=%=#Goethe-Universität Frankfurt am Main
+
+==========

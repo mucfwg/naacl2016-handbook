@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#434
+FinalPaperTitle#=%=#JU_NLP at SemEval-2016 Task 6: Detecting Stance in Tweets using Support Vector Machines
+ShortPaperTitle#=%=#JU_NLP at SemEval-2016 Task 6: Detecting Stance in Tweets using Support Vector Machines
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Braja Gopal Patra
+JobTitle#==#
+Organization#==#BRAJA GOPAL PATRA, DEPT. OF COMPUTER SCIENCE & ENGINEERING, JADAVPUR UNIVERSITY
+Abstract#==#We describe the system submitted to the SemEval-2016 for detecting stance in
+tweets (Task 6, Subtask A). One of the main goals of stance detection is to
+automatically determine the stance of a tweet towards a specific target as
+‘FAVOR’, ‘AGAINST’, or ‘NONE’. We developed a supervised system
+using Support Vector Machines to identify the stance by analyzing various
+lexical and semantic features. The average F1 score achieved by our system is
+60.60.
+Author{1}{Firstname}#=%=#Braja Gopal
+Author{1}{Lastname}#=%=#Patra
+Author{1}{Email}#=%=#brajagopal.cse@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Dipankar
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Sivaji
+Author{3}{Lastname}#=%=#Bandyopadhyay
+Author{3}{Email}#=%=#sivaji_cse_ju@yahoo.com
+Author{3}{Affiliation}#=%=#JADAVPUR UNIVERSITY
+
+==========

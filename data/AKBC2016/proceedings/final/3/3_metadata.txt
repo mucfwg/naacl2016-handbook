@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Applying Universal Schemas for Domain Specific Ontology Expansion
+ShortPaperTitle#=%=#Applying Universal Schemas for Domain Specific Ontology Expansion
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#pg
+JobTitle#==#
+Organization#==#Elsevier Labs
+1600 John F. Kennedy Boulevard, Suite 1800, 
+Philadelphia, PA
+Abstract#==#Manually created large scale ontologies are useful for organizing, searching,
+and repurposing content ranging from scientific papers and medical guidelines
+to images. However, maintenance of such ontologies is expensive. In this paper,
+we investigate the use of univer- sal schemas (Riedel et al., 2013) as a
+mechanism for ontology maintenance. We apply this approach on top of two unique
+data sources: 14 million full-text scientific articles and chapters, plus a 1
+million concept hand-curated medical ontology. We show that using a
+straightforward matrix factorization algorithm one can achieve 0.7 F1 measure
+on a link prediction task in this environment. Link prediction results can be
+used to suggest new relation types and relation type synonyms coming from the
+literature as well as predict specific new relation instances in the ontology.
+Author{1}{Firstname}#=%=#Paul
+Author{1}{Lastname}#=%=#Groth
+Author{1}{Email}#=%=#pgroth@gmail.com
+Author{1}{Affiliation}#=%=#Elsevier Labs
+Author{2}{Firstname}#=%=#Sujit
+Author{2}{Lastname}#=%=#Pal
+Author{2}{Email}#=%=#sujit.pal@elsevier.com
+Author{2}{Affiliation}#=%=#Elsevier Labs
+Author{3}{Firstname}#=%=#Darin
+Author{3}{Lastname}#=%=#McBeath
+Author{3}{Email}#=%=#d.mcbeath@elsevier.com
+Author{3}{Affiliation}#=%=#Elsevier Labs
+Author{4}{Firstname}#=%=#Brad
+Author{4}{Lastname}#=%=#Allen
+Author{4}{Email}#=%=#b.allen@elsevier.com
+Author{4}{Affiliation}#=%=#Elsevier Labs
+Author{5}{Firstname}#=%=#Ron
+Author{5}{Lastname}#=%=#Daniel
+Author{5}{Email}#=%=#r.daniel@elsevier.com
+Author{5}{Affiliation}#=%=#Elsevier Labs
+
+==========

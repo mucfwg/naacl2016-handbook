@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Error analysis for anaphora resolution in Russian: new challenging issues for anaphora resolution task in a morphologically rich language
+ShortPaperTitle#=%=#Error analysis for anaphora resolution in Russian
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Мария Васильева
+JobTitle#==#
+Organization#==#Lomonosov MSU
+Abstract#==#This paper presents a quantitative and qualitative error analysis of Russian
+anaphora resolvers which participated in the RU-EVAL event. Its aim is to
+identify and characterize a set of challenging errors common to
+state-of-the-art systems dealing with Russian. We examined three types of
+pronouns: 3rd person pronouns, reflexive and relative pronouns. The
+investigation has shown that a high level of grammatical ambiguity, specific
+features  of reflexive pronouns, free word order and special cases of
+non-referential pronouns in Russian impact the quality of anaphora resolution
+systems. Error analysis reveals some specific features of anaphora resolution
+for morphologically rich and free word order languages with a lack of gold
+standard resources.
+Author{1}{Firstname}#=%=#Svetlana
+Author{1}{Lastname}#=%=#Toldova
+Author{1}{Email}#=%=#toldova@yandex.ru
+Author{1}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{2}{Firstname}#=%=#Ilya
+Author{2}{Lastname}#=%=#Azerkovich
+Author{2}{Email}#=%=#iazerkovich@ya.ru
+Author{2}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{3}{Firstname}#=%=#Alina
+Author{3}{Lastname}#=%=#Ladygina
+Author{3}{Email}#=%=#aladygina@yahoo.com
+Author{3}{Affiliation}#=%=#University of Tübingen
+Author{4}{Firstname}#=%=#Anna
+Author{4}{Lastname}#=%=#Roitberg
+Author{4}{Email}#=%=#cvi@yandex.ru
+Author{4}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{5}{Firstname}#=%=#Maria
+Author{5}{Lastname}#=%=#Vasilyeva
+Author{5}{Email}#=%=#linelleamv@gmail.com
+Author{5}{Affiliation}#=%=#Lomonosov Moscow State University
+
+==========

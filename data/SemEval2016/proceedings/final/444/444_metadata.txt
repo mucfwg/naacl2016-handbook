@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#444
+FinalPaperTitle#=%=#CICBUAPnlp at SemEval-2016 Task 4-A: Discovering Twitter Polarity using Enhanced Embeddings
+ShortPaperTitle#=%=#CICBUAPnlp at SemEval-2016 Task 4-A: Discovering Twitter Polarity using Enhanced Embeddings
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Helena Gómez-Adorno
+JobTitle#==#
+Organization#==#Instituto Politécnico Nacional
+Av. Juan de Dios Bátiz C.P. 07738, Mexico City, Mexico
+Abstract#==#This paper presents our approach for SemEval 2016 task 4: Sentiment Analysis in
+Twitter. We participated in Subtask A: Message Polarity Classification. The aim
+is to classify Twitter messages into positive, neutral, or negative polarity.
+We used a lexical resource for pre-processing of social media data and train a
+neural network model for feature representation. Our resource includes
+dictionaries of slang words, contractions, abbreviations, and
+emoticons commonly used in social media. For the classification process, we
+pass the features obtained in an unsupervised manner into an SVM classifier.
+Author{1}{Firstname}#=%=#Helena
+Author{1}{Lastname}#=%=#Gomez
+Author{1}{Email}#=%=#helena.adorno@gmail.com
+Author{1}{Affiliation}#=%=#Center for Computing Reseach - Instituto Politecnico Nacional
+Author{2}{Firstname}#=%=#Darnes
+Author{2}{Lastname}#=%=#Vilariño
+Author{2}{Email}#=%=#dvilarinoayala@gmail.com
+Author{2}{Affiliation}#=%=#Benemérita Universidad Autónoma de Puebla
+Author{3}{Firstname}#=%=#Grigori
+Author{3}{Lastname}#=%=#Sidorov
+Author{3}{Email}#=%=#sidorov@cic.ipn.mx
+Author{3}{Affiliation}#=%=#Center for Computing Reseach - Instituto Politécnico Nacional
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Pinto Avendaño
+Author{4}{Email}#=%=#dpinto@cs.buap.mx
+Author{4}{Affiliation}#=%=#Benemérita Universidad Autónoma de Puebla
+
+==========

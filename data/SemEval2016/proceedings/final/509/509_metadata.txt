@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#509
+FinalPaperTitle#=%=#INESC-ID at SemEval-2016 Task 4-A: Reducing the Problem of Out-of-Embedding Words
+ShortPaperTitle#=%=#INESC-ID at SemEval-2016 Task 4-A: Reducing the Problem of Out-of-Embedding Words
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#silvio
+JobTitle#==#
+Organization#==#
+Abstract#==#We present the INESC-ID system for the 2016 edition of SemEval Twitter
+Sentiment Analy- sis shared task (subtask 4-A). The system was based on the
+Non-Linear Sub-space Embed- ding (NLSE) model developed for last year’s
+competition. This model trains a projection of pre-trained embeddings into a
+small sub- space using the supervised data available. De- spite its simplicity,
+the system attained perfor- mances comparable to the best systems of last
+edition with no need for feature engineering. One limitation of this model was
+the assump- tion that a pre-trained embedding was avail- able for every word.
+In this paper, we investi- gated different strategies to overcome this lim-
+itation by exploiting character-level embed- dings and learning representations
+for out-of- embedding vocabulary words. The resulting approach outperforms our
+previous model by a relatively small margin, while still attaining strong
+results and a consistent good perfor- mance across all the evaluation datasets.
+Author{1}{Firstname}#=%=#Silvio
+Author{1}{Lastname}#=%=#Amir
+Author{1}{Email}#=%=#samir@inesc-id.pt
+Author{1}{Affiliation}#=%=#INESC-ID, IST
+Author{2}{Firstname}#=%=#Ramón
+Author{2}{Lastname}#=%=#Astudillo
+Author{2}{Email}#=%=#ramon@astudillo.com
+Author{2}{Affiliation}#=%=#INESC-ID/L2F
+Author{3}{Firstname}#=%=#Wang
+Author{3}{Lastname}#=%=#Ling
+Author{3}{Email}#=%=#wlin@inesc-id.pt
+Author{3}{Affiliation}#=%=#INESC-ID/IST
+Author{4}{Firstname}#=%=#Mario J.
+Author{4}{Lastname}#=%=#Silva
+Author{4}{Email}#=%=#mjs@inesc-id.pt
+Author{4}{Affiliation}#=%=#INESC-ID/IST Univ. Lisboa
+Author{5}{Firstname}#=%=#Isabel
+Author{5}{Lastname}#=%=#Trancoso
+Author{5}{Email}#=%=#isabel.trancoso@inesc-id.pt
+Author{5}{Affiliation}#=%=#INESC-ID / IST
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#520
+FinalPaperTitle#=%=#Minions at SemEval-2016 Task 4: or how to build a sentiment analyzer using off-the-shelf resources?
+ShortPaperTitle#=%=#Minions at SemEval-2016 Task 4
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Diana Trandabat
+JobTitle#==#
+Organization#==#University Alexandru Ioan Cuza of Iasi, Romania
+Abstract#==#Minions, a team formed of first year students in the Master of Computational
+Linguistics, started the participation at SemEval-2016 as a semester project,
+aiming to build a model for analyzing and classifying “tweets” into
+positive, neutral and negative, according to the evoked sentiment, while
+getting familiar with Natural Language Processing tools and methods. Therefore,
+the backbone of our sentiment analyzer consists in several off-the-shelf,
+freely available resources, enhanced with a classifier trained on the
+SemEval-2016 data.
+Author{1}{Firstname}#=%=#Calin-Cristian
+Author{1}{Lastname}#=%=#Ciubotariu
+Author{1}{Email}#=%=#calin.crist@gmail.com
+Author{1}{Affiliation}#=%=#University Al.I.Cuza of Iasi, Romania
+Author{2}{Firstname}#=%=#Marius-Valentin
+Author{2}{Lastname}#=%=#Hrisca
+Author{2}{Email}#=%=#hrisca.marius@gmail.com
+Author{2}{Affiliation}#=%=#University Al.I.Cuza of Iasi, Romania
+Author{3}{Firstname}#=%=#Mihail
+Author{3}{Lastname}#=%=#Gliga
+Author{3}{Email}#=%=#mihaigliga17@yahoo.com
+Author{3}{Affiliation}#=%=#University Al.I.Cuza of Iasi, Romania
+Author{4}{Firstname}#=%=#Diana
+Author{4}{Lastname}#=%=#Darabana
+Author{4}{Email}#=%=#diana.darabana@gmail.com
+Author{4}{Affiliation}#=%=#University Al.I.Cuza of Iasi, Romania
+Author{5}{Firstname}#=%=#Diana
+Author{5}{Lastname}#=%=#Trandabat
+Author{5}{Email}#=%=#dtrandabat@info.uaic.ro
+Author{5}{Affiliation}#=%=#University Alexandru Ioan Cuza of Iasi, Romania
+Author{6}{Firstname}#=%=#Adrian
+Author{6}{Lastname}#=%=#Iftene
+Author{6}{Email}#=%=#adiftene@info.uaic.ro
+Author{6}{Affiliation}#=%=#Al. I. Cuza University of Iasi
+
+==========

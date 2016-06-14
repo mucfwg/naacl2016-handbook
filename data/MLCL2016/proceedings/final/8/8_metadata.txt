@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Cross-lingual alignment transfer: a chicken-and-egg story?
+ShortPaperTitle#=%=#Cross-lingual alignment transfer: a chicken-and-egg story?
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lauriane Aufrant
+JobTitle#==#
+Organization#==#LIMSI-CNRS, rue John Von Neumann, 91403 Orsay, France
+Abstract#==#In this paper, we challenge a basic assumption of many cross-lingual transfer
+techniques: the availability of word aligned parallel corpora, and consider
+ways to accommodate situations in which such resources do not exist. We show
+experimentally that, here again, weakly supervised cross-lingual learning
+techniques can prove useful, once adapted to transfer knowledge across pairs of
+languages.
+Author{1}{Firstname}#=%=#Lauriane
+Author{1}{Lastname}#=%=#Aufrant
+Author{1}{Email}#=%=#lauriane.aufrant@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS, DGA
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Wisniewski
+Author{2}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{2}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{3}{Firstname}#=%=#François
+Author{3}{Lastname}#=%=#Yvon
+Author{3}{Email}#=%=#yvon@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

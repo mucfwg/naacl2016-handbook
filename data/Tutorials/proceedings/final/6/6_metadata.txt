@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Statistical Machine Translation between Related Languages
+ShortPaperTitle#=%=#Statistical Machine Translation between Related Languages
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#
+Author{1}{Firstname}#=%=#Pushpak
+Author{1}{Lastname}#=%=#Bhattacharyya
+Author{1}{Email}#=%=#pushpakbh@gmail.com
+Author{1}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{2}{Firstname}#=%=#Mitesh M.
+Author{2}{Lastname}#=%=#Khapra
+Author{2}{Email}#=%=#khapra.mitesh@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research India
+Author{3}{Firstname}#=%=#Anoop
+Author{3}{Lastname}#=%=#Kunchukuttan
+Author{3}{Email}#=%=#anoopk@cse.iitb.ac.in
+Author{3}{Affiliation}#=%=#IIT Bombay
+
+==========

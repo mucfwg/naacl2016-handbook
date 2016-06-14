@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#480
+FinalPaperTitle#=%=#COMMIT at SemEval-2016 Task 5: Sentiment Analysis with Rhetorical Structure Theory
+ShortPaperTitle#=%=#COMMIT at SemEval-2016 Task 5: Sentiment Analysis with Rhetorical Structure Theory
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Kim Schouten
+JobTitle#==#
+Organization#==#Erasmus University Rotterdam 
+P.O. Box 1738, NL-3000 DR Rotterdam, the Netherlands
+Abstract#==#This paper reports our submission to the Aspect-Based Sentiment Analysis task
+of SemEval 2016. It covers the prediction of sentiment for a given set of
+aspects (e.g., subtask 1, slot 2) for the English language using discourse
+analysis. To that end, a discourse parser implementing the Rhetorical Structure
+Theory is employed and the resulting information is used to determine the
+context of each aspect, as well as to compute the expressed sentiment in that
+context by weighing the discourse relations between words. While discourse
+analysis yields high level linguistic information that can be used to better
+predict sentiment, the proposed algorithm does not yet stack up to the
+high-performing machine learning approaches that are commonly exploited for
+this task.
+Author{1}{Firstname}#=%=#Kim
+Author{1}{Lastname}#=%=#Schouten
+Author{1}{Email}#=%=#schouten@ese.eur.nl
+Author{1}{Affiliation}#=%=#Erasmus University Rotterdam
+Author{2}{Firstname}#=%=#Flavius
+Author{2}{Lastname}#=%=#Frasincar
+Author{2}{Email}#=%=#frasincar@ese.eur.nl
+Author{2}{Affiliation}#=%=#Erasmus University Rotterdam
+
+==========

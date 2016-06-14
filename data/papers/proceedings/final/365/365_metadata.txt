@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#365
+FinalPaperTitle#=%=#Frustratingly Easy Cross-Lingual Transfer for Transition-Based Dependency Parsing
+ShortPaperTitle#=%=#Frustratingly Easy Cross-Lingual Transfer for Transition-Based Dependency Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ophélie Lacroix
+JobTitle#==#
+Organization#==#LIMSI-CNRS
+Abstract#==#In this paper, we present a straightforward strategy for transferring
+dependency parsers across languages.  The proposed method learns a parser from
+partially annotated data obtained through the projection of annotations across
+unambiguous word alignments. It does not rely on any modeling of the
+reliability of dependency and/or alignment links and is therefore easy to
+implement and parameter free.  Experiments on six languages show that our
+method is at par with recent algorithmically demanding methods, at a much
+cheaper computational cost. It can thus serve as a fair baseline for
+transferring dependencies across languages with the use of parallel corpora.
+Author{1}{Firstname}#=%=#Ophélie
+Author{1}{Lastname}#=%=#Lacroix
+Author{1}{Email}#=%=#ophelie.lacroix@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Lauriane
+Author{2}{Lastname}#=%=#Aufrant
+Author{2}{Email}#=%=#lauriane.aufrant@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS, DGA
+Author{3}{Firstname}#=%=#Guillaume
+Author{3}{Lastname}#=%=#Wisniewski
+Author{3}{Email}#=%=#guillaume.wisniewski@limsi.fr
+Author{3}{Affiliation}#=%=#Univ. Paris Sud and LIMSI-CNRS
+Author{4}{Firstname}#=%=#François
+Author{4}{Lastname}#=%=#Yvon
+Author{4}{Email}#=%=#yvon@limsi.fr
+Author{4}{Affiliation}#=%=#LIMSI/CNRS
+
+==========

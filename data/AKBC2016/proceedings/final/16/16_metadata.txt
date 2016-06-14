@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#An Attentive Neural Architecture for Fine-grained Entity Type Classification
+ShortPaperTitle#=%=#An Attentive Neural Architecture for Fine-grained Entity Type Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sonse Shimaoka
+JobTitle#==#
+Organization#==#Communication Science Laboratory
+6-6-05 Aramaki Aza Aoba, Aobaku, Sendai, Miyagi 980-8579, Japan
+Abstract#==#In this work we propose a novel attention-based neural network model for the
+task of fine-grained entity type classification that unlike previously proposed
+models recursively composes representations of entity mention contexts.
+Our model achieves state-of-the-art performance with 74.94% loose micro
+F1-score on the well-established FIGER dataset, a relative improvement of
+2.59%.
+We also investigate the behavior of the attention mechanism of our model and
+observe that it can learn contextual linguistic expressions that indicate the
+fine-grained category memberships of an entity.
+Author{1}{Firstname}#=%=#Sonse
+Author{1}{Lastname}#=%=#Shimaoka
+Author{1}{Email}#=%=#simaokasonse@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Graduate School of Information Sciences, Tohoku University
+Author{2}{Firstname}#=%=#Pontus
+Author{2}{Lastname}#=%=#Stenetorp
+Author{2}{Email}#=%=#p.stenetorp@cs.ucl.ac.uk
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Kentaro
+Author{3}{Lastname}#=%=#Inui
+Author{3}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University
+Author{4}{Firstname}#=%=#Sebastian
+Author{4}{Lastname}#=%=#Riedel
+Author{4}{Email}#=%=#sebastian.riedel@gmail.com
+Author{4}{Affiliation}#=%=#UCL
+
+==========

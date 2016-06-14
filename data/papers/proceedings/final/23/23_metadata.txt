@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Search Space Pruning: A Simple Solution for Better Coreference Resolvers
+ShortPaperTitle#=%=#Search Space Pruning: A Simple Solution for Better Coreference Resolvers
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nafise Sadat Moosavi
+JobTitle#==#
+Organization#==#Heidelberg Institute for Theoretical Studies gGmbH
+Abstract#==#There is a significant gap between the performance of a coreference resolution
+system on gold mentions and on system mentions. This gap is due to the large
+and unbalanced search space in coreference resolution when using system
+mentions. In this paper we show that search space pruning is a simple but
+efficient way of improving coreference resolvers. By incorporating our pruning
+method in one of the state-of-the-art coreference resolution systems, we
+achieve the best reported overall score on the CoNLL 2012 English test set. A
+version of our pruning method is available with the Cort coreference resolution
+source code.
+Author{1}{Firstname}#=%=#Nafise Sadat
+Author{1}{Lastname}#=%=#Moosavi
+Author{1}{Email}#=%=#ns.moosavi@gmail.com
+Author{1}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Strube
+Author{2}{Email}#=%=#michael.strube@h-its.org
+Author{2}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+
+==========

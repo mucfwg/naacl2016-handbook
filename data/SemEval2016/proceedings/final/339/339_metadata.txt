@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#339
+FinalPaperTitle#=%=#pkudblab at SemEval-2016 Task 6 : A Specific Convolutional Neural Network System for Effective Stance Detection
+ShortPaperTitle#=%=#A Specific Convolutional Neural Network System for Effective Stance Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wan Wei
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we develop a convolutional neural network for stance detection
+in tweets. According to the official results, our system ranks
+$\mathrm{1^{st}}$ on subtask B (among 9 teams) and ranks $\mathrm{2^{nd}}$ on
+subtask A (among 19 teams) on the twitter test set of SemEval2016 Task 6. The
+main contribution of our work is as follows. We design a "vote scheme" for
+prediction instead of predicting when the accuracy of validation set reaches
+its maximum. Besides, we make some improvement on the specific subtasks. For
+subtask A, we separate datasets into five sub-datasets according to their
+targets, and train and test five separate models.  For subtask B, we establish
+a two-class training dataset from the official domain corpus, and then modify
+the softmax layer to perform three-class classification. Our system can be
+easily re-implemented and optimized for other related tasks.
+Author{1}{Firstname}#=%=#Wan
+Author{1}{Lastname}#=%=#Wei
+Author{1}{Email}#=%=#wanw@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xiao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zxcs@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xuqin
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#xuqinliu@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#pekingchenwei@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Tengjiao
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Email}#=%=#tjwang@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+
+==========

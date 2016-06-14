@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#480
+FinalPaperTitle#=%=#A Latent Variable Recurrent Neural Network for Discourse-Driven Language Models
+ShortPaperTitle#=%=#A Latent Variable Recurrent Neural Network for Discourse-Driven Language Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yangfeng Ji
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+North Avenue, Atlanta, GA 30332
+Abstract#==#This paper presents a novel latent variable recurrent neural network
+architecture for jointly modeling sequences of words and (possibly latent)
+discourse relations between adjacent sentences. A recurrent neural network
+generates individual words, thus reaping the benefits of
+discriminatively-trained vector representations. The discourse relations are
+represented with a latent variable, which can be predicted or marginalized,
+depending on the task. The resulting model can therefore employ a training
+objective that includes not only discourse relation classification, but also
+word prediction. As a result, it outperforms state-of-the-art alternatives for
+two tasks: implicit discourse relation classification in the Penn Discourse
+Treebank, and dialog act classification in the Switchboard corpus. Furthermore,
+by marginalizing over latent discourse relations at test time, we obtain a
+discourse informed language model, which improves over a strong LSTM baseline.
+Author{1}{Firstname}#=%=#Yangfeng
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Email}#=%=#jiyfeng@gatech.edu
+Author{1}{Affiliation}#=%=#School of Interactive Computing, Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Gholamreza
+Author{2}{Lastname}#=%=#Haffari
+Author{2}{Email}#=%=#reza.haffari@gmail.com
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Eisenstein
+Author{3}{Email}#=%=#jacobe@gmail.com
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

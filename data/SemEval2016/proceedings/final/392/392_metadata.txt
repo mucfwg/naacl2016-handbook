@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#392
+FinalPaperTitle#=%=#OCLSP at SemEval-2016 Task 9: Multilayered LSTM as a Neural Semantic Dependency Parser
+ShortPaperTitle#=%=#OCLSP: Multilayered LSTM as a Neural Semantic Dependency Parser
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lifeng Jin
+JobTitle#==#
+Organization#==#The Ohio State University
+281 W. Lane Ave. | Columbus, Ohio 43210
+Abstract#==#Semantic dependency parsing aims at extracting arcs and semantic role labels
+for all words in a sentence at the same time. In this paper, we propose a
+semantic dependency parser which is based on Long Short-term Memory and make
+heavy use of embeddings of words and POS tags. We describe in detail the
+implementation of the neural parser, including preprocessing, postprocessing
+and various input features,
+and show that the neural parser performs close to the top system in the shared
+task and is very good at capturing non-local dependencies. We also discuss some
+issues related to the parser and how to improve it.
+Author{1}{Firstname}#=%=#Lifeng
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jin.544@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Manjuan
+Author{2}{Lastname}#=%=#Duan
+Author{2}{Email}#=%=#duan@ling.osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#William
+Author{3}{Lastname}#=%=#Schuler
+Author{3}{Email}#=%=#schuler@ling.osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

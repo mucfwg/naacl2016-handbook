@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#667
+FinalPaperTitle#=%=#End-to-End Argumentation Mining in Student Essays
+ShortPaperTitle#=%=#End-to-End Argumentation Mining in Student Essays
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Isaac Persing
+JobTitle#==#
+Organization#==#Computer Science Department
+The University of Texas at Dallas
+Richardson, TX 75080, USA
+Abstract#==#Understanding the argumentative structure of a persuasive essay involves
+addressing two challenging tasks: identifying the components
+of the essay's argument and identifying the
+relations that occur between them.
+We examine the under-investigated task of end-to-end argument mining
+in persuasive student essays, where we              
+(1) present the first results on end-to-end argument mining in student
+essays using a pipeline approach;
+(2) address error propagation inherent in the pipeline approach by
+performing joint inference over the outputs of the tasks 
+in an Integer Linear Programming (ILP) framework; and
+(3) propose a novel objective function
+that enables F-score to be maximized directly by an ILP solver.
+We evaluate our joint-inference approach with our novel objective function 
+on a publicly-available corpus of 90 essays, where it yields 
+an 18.5% relative error reduction in F-score 
+over the pipeline system.
+Author{1}{Firstname}#=%=#Isaac
+Author{1}{Lastname}#=%=#Persing
+Author{1}{Email}#=%=#persingq@hotmail.com
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Vincent
+Author{2}{Lastname}#=%=#Ng
+Author{2}{Email}#=%=#vince@hlt.utdallas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Dallas
+
+==========

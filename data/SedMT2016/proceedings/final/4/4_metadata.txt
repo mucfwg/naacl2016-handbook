@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#The Naming Sharing Structure and its Cognitive Meaning in Chinese and English
+ShortPaperTitle#=%=#The Naming Sharing Structure and its Cognitive Meaning in Chinese and English
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Shili Ge
+JobTitle#==#
+Organization#==#Guangdong University of Foreign Studies, No. 2 Baiyun Dadao Bei, Baiyun District, Guangzhou China
+Abstract#==#This research puts forward two concepts, the Naming Sharing Structure (NSS) and
+the Naming-Telling clause (NT clause). By trans-forming linear text into a
+plane structure, we discovered five construction patterns of NT clause for the
+NSS. The constructions of NT clauses are order-preserving, non-transgressive,
+and syntactically well-formed. These features of NT clause can be explained
+from the point of view of cognition.
+Author{1}{Firstname}#=%=#Shili
+Author{1}{Lastname}#=%=#Ge
+Author{1}{Email}#=%=#garyfirst@qq.com
+Author{1}{Affiliation}#=%=#Guangdong Collaborative Innovation Center for Language Research & Service, Guangdong University of Foreign Studies
+Author{2}{Firstname}#=%=#Rou
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#songrou@126.com
+Author{2}{Affiliation}#=%=#Guangdong Collaborative Innovation Center for Language Research & Service, Guangdong University of Foreign Studies
+
+==========

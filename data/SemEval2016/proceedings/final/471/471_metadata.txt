@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#471
+FinalPaperTitle#=%=#KULeuven-LIIR at SemEval 2016 Task 12: Detecting Narrative Containment in Clinical Records
+ShortPaperTitle#=%=#KULeuven-LIIR: Detecting Narrative Containment in Clinical Records
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Artuur Leeuwenberg
+JobTitle#==#PhD Student
+Organization#==#Katholieke Universiteit Leuven 
+Department of Computer Science 
+Celestijnenlaan 200A
+B-3001 Heverlee 
+Belgium
+Abstract#==#In this paper, we describe the KULeuven-LIIR system at the Clinical TempEval
+2016 Shared Task for the narrative container relation sub-task (CR). Our
+approach is based on the cTAKES Temporal system (Lin et al, 2015). We explored
+extending this system with different features. Moreover, we provide an error
+analysis of the submitted system, and report on some additional experiments
+done after submission.
+Author{1}{Firstname}#=%=#Artuur
+Author{1}{Lastname}#=%=#Leeuwenberg
+Author{1}{Email}#=%=#tuur.leeuwenberg@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#KU Leuven
+Author{2}{Firstname}#=%=#Marie-Francine
+Author{2}{Lastname}#=%=#Moens
+Author{2}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{2}{Affiliation}#=%=#KU Leuven
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Combining Off-the-shelf Grammar and Spelling Tools for the Automatic Evaluation of Scientific Writing (AESW) Shared Task 2016
+ShortPaperTitle#=%=#Combining Off-the-shelf Grammar and Spelling Tools for the AESW Shared Task 2016
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#René Witte
+JobTitle#==#
+Organization#==#Knowlet Networks Inc.
+Montréal, QC
+Canada
+Abstract#==#We applied two standard, open source tools for detecting spelling and grammar
+errors to the AESW 2016 shared task: After the Deadline and LanguageTool. The
+tools' output was combined with a Maximum Entropy machine learning model to
+classify each input sentence as requiring or not requiring any edits. This
+approach yielded the second-highest precision of 64.41% in the binary
+estimation task at AESW 2016, but also the lowest recall of 36.85%, resulting
+in an F-Measure of 46.34%.
+Author{1}{Firstname}#=%=#René
+Author{1}{Lastname}#=%=#Witte
+Author{1}{Email}#=%=#aesw@knowlet.net
+Author{1}{Affiliation}#=%=#Knowlet Networks Inc.
+Author{2}{Firstname}#=%=#Bahar
+Author{2}{Lastname}#=%=#Sateli
+Author{2}{Email}#=%=#aesw@knowlet.net
+Author{2}{Affiliation}#=%=#Knowlet Networks Inc.
+
+==========

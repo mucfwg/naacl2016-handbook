@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#114
+FinalPaperTitle#=%=#Online Multilingual Topic Models with Multi-Level Hyperpriors
+ShortPaperTitle#=%=#Online Multilingual Topic Models with Multi-Level Hyperpriors
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kriste Krstovski
+JobTitle#==#
+Organization#==#Harvard-Smithsonian Center for Astrophysics (CfA)
+60 Garden Street
+Cambridge, MA
+02138
+Abstract#==#For topic models, such as LDA, that use a bag-of-words assumption, it becomes
+especially important to break the corpus into appropriately-sized "documents".
+Since the models are estimated solely from the term cooccurrences, extensive
+documents such as books or long journal articles lead to diffuse statistics,
+and short documents such as forum posts or product reviews can lead to
+sparsity. This paper describes practical inference procedures for hierarchical
+models that smooth topic estimates for smaller sections with hyperpriors over
+larger documents. Importantly for large collections, these online variational
+Bayes inference methods perform a single pass over a corpus and achieve better
+perplexity than ``flat'' topic models on monolingual and multilingual data.
+Furthermore, on the task of detecting document translation pairs in large
+multilingual collections, polylingual topic models with multi-level hyperpriors
+(mlhPLTM) achieve significantly better performance than existing online PLTM
+models while retaining computational efficiency.
+Author{1}{Firstname}#=%=#Kriste
+Author{1}{Lastname}#=%=#Krstovski
+Author{1}{Email}#=%=#kriste@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#dasmith@ccs.neu.edu
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Michael J.
+Author{3}{Lastname}#=%=#Kurtz
+Author{3}{Email}#=%=#kurtz@cfa.harvard.edu
+Author{3}{Affiliation}#=%=#Harvard-Smithsonian Center for Astrophysics
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#374
+FinalPaperTitle#=%=#Duluth at SemEval 2016 Task 14: Extending Gloss Overlaps to Enrich Semantic Taxonomies
+ShortPaperTitle#=%=#Duluth At Semeval 2016 Task 14 : Extending Gloss Overlaps to Enrich Semantic Taxonomies
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Ted Pedersen
+JobTitle#==#
+Organization#==#University of Minnesota, Duluth
+1114 Kirby Drive
+Duluth, MN 55812
+Abstract#==#This paper describes the Duluth systems that participated in Task 14 of SemEval
+2016, Semantic Taxonomy Enrichment. There were three related systems in the
+formal evaluation which are discussed here, along with numerous
+post--evaluation runs. All of these systems identified synonyms between WordNet
+and other dictionaries by measuring the gloss overlaps between them. These
+systems perform better than the random baseline and one post--evaluation
+variation was within a respectable margin of the median result attained by all
+participating systems.
+Author{1}{Firstname}#=%=#Ted
+Author{1}{Lastname}#=%=#Pedersen
+Author{1}{Email}#=%=#tpederse@d.umn.edu
+Author{1}{Affiliation}#=%=#University of Minnesota, Duluth
+
+==========

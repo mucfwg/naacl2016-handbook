@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#334
+FinalPaperTitle#=%=#iUBC at SemEval-2016 Task 2: RNNs and LSTMs for interpretable STS
+ShortPaperTitle#=%=#iUBC at SemEval-2016 Task 2: RNNs and LSTMs for interpretable STS
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#inigo
+JobTitle#==#
+Organization#==#IXA NLP group. University of the Basque Country (UPV/EHU)
+Manual Lardizabal, 1 20.018, Donostia
+Abstract#==#This paper describes iUBC: a RNN and LSTM based approach that achieves 
+competitive results on the interpretable STS task (iSTS 2016). Actually, it
+achieves top performance in one of the three datasets. iUBC makes use of a
+jointly trained classifier and regressor, and both models work on top of a
+recurrent neural network. Through the paper we provide detailed description of
+the approach, as well as the results obtained in iSTS 2015 test, iSTS 2016
+training and iSTS 2016 test.
+Author{1}{Firstname}#=%=#Inigo
+Author{1}{Lastname}#=%=#Lopez-Gazpio
+Author{1}{Email}#=%=#inigo.lopez@ehu.es
+Author{1}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{2}{Firstname}#=%=#Eneko
+Author{2}{Lastname}#=%=#Agirre
+Author{2}{Email}#=%=#e.agirre@ehu.eus
+Author{2}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{3}{Firstname}#=%=#Montse
+Author{3}{Lastname}#=%=#Maritxalar
+Author{3}{Email}#=%=#montse.maritxalar@ehu.es
+Author{3}{Affiliation}#=%=#University of the Basque Country
+
+==========

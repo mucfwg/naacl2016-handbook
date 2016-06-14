@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#376
+FinalPaperTitle#=%=#VUACLTL at SemEval 2016 Task 12: A CRF Pipeline to Clinical TempEval
+ShortPaperTitle#=%=#VUACLTL at SemEval 2016 Task 12
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tommaso Caselli
+JobTitle#==#
+Organization#==#Vrije Universiteit Amsterdam
+De Boelelaan 1105 
+1081 HV Amsterdam Nederland
+Abstract#==#This paper describes VUACLTL, the system the CLTL Lab submitted to the SemEval
+2016 Task Clinical TempEval. The system is based on a purely data-driven
+approach based
+on a cascade of seven CRF classifiers which use generic features and little
+domain knowledge. The challenge consisted in six subtasks related to temporal
+processing clinical notes from raw text (event and temporal expression
+detection and attribute classification, temporal relation classification
+between events and the Document Creation Time, and narrative container
+detection). The system was initially developed to process newswire texts and
+then
+re-trained to process clinical notes. This had an impact on the results, which
+are not equally competitive for all the subtasks.
+Author{1}{Firstname}#=%=#Tommaso
+Author{1}{Lastname}#=%=#Caselli
+Author{1}{Email}#=%=#t.caselli@vu.nl
+Author{1}{Affiliation}#=%=#VU Amsterdam
+Author{2}{Firstname}#=%=#Roser
+Author{2}{Lastname}#=%=#Morante
+Author{2}{Email}#=%=#r.morantevallejo@vu.nl
+Author{2}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+
+==========

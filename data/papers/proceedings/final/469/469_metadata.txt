@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#469
+FinalPaperTitle#=%=#Conversational Markers of Constructive Discussions
+ShortPaperTitle#=%=#Conversational Markers of Constructive Discussions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Vlad Niculae
+JobTitle#==#
+Organization#==#Cornell University
+Department of Computer Science
+343 Campus Rd, Ithaca, NY 14853
+Abstract#==#Group discussions are essential for organizing every aspect of modern life,
+from faculty meetings to senate debates, from grant review panels to papal
+conclaves.  While costly in terms of time and organization effort, group
+discussions are commonly seen as a way of reaching better decisions compared to
+solutions that do not require coordination between the individuals (e.g.
+voting)---through discussion, the sum becomes greater than the parts.  However,
+this assumption is not irrefutable: anecdotal evidence of wasteful discussions
+abounds, and in our own experiments we find that over 30% of discussions are
+unproductive.
+
+We propose a framework for analyzing conversational dynamics in order to
+determine whether a given task-oriented discussion is worth having or not.  We
+exploit conversational patterns reflecting the flow of ideas and the balance
+between the participants, as well as their linguistic choices.                       
+  We
+apply
+this
+framework to conversations naturally occurring in an online collaborative world
+exploration game developed and deployed to support this research.  Using this
+setting, we show that linguistic cues and conversational patterns extracted
+from the first 20 seconds of a team discussion are predictive of whether it
+will be a wasteful or a productive one.
+Author{1}{Firstname}#=%=#Vlad
+Author{1}{Lastname}#=%=#Niculae
+Author{1}{Email}#=%=#vlad@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Cristian
+Author{2}{Lastname}#=%=#Danescu-Niculescu-Mizil
+Author{2}{Email}#=%=#cristian@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

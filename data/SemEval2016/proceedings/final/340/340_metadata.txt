@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#340
+FinalPaperTitle#=%=#Rev at SemEval-2016 Task 2: Aligning Chunks by Lexical, Part of Speech and Semantic Equivalence
+ShortPaperTitle#=%=#Rev at SemEval-2016 Task 2: Aligning Chunks by Lexical, Part of Speech and Semantic Equivalence
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tan Ping Ping
+JobTitle#==#
+Organization#==#University of Melbourne, Australia
+Abstract#==#We present the description of our submission to SemEval-2016 Task 2, for the
+sub-task of aligning pre-annotated chunks between sentence pairs and providing
+similarity and relatedness labels for the alignment.  The objective of the task
+is to provide interpretable semantic textual similarity assessments by adding
+an explanatory layer to aligned chunks. We analysed the provided datasets,
+considering lexical overlap, the part of speech tags and the synonyms of the
+words in the chunks, and developed a rule-based system reflecting that
+analysis.  Our system performance indicates that when sentence pairs are
+similar, alignment of chunks can be performed fairly well using lexical
+information alone without syntactic or semantic analysis.  The advantage of our
+system is that we can easily trace when chunks are aligned.
+Author{1}{Firstname}#=%=#ping
+Author{1}{Lastname}#=%=#tan
+Author{1}{Email}#=%=#pingt@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Karin
+Author{2}{Lastname}#=%=#Verspoor
+Author{2}{Email}#=%=#karin.verspoor@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Miller
+Author{3}{Email}#=%=#tmiller@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+
+==========

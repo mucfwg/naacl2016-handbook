@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#355
+FinalPaperTitle#=%=#USFD at SemEval-2016 Task 6: Any-Target Stance Detection on Twitter with Autoencoders
+ShortPaperTitle#=%=#USFD at SemEval-2016 Task 6: Any-Target Stance Detection on Twitter with Autoencoders
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Isabelle Augenstein
+JobTitle#==#
+Organization#==#Department of Computer Science, The University of Sheffield,
+Regent Court, 211 Portobello, S1 4DP, Sheffield, UK
+Abstract#==#This paper describes the University of
+Sheffield’s submission to the SemEval 2016
+Twitter Stance Detection weakly supervised
+task (SemEval 2016 Task 6, Subtask B). In
+stance detection, the goal is to classify the
+stance of a tweet towards a target as “favor”,
+“against”, or “none”. In Subtask B, the targets
+in the test data are different from the targets in
+the training data, thus rendering the task more
+challenging but also more realistic. To address
+the lack of target-specific training data, we use
+a large set of unlabelled tweets containing all
+targets and train a bag-of-words autoencoder
+to learn how to produce feature representations
+of tweets. These feature representations
+are then used to train a logistic regression classifier
+on labelled tweets, with additional features
+such as an indicator of whether the target
+is contained in the tweet. Our submitted
+run on the test data achieved an F1 of 0.3270.
+Author{1}{Firstname}#=%=#Isabelle
+Author{1}{Lastname}#=%=#Augenstein
+Author{1}{Email}#=%=#i.augenstein@ucl.ac.uk
+Author{1}{Affiliation}#=%=#Department of Computer Science, University College London
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Vlachos
+Author{2}{Email}#=%=#a.vlachos@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Kalina
+Author{3}{Lastname}#=%=#Bontcheva
+Author{3}{Email}#=%=#k.bontcheva@dcs.shef.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

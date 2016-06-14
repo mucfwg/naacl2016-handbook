@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#549
+FinalPaperTitle#=%=#BIRA: Improved Predictive Exchange Word Clustering
+ShortPaperTitle#=%=#BIRA: Improved Predictive Exchange Word Clustering
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jon Dehdari
+JobTitle#==#
+Organization#==#DFKI,
+Saarbrücken, Germany
+Abstract#==#Word clusters are useful for many NLP tasks including training neural network
+language models, but current increases in datasets are outpacing the ability of
+word clusterers to handle them.  Little attention has been paid thus far on
+inducing high-quality word clusters at a large scale.  The predictive exchange
+algorithm is quite scalable, but sometimes does not provide as good perplexity
+as other slower clustering algorithms.
+
+We introduce the bidirectional, interpolated, refining, and alternating (BIRA)
+predictive exchange algorithm.              It improves upon the predictive exchange
+algorithm's perplexity by up to 18%, giving it perplexities comparable to the
+slower two-sided exchange algorithm, and better perplexities than the slower
+Brown clustering algorithm.  Our BIRA implementation is fast, clustering a 2.5
+billion token English News Crawl corpus in 3 hours.  It also reduces machine
+translation training time while preserving translation quality.  Our
+implementation is portable and freely available.
+Author{1}{Firstname}#=%=#Jon
+Author{1}{Lastname}#=%=#Dehdari
+Author{1}{Email}#=%=#jon@dehdari.org
+Author{1}{Affiliation}#=%=#DFKI & Uni Saarland
+Author{2}{Firstname}#=%=#Liling
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#alvations@gmail.com
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#van Genabith
+Author{3}{Email}#=%=#josef.van_genabith@dfki.de
+Author{3}{Affiliation}#=%=#DFKI
+
+==========

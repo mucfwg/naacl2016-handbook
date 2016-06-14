@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#231
+FinalPaperTitle#=%=#Symmetric Patterns and Coordinations: Fast and Enhanced Representations of Verbs and Adjectives
+ShortPaperTitle#=%=#Symmetric Patterns and Coordinations: Fast and Enhanced Representations of Verbs and Adjectives
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Roy Schwartz
+JobTitle#==#
+Organization#==#The Hebrew University,
+Edmond Safra Campus, Givat Ram
+Jerusalem, 91904, Israel
+Abstract#==#State-of-the-art word embeddings, which are often trained on bag-of-words (BOW)
+contexts, provide a high quality representation of aspects of the semantics of
+nouns. However, their quality decreases substantially for the task of verb
+similarity prediction. In this paper we show that using symmetric pattern
+contexts (SPs, e.g., "X and Y") improves word2vec verb similarity performance
+by up to 15% and is also instrumental in adjective similarity prediction. The
+unsupervised SP contexts are even superior to a variety of dependency contexts
+extracted using a supervised parser. Moreover, we observe that SPs and
+dependency coordination contexts (Coor) capture a similar type of information,
+and demonstrate that Coor contexts are superior to other dependency contexts
+including the set of all dependency contexts, although they are still inferior
+to SPs. Finally, there are substantially fewer SP contexts compared to
+alternative representations, leading to a massive reduction in training time.
+On an 8G words corpus and a 32 core machine, the SP model trains in 11 minutes,
+compared to 5 and 11 hours with BOW and all dependency contexts, respectively.
+Author{1}{Firstname}#=%=#Roy
+Author{1}{Lastname}#=%=#Schwartz
+Author{1}{Email}#=%=#roys02@cs.huji.ac.il
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Roi
+Author{2}{Lastname}#=%=#Reichart
+Author{2}{Email}#=%=#roireichart@gmail.com
+Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{3}{Firstname}#=%=#Ari
+Author{3}{Lastname}#=%=#Rappoport
+Author{3}{Email}#=%=#arir@cs.huji.ac.il
+Author{3}{Affiliation}#=%=#The Hebrew University
+
+==========

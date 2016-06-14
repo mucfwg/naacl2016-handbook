@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#415
+FinalPaperTitle#=%=#Garuda & Bhasha at SemEval-2016 Task 11: Complex Word Identification Using Aggregated Learning Models
+ShortPaperTitle#=%=#CWI Using Aggregated Learning Models
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Prafulla Choubey
+JobTitle#==#
+Organization#==#Samsung R & D Institute India Bangalore Pvt Ltd,
+Bangalore, Karanataka, India -560037
+Abstract#==#This paper describes aggregated learning models for Complex Word Identification
+(CWI) task in SemEval 2016. The work focused on selecting the features that
+determine complexity of words and used different combinations of support vector
+machine (SVM) and decision tree (DT) techniques for classification. These
+classifiers were pipelined with pre-processing and postprocessing blocks which
+helped improving accuracy of systems, though had little impact on recall. Four
+systems were evaluated on the test set; SVM and DT systems by team Bhasha
+achieved G score of 0.529 and 0.508 respectively and SVM&DT and SVMPP systems
+by team Garuda achieved G scores of 0.360 and 0.546 respectively.
+Author{1}{Firstname}#=%=#Prafulla
+Author{1}{Lastname}#=%=#Choubey
+Author{1}{Email}#=%=#prafulla.ch@samsung.com
+Author{1}{Affiliation}#=%=#Samsung R&D India Bangalore Pvt. Ltd.
+Author{2}{Firstname}#=%=#Shubham
+Author{2}{Lastname}#=%=#Pateria
+Author{2}{Email}#=%=#s.pateria@samsung.com
+Author{2}{Affiliation}#=%=#Samsung R&D
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#214
+FinalPaperTitle#=%=#A Low-Rank Approximation Approach to Learning Joint Embeddings of News Stories and Images for Timeline Summarization
+ShortPaperTitle#=%=#Learning Joint Embeddings of News Stories and Images for Timeline Summarization
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#William Wang
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave
+Pittsburgh, PA 15213 USA
+Abstract#==#A key challenge for timeline summarization is to generate a concise, yet
+complete storyline from large collections of news stories. Previous studies in
+extractive timeline generation are limited in two aspects: first, most prior
+work focuses on fully-observable ranking models or clustering models with
+hand-designed features that may not generalize well. Second, most summarization
+corpora are text-only, which means that text is the sole source of information
+considered in timeline summarization, and thus, the rich visual content from
+news images is ignored. To solve these issues, we leverage the success of
+matrix factorization techniques from recommender systems, and cast the
+generation problem as a sentence recommendation task, using a representation
+learning approach. To augment text-only corpora, for each candidate sentence in
+a news article, we take advantage of top-ranked relevant images from the Web
+and model the image using a convolutional neural network architecture. Finally,
+we propose a scalable low-rank approximation approach for learning  joint
+embeddings of news stories and images. In experiments, we compare our model to
+various competitive baselines, and demonstrate the state-of-the-art performance
+of the proposed text-based and multimodal approaches.
+Author{1}{Firstname}#=%=#William Yang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#yww@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yashar
+Author{2}{Lastname}#=%=#Mehdad
+Author{2}{Email}#=%=#ymahdad@gmail.com
+Author{2}{Affiliation}#=%=#Yahoo! Labs
+Author{3}{Firstname}#=%=#Dragomir R.
+Author{3}{Lastname}#=%=#Radev
+Author{3}{Email}#=%=#radev@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Amanda
+Author{4}{Lastname}#=%=#Stent
+Author{4}{Email}#=%=#stent@yahoo-inc.com
+Author{4}{Affiliation}#=%=#Yahoo Labs
+
+==========

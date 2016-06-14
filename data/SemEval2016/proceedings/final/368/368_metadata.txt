@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#368
+FinalPaperTitle#=%=#USAAR at SemEval-2016 Task 13: Hyponym Endocentricity
+ShortPaperTitle#=%=#Hyponym Endocentricity
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Liling Tan
+JobTitle#==#
+Organization#==#Saarland University, Campus, 66123 Saarbrucken
+Abstract#==#This paper describes our submission to the SemEval-2016 Taxonomy Extraction
+Evaluation (TExEval-2) Task. We examine the endocentric nature of hyponyms and
+propose a simple rule-based method to identify hypernyms at high precision. For
+the food domain, we extract lists of terms from the Wikiepedia lists of lists
+by using the name of each list as the endocentric head and treating all terms
+in the extracted tables as the hyponym of the endocentric head. 
+
+Our submission achieved competitive results in taxonomy construction and ranked
+top in hypernym identification when evaluated against gold standard taxonomies
+and also in manual evaluation of novel relations not covered by the gold
+standard taxonomies.
+Author{1}{Firstname}#=%=#Liling
+Author{1}{Lastname}#=%=#Tan
+Author{1}{Email}#=%=#alvations@gmail.com
+Author{1}{Affiliation}#=%=#Universität des Saarlandes
+Author{2}{Firstname}#=%=#Francis
+Author{2}{Lastname}#=%=#Bond
+Author{2}{Email}#=%=#bond@ieee.org
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#van Genabith
+Author{3}{Email}#=%=#josef.van_genabith@dfki.de
+Author{3}{Affiliation}#=%=#DFKI
+
+==========

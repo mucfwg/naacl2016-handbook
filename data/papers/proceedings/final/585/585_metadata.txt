@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#585
+FinalPaperTitle#=%=#An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition
+ShortPaperTitle#=%=#An Empirical Study of Automatic CWS for SLU and NER
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wencan Luo
+JobTitle#==#
+Organization#==#Wencan Luo
+University of Pittsburgh
+4200 Fifth Ave, Pittsburgh, PA 15260
+Abstract#==#Word segmentation is usually recognized as the first step for many Chinese
+natural language processing tasks, yet its impact on these subsequent tasks is
+relatively under-studied. For example, how to solve the {\it mismatch} problem
+when applying an existing word segmenter to new data? Does a better word
+segmenter yield a better subsequent NLP task performance?
+In this work, we conduct an initial attempt to answer these questions on two
+related subsequent tasks: semantic slot filling in spoken language
+understanding and named entity recognition.
+We propose three techniques to solve the mismatch problem: using word
+segmentation outputs as additional features, adaptation with partial-learning
+and taking advantage of n-best word segmentation list. 
+Experimental results demonstrate the effectiveness of these techniques for both
+tasks and we achieve an error reduction of about 11% for spoken language
+understanding and 24% for named entity recognition over the baseline systems.
+Author{1}{Firstname}#=%=#Wencan
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#wencan@cs.pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Fan
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#fan.yang@nuance.com
+Author{2}{Affiliation}#=%=#Nuance Communications, Inc.
+
+==========

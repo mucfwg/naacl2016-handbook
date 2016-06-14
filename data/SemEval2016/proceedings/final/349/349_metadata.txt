@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#349
+FinalPaperTitle#=%=#QCRI at SemEval-2016 Task 4: Probabilistic Methods for Binary and Ordinal Quantification
+ShortPaperTitle#=%=#QCRI at SemEval-2016 Task 4: Probabilistic Methods for Binary and Ordinal Quantification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Wei Gao
+JobTitle#==#
+Organization#==#Qatar Computing Research Institute
+Hamad bin Khalifa University
+PO Box 5825, Doha, Qatar
+Abstract#==#We describe the systems we have used for participating in Subtasks D (binary
+quantification) and E (ordinal quantification) of SemEval-2016 Task 4
+``Sentiment Analysis in Twitter''. The binary quantification system uses a
+``Probabilistic Classify and Count'' (PCC) approach that leverages the
+calibrated probabilities obtained from the output of an SVM. The ordinal 
+quantification approach uses an ordinal tree of PCC binary quantifiers, where
+the tree is generated via a splitting criterion that minimizes the ordinal
+quantification loss.
+Author{1}{Firstname}#=%=#Giovanni
+Author{1}{Lastname}#=%=#Da San Martino
+Author{1}{Email}#=%=#gmartino@qf.org.qa
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Email}#=%=#wgao@qf.org.qa
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Fabrizio
+Author{3}{Lastname}#=%=#Sebastiani
+Author{3}{Email}#=%=#fsebastiani@qf.org.qa
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute
+
+==========

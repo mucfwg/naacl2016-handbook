@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Automatic Triage of Mental Health Online Forum Posts: CLPsych 2016 System Description
+ShortPaperTitle#=%=#Automatic Triage of Mental Health Online Forum Posts: CLPsych 2016 System Description
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marie-Jean Meurs
+JobTitle#==#Professor
+Organization#==#Département d'informatique
+Université du Québec à Montréal
+Case postale 8888, Succursale Centre-ville
+Montréal (Québec) H3C 3P8 Canada
+Abstract#==#This paper presents a system capable of performing automatic triage of forum
+posts from ReachOut.com, a mental health online forum. The system assigns to
+each post a tag that indicates how urgently moderator attention is needed. The
+evaluation is based on experiments conducted on the CLPsych 2016 task, and the
+system is released as an open-source software.
+Author{1}{Firstname}#=%=#Hayda
+Author{1}{Lastname}#=%=#Almeida
+Author{1}{Email}#=%=#hayda.almeida@concordia.ca
+Author{1}{Affiliation}#=%=#Concordia University
+Author{2}{Firstname}#=%=#Marc
+Author{2}{Lastname}#=%=#Queudot
+Author{2}{Email}#=%=#marc.queudot@viacesi.fr
+Author{2}{Affiliation}#=%=#Université du Québec à Montréal
+Author{3}{Firstname}#=%=#Marie-Jean
+Author{3}{Lastname}#=%=#Meurs
+Author{3}{Email}#=%=#meurs.marie-jean@uqam.ca
+Author{3}{Affiliation}#=%=#Université du Québec à Montréal
+
+==========

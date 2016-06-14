@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Incorporating Selectional Preferences in Multi-hop Relation Extraction
+ShortPaperTitle#=%=#Incorporating Selectional Preferences in Multi-hop Relation Extraction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rajarshi Das
+JobTitle#==#
+Organization#==#University of Massachusetts, Amherst
+Abstract#==#Relation extraction is one of the core challenges in automated knowledge base
+construction. One line of approach for relation extraction is to perform
+multi-hop reasoning on the paths connecting an entity pair to infer new
+relations. While these methods have been successfully applied for knowledge
+base completion, they do not utilize the entity or the entity  type information
+to make predictions. In this work, we incorporate {\it selectional
+preferences}, i.e., relations enforce constraints on the allowed entity types
+for the candidate entities,  to multi-hop relation extraction by including
+entity type information.  We achieve a 17.67% relative improvement in MAP score
+in a
+relation extraction task when compared to a method that does not use entity
+type information.
+Author{1}{Firstname}#=%=#Rajarshi
+Author{1}{Lastname}#=%=#Das
+Author{1}{Email}#=%=#rajarshi@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{2}{Firstname}#=%=#Arvind
+Author{2}{Lastname}#=%=#Neelakantan
+Author{2}{Email}#=%=#arvindramanat@gmail.com
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Belanger
+Author{3}{Email}#=%=#david.b.belanger@gmail.com
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#McCallum
+Author{4}{Email}#=%=#mccallum@cs.umass.edu
+Author{4}{Affiliation}#=%=#UMass Amherst
+
+==========

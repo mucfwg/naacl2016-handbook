@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Candidate re-ranking for SMT-based grammatical error correction
+ShortPaperTitle#=%=#Candidate re-ranking for SMT-based grammatical error correction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zheng Yuan
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#We develop a supervised ranking model to re-rank candidates generated from an
+SMT-based grammatical error correction (GEC) system. A range of novel features
+with respect to GEC are investigated and implemented in our re-ranker. We train
+a rank preference SVM model and demonstrate that this outperforms both Minimum
+Bayes-Risk and Multi-Engine Machine Translation based re-ranking for the GEC
+task. Our best system yields a significant improvement in I-measure when
+testing on the publicly available FCE test set (from 2.87% to 9.78%). It also
+achieves an F-0.5 score of 38.08% on the CoNLL-2014 shared task test set, which
+is higher than the best original result. The oracle score (upper bound) for the
+re-ranker achieves over 40% I-measure performance, demonstrating that there is
+considerable room for improvement in the re-ranking component developed here,
+such as incorporating features able to capture long-distance dependencies.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Yuan
+Author{1}{Email}#=%=#zy249@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Ted
+Author{2}{Lastname}#=%=#Briscoe
+Author{2}{Email}#=%=#ejb@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Mariano
+Author{3}{Lastname}#=%=#Felice
+Author{3}{Email}#=%=#mariano.felice@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

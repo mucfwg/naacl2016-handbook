@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Do Enterprises Have Emotions?
+ShortPaperTitle#=%=#Do Enterprises Have Emotions?
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sven Buechel
+JobTitle#==#
+Organization#==#
+Abstract#==#Emotional language of human individuals has been studied for quite a while
+dealing with opinions and value judgments people have and share with others. In
+our work, we take a different stance and investigate whether large
+organizations, such as major industrial players, have and communicate emotions,
+as well. Such an anthropomorphic perspective has recently been advocated in
+management and organization studies which consider organizations as social
+actors. We studied this assumption by analyzing 1,676 annual business and
+sustainability reports from 90 top-performing enterprises in the United States,
+Great Britain and Germany. We compared the measurements of emotions in this
+homogeneous corporate text corpus with those from RCV1, a heterogeneous Reuters
+newswire corpus. From this, we gathered empirical evidence that business
+reports compare well with typical emotion-neutral economic news, whereas
+sustainability reports are much more emotionally loaded, similar to
+emotion-heavy sports and fashion news from Reuters. Furthermore, our data
+suggest that these emotions are distinctive and relatively stable over time per
+organization, thus constituting an emotional profile for enterprises.
+Author{1}{Firstname}#=%=#Sven
+Author{1}{Lastname}#=%=#Buechel
+Author{1}{Email}#=%=#sven-eric.buechel@uni-jena.de
+Author{1}{Affiliation}#=%=#Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Jena, Germany
+Author{2}{Firstname}#=%=#Udo
+Author{2}{Lastname}#=%=#Hahn
+Author{2}{Email}#=%=#udo.hahn@uni-jena.de
+Author{2}{Affiliation}#=%=#Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Jena, Germany
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Goldenstein
+Author{3}{Email}#=%=#jan.goldenstein@uni-jena.de
+Author{3}{Affiliation}#=%=#School of Economics and Business Administration, Friedrich-Schiller-Universität Jena, Jena, Germany
+Author{4}{Firstname}#=%=#Sebastian G. M.
+Author{4}{Lastname}#=%=#Händschke
+Author{4}{Email}#=%=#sebastian.haendschke@uni-jena.de
+Author{4}{Affiliation}#=%=#School of Economics and Business Administration, Friedrich-Schiller-Universität Jena, Jena, Germany
+Author{5}{Firstname}#=%=#Peter
+Author{5}{Lastname}#=%=#Walgenbach
+Author{5}{Email}#=%=#Peter.Walgenbach@uni-jena.de
+Author{5}{Affiliation}#=%=#School of Economics and Business Administration, Friedrich-Schiller-Universität Jena, Jena, Germany
+
+==========

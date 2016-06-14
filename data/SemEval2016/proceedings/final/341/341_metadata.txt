@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#341
+FinalPaperTitle#=%=#PLUJAGH at SemEval-2016 Task 11: Simple System for Complex Word Identification
+ShortPaperTitle#=%=#PLUJAGH at SemEval-2016 Task 11: Simple System for Complex Word Identification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Krzysztof Wróbel
+JobTitle#==#
+Organization#==#Jagiellonian University
+ul. Golebia 24
+31-007 Krakow, Poland
+Abstract#==#This paper presents the description of a system which detects complex words. It
+solely uses information regarding the presence of a word in a prepared
+vocabulary list. The system outperforms multiple more advanced systems and is
+ranked fourth for the shared task, with minimal loss to the best system.
+F-score optimization guaranteed the first place in this measurement. Different
+features are considered and evaluated. Maximal bounds are predicted. The rule
+``the simplest methods give the best results'' is confirmed.
+Author{1}{Firstname}#=%=#Krzysztof
+Author{1}{Lastname}#=%=#Wróbel
+Author{1}{Email}#=%=#kwrobel@agh.edu.pl
+Author{1}{Affiliation}#=%=#AGH University of Science and Technology
+
+==========

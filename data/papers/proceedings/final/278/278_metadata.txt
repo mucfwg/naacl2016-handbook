@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#278
+FinalPaperTitle#=%=#Part-of-Speech Tagging for Historical English
+ShortPaperTitle#=%=#Part-of-Speech Tagging for Historical English
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jacob Eisenstein
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+Atlanta, GA
+Abstract#==#As more historical texts are digitized, there is interest in applying natural
+language processing tools to these archives. However, the performance of these
+tools is often unsatisfactory, due to language change and genre differences.
+Spelling normalization heuristics are the dominant solution for dealing with
+historical texts, but this approach fails to account for changes in usage and
+vocabulary. In this empirical paper, we assess the capability of domain
+adaptation techniques to cope with historical texts, focusing on the classic
+benchmark task of part-of-speech tagging. We evaluate several domain adaptation
+methods on the task of tagging Early Modern English and Modern British English
+texts in the Penn Corpora of Historical English. We demonstrate that the
+Feature Embedding method for unsupervised domain adaptation outperforms word
+embeddings and Brown clusters, showing the importance of embedding the entire
+feature space, rather than just individual words. Feature Embeddings also give
+better performance than spelling normalization, but the combination of the two
+methods is better still, yielding a 5% raw improvement in tagging accuracy on
+Early Modern English texts.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yiyang@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Eisenstein
+Author{2}{Email}#=%=#jacobe@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

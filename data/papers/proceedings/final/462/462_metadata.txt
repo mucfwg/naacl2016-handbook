@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#462
+FinalPaperTitle#=%=#What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment
+ShortPaperTitle#=%=#What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#MOHIT BANSAL
+JobTitle#==#Research Asst. Professor
+Organization#==#TTI-Chicago
+Abstract#==#We propose an end-to-end, domain-independent neural encoder-aligner-decoder
+model for selective generation, i.e., the joint task of content selection and
+surface realization. Our model first encodes a full set of over-determined
+database event records via an LSTM-based recurrent neural network, then
+utilizes a novel coarse-to-fine aligner to identify the small subset of salient
+records to talk about, and finally employs a decoder to generate free-form
+descriptions of the aligned, selected records. Our model achieves the best
+selection and generation results reported to-date (with 59% relative
+improvement in generation) on the benchmark WeatherGov dataset, despite using
+no specialized features or linguistic resources. Using an improved k-nearest
+neighbor beam filter helps further. We also perform a series of ablations and
+visualizations to elucidate the contributions of our key model components.
+Lastly, we evaluate the generalizability of our model on the RoboCup dataset,
+and get results that are competitive with or better than the state-of-the-art,
+despite being severely data-starved.
+Author{1}{Firstname}#=%=#Hongyuan
+Author{1}{Lastname}#=%=#Mei
+Author{1}{Email}#=%=#hongyuan@ttic.edu
+Author{1}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#mbansal@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{3}{Firstname}#=%=#Matthew R.
+Author{3}{Lastname}#=%=#Walter
+Author{3}{Email}#=%=#mwalter@ttic.edu
+Author{3}{Affiliation}#=%=#TTI-Chicago
+
+==========

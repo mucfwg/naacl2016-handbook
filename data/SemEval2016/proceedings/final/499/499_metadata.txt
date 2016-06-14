@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#499
+FinalPaperTitle#=%=#AI-KU at SemEval-2016 Task 11: Word Embeddings and Substring Features for Complex Word Identification
+ShortPaperTitle#=%=#AI-KU at SemEval-2016 Task 11: Word Embeddings and Substring Features for CWI
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Onur
+JobTitle#==#
+Organization#==#Koc University
+Istanbul, Turkey
+Abstract#==#We investigate the usage of word embeddings, namely Glove and SCODE, along with
+substring features on Complex Word Identification task. We introduce two
+systems: the first system utilizes the word embeddings of the target word and
+its substrings as features while the other considers the context information by
+using the embeddings of the surrounding words as well. Although the proposed
+representations perform below the average with nonlinear models, we show that
+word embeddings with substring features is an effective representation choice
+when employed with linear classifiers.
+Author{1}{Firstname}#=%=#Onur
+Author{1}{Lastname}#=%=#Kuru
+Author{1}{Email}#=%=#okuru13@ku.edu.tr
+Author{1}{Affiliation}#=%=#Koc University
+
+==========

@@ -1,0 +1,26 @@
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* Thursday, June 16, 2016
+= 9:00--10:00 Session 1
++ 9:00--9:05 Welcome
++ 9:05--10:00 Genesis reads Macbeth: The role of stories in human intelligence: invited talk, Patrick Henry Winston, MIT
+2 10:00--10:30 # Supervised Machine Learning for Hybrid Meter
+= 10:30--11:00 Coffee break
+= 11:00--12:30 Session 2
+1 11:00--11:30 # Automatic Text Generation by Learning from Literary Structures 
+13 11:30--12:00 # Intersecting Word Vectors to Take Figurative Language to New Heights
+7 12:00--12:30 # Gender-Distinguishing Features in Film Dialogue
+= 12:30--14:00 Lunch break
+= 14:00--15:30 Session 3
++ 14:00--14:05 Interactive Text Mining Suite, a teaser to accompany a demo
++ 14:05--15:00 ``The Not-Moth'': Poetic Expression in Array Spaces of Computational Constellation. Invited talk, Loss Pequeño Glazier, SUNY Buffalo
+5 15:00--15:30 # Reconstructing Ancient Literary Texts from Noisy Manuscripts
+= 15:30--16:00 Coffee break
+= 16:00--17:15 Session 4
+6 16:00--16:30 # Using Parsing and POS-Tagging Features for Detecting Chiasmus
+4 16:30--17:00 # Bilingual Chronological Classification of Hafez's Poems
++ 17:00--17:15 Wrap-up

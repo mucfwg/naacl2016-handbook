@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#420
+FinalPaperTitle#=%=#NLDS-UCSC at SemEval-2016 Task 6: A Semi-Supervised Approach to Detecting Stance in Tweets
+ShortPaperTitle#=%=#A Semi-Supervised Approach to Detecting Stance in Tweets
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Amita Misra
+JobTitle#==#
+Organization#==#University of california, santa cruz
+Abstract#==#Stance classification aims to identify, for a particular issue under
+discussion, whether the speaker or author of a conversational turn has
+Pro (Favor) or Con (Against) stance on the issue. Detecting stance in
+tweets is a new task proposed for SemEval-2016 Task6, involving
+predicting stance for a dataset of tweets on the topics of abortion,
+atheism, climate change, feminism and Hillary Clinton.                               
+     
+
+Given
+the
+small size of the dataset, our team created our own
+topic-specific training corpus by developing a set of high precision
+hashtags for each topic that were used to query the twitter API, with
+the aim of developing a large training corpus without additional
+human labeling of tweets for stance. The hashtags selected
+for each topic were predicted to be stance-bearing on their
+own. Experimental results demonstrate good performance for our
+features for opinion-target pairs based on generalizing dependency
+features using sentiment lexicons.
+Author{1}{Firstname}#=%=#Amita
+Author{1}{Lastname}#=%=#Misra
+Author{1}{Email}#=%=#amisra2@ucsc.edu
+Author{1}{Affiliation}#=%=#university of california,santa cruz
+Author{2}{Firstname}#=%=#Brian
+Author{2}{Lastname}#=%=#Ecker
+Author{2}{Email}#=%=#becker@ucsc.edu
+Author{2}{Affiliation}#=%=#university of california, santa cruz
+Author{3}{Firstname}#=%=#Theodore
+Author{3}{Lastname}#=%=#Handleman
+Author{3}{Email}#=%=#thandlem@ucs.edu
+Author{3}{Affiliation}#=%=#University of california, santa cruz
+Author{4}{Firstname}#=%=#Nicolas
+Author{4}{Lastname}#=%=#Hahn
+Author{4}{Email}#=%=#nhahn@ucsc.edu
+Author{4}{Affiliation}#=%=#University of california, santa cruz
+Author{5}{Firstname}#=%=#Marilyn
+Author{5}{Lastname}#=%=#Walker
+Author{5}{Email}#=%=#maw@soe.ucsc.edu
+Author{5}{Affiliation}#=%=#University of California Santa Cruz
+
+==========

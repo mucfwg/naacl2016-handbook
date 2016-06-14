@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#607
+FinalPaperTitle#=%=#Natural Language Communication with Robots
+ShortPaperTitle#=%=#Natural Language Communication with Robots
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yonatan Bisk
+JobTitle#==#
+Organization#==#Information Sciences Institute
+University of Southern California
+Abstract#==#We propose a framework for devising empirically testable algorithms for
+bridging the communication gap between humans and robots. We instantiate our
+framework in the context of a problem setting in which humans give instructions
+to robots using unrestricted natural language commands, with instruction
+sequences being subservient to building complex goal configurations in a blocks
+world. We show how one can collect meaningful training data and we propose
+three neural architectures for interpreting contextually grounded natural
+language commands. The proposed architectures allow us to correctly
+understand/ground the blocks that the robot should move when instructed by a
+human who uses unrestricted language. The architectures have more difficulty in
+correctly understanding/grounding the spatial relations required to place
+blocks correctly, especially when the blocks are not easily identifiable.
+Author{1}{Firstname}#=%=#Yonatan
+Author{1}{Lastname}#=%=#Bisk
+Author{1}{Email}#=%=#ybisk@yonatanbisk.com
+Author{1}{Affiliation}#=%=#ISI/USC
+Author{2}{Firstname}#=%=#Deniz
+Author{2}{Lastname}#=%=#Yuret
+Author{2}{Email}#=%=#dyuret@ku.edu.tr
+Author{2}{Affiliation}#=%=#Koc University
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Marcu
+Author{3}{Email}#=%=#marcu@isi.edu
+Author{3}{Affiliation}#=%=#ISI/USC
+
+==========

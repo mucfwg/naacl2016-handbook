@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#413
+FinalPaperTitle#=%=#IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis
+ShortPaperTitle#=%=#Combining Domain Dependency & Distributional Semantics Features for Aspect Based Sentiment Analysis
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ayush Kumar
+JobTitle#==#
+Organization#==#Indian Institute of Technology Patna, India
+Abstract#==#This paper reports the IIT-TUDA participation in the SemEval 2016 shared task 5
+of Aspect Based Sentiment Analysis (ABSA) for subtask 1. We describe our system
+incorporating domain dependency graph features, distributional thesaurus and
+unsupervised lexical induction using an unlabeled external corpus for aspect
+based sentiment analysis. Overall, we submitted 29 runs, covering 7 languages
+and 4 different domains. Our system is placed first in sentiment polarity
+classification for the English laptop domain, Spanish and Turkish restaurant
+reviews, and opinion target expression for Dutch and French in restaurant
+domain, and scores in medium ranks for aspect category identification and
+opinion target extraction.
+Author{1}{Firstname}#=%=#Ayush
+Author{1}{Lastname}#=%=#Kumar
+Author{1}{Email}#=%=#ayush2503@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{2}{Firstname}#=%=#Sarah
+Author{2}{Lastname}#=%=#Kohail
+Author{2}{Email}#=%=#kohail@lt.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{3}{Firstname}#=%=#Amit
+Author{3}{Lastname}#=%=#Kumar
+Author{3}{Email}#=%=#amitiitp14@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{4}{Firstname}#=%=#Asif
+Author{4}{Lastname}#=%=#Ekbal
+Author{4}{Email}#=%=#asif.ekbal@gmail.com
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Patna
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Biemann
+Author{5}{Email}#=%=#biem@cs.tu-darmstadt.de
+Author{5}{Affiliation}#=%=#TU Darmstadt
+
+==========

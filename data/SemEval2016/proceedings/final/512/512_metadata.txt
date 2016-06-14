@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#512
+FinalPaperTitle#=%=#MITRE at SemEval-2016 Task 6: Transfer Learning for Stance Detection
+ShortPaperTitle#=%=#MITRE at SemEval-2016 Task 6: Transfer Learning for Stance Detection
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Guido Zarrella
+JobTitle#==#
+Organization#==#MITRE Corporation
+202 Burlington Road
+Bedford, MA 01730-1420
+Abstract#==#We describe MITRE’s submission to the SemEval-2016 Task 6, Detecting Stance
+in Tweets. This effort achieved the top score in Task A on supervised stance
+detection, producing an average F1 score of 67.8 when assessing whether a tweet
+author was in favor or against a topic. We employed a recurrent neural network
+initialized with features learned via distant supervision on two large
+unlabeled datasets. We trained embeddings of words and phrases with the
+word2vec skip-gram method, then used those features to learn sentence
+representations via a hashtag prediction auxiliary task. These sentence vectors
+were then fine- tuned for stance detection on several hundred labeled examples.
+The result was a high performing system that used transfer learning to maximize
+the value of the available training data.
+Author{1}{Firstname}#=%=#Guido
+Author{1}{Lastname}#=%=#Zarrella
+Author{1}{Email}#=%=#jzarrella@mitre.org
+Author{1}{Affiliation}#=%=#The MITRE Corporation
+Author{2}{Firstname}#=%=#Amy
+Author{2}{Lastname}#=%=#Marsh
+Author{2}{Email}#=%=#amarsh@mitre.org
+Author{2}{Affiliation}#=%=#The MITRE Corporation
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#366
+FinalPaperTitle#=%=#thecerealkiller at SemEval-2016 Task 4: Deep Learning based System for Classifying Sentiment of Tweets on Two Point Scale
+ShortPaperTitle#=%=#Deep Learning based System for Classifying Sentiment of Tweets on Two Point Scale
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Vikrant Yadav
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we propose a deep learning system for classification of tweets
+on a two-point scale. Our architecture consists of a multilayered recurrent
+neural network having gated recurrent units. The network is pre-trained with a
+weakly labeled dataset of tweets to learn the sentiment specific embeddings.
+Then it is fine tuned on the given training dataset of the task 4B in
+SemEval-2016. The network does very little pre-processing for raw tweets and no
+post-processing at all. The proposed system achieves 3rd rank on the
+leaderboard of task 4B.
+Author{1}{Firstname}#=%=#Vikrant
+Author{1}{Lastname}#=%=#Yadav
+Author{1}{Email}#=%=#vikrantiitr1@gmail.com
+Author{1}{Affiliation}#=%=#Amazon.in
+
+==========

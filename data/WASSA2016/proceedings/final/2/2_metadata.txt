@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Classification of comment helpfulness to improve knowledge sharing among medical practitioners.
+ShortPaperTitle#=%=#Classification of comment helpfulness to improve knowledge sharing among medical practitioners.
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pierre André Ménard
+JobTitle#==#Postdoc researcher
+Organization#==#Computer research institute of Montréal
+405, Ogilvy Avenue, suite 101
+Montréal (Québec) H3N 1M3
+Abstract#==#Clinical research article summaries called infoPOEMs (Patient-Oriented Evidence
+that Matters) are emailed by the Canadian Medical Association to family
+physicians who read them and answer the online Information Assessment Method
+(IAM) questionnaire which a free form textual opinion fields to comment on the
+value or content of the infoPOEM. This article presents results of a relevance
+evaluation study applied on these comments to automatically determine their
+helpfulness and consequently the interest of sharing them among the medical
+community. A dataset of 3,470 manually annotated comments provides a gold
+standard, containing structural, syntactic, and semantic features taken from
+the Unified Medical Language System and IAM questionnaire. Applied machine
+learning algorithms show a global f-measure improvement of 9.1\% when compared
+to a binary occurrence bag-of-word baseline.
+Author{1}{Firstname}#=%=#Pierre André
+Author{1}{Lastname}#=%=#Ménard
+Author{1}{Email}#=%=#pierre-andre.menard@crim.ca
+Author{1}{Affiliation}#=%=#Centre de recherche informatique de Montréal
+Author{2}{Firstname}#=%=#Caroline
+Author{2}{Lastname}#=%=#Barrière
+Author{2}{Email}#=%=#caroline.barriere@crim.ca
+Author{2}{Affiliation}#=%=#Centre de recherche informatique de Montréal
+
+==========

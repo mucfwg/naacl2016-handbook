@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#564
+FinalPaperTitle#=%=#Grounded Semantic Role Labeling
+ShortPaperTitle#=%=#Grounded Semantic Role Labeling
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shaohua Yang
+JobTitle#==#
+Organization#==#Michigan State University
+Abstract#==#Semantic Role Labeling (SRL) captures semantic roles (or participants) such as
+\texttt{agent}, \texttt{patient}, and \texttt{theme} associated with verbs from
+the text. While it provides important intermediate semantic representations for
+many traditional NLP tasks (such as information extraction and question
+answering), it does not capture grounded semantics so that an artificial agent
+can reason, learn, and perform the actions with respect to the physical
+environment. To address this problem, this paper extends traditional SRL to
+grounded SRL where arguments of verbs are grounded to participants of actions
+in the physical world. By integrating language and vision processing through
+joint inference, our approach not only grounds explicit roles, but also grounds
+implicit roles that are not explicitly mentioned in language descriptions.
+This paper describes our empirical results and discusses challenges and future
+directions.
+Author{1}{Firstname}#=%=#Shaohua
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangshao@cse.msu.edu
+Author{1}{Affiliation}#=%=#Michigan State University
+Author{2}{Firstname}#=%=#Qiaozi
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Email}#=%=#gaoqiaoz@cse.msu.edu
+Author{2}{Affiliation}#=%=#Michigan State University
+Author{3}{Firstname}#=%=#Changsong
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#cliu@cse.msu.edu
+Author{3}{Affiliation}#=%=#Michigan State University
+Author{4}{Firstname}#=%=#Caiming
+Author{4}{Lastname}#=%=#Xiong
+Author{4}{Email}#=%=#cmxiong@metamind.io
+Author{4}{Affiliation}#=%=#Metamind, Palo Alto
+Author{5}{Firstname}#=%=#Song-Chun
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Email}#=%=#sczhu@stat.ucla.edu
+Author{5}{Affiliation}#=%=#University of California, Los Angeles
+Author{6}{Firstname}#=%=#Joyce Y.
+Author{6}{Lastname}#=%=#Chai
+Author{6}{Email}#=%=#jchai@cse.msu.edu
+Author{6}{Affiliation}#=%=#Michigan State University
+
+==========

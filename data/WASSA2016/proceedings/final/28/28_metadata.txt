@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Modelling Valence and Arousal in Facebook posts
+ShortPaperTitle#=%=#Modelling Valence and Arousal in Facebook posts
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Daniel Preotiuc-Pietro
+JobTitle#==#
+Organization#==#Positive Psychology Center
+University of Pennsylvania
+3701 Market St., Philadelphia, PA, USA
+Abstract#==#Access to expressions of subjective personal posts increased with the
+popularity of Social Media. However, most of the work in sentiment analysis
+focuses on predicting only valence from text and usually targeted at a product,
+rather than affective states. In this paper, we introduce a new data set of
+2895 Social Media posts rated by two psychologically-trained annotators on two
+separate ordinal nine-point scales. These scales represent valence (or
+sentiment) and arousal (or intensity), which defines each post’s position on
+the circumplex model of affect, a well-established system for describing
+emotional states (Russell, 1980; Posner et al., 2005). The data set is used to
+train prediction models for each of the two dimensions from text which achieve
+high predictive accuracy – correlated at r = .65 with valence and r = .85
+with arousal annotations. Our data set offers a building block to a deeper
+study of personal affect as expressed in social media. This can be used in
+applications such as mental illness detection or in automated large-scale
+psychological studies.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Preoţiuc-Pietro
+Author{1}{Email}#=%=#danielpr@gmail.com
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#H. Andrew
+Author{2}{Lastname}#=%=#Schwartz
+Author{2}{Email}#=%=#hansens@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Gregory
+Author{3}{Lastname}#=%=#Park
+Author{3}{Email}#=%=#gregoryjpark@gmail.com
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Johannes
+Author{4}{Lastname}#=%=#Eichstaedt
+Author{4}{Email}#=%=#johannes.eichstaedt@gmail.com
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Firstname}#=%=#Margaret
+Author{5}{Lastname}#=%=#Kern
+Author{5}{Email}#=%=#Peggy.Kern@unimelb.edu.au
+Author{5}{Affiliation}#=%=#University of Melbourne
+Author{6}{Firstname}#=%=#Lyle
+Author{6}{Lastname}#=%=#Ungar
+Author{6}{Email}#=%=#ungar@cis.upenn.edu
+Author{6}{Affiliation}#=%=#University of Pennsylvania
+Author{7}{Firstname}#=%=#Elisabeth
+Author{7}{Lastname}#=%=#Shulman
+Author{7}{Email}#=%=#lizshulman@gmail.com
+Author{7}{Affiliation}#=%=#Brock University
+
+==========

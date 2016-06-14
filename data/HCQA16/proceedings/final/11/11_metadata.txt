@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Using Confusion Graphs to Understand Classifier Error
+ShortPaperTitle#=%=#Using Confusion Graphs to Understand Classifier Error
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Davis Yoshida
+JobTitle#==#
+Organization#==#University of Colorado, Boulder
+Department of Computer Science
+Abstract#==#We analyze the errors of a question answering system by forming a confusion
+graph representing the mistakes made by the system. We then examine its
+structure, and clusters of answers which are commonly confused with each other.
+Author{1}{Firstname}#=%=#Davis
+Author{1}{Lastname}#=%=#Yoshida
+Author{1}{Email}#=%=#davis.yoshida@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Jordan
+Author{2}{Lastname}#=%=#Boyd-Graber
+Author{2}{Email}#=%=#jordan.boyd.graber@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado
+
+==========

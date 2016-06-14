@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#362
+FinalPaperTitle#=%=#SV000gg at SemEval-2016 Task 11: Heavy Gauge Complex Word Identification with System Voting
+ShortPaperTitle#=%=#SV000gg: Complex Word Identification with System Voting
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gustavo Henrique Paetzold
+JobTitle#==#
+Organization#==#University of Sheffield
+Western Bank
+Sheffield, South Yorkshire
+S10 2TN
+United Kingdom
+Abstract#==#We introduce the SV000gg systems: two Ensemble Methods for the Complex Word
+Identification task of SemEval 2016. While the SV000gg-Hard system exploits
+basic Hard Voting, the SV000gg-Soft system employs Performance-Oriented Soft
+Voting, which weights votes according to the voter's performance rather than
+its prediction confidence, allowing for completely heterogeneous systems to be
+combined. Our performance comparison shows that our voting techniques
+outperform traditional Soft Voting, as well as other systems submitted to the
+shared task, ranking first and second overall.
+Author{1}{Firstname}#=%=#Gustavo
+Author{1}{Lastname}#=%=#Paetzold
+Author{1}{Email}#=%=#ghpaetzold@outlook.com
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Lucia
+Author{2}{Lastname}#=%=#Specia
+Author{2}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

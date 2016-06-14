@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#A Report on the Automatic Evaluation of Scientific Writing Shared Task
+ShortPaperTitle#=%=#A Report on the AESW Shared Task
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vidas Daudaravicius
+JobTitle#==#
+Organization#==#VTeX
+Mokslininkų st. 2a, LT-08412 Vilnius, Lithuania
+Abstract#==#The Automated Evaluation of Scientific Writing, or AESW, is the task of
+identifying sentences in need of correction to ensure their appropriateness in
+a scientific prose. The data set comes from a professional editing company,
+VTeX, with two aligned versions of the same text – before and after editing
+– and covers a variety of textual infelicities that proofreaders have edited.
+While previous shared tasks focused solely on grammatical errors (Dale and
+Kilgarriff, 2011; Dale et al., 2012; Ng et al., 2013; Ng et al., 2014), this
+time edits cover other types of linguistic misfits as well, including those
+that almost certainly could be interpreted as style issues and similar "matters
+of opinion". The latter arise because of different language editing traditions,
+experience, and the absence of uniform agreement on what "good" scientific
+language should look like. Initiating this task, we expected the participating
+teams to help identify the characteristics of "good" scientific language, and
+help create a consensus of which language improvements are acceptable (or
+necessary). Six participating teams took on the challenge.
+Author{1}{Firstname}#=%=#Vidas
+Author{1}{Lastname}#=%=#Daudaravicius
+Author{1}{Email}#=%=#vidas.daudaravicius@vtex.lt
+Author{1}{Affiliation}#=%=#VTEX
+Author{2}{Firstname}#=%=#Rafael E.
+Author{2}{Lastname}#=%=#Banchs
+Author{2}{Email}#=%=#rembanchs@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Elena
+Author{3}{Lastname}#=%=#Volodina
+Author{3}{Email}#=%=#elena.volodina@svenska.gu.se
+Author{3}{Affiliation}#=%=#University of Gothenburg
+Author{4}{Firstname}#=%=#Courtney
+Author{4}{Lastname}#=%=#Napoles
+Author{4}{Email}#=%=#cdnapoles@gmail.com
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+
+==========

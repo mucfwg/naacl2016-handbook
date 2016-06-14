@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#521
+FinalPaperTitle#=%=#ISCAS_NLP at SemEval-2016 Task 1: Sentence Similarity Based on Support Vector Regression using Multiple Features
+ShortPaperTitle#=%=#Sentence Similarity Based on Support Vector Regression using Multiple Features
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Cheng Fu
+JobTitle#==#
+Organization#==#Institute of Software, Chinese Academy of Sciences, Beijing, China
+Abstract#==#This paper describes our system developed for English Monolingual subtask (STS
+Core) of SemEval-2016 Task 1: “Semantic Textual Similarity: A Unified
+Framework for Semantic Processing and Evaluation”. We measure the similarity
+between two sentences using three different types of features, including word
+alignment-based similarity, sentence vector-based similarity and sentence
+constituent similarity. The best performance of our submitted runs is a mean
+0.69996 Pearson correlation which outperforms the median score from all
+participating systems.
+Author{1}{Firstname}#=%=#Cheng
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Email}#=%=#fucheng_iscas@qq.com
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#An
+Author{2}{Email}#=%=#anbo@nfs.iscas.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#hanxianpei@qq.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+
+==========

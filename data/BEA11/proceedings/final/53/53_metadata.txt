@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#UW-Stanford System Description for AESW 2016 Shared Task on Grammatical Error Detection
+ShortPaperTitle#=%=#UW-Stanford System Description (AESW Shared Task)
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Woodley Packard
+JobTitle#==#
+Organization#==#University of Washington (Seattle, WA)
+Abstract#==#This is a report on the methods used and results obtained by the UW-Stanford
+team for the Automated Evaluation of Scientific Writing (AESW) Shared Task 2016
+on grammatical error detection.  This team developed a symbolic grammar-based
+system augmented with manually defined {\em mal-rules} to accommodate and
+identify instances of high-frequency grammatical errors.   System results were
+entered both for the probabilistic estimation track, where we ranked second,
+and for the boolean decision track, where we ranked fourth.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Flickinger
+Author{1}{Email}#=%=#danf@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Goodman
+Author{2}{Email}#=%=#goodmami@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Woodley
+Author{3}{Lastname}#=%=#Packard
+Author{3}{Email}#=%=#sweaglesw@sweaglesw.org
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

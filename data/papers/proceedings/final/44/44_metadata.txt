@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Recurrent Support Vector Machines For Slot Tagging In Spoken Language Understanding
+ShortPaperTitle#=%=#Recurrent Support Vector Machines For Slot Tagging In Spoken Language Understanding
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yangyang Shi
+JobTitle#==#
+Organization#==#Microsoft
+Abstract#==#We propose recurrent support vector machine(RSVM) for slot tagging. This model
+is a combination of the recurrent neural network (RNN) and the structured
+support vector machine. RNN extracts features from the input sequence. The
+structured support vector machine uses a sequence-level discriminative
+objective function. The proposed model therefore combines the sequence
+representation capability of an RNN with the sequence-level discriminative
+objective. We have observed new state-of-the-art results on two benchmark
+datasets and one private dataset. RSVM obtained statistical significant 4% and
+2% relative average F1 score improvement on ATIS dataset and Chunking dataset,
+respectively. Out of eight domains in Cortana live log dataset, RSVM achieved
+F1 score improvement on seven domains. Experiments also show that RSVM
+significantly speeds up the model training by skipping the weight updating for
+non-support vector training samples, compared against training using RNN with
+CRF or minimum cross-entropy objectives.
+Author{1}{Firstname}#=%=#Yangyang
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#yangshi@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Kaisheng
+Author{2}{Lastname}#=%=#Yao
+Author{2}{Email}#=%=#kaisheny@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Hu
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#huch@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Dong
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Email}#=%=#dong.yu@microsoft.com
+Author{4}{Affiliation}#=%=#microsoft research
+Author{5}{Firstname}#=%=#Yi-Cheng
+Author{5}{Lastname}#=%=#Pan
+Author{5}{Email}#=%=#ycpan@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Mei-Yuh
+Author{6}{Lastname}#=%=#Hwang
+Author{6}{Email}#=%=#my-svi@live.com
+Author{6}{Affiliation}#=%=#Microsoft
+
+==========

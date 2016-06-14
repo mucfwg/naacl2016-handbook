@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Sentential Paraphrasing as Black-Box Machine Translation
+ShortPaperTitle#=%=#Sentential Paraphrasing as Black-Box Machine Translation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Courtney Napoles
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N Charles St
+Baltimore, MD 21118
+Abstract#==#We present a simple, prepackaged solution to generating paraphrases of English
+sentences. We use the Paraphrase Database (PPDB) for monolingual sentence
+rewriting and provide machine translation language packs: prepackaged, tuned
+models that can be downloaded and used to generate paraphrases on a standard
+Unix environment. The language packs can be treated as a black box or
+customized to specific tasks. In this demonstration, we will explain how to use
+the included interactive web-based tool to generate sentential paraphrases.
+Author{1}{Firstname}#=%=#Courtney
+Author{1}{Lastname}#=%=#Napoles
+Author{1}{Email}#=%=#cdnapoles@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Callison-Burch
+Author{2}{Email}#=%=#ccb@upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Matt
+Author{3}{Lastname}#=%=#Post
+Author{3}{Email}#=%=#post@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

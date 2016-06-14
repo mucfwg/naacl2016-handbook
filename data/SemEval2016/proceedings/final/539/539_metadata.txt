@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#539
+FinalPaperTitle#=%=#ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora
+ShortPaperTitle#=%=#ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Community Question Answering
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Kateryna Tymoshenko
+JobTitle#==#
+Organization#==#University of Trento
+Abstract#==#We describe our system, ConvKN, participating to the SemEval-2016 Task 3
+"Community Question Answering". The task targeted the reranking of questions
+and comments in real-life web fora both in English and Arabic. 
+ConvKN combines convolutional tree kernels with convolutional neural networks
+and additional manually designed features including text similarity and thread
+specific features. For the first time, we applied tree kernels to syntactic
+trees of Arabic sentences for a reranking task. Our approaches obtained the
+second best results in three out of four tasks. The only task we performed
+averagely is the one where we did not use tree kernels in our classifier.
+Author{1}{Firstname}#=%=#Alberto
+Author{1}{Lastname}#=%=#Barrón-Cedeño
+Author{1}{Email}#=%=#albarron@gmail.com
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{2}{Firstname}#=%=#Giovanni
+Author{2}{Lastname}#=%=#Da San Martino
+Author{2}{Email}#=%=#gmartino@qf.org.qa
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Shafiq
+Author{3}{Lastname}#=%=#Joty
+Author{3}{Email}#=%=#sjoty@qf.org.qa
+Author{3}{Affiliation}#=%=#QCRI
+Author{4}{Firstname}#=%=#Alessandro
+Author{4}{Lastname}#=%=#Moschitti
+Author{4}{Email}#=%=#amoschitti@gmail.com
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute (prof. in Computer Science at University of Trento)
+Author{5}{Firstname}#=%=#Fahad
+Author{5}{Lastname}#=%=#Al-Obaidli
+Author{5}{Email}#=%=#faalobaidli@qf.org.qa
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{6}{Firstname}#=%=#Salvatore
+Author{6}{Lastname}#=%=#Romeo
+Author{6}{Email}#=%=#sromeo@qf.org.qa
+Author{6}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{7}{Firstname}#=%=#Kateryna
+Author{7}{Lastname}#=%=#Tymoshenko
+Author{7}{Email}#=%=#k.tymoshenko@gmail.com
+Author{7}{Affiliation}#=%=#University of Trento
+Author{8}{Firstname}#=%=#Antonio
+Author{8}{Lastname}#=%=#Uva
+Author{8}{Email}#=%=#auva87@gmail.com
+Author{8}{Affiliation}#=%=#University of Trento
+
+==========

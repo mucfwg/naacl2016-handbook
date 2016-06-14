@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#494
+FinalPaperTitle#=%=#DiegoLab16 at SemEval-2016 Task 4: Sentiment Analysis in Twitter using Centroids, Clusters, and Sentiment Lexicons
+ShortPaperTitle#=%=#DiegoLab16 at SemEval-2016: Sentiment Analysis using Centroids, Clusters, and Lexicons
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Abeeed Sarker
+JobTitle#==#
+Organization#==#Arizona State University
+13212 East Shea Blvd.
+Scottsdale
+AZ 85259
+USA
+Abstract#==#We present our supervised sentiment classification system which competed in
+SemEval-2016 Task 4: Sentiment Analysis in Twitter. Our system employs a
+Support Vector Machine (SVM) classifier trained using a number of features
+including n-grams, synset expansions, various sentiment scores, word clusters,
+and term centroids. Using weighted SVMs, to address the issue of class
+imbalance, our system obtains positive class F-scores of 0.694 and 0.650, and
+negative class F-scores of 0.391 and 0.493 over the training and test sets,
+respectively.
+Author{1}{Firstname}#=%=#Abeed
+Author{1}{Lastname}#=%=#Sarker
+Author{1}{Email}#=%=#abeed.sarker@asu.edu
+Author{1}{Affiliation}#=%=#Arizona State University
+Author{2}{Firstname}#=%=#Graciela
+Author{2}{Lastname}#=%=#Gonzalez
+Author{2}{Email}#=%=#graciela.gonzalez@asu.edu
+Author{2}{Affiliation}#=%=#Arizona State University
+
+==========

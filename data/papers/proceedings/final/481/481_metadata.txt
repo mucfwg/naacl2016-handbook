@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#481
+FinalPaperTitle#=%=#Learning to Recognize Ancillary Information for Automatic Paraphrase Identification
+ShortPaperTitle#=%=#Learning to Recognize Ancillary Information for Automatic Paraphrase Identification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#AM
+JobTitle#==#Dr.
+Organization#==#Qatar Computing Research Institute
+Abstract#==#Previous work on Automatic Paraphrase Identification (PI) is mainly based on
+modeling text similarity between two sentences. 
+In contrast,  we study methods for automatically detecting whether a text
+fragment only appearing in a sentence of the evaluated sentence pair is
+important or ancillary information with respect to the paraphrase
+identification task.
+Engineering features for this new task is rather difficult, thus, we approach
+the problem by representing text with syntactic structures and applying tree
+kernels on them. The results show that the accuracy of our automatic Ancillary
+Text Classifier (ATC) is promising, i.e., 68.6\%, and its output can be used to
+improve the state of the art in PI.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Filice
+Author{1}{Email}#=%=#filice.simone@gmail.com
+Author{1}{Affiliation}#=%=#University of Roma "Tor Vergata"
+Author{2}{Firstname}#=%=#Alessandro
+Author{2}{Lastname}#=%=#Moschitti
+Author{2}{Email}#=%=#amoschitti@gmail.com
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute (prof. in Computer Science at University of Trento)
+
+==========

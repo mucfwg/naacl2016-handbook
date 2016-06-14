@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#372
+FinalPaperTitle#=%=#bunji at SemEval-2016 Task 5: Neural and Syntactic Models of Entity-Attribute Relationship for Aspect-based Sentiment Analysis
+ShortPaperTitle#=%=#bunji: Neural and Syntactic Models of Entity-Attribute Relationship for ABSA
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Toshihiko Yanase
+JobTitle#==#
+Organization#==#Hitachi, Ltd. Research & Development Group
+1-28, Higashi-koigakubo
+Kokubunji-shi, Tokyo, 185-8601 Japan
+Abstract#==#This paper describes a sentiment analysis system developed by the bunji team in
+SemEval-2016 Task 5. In this task, we estimate the sentimental polarity of a
+given entity-attribute (E#A) pair in a sentence. Our approach is to estimate
+the relationship between target entities and sentimental expressions. We use
+two different methods to estimate the relationship. The first one is based on a
+neural attention model that learns relations between tokens and E#A pairs
+through backpropagation. The second one is based on a rule-based system that
+examines several verb-centric relations related to E#A pairs. We confirmed the
+effectiveness of the proposed methods in a target estimation task and a
+polarity estimation task in the restaurant domain, while our overall ranks were
+modest.
+Author{1}{Firstname}#=%=#Toshihiko
+Author{1}{Lastname}#=%=#Yanase
+Author{1}{Email}#=%=#toshihiko.yanase.gm@hitachi.com
+Author{1}{Affiliation}#=%=#Research & Development Group, Hitachi, Ltd.
+Author{2}{Firstname}#=%=#Kohsuke
+Author{2}{Lastname}#=%=#Yanai
+Author{2}{Email}#=%=#kohsuke.yanai.cs@hitachi.com
+Author{2}{Affiliation}#=%=#Hitachi
+Author{3}{Firstname}#=%=#Misa
+Author{3}{Lastname}#=%=#Sato
+Author{3}{Email}#=%=#misa.sato.mw@hitachi.com
+Author{3}{Affiliation}#=%=#Hitachi, Ltd.
+Author{4}{Firstname}#=%=#Toshinori
+Author{4}{Lastname}#=%=#Miyoshi
+Author{4}{Email}#=%=#toshinori.miyoshi.pd@hitachi.com
+Author{4}{Affiliation}#=%=#Hitachi, Ltd. Research & Development Group
+Author{5}{Firstname}#=%=#Yoshiki
+Author{5}{Lastname}#=%=#Niwa
+Author{5}{Email}#=%=#yoshiki.niwa.tx@hitachi.com
+Author{5}{Affiliation}#=%=#Hitachi, Ltd.
+
+==========

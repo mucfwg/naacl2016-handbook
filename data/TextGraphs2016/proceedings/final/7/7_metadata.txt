@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Embedding Senses for Efficient Graph-based Word Sense Disambiguation
+ShortPaperTitle#=%=#Embedding Senses for Efficient Graph-based Word Sense Disambiguation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Luis Nieto Piña
+JobTitle#==#
+Organization#==#University of Gothenburg
+Box 200
+SE 405 30 GÖTEBORG
+Abstract#==#We propose a simple graph-based method for word sense disambiguation (WSD)
+where sense and context embeddings are constructed by applying the Skip-gram
+method to random walks over the sense graph. We used this method to build a WSD
+system for Swedish using the SALDO lexicon, and evaluated it on six different
+annotated test sets. In all cases, our system was several orders of magnitude
+faster than a state-of-the-art PageRank-based system, while outperforming a
+random baseline soundly.
+Author{1}{Firstname}#=%=#Luis
+Author{1}{Lastname}#=%=#Nieto Piña
+Author{1}{Email}#=%=#luis.nieto.pina@svenska.gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Richard
+Author{2}{Lastname}#=%=#Johansson
+Author{2}{Email}#=%=#richard.johansson@gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+
+==========

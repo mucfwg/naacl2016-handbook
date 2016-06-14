@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#330
+FinalPaperTitle#=%=#M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks
+ShortPaperTitle#=%=#M2L: AMR Parsing with Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Puzikov
+JobTitle#==#
+Organization#==#Graduate School of Informatics, Kyoto University
+Yoshida-honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
+Abstract#==#This paper describes our contribution to the SemEval 2016 Workshop, Shared Task
+8 on Meaning Representation parsing. We used a transition-based approach, which
+builds upon an existing system which we attempted to improve by using a
+Feedforward Neural Network classifier and an enriched feature set.
+Author{1}{Firstname}#=%=#Yevgeniy
+Author{1}{Lastname}#=%=#Puzikov
+Author{1}{Email}#=%=#puzikov@nlp.ist.i.kyoto-u.ac.jp
+Author{1}{Affiliation}#=%=#Kyoto University
+Author{2}{Firstname}#=%=#Daisuke
+Author{2}{Lastname}#=%=#Kawahara
+Author{2}{Email}#=%=#dk@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Sadao
+Author{3}{Lastname}#=%=#Kurohashi
+Author{3}{Email}#=%=#kuro@i.kyoto-u.ac.jp
+Author{3}{Affiliation}#=%=#Kyoto University
+
+==========

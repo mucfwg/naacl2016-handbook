@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#433
+FinalPaperTitle#=%=#ICL-HD at SemEval-2016 Task 10: Improving the Detection of Minimal Semantic Units and their Meanings with an Ontology and Word Embeddings
+ShortPaperTitle#=%=#ICL-HD: Improving DiMSUM with an Ontology and Word Embeddings
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Angelika Kirilin
+JobTitle#==#Student
+Organization#==#Department of Computational Linguistics,  Heidelberg University, 69120 Heidelberg, Germany
+Abstract#==#This paper presents our system submitted for SemEval 2016 Task 10: Detecting
+Minimal Semantic Units and their Meanings (DiMSUM). We extend AMALGrAM
+(Schneider and Smith, 2015) by tapping two additional information sources. The
+first information source uses a semantic knowledge base (YAGO3; Suchanek et
+al., 2007) to improve supersense tagging (SST) for named entities.
+The second information source employs word embeddings (GloVe; Pennington et
+al., 2014) to capture fine-grained latent semantics and therefore improving the
+supersense identification for both nouns and verbs. We conduct a detailed
+evaluation and error analysis for our features and come to the conclusion that
+both our extensions lead to an improved detection for SST.
+Author{1}{Firstname}#=%=#Angelika
+Author{1}{Lastname}#=%=#Kirilin
+Author{1}{Email}#=%=#kirilin@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Department of Computational Linguistics,  Heidelberg University, 69120 Heidelberg
+Author{2}{Firstname}#=%=#Felix
+Author{2}{Lastname}#=%=#Krauss
+Author{2}{Email}#=%=#krauss@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#University of Heidelberg
+Author{3}{Firstname}#=%=#Yannick
+Author{3}{Lastname}#=%=#Versley
+Author{3}{Email}#=%=#versley@cl.uni-heidelberg.de
+Author{3}{Affiliation}#=%=#University of Heidelberg
+
+==========

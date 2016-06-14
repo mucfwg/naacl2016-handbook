@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Enhancing STEM Motivation through Personal and Communal Values: NLP for Assessment of Utility Value in Student Writing
+ShortPaperTitle#=%=#Enhancing STEM Motivation: NLP for Assessment of Utility Value in Student Writing
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Beata Beigman Klebanov
+JobTitle#==#
+Organization#==#ETS
+Abstract#==#We present, to our knowledge, the first experiments on using NLP  to measure
+the extent to which a writing sample expresses the writer's utility value from
+studying a STEM subject. Studies in social psychology have shown that a writing
+intervention where a STEM student is asked to reflect on the value of the STEM
+subject in their personal and social life is effective for improving motivation
+and retention of students in STEM  in college. Automated assessment of the
+expression of utility value  in student writing would allow scaling the
+intervention up, opening access to its benefits to multitudes of  college
+students. Our results on biology data suggest that expression of utility value
+can be measured with reasonable accuracy using automated means, especially in
+personal essays.
+Author{1}{Firstname}#=%=#Beata
+Author{1}{Lastname}#=%=#Beigman Klebanov
+Author{1}{Email}#=%=#bbeigmanklebanov@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service
+Author{2}{Firstname}#=%=#Jill
+Author{2}{Lastname}#=%=#Burstein
+Author{2}{Email}#=%=#jburstein@ets.org
+Author{2}{Affiliation}#=%=#ETS
+Author{3}{Firstname}#=%=#Judith
+Author{3}{Lastname}#=%=#Harackiewicz
+Author{3}{Email}#=%=#jmharack@wisc.edu
+Author{3}{Affiliation}#=%=#University of Wisconsin, Madison
+Author{4}{Firstname}#=%=#Stacy
+Author{4}{Lastname}#=%=#Priniski
+Author{4}{Email}#=%=#spriniski@wisc.edu
+Author{4}{Affiliation}#=%=#University of Wisconsin, Madison
+Author{5}{Firstname}#=%=#Matthew
+Author{5}{Lastname}#=%=#Mulholland
+Author{5}{Email}#=%=#mmulholland@ets.org
+Author{5}{Affiliation}#=%=#Educational Testing Service
+
+==========

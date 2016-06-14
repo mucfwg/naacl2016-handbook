@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#66
+FinalPaperTitle#=%=#Psycholinguistic Features for Deceptive Role Detection in Werewolf
+ShortPaperTitle#=%=#Psycholinguistic Features for Deceptive Role Detection in Werewolf
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Codruta Girlea
+JobTitle#==#
+Organization#==#University of Illinois at Urbana - Champaign
+Abstract#==#We tackle the problem of identifying deceptive agents in highly-motivated
+high-conflict dialogues. We consider the case where we only have textual
+information. We show the usefulness of psycho-linguistic deception and
+persuasion features on a small dataset for the game of Werewolf. We analyse the
+role of syntax and we identify some characteristics of players in deceptive
+roles.
+Author{1}{Firstname}#=%=#Codruta
+Author{1}{Lastname}#=%=#Girlea
+Author{1}{Email}#=%=#girlea2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana - Champaign
+Author{2}{Firstname}#=%=#Roxana
+Author{2}{Lastname}#=%=#Girju
+Author{2}{Email}#=%=#girju@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois, Urbana-Champaign
+Author{3}{Firstname}#=%=#Eyal
+Author{3}{Lastname}#=%=#Amir
+Author{3}{Email}#=%=#eyal@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois, Urbana - Champaign
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#525
+FinalPaperTitle#=%=#ECNU at SemEval-2016 Task 3: Exploring Traditional Method and Deep Learning Method for Question Retrieval and Answer Ranking in Community Question Answering
+ShortPaperTitle#=%=#Exploring Traditional Method and Deep Learning Method for Question Retrieval and Answer Ranking
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Guoshun Wu
+JobTitle#==#
+Organization#==#East China Normal University
+No.500 Dongchuan Road, Shanghai
+Abstract#==#This paper describes the system we submitted
+to the task 3 (Community Question Answering)
+in SemEval 2016, which contains
+three subtasks, i.e., Question-Comment Similarity
+(subtask A), Question-Question Similarity
+(subtask B), and Question-External Comment
+Similarity (subtask C). For subtask A,
+we employed three different methods to rank
+question-comment pair, i.e., supervised model
+using traditional features, Convolutional Neural
+Network and Long-Short Term Memory
+Network. For subtask B, we proposed two
+novel methods to improve semantic similarity
+estimation between question-question pair by
+integrating the rank information of question comment
+pair. For subtask C, we implemented
+a two-step strategy to select out the similar
+questions and filter the unrelated comments
+with respect to the original question.
+Author{1}{Firstname}#=%=#Guoshun
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#51141201064@ecnu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Man
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+
+==========

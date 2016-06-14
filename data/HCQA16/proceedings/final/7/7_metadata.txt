@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Neural Enquirer: Learning to Query Tables in Natural Language
+ShortPaperTitle#=%=#Neural Enquirer: Learning to Query Tables in Natural Language
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#YIN PENGCHENG
+JobTitle#==#
+Organization#==#The University of Hong Kong
+PokFuLam Rd., Hong Kong
+Abstract#==#We propose NEURAL ENQUIRER — a neural network architecture for answering
+natural language (NL) questions given a knowledge base (KB) table. Unlike
+previous work on end-to-end training of semantic parsers, NEURAL ENQUIRER is
+fully “neuralized”: it gives distributed representations of queries and KB
+tables, and executes queries through a series of differentiable operations. The
+model can be trained with gradient descent using both end- to-end and
+step-by-step supervision. During training the representations of queries and
+the KB table are jointly optimized with the query execution logic. Our
+experiments show that the model can learn to execute complex NL queries on KB
+tables with rich structures.
+Author{1}{Firstname}#=%=#Pengcheng
+Author{1}{Lastname}#=%=#Yin
+Author{1}{Email}#=%=#pcyin@cs.hku.hk
+Author{1}{Affiliation}#=%=#The University of Hong Kong
+Author{2}{Firstname}#=%=#Zhengdong
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#lu.zhengdong@huawei.com
+Author{2}{Affiliation}#=%=#Noah's Ark Lab, Huawei
+Author{3}{Firstname}#=%=#Hang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#HangLi.HL@huawei.com
+Author{3}{Affiliation}#=%=#Noah's Ark Lab, Huawei
+Author{4}{Firstname}#=%=#kao
+Author{4}{Lastname}#=%=#Ben
+Author{4}{Email}#=%=#kao@cs.hku.hk
+Author{4}{Affiliation}#=%=#The University of Hong Kong
+
+==========

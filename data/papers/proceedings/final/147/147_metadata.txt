@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#147
+FinalPaperTitle#=%=#Distinguishing Literal and Non-Literal Usage of German Particle Verbs
+ShortPaperTitle#=%=#Distinguishing Literal and Non-Literal Usage of German Particle Verbs
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Maximilian Köper
+JobTitle#==#
+Organization#==#Institut für Maschinelle Sprachverarbeitung
+Universität Stuttgart, Germany
+Abstract#==#This paper provides a binary, token-based classification of German particle
+verbs (PVs) into literal vs. non-literal usage. A random forest improving
+standard features (e.g., bag-of-words; affective ratings) with PV-specific
+information and abstraction over common nouns significantly outperforms the
+majority baseline. In addition, PV-specific classification experiments
+demonstrate the role of shared particle semantics and semantically related base
+verbs in PV meaning shifts.
+Author{1}{Firstname}#=%=#Maximilian
+Author{1}{Lastname}#=%=#Köper
+Author{1}{Email}#=%=#koepermn@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#IMS, University of Stuttgart
+Author{2}{Firstname}#=%=#Sabine
+Author{2}{Lastname}#=%=#Schulte im Walde
+Author{2}{Email}#=%=#schulte@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+
+==========

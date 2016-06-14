@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#465
+FinalPaperTitle#=%=#UWB at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity with Distributional Semantics for Chunks
+ShortPaperTitle#=%=#UWB at SemEval-2016 Task 2
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Miloslav Konopik
+JobTitle#==#
+Organization#==#NTIS – New Technologies for the Information Society,
+Faculty of Applied Sciences, University of West Bohemia, Technicka 8, 306 14 Plzen
+Czech Republic
+Abstract#==#We introduce a system focused on solving SemEval 2016 Task 2 - Interpretable
+Semantic Textual Similarity. The system explores machine learning and
+rule-based approaches to the task. We focus on machine learning and experiment
+with a wide variety of machine learning algorithms as well as with several
+types of features. The core of our system consists in exploiting distributional
+semantics to compare similarity of sentence chunks. The system won the
+competition in 2016 in the ''Gold standard chunk scenario''. We have not
+participated in the ''System chunk scenario''.
+Author{1}{Firstname}#=%=#Miloslav
+Author{1}{Lastname}#=%=#Konopik
+Author{1}{Email}#=%=#konopik@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#University of West Bohemia in Pilsen
+Author{2}{Firstname}#=%=#Ondrej
+Author{2}{Lastname}#=%=#Prazak
+Author{2}{Email}#=%=#ondfa@students.zcu.cz
+Author{2}{Affiliation}#=%=#University of West Bohemia in Pilsen
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Steinberger
+Author{3}{Email}#=%=#fenic@students.zcu.cz
+Author{3}{Affiliation}#=%=#University of West Bohemia in Pilsen
+Author{4}{Firstname}#=%=#Tomáš
+Author{4}{Lastname}#=%=#Brychcín
+Author{4}{Email}#=%=#brychcin@kiv.zcu.cz
+Author{4}{Affiliation}#=%=#Department of Computer Science and Engineering, Faculty of Applied Sciences, University of West Bohemia
+
+==========

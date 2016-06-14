@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#503
+FinalPaperTitle#=%=#Selecting Syntactic, Non-redundant Segments in Active Learning for Machine Translation
+ShortPaperTitle#=%=#Selecting Syntactic, Non-redundant Segments in Active Learning for Machine Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Akiva Miura
+JobTitle#==#
+Organization#==#Graduate School of Information Science
+Nara Institute of Science and Technology
+8916-5 Takayama-cho, Ikoma-shi, Nara, Japan
+Abstract#==#Active learning is a framework that makes it possible to efficiently train
+statistical models by selecting informative examples from a pool of unlabeled
+data.
+Previous work has found this framework effective for machine translation (MT),
+making it possible to train better translation models with less effort,
+particularly when annotators translate short phrases instead of full sentences.
+However, previous methods for phrase-based active learning in MT fail to
+consider whether the selected units are coherent and easy for human translators
+to translate, and also have problems with selecting redundant phrases with
+similar content.
+In this paper, we tackle this problem by proposing two new methods for
+selecting more syntactically coherent and less redundant segments in active
+learning for MT.
+Experiments using both simulation and extensive manual translation by
+professional translators find the proposed method effective, achieving both
+greater gain of BLEU score for the same number of translated words, and
+allowing
+translators to be more confident in their translations.
+Author{1}{Firstname}#=%=#Akiva
+Author{1}{Lastname}#=%=#Miura
+Author{1}{Email}#=%=#miura.akiba.lr9@is.naist.jp
+Author{1}{Affiliation}#=%=#NAIST - Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Graham
+Author{2}{Lastname}#=%=#Neubig
+Author{2}{Email}#=%=#neubig@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Paul
+Author{3}{Email}#=%=#mihyaeru.pauru@gmail.com
+Author{3}{Affiliation}#=%=#ATR-TREK
+Author{4}{Firstname}#=%=#Satoshi
+Author{4}{Lastname}#=%=#Nakamura
+Author{4}{Email}#=%=#s-nakamura@is.naist.jp
+Author{4}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

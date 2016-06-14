@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#550
+FinalPaperTitle#=%=#Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
+ShortPaperTitle#=%=#Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sumit Chopra
+JobTitle#==#
+Organization#==#
+Abstract#==#Abstractive sentence summarization generates a shorter version of a
+given sentence while attempting to preserve its meaning.  
+We introduce a conditional recurrent neural network (RNN) which
+generates a summary of an input sentence. The conditioning 
+is provided by a novel convolutional attention-based encoder 
+which ensures that the decoder focuses on the appropriate 
+input words at each step of generation. 
+Our model relies only on learned features and is easy to 
+train in an end-to-end fashion on very large data sets.  
+Our experiments show that the model significantly outperforms 
+the recently proposed state-of-the-art method on the Gigaword 
+corpus while performing competitively on the DUC-2004 shared task.
+Author{1}{Firstname}#=%=#Sumit
+Author{1}{Lastname}#=%=#Chopra
+Author{1}{Email}#=%=#spchopra@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI Research
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Auli
+Author{2}{Email}#=%=#michael.auli@gmail.com
+Author{2}{Affiliation}#=%=#Facebook AI Research
+Author{3}{Firstname}#=%=#Alexander M.
+Author{3}{Lastname}#=%=#Rush
+Author{3}{Email}#=%=#srush@seas.harvard.edu
+Author{3}{Affiliation}#=%=#Harvard University
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#504
+FinalPaperTitle#=%=#PIC a Different Word: A Simple Model for Lexical Substitution in Context
+ShortPaperTitle#=%=#PIC a Different Word: A Simple Model for Lexical Substitution in Context
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Stephen Roller
+JobTitle#==#
+Organization#==#The University of Texas at Austin
+Abstract#==#The Lexical Substitution task involves selecting and ranking lexical
+paraphrases for a target word in a given sentential context. We present PIC, a
+simple measure for estimating the appropriateness of substitutes in a given
+context. PIC outperforms another simple, comparable model proposed in recent
+work, especially when selecting substitutes from the entire vocabulary.
+Analysis shows that PIC improves over baselines by incorporating frequency
+biases into predictions.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#Roller
+Author{1}{Email}#=%=#roller@cs.utexas.edu
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Katrin
+Author{2}{Lastname}#=%=#Erk
+Author{2}{Email}#=%=#katrin.erk@mail.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+
+==========

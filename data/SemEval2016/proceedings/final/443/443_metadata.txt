@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#443
+FinalPaperTitle#=%=#SemEval-2016 Task 8: Meaning Representation Parsing
+ShortPaperTitle#=%=#SemEval-2016 Task 8: Meaning Representation Parsing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jonathan May
+JobTitle#==#
+Organization#==#USC Information Sciences Institute
+4676 Admiralty Way
+Marina del Rey, CA 90292
+Abstract#==#In this report we summarize the results of the SemEval 2016 Task 8: Meaning
+Representation Parsing. Participants were asked to generate Abstract Meaning
+Representation (AMR) (Banarescu et al., 2013) graphs for a set of English
+sentences in the news and discussion forum domains. Eleven sites submitted
+valid systems. The availability of state-of-the-art baseline systems was a key
+factor in lowering the bar to entry; many submissions relied on CAMR (Werling
+et al., 2015) or JAMR  (Flanigan et al., 2014) as baseline systems and added
+extensions to these to improve scores. The evaluation set was quite difficult
+to parse, particularly due to creative approaches to word representation in the
+web forum portion. The top scoring systems scored 0.62 F1 according to the
+Smatch (Cai and Knight, 2013) evaluation heuristic. We show some sample 
+sentences along with a comparison of system parses and perform quantitative
+ablative studies.
+Author{1}{Firstname}#=%=#Jonathan
+Author{1}{Lastname}#=%=#May
+Author{1}{Email}#=%=#jonmay@gmail.com
+Author{1}{Affiliation}#=%=#USC Information Sciences Institute
+
+==========

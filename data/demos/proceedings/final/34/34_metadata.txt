@@ -1,0 +1,77 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Lecture Translator - Speech translation framework for simultaneous lecture translation
+ShortPaperTitle#=%=#Lecture Translator - Speech translation framework for simultaneous lecture translation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Markus Müller
+JobTitle#==#
+Organization#==#Karlsruhe Institute of Technology
+Adenauerring 2
+76131 Karlsruhe, Germany
+Abstract#==#Foreign students at German universities often have difficulties following
+lectures as they are often held in German.
+Since human interpreters are too expensive for universities we are addressing
+this problem via speech translation technology deployed in KIT's lecture halls.
+Our simultaneous lecture translation system automatically translates lectures
+from German to English in real-time. Other supported language directions are
+English to Spanish, English to French, English to German and German to French.
+Automatic simultaneous translation is more than just the concatenation of
+automatic speech recognition and machine translation technology, as the input
+is an unsegmented, practically infinite stream of spontaneous speech. The lack
+of segmentation and the spontaneous nature of the speech makes it especially
+difficult to recognize and translate it with sufficient quality. In addition to
+quality, speed and latency are of the utmost importance in order for the system
+to enable students to follow lectures. In this paper we present our system that
+performs the task of simultaneous speech translation of university lectures by
+performing speech translation on a stream of audio in real-time and with low
+latency. The system features several techniques beyond the basic speech
+translation task, that make it fit for real-world use. Examples of these
+features are a continuous stream speech recognition without any prior
+segmentation of the input audio, punctuation prediction, run-on decoding and
+run-on translation with continuously updating displays in order to keep the
+latency as low as possible.
+Author{1}{Firstname}#=%=#Markus
+Author{1}{Lastname}#=%=#Müller
+Author{1}{Email}#=%=#m.mueller@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Thai Son
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#thai.nguyen@kit.edu
+Author{2}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Niehues
+Author{3}{Email}#=%=#jan.niehues@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{4}{Firstname}#=%=#Eunah
+Author{4}{Lastname}#=%=#Cho
+Author{4}{Email}#=%=#eunah.cho@kit.edu
+Author{4}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{5}{Firstname}#=%=#Bastian
+Author{5}{Lastname}#=%=#Krüger
+Author{5}{Email}#=%=#bastian.krueger@kit.edu
+Author{5}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{6}{Firstname}#=%=#Thanh-Le
+Author{6}{Lastname}#=%=#Ha
+Author{6}{Email}#=%=#thanh-le.ha@kit.edu
+Author{6}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{7}{Firstname}#=%=#Kevin
+Author{7}{Lastname}#=%=#Kilgour
+Author{7}{Email}#=%=#kevin.kilgour@kit.edu
+Author{7}{Affiliation}#=%=#KIT
+Author{8}{Firstname}#=%=#Matthias
+Author{8}{Lastname}#=%=#Sperber
+Author{8}{Email}#=%=#matthias.sperber@kit.edu
+Author{8}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{9}{Firstname}#=%=#Mohammed
+Author{9}{Lastname}#=%=#Mediani
+Author{9}{Email}#=%=#mmediani@ira.uka.de
+Author{9}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{10}{Firstname}#=%=#Sebastian
+Author{10}{Lastname}#=%=#Stüker
+Author{10}{Email}#=%=#sebastian.stueker@kit.edu
+Author{10}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{11}{Firstname}#=%=#Alex
+Author{11}{Lastname}#=%=#Waibel
+Author{11}{Email}#=%=#waibel@kit.edu
+Author{11}{Affiliation}#=%=#Karlsruhe Institute of Technology
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#430
+FinalPaperTitle#=%=#UWB at SemEval-2016 Task 1: Semantic Textual Similarity using Lexical, Syntactic, and Semantic Information
+ShortPaperTitle#=%=#UWB: Semantic Textual Similarity
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tomas Brychcin
+JobTitle#==#
+Organization#==#University of West Bohemia, Univerzitni 8, 306 14 Plzen, Czech Republic
+Abstract#==#We present our UWB system for Semantic Textual Similarity (STS) task at SemEval
+2016. Given two sentences, the system estimates the degree of their semantic
+similarity. 
+
+We use state-of-the-art algorithms for the meaning representation and combine
+them with the best performing approaches to STS from previous years. These
+methods benefit from various sources of information, such as lexical,
+syntactic, and semantic.
+
+In the monolingual task, our system achieve mean Pearson correlation 75.7%
+compared with human annotators. In the cross-lingual task, our system has
+correlation 86.3% and is ranked first among 26 systems.
+Author{1}{Firstname}#=%=#Tomáš
+Author{1}{Lastname}#=%=#Brychcín
+Author{1}{Email}#=%=#brychcin@kiv.zcu.cz
+Author{1}{Affiliation}#=%=#Department of Computer Science and Engineering, Faculty of Applied Sciences, University of West Bohemia
+Author{2}{Firstname}#=%=#Lukáš
+Author{2}{Lastname}#=%=#Svoboda
+Author{2}{Email}#=%=#svobikl@kiv.zcu.cz
+Author{2}{Affiliation}#=%=#Department of Computer Science and Engineering, Faculty of Applied Sciences, University of West Bohemia
+
+==========

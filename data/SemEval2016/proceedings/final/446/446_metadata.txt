@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#446
+FinalPaperTitle#=%=#Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis
+ShortPaperTitle#=%=#Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dario Stojanovski
+JobTitle#==#
+Organization#==#Faculty of Computer Science and Engineering 
+Rugjer Boshkovikj 16 1000 Skopje, Republic of Macedonia
+Abstract#==#In this paper, we present a novel deep learning architecture for sentiment
+analysis in Twitter messages. Our system finki, employs both convolutional and
+gated recurrent neural networks to obtain a more diverse tweet representation.
+The network is trained on top of GloVe word embeddings pre-trained on the
+Common Crawl dataset. Both neural networks are used to obtain a fixed length
+representation of variable sized tweets, and the concatenation of these vectors
+is supplied to a fully connected softmax layer with dropout regularization. The
+system is evaluated on benchmark datasets from the Sentiment Analysis in
+Twitter task of the SemEval 2016 challenge where our model achieves best and
+second highest results on the 2-point and 5-point quantification subtasks
+respectively. Despite not relying on any hand-crafted features, our system
+manages the second highest average rank on the considered subtasks.
+Author{1}{Firstname}#=%=#Dario
+Author{1}{Lastname}#=%=#Stojanovski
+Author{1}{Email}#=%=#stojanovski.dario@gmail.com
+Author{1}{Affiliation}#=%=#Faculty of Computer Science and Engineering
+Author{2}{Firstname}#=%=#Gjorgji
+Author{2}{Lastname}#=%=#Strezoski
+Author{2}{Email}#=%=#strezoski.g@gmail.com
+Author{2}{Affiliation}#=%=#Faculty of Computer Science and Engineering
+Author{3}{Firstname}#=%=#Gjorgji
+Author{3}{Lastname}#=%=#Madjarov
+Author{3}{Email}#=%=#gjorgji.madjarov@finki.ukim.mk
+Author{3}{Affiliation}#=%=#Faculty of Computer Science and Engineering
+Author{4}{Firstname}#=%=#Ivica
+Author{4}{Lastname}#=%=#Dimitrovski
+Author{4}{Email}#=%=#ivica.dimitrovski@finki.ukim.mk
+Author{4}{Affiliation}#=%=#Faculty of Computer Science and Engineering
+
+==========

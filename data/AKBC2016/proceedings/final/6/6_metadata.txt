@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Knowledge Base Population for Organization Mentions in Email
+ShortPaperTitle#=%=#Knowledge Base Population for Organization Mentions in Email
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ning Gao
+JobTitle#==#
+Organization#==#University of Maryland, College Park
+
+A.V.Williams Building, University of Maryland, College Park,
+MD, 20742
+Abstract#==#A prior study found that on average there are 6.3 named mentions of
+organizations found in email messages from the Enron collection, only about
+half of which could be linked to known entities in Wikipedia. That suggests a
+need for collection-specific approaches to entity linking, similar to those
+have proven successful for person mentions. This paper describes a process for
+automatically constructing such a collection-specific knowledge base of
+organization entities for named mentions in Enron. A new public test collection
+for linking 130 mentions of organizations found in Enron email to either
+Wikipedia or to this new collection-specific knowledge base is also described.
+Together, Wikipedia entities plus the new collection-specific knowledge base
+cover 83% of the 130 organization mentions, a 14% (absolute) improvement over
+the 69% that could be linked to Wikipedia alone.
+Author{1}{Firstname}#=%=#Ning
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#ninggao@umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Dredze
+Author{2}{Email}#=%=#mdredze@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Douglas
+Author{3}{Lastname}#=%=#Oard
+Author{3}{Email}#=%=#oard@umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland, College Park
+
+==========

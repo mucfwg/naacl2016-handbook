@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#388
+FinalPaperTitle#=%=#UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound
+ShortPaperTitle#=%=#UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andreas Vlachos
+JobTitle#==#
+Organization#==#University of Sheffield
+Abstract#==#We develop a novel transition-based parsing algorithm for the abstract meaning
+representation parsing task using exact imitation learning, in which the parser
+learns a statistical model by imitating the actions of an expert on the
+training data. We then use the imitation learning algorithm DAgger to improve
+the performance, and apply an alpha-bound as a simple noise reduction
+technique. Our performance on the test set was 60% in F-score, and the
+performance gains on the development set due to DAgger was up to 1.1 points of
+F-score. The alpha-bound improved performance by up to 1.8 points.
+Author{1}{Firstname}#=%=#James
+Author{1}{Lastname}#=%=#Goodman
+Author{1}{Email}#=%=#james@janigo.co.uk
+Author{1}{Affiliation}#=%=#University College London
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Vlachos
+Author{2}{Email}#=%=#a.vlachos@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Jason
+Author{3}{Lastname}#=%=#Naradowsky
+Author{3}{Email}#=%=#jason.narad@gmail.com
+Author{3}{Affiliation}#=%=#UMass Amherst
+
+==========

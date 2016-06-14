@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#575
+FinalPaperTitle#=%=#Stating the Obvious: Extracting Visual Common Sense Knowledge
+ShortPaperTitle#=%=#Stating the Obvious: Extracting Visual Common Sense Knowledge
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mark Yatskar
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#Obtaining common sense knowledge using current information extraction
+techniques is extremely challenging.In this work, we instead propose to derive
+simple common sense statements from fully annotated object detection corpora
+such as the Microsoft Common Objects in Context dataset. We show that many
+thousands of common sense facts can be extracted from such corpora at high
+quality. Furthermore, using WordNet and a novel sub-modular k-coverage
+formulation, we are able to generalize our initial set of common sense
+assertions to unseen objects and uncover over 400k potentially useful facts.
+Author{1}{Firstname}#=%=#Mark
+Author{1}{Lastname}#=%=#Yatskar
+Author{1}{Email}#=%=#my89@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Vicente
+Author{2}{Lastname}#=%=#Ordonez
+Author{2}{Email}#=%=#vicente@cs.virginia.edu
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence (AI2)
+Author{3}{Firstname}#=%=#Ali
+Author{3}{Lastname}#=%=#Farhadi
+Author{3}{Email}#=%=#alif@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute of AI; University of Washington
+
+==========

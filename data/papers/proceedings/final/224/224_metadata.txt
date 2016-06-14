@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#224
+FinalPaperTitle#=%=#A Recurrent Neural Networks Approach for Estimating the Quality of Machine Translation Output
+ShortPaperTitle#=%=#A Recurrent Neural Networks Approach for Estimating the Quality of Machine Translation Output
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hyun Kim
+JobTitle#==#
+Organization#==#Department of Creative IT Engineering, POSTECH
+77 Cheongam-Ro. Nam-Gu. Pohang. Gyeongbuk. Korea
+Abstract#==#This paper presents a novel approach using recurrent neural networks for
+estimating the quality of machine translation output. A sequence of vectors
+made by the prediction method is used as the input of these recurrent neural
+networks. The prediction method uses bi-directional recurrent neural networks
+architecture both on source and target sentence to fully utilize the
+bi-directional quality information from source and target sentence. Our
+experiments show that the proposed recurrent neural networks approach achieves
+a performance comparable to the existing state-of-the-art models for estimating
+the sentence-level quality of English-to-Spanish translation.
+Author{1}{Firstname}#=%=#Hyun
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#hkim.postech@gmail.com
+Author{1}{Affiliation}#=%=#POSTECH
+Author{2}{Firstname}#=%=#Jong-Hyeok
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#jhlee@postech.ac.kr
+Author{2}{Affiliation}#=%=#POSTECH
+
+==========

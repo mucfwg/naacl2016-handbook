@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#Shallow Semantic Reasoning from an Incomplete Gold Standard for Learner Language
+ShortPaperTitle#=%=#Semantic Reasoning for Learner Language
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Levi King
+JobTitle#==#
+Organization#==#
+Abstract#==#We investigate questions of how to reason about learner meaning in cases where
+the set of correct meanings is never entirely complete, specifically for the
+case of picture description tasks (PDTs). To operationalize this, we explore
+different models of representing and scoring non-native speaker (NNS) responses
+to a picture, including bags of dependencies, automatically determining the
+relevant parts of an image from a set of native speaker (NS) responses. In more
+exploratory work, we examine the variability in both NS and NNS responses, and
+how different system parameters correlate with the variability. In this way, we
+hope to provide insight for future system development, data collection, and
+investigations into learner language.
+Author{1}{Firstname}#=%=#Levi
+Author{1}{Lastname}#=%=#King
+Author{1}{Email}#=%=#leviking@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Firstname}#=%=#Markus
+Author{2}{Lastname}#=%=#Dickinson
+Author{2}{Email}#=%=#md7@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+
+==========

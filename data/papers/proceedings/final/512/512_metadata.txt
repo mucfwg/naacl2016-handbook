@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#512
+FinalPaperTitle#=%=#Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation
+ShortPaperTitle#=%=#Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Research on grammatical error correction has received considerable attention.
+For dealing with all types of errors, grammatical error correction methods that
+employ statistical machine translation (SMT) have been proposed in recent
+years. An SMT system generates candidates with scores for all candidates and
+selects the sentence with the highest score as the correction result. However,
+the 1-best result of an SMT system is not always the best result. Thus, we
+propose a reranking approach for grammatical error correction. The reranking
+approach is used to re-score N-best results of the SMT and reorder the results.
+Our experiments show that our reranking system using parts of speech and
+syntactic features improves performance and achieves state-of-the-art quality,
+with an F0:5 score of 40.0.
+Author{1}{Firstname}#=%=#Tomoya
+Author{1}{Lastname}#=%=#Mizumoto
+Author{1}{Email}#=%=#tomoya-m@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Yuji
+Author{2}{Lastname}#=%=#Matsumoto
+Author{2}{Email}#=%=#matsu@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

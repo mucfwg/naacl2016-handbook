@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#448
+FinalPaperTitle#=%=#Knowledge-Guided Linguistic Rewrites for Inference Rule Verification
+ShortPaperTitle#=%=#Knowledge-Guided Linguistic Rewrites for Inference Rule Verification
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Prachi Jain
+JobTitle#==#
+Organization#==#Indian Institute of Technology Delhi,
+Hauz Khas, New Delhi, Delhi 110016
+India
+Abstract#==#A corpus of inference rules between a pair of relation phrases is typically
+generated using the statistical overlap of argument-pairs associated with the
+relations (e.g., PATTY, CLEAN). We investigate knowledge-guided linguistic
+rewrites as a secondary source of evidence and find that they can vastly
+improve the quality of inference rule corpora, obtaining 27 to 33 point
+precision improvement while retaining substantial recall. The facts inferred
+using cleaned inference rules are 29-32 points more accurate.
+Author{1}{Firstname}#=%=#Prachi
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#p6.jain@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Delhi
+Author{2}{Firstname}#=%=#
+Author{2}{Lastname}#=%=#Mausam
+Author{2}{Email}#=%=#mausam@cs.washington.edu
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Delhi
+
+==========

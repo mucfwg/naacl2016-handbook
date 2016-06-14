@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#468
+FinalPaperTitle#=%=#SemEval-2016 Task 13: Taxonomy Extraction Evaluation (TExEval-2)
+ShortPaperTitle#=%=#SemEval-2016 Task 13: Taxonomy Extraction Evaluation (TExEval-2)
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Georgeta Bordea
+JobTitle#==#
+Organization#==#The Insight Centre for Data Analytics
+National University of Ireland, Galway
+The DERI Building
+IDA Business Park,
+Lower Dangan,
+Galway, Ireland
+Abstract#==#This paper describes the second edition of the shared task on Taxonomy
+Extraction Evaluation organised as part of SemEval 2016. This task aims to
+extract hypernym-hyponym relations between a given list of domain-specific
+terms and then to construct a domain taxonomy based on them. TExEval-2
+introduced a multilingual setting for this task, covering four different
+languages including English, Dutch, Italian and French from domains as diverse
+as environment, food and science. A total of 62 runs submitted by 5 different
+teams were evaluated using structural measures, by comparison with gold
+standard taxonomies and by manual quality assessment of novel relations.
+Author{1}{Firstname}#=%=#Georgeta
+Author{1}{Lastname}#=%=#Bordea
+Author{1}{Email}#=%=#georgeta.bordea@deri.org
+Author{1}{Affiliation}#=%=#Insight, NUI Galway
+Author{2}{Firstname}#=%=#Els
+Author{2}{Lastname}#=%=#Lefever
+Author{2}{Email}#=%=#els.lefever@ugent.be
+Author{2}{Affiliation}#=%=#LT3, Ghent University
+Author{3}{Firstname}#=%=#Paul
+Author{3}{Lastname}#=%=#Buitelaar
+Author{3}{Email}#=%=#paul.buitelaar@deri.org
+Author{3}{Affiliation}#=%=#INSIGHT, National University of Ireland, Galway
+
+==========

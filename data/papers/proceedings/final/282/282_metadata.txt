@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#282
+FinalPaperTitle#=%=#Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks
+ShortPaperTitle#=%=#Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Franck Dernoncourt
+JobTitle#==#
+Organization#==#MIT
+77 Massachusetts Ave, Cambridge, MA 02139, USA.
+Abstract#==#Recent approaches based on artificial neural networks (ANNs) have shown
+promising results for short-text classification. However, many short texts
+occur in sequences (e.g., sentences in a document or utterances in a dialog),
+and most existing ANN-based systems do not leverage the preceding short texts
+when classifying a subsequent one. In this work, we present a model based on
+recurrent neural networks and convolutional neural networks that incorporates
+the preceding short texts. Our model achieves state-of-the-art results on three
+different datasets for dialog act prediction.
+Author{1}{Firstname}#=%=#Ji Young
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#jjylee@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Franck
+Author{2}{Lastname}#=%=#Dernoncourt
+Author{2}{Email}#=%=#franck.dernoncourt@gmail.com
+Author{2}{Affiliation}#=%=#MIT
+
+==========

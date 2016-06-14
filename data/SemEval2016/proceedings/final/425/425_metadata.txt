@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#425
+FinalPaperTitle#=%=#UTA DLNLP at SemEval-2016 Task 12: Deep Learning Based Natural Language Processing System for Clinical Information Identification from Clinical Notes and Pathology Reports
+ShortPaperTitle#=%=#UTA_DLNLP at SemEval-2016 Task 12: Clinical TempEval
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Peng Li
+JobTitle#==#
+Organization#==#Peng Li, 316 ERB Building, 500 UTA Blvd., Arlington. Texas
+Abstract#==#We propose a deep neural network based natural language processing system for
+clinical information (such as time information, event spans, and their
+attributes) extraction from raw clinical notes and pathology reports. Our
+approach uses the context words and their part-of-speech tags and shape
+information as features. We utilize the temporal (1D) convolution neural
+network to learn the hidden feature representations. In prediction step, we use
+the Multilayer Perceptron (MLP) to predict event spans. The empirical
+evaluation demonstrates that our approach significantly outperforms baseline
+methods.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jerryli1981@gmail.com
+Author{1}{Affiliation}#=%=#University of Texas, Arlington
+Author{2}{Firstname}#=%=#Heng
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#heng@uta.edu
+Author{2}{Affiliation}#=%=#University of Texas, Arlington
+
+==========

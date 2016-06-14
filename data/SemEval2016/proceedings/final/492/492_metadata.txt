@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#492
+FinalPaperTitle#=%=#VCU at Semeval-2016 Task 14: Evaluating definitional-based similarity measure for semantic taxonomy enrichment
+ShortPaperTitle#=%=#VCU at Semeval-2016 Task 14: Evaluating similarity measure for semantic taxonomy enrichment
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Bridget T. McInnes
+JobTitle#==#
+Organization#==#Department of Computer Science
+Virginia Commonwealth University
+Richmond, VA 23284
+Abstract#==#This paper describes the VCU systems that participated in the Semantic 
+Taxonomy Enrichment task of SemEval 2016. The three systems are unsupervised 
+and relied on dictionary-based similarity measures. The first two 
+runs used first-order measures (lesk and first-order vector), and the third 
+run used a second-order measure (second-order vector). The first-order 
+measures obtained a higher Wu & Palmer score than the second-order measure 
+in the test data. All three runs obtained a higher Wu \& Palmer and F1 
+score than the random baseline but not the first-word first-sense baseline.
+Author{1}{Firstname}#=%=#Bridget
+Author{1}{Lastname}#=%=#McInnes
+Author{1}{Email}#=%=#btmcinnes@vcu.edu
+Author{1}{Affiliation}#=%=#Virginia Commonwealth University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#168
+FinalPaperTitle#=%=#An Unsupervised Model of Orthographic Variation for Historical Document Transcription
+ShortPaperTitle#=%=#An Unsupervised Model of Orthographic Variation for Historical Document Transcription
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dan Garrette
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#Historical documents frequently exhibit extensive orthographic variation,
+including archaic spellings and obsolete shorthand. OCR tools typically seek to
+produce so-called diplomatic transcriptions that preserve these variants, but
+many end tasks require transcriptions with normalized orthography.
+In this paper, we present a novel joint transcription model that learns,
+unsupervised, a probabilistic mapping between modern orthography and that used
+in the document. Our system thus produces dual diplomatic and normalized
+transcriptions simultaneously, and
+achieves a 35% relative error reduction over a state-of-the-art OCR model on
+diplomatic transcription, and a 46% reduction on normalized transcription.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Garrette
+Author{1}{Email}#=%=#dhg@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Hannah
+Author{2}{Lastname}#=%=#Alpert-Abrams
+Author{2}{Email}#=%=#halperta@gmail.com
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+
+==========

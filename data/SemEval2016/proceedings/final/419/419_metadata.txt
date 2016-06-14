@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#419
+FinalPaperTitle#=%=#CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser
+ShortPaperTitle#=%=#CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chuan Wang
+JobTitle#==#
+Organization#==#Brandeis University, 415 south street, waltham, MA, US 02453
+Abstract#==#This paper describes CAMR, the transition-based parser that we use in the 2016
+SemEval Meaning Representation Parsing task. The main contribution of this
+paper is a description of the additional sources of information that we use as
+features in the parsing model to further boost its performance. We start with
+our existing AMR parser and experiment with three sets of new features: 1) rich
+named entities, 2) a verbalization list, 3) semantic role labels. We also use
+the RPI Wikifier to wikify the concepts in the AMR graph. Our parser achieves a
+Smatch F-score of 62\% on the official blind test set.
+Author{1}{Firstname}#=%=#Chuan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#cwang24@brandeis.edu
+Author{1}{Affiliation}#=%=#Brandeis University
+Author{2}{Firstname}#=%=#Sameer
+Author{2}{Lastname}#=%=#Pradhan
+Author{2}{Email}#=%=#pradhan@cemantix.org
+Author{2}{Affiliation}#=%=#cemantix.org
+Author{3}{Firstname}#=%=#Xiaoman
+Author{3}{Lastname}#=%=#Pan
+Author{3}{Email}#=%=#panx2@rpi.edu
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Heng
+Author{4}{Lastname}#=%=#Ji
+Author{4}{Email}#=%=#jih@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{5}{Firstname}#=%=#Nianwen
+Author{5}{Lastname}#=%=#Xue
+Author{5}{Email}#=%=#xuen@brandeis.edu
+Author{5}{Affiliation}#=%=#Brandeis University
+
+==========

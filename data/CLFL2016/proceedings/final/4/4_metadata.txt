@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Bilingual Chronological Classification of Hafez's Poems
+ShortPaperTitle#=%=#Bilingual Chronological Classification of Hafez's Poems
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Arya Rahgozar
+JobTitle#==#
+Organization#==#SEECS, University of Ottawa
+Ottawa, Ontario, Canada
+Abstract#==#We present a novel task: the chronological classification of Hafez's poems
+(ghazals). We compiled a bilingual corpus in digital form, with consistent
+idiosyncratic properties. We have used Houman's labeled ghazals in order to
+train automatic classifiers to classify the remaining ghazals. Our
+classification framework uses a Support Vector Machine (SVM) classifier with
+similarity features based on Latent Dirichlet Allocation (LDA). In our analysis
+of the results we use the LDA topics' main terms that are passed on to a
+Principal  Component Analysis (PCA) module.
+Author{1}{Firstname}#=%=#Arya
+Author{1}{Lastname}#=%=#Rahgozar
+Author{1}{Email}#=%=#arahg096@uottawa.ca
+Author{1}{Affiliation}#=%=#University of Ottawa
+Author{2}{Firstname}#=%=#Diana
+Author{2}{Lastname}#=%=#Inkpen
+Author{2}{Email}#=%=#diana@site.uottawa.ca
+Author{2}{Affiliation}#=%=#University of Ottawa
+
+==========

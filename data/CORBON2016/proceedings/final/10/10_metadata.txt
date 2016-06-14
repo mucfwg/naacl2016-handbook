@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Coreference Resolution for the Basque Language with BART
+ShortPaperTitle#=%=#Coreference for Basque with BART
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ander Soraluze
+JobTitle#==#
+Organization#==#University of the Basque Country
+Donostia - San Sebastian, Spain
+Abstract#==#In this paper we present our work on Coreference Resolution in Basque, a unique
+language which poses interesting challenges for the problem of coreference.
+We explain how we extend the coreference resolution toolkit, BART, in order to
+enable it to process Basque. Then we run four different experiments showing
+both a significant improvement by extending a baseline feature set and the
+effect of calculating performance of hand-parsed mentions vs. automatically
+parsed mentions. Finally, we discuss some key characteristics of Basque which
+make it particularly challenging for coreference and draw a road map for future
+work.
+Author{1}{Firstname}#=%=#Ander
+Author{1}{Lastname}#=%=#Soraluze
+Author{1}{Email}#=%=#ander.soraluze@ehu.es
+Author{1}{Affiliation}#=%=#University of the Basque Country
+Author{2}{Firstname}#=%=#Olatz
+Author{2}{Lastname}#=%=#Arregi
+Author{2}{Email}#=%=#olatz.arregi@ehu.es
+Author{2}{Affiliation}#=%=#University of the Basque Country
+Author{3}{Firstname}#=%=#Xabier
+Author{3}{Lastname}#=%=#Arregi
+Author{3}{Email}#=%=#xabier.arregi@ehu.es
+Author{3}{Affiliation}#=%=#University of the Basque Country
+Author{4}{Firstname}#=%=#Arantza
+Author{4}{Lastname}#=%=#Diaz de Ilarraza
+Author{4}{Email}#=%=#a.diazdeilarraza@ehu.es
+Author{4}{Affiliation}#=%=#University of the Basque Country
+Author{5}{Firstname}#=%=#Mijail
+Author{5}{Lastname}#=%=#Kabadjov
+Author{5}{Email}#=%=#mkabadjov@yahoo.co.uk
+Author{5}{Affiliation}#=%=#University of Essex
+Author{6}{Firstname}#=%=#Massimo
+Author{6}{Lastname}#=%=#Poesio
+Author{6}{Email}#=%=#poesio@essex.ac.uk
+Author{6}{Affiliation}#=%=#University of Essex
+
+==========

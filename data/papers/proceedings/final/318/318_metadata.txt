@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#318
+FinalPaperTitle#=%=#A Novel Approach to Dropped Pronoun Translation
+ShortPaperTitle#=%=#A Novel Approach to Dropped Pronoun Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Longyue Wang
+JobTitle#==#
+Organization#==#ADAPT Centre, School of Computing, Dublin City University, Ireland.
+Abstract#==#Dropped Pronouns (DP) in which pronouns are frequently dropped in the source
+language but should be retained in the target language are challenge in machine
+translation. In response to this problem, we propose a semi-supervised approach
+to recall possibly missing pronouns in the translation. Firstly, we build
+training data for DP generation in which the DPs are automatically labelled
+according to the alignment information from a parallel corpus. Secondly, we
+build a deep learning-based DP generator for input sentences in decoding when
+no corresponding references exist. More specifically, the generation is
+two-phase: (1) DP position detection, which is modeled as a sequential
+labelling task with recurrent neural networks; and (2) DP prediction, which
+employs a multilayer perceptron with rich features. Finally, we integrate the
+above outputs into our translation system to recall missing pronouns by both
+extracting rules from the DP-labelled training data and translating the
+DP-generated input sentences. Experimental results show that our approach
+achieves a significant improvement of 1.58 BLEU points in translation
+performance with 66% F-score for DP generation accuracy.
+Author{1}{Firstname}#=%=#Longyue
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#lwang@computing.dcu.ie
+Author{1}{Affiliation}#=%=#ADAPT Centre, School of Computing, Dublin City University
+Author{2}{Firstname}#=%=#Zhaopeng
+Author{2}{Lastname}#=%=#Tu
+Author{2}{Email}#=%=#tuzhaopeng@gmail.com
+Author{2}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#xzhang@computing.dcu.ie
+Author{3}{Affiliation}#=%=#CNGL Centre for Global Intelligent Content, Dublin City University
+Author{4}{Firstname}#=%=#Hang
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#hangli.hl@huawei.com
+Author{4}{Affiliation}#=%=#Huawei Technologies
+Author{5}{Firstname}#=%=#Andy
+Author{5}{Lastname}#=%=#Way
+Author{5}{Email}#=%=#away@computing.dcu.ie
+Author{5}{Affiliation}#=%=#CNGL, Dublin City University
+Author{6}{Firstname}#=%=#Qun
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#qliu@computing.dcu.ie
+Author{6}{Affiliation}#=%=#Dublin City University
+
+==========

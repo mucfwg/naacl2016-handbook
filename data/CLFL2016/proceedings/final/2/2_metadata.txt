@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Supervised Machine Learning for Hybrid Meter
+ShortPaperTitle#=%=#Supervised Machine Learning for Hybrid Meter
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Christopher Hench
+JobTitle#==#
+Organization#==#Christopher Hench
+University of California, Berkeley
+Department of German
+Berkeley, CA 94720, USA
+chench@berkeley.edu
+Abstract#==#Following classical antiquity, European poetic meter was complicated by
+traditions negotiating between the prosodic stress of vernacular dialects and a
+classical system based on syllable length. Middle High German (MHG) epic poetry
+found a solution in a hybrid qualitative and quantitative meter. We develop a
+CRF model to predict the metrical values of syllables in MHG epic verse,
+achieving an F-score of .894 on 10-fold cross-validated development data
+(outperforming several baselines) and .904 on held-out testing data. The method
+used in this paper presents itself as a viable option for other literary
+traditions, and as a tool for subsequent genre or author analysis.
+Author{1}{Firstname}#=%=#Alex
+Author{1}{Lastname}#=%=#Estes
+Author{1}{Email}#=%=#estes@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Christopher
+Author{2}{Lastname}#=%=#Hench
+Author{2}{Email}#=%=#chench@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California Berkeley
+
+==========

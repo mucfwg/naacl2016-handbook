@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#337
+FinalPaperTitle#=%=#UH-PRHLT at SemEval-2016 Task 3: Combining Lexical and Semantic-based Features for Community Question Answering
+ShortPaperTitle#=%=#UH-PRHLT at SemEval-2016 Task 3: Combining Lexical and Semantic-based Features for CQA
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Marc Franco-Salvador
+JobTitle#==#
+Organization#==#Pattern Recognition and Human Language Technology (PRHLT) research center, Universitat Politècnica de València, Valencia, Spain
+Abstract#==#In this work we describe the system built for the three English subtasks of the
+SemEval 2016 Task 3 by the Department of Computer Science of the University of
+Houston (UH) and the Pattern Recognition and Human Language Technology (PRHLT)
+research center - Universitat Politècnica de València: UH-PRHLT. Our system
+represents instances by using both lexical and semantic-based similarity
+measures between text pairs. Our semantic features include the use of
+distributed representations of words, knowledge graphs generated with the
+BabelNet multilingual semantic network, and the FrameNet lexical database.  
+Experimental results outperform the random and Google search engine baselines
+in the three English subtasks. Our approach obtained the highest results of
+subtask B compared to the other task participants.
+Author{1}{Firstname}#=%=#Marc
+Author{1}{Lastname}#=%=#Franco-Salvador
+Author{1}{Email}#=%=#mfranco@prhlt.upv.es
+Author{1}{Affiliation}#=%=#Pattern Recognition and Human Language Technologies (PRHLT) Research Center
+Author{2}{Firstname}#=%=#Sudipta
+Author{2}{Lastname}#=%=#Kar
+Author{2}{Email}#=%=#skar3@uh.edu
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Thamar
+Author{3}{Lastname}#=%=#Solorio
+Author{3}{Email}#=%=#tsolorio@uh.edu
+Author{3}{Affiliation}#=%=#University of Houston
+Author{4}{Firstname}#=%=#Paolo
+Author{4}{Lastname}#=%=#Rosso
+Author{4}{Email}#=%=#prosso@dsic.upv.es
+Author{4}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

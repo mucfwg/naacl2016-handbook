@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#How can NLP Tasks Mutually Benefit Sentiment Analysis? A Holistic Approach to Sentiment Analysis
+ShortPaperTitle#=%=#How can NLP Tasks Mutually Benefit Sentiment Analysis?
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lingjia Deng
+JobTitle#==#
+Organization#==#University of Pittsburgh. 210 S Bouquet Street. Pittsburgh, PA, 15260.
+Abstract#==#Existing opinion analysis techniques rely on the clues within the sentence that
+focus on the sentiment analysis task itself. However, the sentiment analysis
+task is not isolated from other NLP tasks (co-reference resolution, entity
+linking, etc) but they can benefit each other. In this paper, we define
+dependencies between sentiment analysis and other tasks, and express the
+dependencies in first order logic rules regardless of the representations of
+different tasks. The conceptual framework using such dependency rules as
+constraints aims at exploiting information outside the sentence and outside the
+document to improve sentiment analysis. Further, the framework allows exception
+to the rules.
+Author{1}{Firstname}#=%=#Lingjia
+Author{1}{Lastname}#=%=#Deng
+Author{1}{Email}#=%=#lingjiadeng@gmail.com
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Janyce
+Author{2}{Lastname}#=%=#Wiebe
+Author{2}{Email}#=%=#wiebe@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

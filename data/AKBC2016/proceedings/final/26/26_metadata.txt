@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Discovering Entity Knowledge Bases on the Web
+ShortPaperTitle#=%=#Discovering Entity Knowledge Bases on the Web
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Benjamin Hachey
+JobTitle#==#
+Organization#==#Hugo Australia
+58-62 Kippax St
+Surry Hills NSW 2010
+Australia
+Abstract#==#Recognition and disambiguation of named entities in text is a
+knowledge-intensive  task. Systems are typically bound by the resources and 
+coverage of a single target knowledge base. In place of a fixed knowledge base
+(KB),
+we attempt to infer a set of endpoints which reliably disambiguate entity
+mentions on the web. We  propose a method for discovering web KBs and our
+preliminary results suggest that web KBs allow linking to entities that can be
+found on the web, but may not merit a major KB entry.
+Author{1}{Firstname}#=%=#Andrew
+Author{1}{Lastname}#=%=#Chisholm
+Author{1}{Email}#=%=#achisholm@hugo.ai
+Author{1}{Affiliation}#=%=#Hugo Australia
+Author{2}{Firstname}#=%=#Will
+Author{2}{Lastname}#=%=#Radford
+Author{2}{Email}#=%=#wradford@hugo.ai
+Author{2}{Affiliation}#=%=#Hugo Australia
+Author{3}{Firstname}#=%=#Ben
+Author{3}{Lastname}#=%=#Hachey
+Author{3}{Email}#=%=#bhachey@hugo.ai
+Author{3}{Affiliation}#=%=#Hugo Australia
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#305
+FinalPaperTitle#=%=#Assessing Relative Sentence Complexity using an Incremental CCG Parser
+ShortPaperTitle#=%=#Assessing Relative Sentence Complexity using an Incremental CCG Parser
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Bharat Ram Ambati
+JobTitle#==#
+Organization#==#School of Informatics, University of Edinburgh
+10 Crichton Street, Edinburgh, EH8 9AB, United Kingdom
+Abstract#==#Given a pair of sentences, we present computational models to assess if one
+sentence is simpler to read than the other. While existing models explored the
+usage of phrase structure features using a non-incremental parser, experimental
+evidence suggests that the human language processor works incrementally. We
+empirically evaluate if syntactic features from an incremental CCG parser are
+more useful than features from a non-incremental phrase structure parser. Our
+evaluation on Simple and Standard Wikipedia sentence pairs suggests that
+incremental CCG features are indeed more useful than phrase structure features
+achieving 0.44 points gain in performance. Incremental CCG parser also gives
+significant improvements in speed (12 times faster) in comparison to the phrase
+structure parser. Furthermore, with the addition of psycholinguistic features,
+we achieve the strongest result to date reported on this task. Our code and
+data can be downloaded from https://github.com/bharatambati/sent-compl.
+Author{1}{Firstname}#=%=#Bharat Ram
+Author{1}{Lastname}#=%=#Ambati
+Author{1}{Email}#=%=#bharat.ambati@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Siva
+Author{2}{Lastname}#=%=#Reddy
+Author{2}{Email}#=%=#siva.reddy@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Steedman
+Author{3}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

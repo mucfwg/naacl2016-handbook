@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Crowdsourcing for (almost) Real-time Question Answering
+ShortPaperTitle#=%=#Crowdsourcing for (almost) Real-time Question Answering
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Denis Savenkov
+JobTitle#==#
+Organization#==#Emory University
+Mathematics & Computer Science Department
+400 Dowman Dr, Atlanta, GA 30307
+Abstract#==#Modern search engines have made dramatic progress in the answering of many
+user's questions about facts, such as those that might be retrieved or directly
+inferred from a knowledge base.
+However, many other questions that real users ask are more complex, such as
+asking for opinions or advice for a particular situation, and are still largely
+beyond the competence of the computer systems.
+As conversational agents become more popular, QA systems are increasingly
+expected to handle such complex questions, and to do so in (nearly) real-time,
+as the searcher is unlikely to wait longer than a minute or two for an answer.
+One way to overcome some of the challenges in complex question answering is
+crowdsourcing.
+We explore two ways crowdsourcing can assist a question answering system that
+operates in (near) real time: by providing answer validation, which could be
+used to filter or re-rank the candidate answers, and by creating the answer
+candidates directly.
+Specifically, we focus on understanding the effects of time restrictions in the
+near real-time QA setting.
+Our experiments show that even within a one minute time limit, crowd workers
+can produce reliable ratings for up to three answer candidates, and generate
+answers that are better than an average automated system from the LiveQA 2015
+shared task.
+Our findings can be useful for developing hybrid human-computer systems for
+automatic question answering and conversational agents.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Savenkov
+Author{1}{Email}#=%=#dsavenk@emory.edu
+Author{1}{Affiliation}#=%=#Emory University
+Author{2}{Firstname}#=%=#Scott
+Author{2}{Lastname}#=%=#Weitzner
+Author{2}{Email}#=%=#sweitzn@emory.edu
+Author{2}{Affiliation}#=%=#Emory University
+Author{3}{Firstname}#=%=#Eugene
+Author{3}{Lastname}#=%=#Agichtein
+Author{3}{Email}#=%=#eugene@mathcs.emory.edu
+Author{3}{Affiliation}#=%=#Emory University
+
+==========

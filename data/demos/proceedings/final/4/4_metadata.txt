@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#rstWeb - A Browser-based Annotation Interface for Rhetorical Structure Theory and Discourse Relations
+ShortPaperTitle#=%=#rstWeb - Browser-based Annotation Interface for Rhetorical Structure Theory
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Amir Zeldes
+JobTitle#==#
+Organization#==#Department of Linguistics
+Georgetown University
+1421 37th St. NW
+Washington, DC 20057
+Abstract#==#This paper presents rstWeb, a new browser-based interface for Rhetorical
+Structure Theory and other discourse relation annotations. Expanding on
+previous tools for RST, rstWeb allows annotators to work online using only a
+browser. Project administrators can easily collect multiple annotations of the
+same documents on a central server, keep track of annotation processes and
+assign tasks and annotation schemes to users. A local version using an embedded
+web framework is also available, running offline on a desktop browser under the
+localhost.
+Author{1}{Firstname}#=%=#Amir
+Author{1}{Lastname}#=%=#Zeldes
+Author{1}{Email}#=%=#amir.zeldes@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+
+==========

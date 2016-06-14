@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#544
+FinalPaperTitle#=%=#Lexical Coherence Graph Modeling Using Word Embeddings
+ShortPaperTitle#=%=#Lexical Coherence Graph Modeling Using Word Embeddings
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mohsen Mesgar
+JobTitle#==#
+Organization#==#HITS 
+Heidelberg Institute for Theoretical Studies
+
+Schloss-Wolfsbrunnenweg 35
+69118 Heidelberg
+Germany
+Abstract#==#Coherence is established by semantic connections between sentences of a
+text which can be modeled by lexical relations. In this paper, we introduce the
+lexical coherence graph (LCG), a new graph-based model to represent lexical
+relations among sentences. The frequency of subgraphs (coherence patterns) of
+this graph captures the connectivity style of sentence nodes in this graph. The
+coherence of a text is encoded by a vector of these frequencies. We evaluate
+the LCG model on the readability ranking task. The results of the experiments
+show that the LCG model obtains higher accuracy than state-of-the-art coherence
+models. Using larger subgraphs yields higher accuracy because they capture
+more structural information. However, larger subgraphs can be sparse. We adapt
+Kneser-Ney smoothing to smooth subgraphs' frequencies. Smoothing improves
+performance.
+Author{1}{Firstname}#=%=#Mohsen
+Author{1}{Lastname}#=%=#Mesgar
+Author{1}{Email}#=%=#mohsen.mesgar@h-its.org
+Author{1}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Strube
+Author{2}{Email}#=%=#michael.strube@h-its.org
+Author{2}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+
+==========

@@ -1,0 +1,43 @@
+* Thursday, June 16, 2016
+= 08:40--09:00 Opening Remarks and Intro Talk
+41 08:45--09:00  # Sentiment Analysis - What are we talking about?
+= 09:00--10:30 Session 1: Sentiment Analysis Perspectives in Social Media # %chair1 Alexandra Balahur
+39 09:00--09:40  # Sentiment, Subjectivity, and Social Analysis Go ToWork: An Industry View - Invited Talk
+32 09:40--10:05  # Rumor Identification and Belief Investigation on Twitter
+28 10:05--10:30  # Modelling Valence and Arousal in Facebook posts
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 2: Sentiment Detection for Social Media Applications # %chair1 Seth Grimes
+40 11:00--11:40  # Purity Homophily in Social Networks - Invited Talk
+26 11:40--12:05  # Hit Songs___ Sentiments Harness Public Mood & Predict Stock Market
+3 12:05--12:30  # Fashioning Data - A Social Media Perspective on Fast Fashion Brands
++ 12:30--14:00 Lunch Break
+= 14:00--15:30 Session 3: New Approaches in Sentiment Analysis # %chair1 Lingjia Deng
+38 14:00--14:40  # Deep Learning for Sentiment Analysis - Invited Talk
+9 14:40--15:05  # Sentiment Lexicon Creation using Continuous Latent Space and Neural Networks
+14 15:05--15:30  # The Effect of Negators, Modals, and Degree Adverbs on Sentiment Composition
++ 15:30--16:00 Coffee Break
+= 16:00--17:40 Session 4: Overview and Applications of Sentiment Analysis # %chair1 Saif Mohammad
+15 16:00--16:25  # How can NLP Tasks Mutually Benefit Sentiment Analysis? A Holistic Approach to Sentiment Analysis
+13 16:25--16:50  # An Unsupervised System for Visual Exploration of Twitter Conversations
+16 16:50--17:10  # Threat detection in online discussions
+2 17:10--17:30  # Classification of comment helpfulness to improve knowledge sharing among medical practitioners.
++ 17:20--17:30 Break
+= 18:00--19:30 Session 5: Posters
+1   # Political Issue Extraction Model: A Novel Hierarchical Topic Model That Uses Tweets By Political And Non-Political Authors
+5   # Early text classification: a Na__ve solution
+6   # Semi-supervised and unsupervised categorization of posts in Web discussion forums using part-of-speech information and minimal features
+10   # Linguistic Understanding of Complaints and Praises in User Reviews
+11   # Reputation System: Evaluating Reputation among All Good Sellers
+17   # Improve Sentiment Analysis of Citations with Author Modelling
+19   # Implicit Aspect Detection in Restaurant Reviews using Cooccurence of Words
+20   # Domain Adaptation of Polarity Lexicon combining Term Frequency and Bootstrapping
+21   # Do Enterprises Have Emotions?
+23   # A semantic-affective compositional approach for the affective labelling of adjective-noun and noun-noun pairs
+25   # Fracking Sarcasm using Neural Network
+= 19:30--20:00 Closing discussion - "Where do we go from here?"
+33   # An Hymn of an even Deeper Sentiment Analysis
+34   # Sentiment Analysis in Twitter: A SemEval Perspective
+35   # The Challenge of Sentiment Quantification
+36   # A Practical Guide to Sentiment Annotation: Challenges and Solutions
+#37  # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # 
+42   # Emotions and NLP: Future Directions

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Hit Songs’ Sentiments Harness Public Mood & Predict Stock Market
+ShortPaperTitle#=%=#Hit Songs’ Sentiments Harness Public Mood & Predict Stock Market
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Rachel Harsley
+JobTitle#==#
+Organization#==#University of Illinois at Chicago
+Department of Computer Science
+851 S. Morgan (M/C 152) 
+Room 1120 SEO 
+Chicago, IL 60607-7053
+Abstract#==#This work explores the relationship between the sentiment of lyrics in
+Billboard Top 100 songs, stocks, and a consumer confidence index. We
+hypothesized that sentiment of Top 100 songs could be representative of public
+mood and correlate to stock market changes as well. We analyzed the sentiment
+for polarity and mood in terms of seven dimensions. We gathered data from 2008
+to 2013 and found statistically significant correlations between lyrical
+sentiment polarity and DJIA closing values and between anxiety in lyrics and
+consumer confidence. We also found strong Granger-causal relationships
+involving anxiety, hope, anger, and both societal indicators. Finally, we
+introduced a vector autoregression model with time lag which is able to capture
+stock and consumer confidence indices (R-squared=.97, p<.001 and
+R-squared=0.72, p<.01 respectively).
+Author{1}{Firstname}#=%=#Rachel
+Author{1}{Lastname}#=%=#Harsley
+Author{1}{Email}#=%=#rharsl2@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Bhavesh
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#bhavesh.dm@gmail.com
+Author{2}{Affiliation}#=%=#Cerner Corporation
+Author{3}{Firstname}#=%=#Barbara
+Author{3}{Lastname}#=%=#Di Eugenio
+Author{3}{Email}#=%=#bdieugen@uic.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Chicago
+Author{4}{Firstname}#=%=#Huayi
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lhymvp@gmail.com
+Author{4}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

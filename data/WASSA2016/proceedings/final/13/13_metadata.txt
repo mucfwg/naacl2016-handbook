@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#An Unsupervised System for Visual Exploration of Twitter Conversations
+ShortPaperTitle#=%=#An Unsupervised System for Visual Exploration of Twitter Conversations
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Derrick Higgins
+JobTitle#==#
+Organization#==#Civis Analytics
+224 N. Desplaines St., Ste. 500. Chicago, IL 60661
+USA
+Abstract#==#Social media provides a wealth of information regarding users'
+  perspectives on issues, public figures and brands, but it can
+  be a time-consuming and labor-intensive process to develop data
+  pipelines in which those perspectives are encoded, and to build
+  visualizations that illuminate important developments.
+  This paper describes a system for quickly developing a model of
+  the conversation around an issue on Twitter, and a flexible
+  visualization system that allows analysts to interactively explore
+  key facets of the analysis.
+Author{1}{Firstname}#=%=#Derrick
+Author{1}{Lastname}#=%=#Higgins
+Author{1}{Email}#=%=#derrick.higgins@gmail.com
+Author{1}{Affiliation}#=%=#Civis Analytics
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Heilman
+Author{2}{Email}#=%=#mheilman@civisanalytics.com
+Author{2}{Affiliation}#=%=#Civis Analytics
+Author{3}{Firstname}#=%=#Adrianna
+Author{3}{Lastname}#=%=#Jelesnianska
+Author{3}{Email}#=%=#ajelesnianska@civisanalytics.com
+Author{3}{Affiliation}#=%=#Civis Analytics
+Author{4}{Firstname}#=%=#Keith
+Author{4}{Lastname}#=%=#Ingersoll
+Author{4}{Email}#=%=#kingersoll@civisanalytics.com
+Author{4}{Affiliation}#=%=#Civis Analytics
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#435
+FinalPaperTitle#=%=#mib at SemEval-2016 Task 4a: Exploiting lexicon based features for Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#mib at SemEval-2016 Task 4a: Exploiting lexicon based features
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Vittoria Cozza
+JobTitle#==#
+Organization#==#Institute for informatics and telematics (IIT) of National Research Center (CNR), 
+via G. Moruzzi, 1, Pisa, Italy
+Abstract#==#This work presents our team solution for task 4a  (Message Polarity
+Classification) at the SemEval 2016 challenge. Our experiments have been
+carried out over the Twitter dataset provided by the challenge. 
+We follow a supervised approach, exploiting a SVM polynomial kernel classifier
+trained with the challenge data.  The classifier takes as input advanced NLP
+features. This paper details the features and discusses the achieved results.
+Author{1}{Firstname}#=%=#Vittoria
+Author{1}{Lastname}#=%=#Cozza
+Author{1}{Email}#=%=#covitti@gmail.com
+Author{1}{Affiliation}#=%=#University of Pisa
+Author{2}{Firstname}#=%=#Marinella
+Author{2}{Lastname}#=%=#Petrocchi
+Author{2}{Email}#=%=#marinella.petrocchi@iit.cnr.it
+Author{2}{Affiliation}#=%=#IIT CNR, Pisa, Italy
+
+==========

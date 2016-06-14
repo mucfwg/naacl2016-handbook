@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#484
+FinalPaperTitle#=%=#The Meaning Factory at SemEval-2016 Task 8: Producing AMRs with Boxer
+ShortPaperTitle#=%=#The Meaning Factory: Producing AMRs with Boxer
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Johannes Bjerva
+JobTitle#==#
+Organization#==#University of Groningen, 9712EK Groningen, The Netherlands
+Abstract#==#We participated in the shared task on meaning representation parsing (Task 8 at
+SemEval-2016) with the aim of investigating whether we could use Boxer, an
+existing open-domain semantic parser, for this task.
+However, the meaning representations produced by Boxer, Discourse
+Representation Structures, are considerably different from Abstract Meaning
+Representations, AMRs, the target meaning representations of the shared task. 
+Our hybrid conversion method (involving lexical adaptation as well as
+post-processing of the output) failed to produce state-of-the-art results.
+Nonetheless, F-scores of 53% on development and 47% on test data (50%
+unofficially) were obtained.
+Author{1}{Firstname}#=%=#Johannes
+Author{1}{Lastname}#=%=#Bjerva
+Author{1}{Email}#=%=#j.bjerva@rug.nl
+Author{1}{Affiliation}#=%=#Center for Language and Cognition Groningen, University of Groningen
+Author{2}{Firstname}#=%=#Johan
+Author{2}{Lastname}#=%=#Bos
+Author{2}{Email}#=%=#johan.bos@rug.nl
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Hessel
+Author{3}{Lastname}#=%=#Haagsma
+Author{3}{Email}#=%=#hessel.haagsma@rug.nl
+Author{3}{Affiliation}#=%=#University of Groningen
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Using Linear Classifiers for the Automatic Triage of Posts in the 2016 CLPsych Shared Task
+ShortPaperTitle#=%=#Experimenting with SVMs for the Automatic Triage of Posts
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Juri Opitz
+JobTitle#==#
+Organization#==#
+Abstract#==#The 2016 CLPsych Shared Task was to automatically triage posts from a mental
+health forum into four categories:  "green" (everything is fine), "amber" (a
+moderator needs to look at this post), "red" (a moderator urgently needs to
+look at this post) and "crisis" (the person might hurt himself or others). The
+final results for the task revealed that this problem was not an easy task. I
+chose to treat the problem as a text categorization task using a system
+composed of different Support Vector Machines (SVMs) in a one-vs-rest setting.
+This approach was straight-forward and achieved good performance in the final
+evaluation. The major difficulty was to find suitable features and feature
+combinations.
+Author{1}{Firstname}#=%=#Juri
+Author{1}{Lastname}#=%=#Opitz
+Author{1}{Email}#=%=#opitz@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+
+==========

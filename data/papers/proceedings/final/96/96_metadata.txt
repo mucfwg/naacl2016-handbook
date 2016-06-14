@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#96
+FinalPaperTitle#=%=#Intra-Topic Variability Normalization based on Linear Projection for Topic Classification
+ShortPaperTitle#=%=#Intra-Topic Variability Normalization based on Linear Projection for Topic Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Quan Liu
+JobTitle#==#
+Organization#==#University of Science and Technology of China,
+No 96, JinZhai Road, Hefei, China.
+Abstract#==#This paper proposes a variability normalization algorithm to reduce the
+variability between intra-topic documents for topic classification. Firstly, an
+optimization problem is constructed based on linear variability removable
+assumption. Secondly, a new feature space for document representation is found
+by solving the optimization problem with kernel principle component analysis
+(KPCA). Finally, effective feature transformation is taken through linear
+projection. As for experiments, state-of-the-art SVM and KNN algorithm are
+adopted for topic classification respectively. Experimental results on a
+free-style conversational corpus show that the proposed variability
+normalization algorithm for topic classification achieves 3.8% absolute
+improvement for micro-F1 measure.
+Author{1}{Firstname}#=%=#Quan
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#quanliu@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#National Engineering Laboratory for Speech and Language Information Processing, University of Science and Technology of China
+Author{2}{Firstname}#=%=#Wu
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Email}#=%=#guowu@ustc.edu.cn
+Author{2}{Affiliation}#=%=#Department of Electrical Engineering and Computer Science, York University, Canada
+Author{3}{Firstname}#=%=#Zhen-Hua
+Author{3}{Lastname}#=%=#Ling
+Author{3}{Email}#=%=#zhling@ustc.edu.cn
+Author{3}{Affiliation}#=%=#National Engineering Laboratory for Speech and Language Information Processing, University of Science and Technology of China
+Author{4}{Firstname}#=%=#Hui
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Email}#=%=#hj@cse.yorku.ca
+Author{4}{Affiliation}#=%=#Department of Electrical Engineering and Computer Science, York University, Canada
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Hu
+Author{5}{Email}#=%=#yuhu@iflytek.com
+Author{5}{Affiliation}#=%=#iFLYTEK Research, Hefei, China
+
+==========

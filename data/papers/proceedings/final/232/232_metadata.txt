@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#232
+FinalPaperTitle#=%=#Recurrent Memory Networks for Language Modeling
+ShortPaperTitle#=%=#Recurrent Memory Networks for Language Modeling
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ke
+JobTitle#==#
+Organization#==#University of Amsterdam, Science Park 904, 1098 XH, Amsterdam, The Netherlands
+Abstract#==#Recurrent Neural Networks (RNN) have obtained excellent result in many natural
+language processing (NLP) tasks. However, understanding and interpreting the
+source of this success remains a challenge. In this paper, we propose Recurrent
+Memory Network (RMN), a novel RNN architecture, that not only amplifies the
+power of RNN  but also facilitates our understanding of its internal
+functioning and allows us to discover underlying patterns in data. We
+demonstrate the power of RMN on language modeling and sentence completion
+tasks. On language modeling, RMN outperforms Long Short-Term Memory (LSTM)
+network on three large German, Italian, and English dataset. Additionally we
+perform in-depth analysis of various linguistic dimensions that RMN captures.
+On Sentence Completion Challenge, for which it is essential to capture sentence
+coherence, our RMN obtains 69.5% accuracy, surpassing the previous
+state-of-the-art by a large margin.
+Author{1}{Firstname}#=%=#Ke
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#m.k.tran@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Arianna
+Author{2}{Lastname}#=%=#Bisazza
+Author{2}{Email}#=%=#A.Bisazza@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Christof
+Author{3}{Lastname}#=%=#Monz
+Author{3}{Email}#=%=#c.monz@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+
+==========

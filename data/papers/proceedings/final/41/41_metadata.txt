@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Grammatical error correction using neural machine translation
+ShortPaperTitle#=%=#Grammatical error correction using neural machine translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zheng Yuan
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#This paper presents the first study using neural machine translation (NMT) for
+grammatical error correction (GEC). We propose a two-step approach to handle
+the rare word problem in NMT, which has been proved to be useful and effective
+for the GEC task. Our best NMT-based system trained on the CLC outperforms our
+SMT-based system when testing on the publicly available FCE test set. The same
+system achieves an F-0.5 score of 39.90% on the CoNLL-2014 shared task test
+set, outperforming the state-of-the-art and demonstrating that the NMT-based
+GEC system generalises effectively.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Yuan
+Author{1}{Email}#=%=#zy249@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Ted
+Author{2}{Lastname}#=%=#Briscoe
+Author{2}{Email}#=%=#ejb@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#553
+FinalPaperTitle#=%=#Questioning Arbitrariness in Language: a Data-Driven Study of Conventional Iconicity
+ShortPaperTitle#=%=#Questioning Arbitrariness in Language
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Raquel Fernandez
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation
+University of Amsterdam
+P.O.Box 94242
+1090 GE Amsterdam, Netherlands
+Abstract#==#This paper presents a data-driven investigation of "phonesthemes", phonetic
+units said to carry meaning associations, thus challenging the traditionally
+assumed arbitrariness of language. Phonesthemes have received a substantial
+amount of attention within the cognitive science literature on sound iconicity,
+but nevertheless remain a controversial and understudied phenomenon. Here we
+employ NLP techniques  to address two main questions: How can the existence of
+phonesthemes be tested at a large scale with quantitative methods? And how can
+the meaning arguably carried by a phonestheme be induced automatically from
+word embeddings? We develop novel methods to make progress on these fronts and
+compare our results to previous work, obtaining substantial improvements.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Abramova
+Author{1}{Email}#=%=#e.abramova@ftr.ru.nl
+Author{1}{Affiliation}#=%=#Radbout University
+Author{2}{Firstname}#=%=#Raquel
+Author{2}{Lastname}#=%=#Fernández
+Author{2}{Email}#=%=#raquel.fernandez@uva.nl
+Author{2}{Affiliation}#=%=#ILLC, University of Amsterdam
+
+==========

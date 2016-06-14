@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#378
+FinalPaperTitle#=%=#iLab-Edinburgh at SemEval-2016 Task 7: A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases
+ShortPaperTitle#=%=#A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Eshrag Refaee
+JobTitle#==#PhD Student
+Organization#==#Heriot-Watt University
+Abstract#==#This paper describes the iLab-Edinburgh Sentiment Analysis system, winner of
+the Arabic Twitter Task 7 in SemEval-2016. The system employs a hybrid approach
+of supervised learning and rule-based methods to predict a sentiment intensity
+(SI) score for a given Arabic Twitter phrase. First, the supervised method uses
+an ensemble of trained linear regression models to produce an initial SI score
+for each given text instance. Second, the resulting SI score is adjusted using
+a set of rules that exploit a number of publicly available sentiment lexica.
+The system demonstrates strong results of 0.536 Kendall score, ranking top in
+this task.
+Author{1}{Firstname}#=%=#Eshrag
+Author{1}{Lastname}#=%=#Refaee
+Author{1}{Email}#=%=#eshragrefaee@gmail.com
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Verena
+Author{2}{Lastname}#=%=#Rieser
+Author{2}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Sense Anaphoric Pronouns: Am I One?
+ShortPaperTitle#=%=#Sense Anaphoric Pronouns: Am I One?
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marta Recasens
+JobTitle#==#
+Organization#==#Google
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+Abstract#==#This paper focuses on identity-of-sense anaphoric relations, in which the sense
+is shared but not the referent. We are not restricted to the pronoun "one", the
+focus of
+the small body of previous NLP work on this phenomenon, but look at a wider
+range of pronouns ("that", "some", "another", etc.). We develop annotation
+guidelines, enrich a third of English OntoNotes with sense anaphora
+annotations, and shed light onto this phenomenon from a corpus-based
+perspective. We release the annotated data as part of the SAnaNotes corpus. We
+also use this corpus to develop a learning-based classifier to identify sense
+anaphoric uses, showing both the power and limitations of local features.
+Author{1}{Firstname}#=%=#Marta
+Author{1}{Lastname}#=%=#Recasens
+Author{1}{Email}#=%=#recasens@google.com
+Author{1}{Affiliation}#=%=#Google Inc.
+Author{2}{Firstname}#=%=#Zhichao
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Email}#=%=#zhu@ucsc.edu
+Author{2}{Affiliation}#=%=#University of California, Santa Cruz
+Author{3}{Firstname}#=%=#Olivia
+Author{3}{Lastname}#=%=#Rhinehart
+Author{3}{Email}#=%=#orhinehart@google.com
+Author{3}{Affiliation}#=%=#Google Inc.
+
+==========

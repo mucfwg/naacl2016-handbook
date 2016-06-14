@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#479
+FinalPaperTitle#=%=#NUIG-UNLP at SemEval-2016 Task 1: Soft Alignment and Deep Learning for Semantic Textual Similarity
+ShortPaperTitle#=%=#NUIG-UNLP at SemEval-2016 Task 1: Soft Alignment and Deep Learning for Semantic Textual Similarity
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#John P. McCrae
+JobTitle#==#Research Fellow
+Organization#==#Insight Centre for Data Analytics
+National University of Ireland, Galway
+Abstract#==#We present a multi-feature system for computing the semantic similarity between
+two sentences. We introduce the use of soft alignment for computing text
+similarity, and evaluate also different methods to produce it. The main
+features used by our system are based on soft and hard alignment between the
+sentences, and Explicit Semantic Analysis. Our system stood above the median
+scores for 4 out of the 5 datasets at SemEval 2016 STS Task 1.
+Author{1}{Firstname}#=%=#John Philip
+Author{1}{Lastname}#=%=#McCrae
+Author{1}{Email}#=%=#john@mccr.ae
+Author{1}{Affiliation}#=%=#Insight Center for Data Analytics, National University of Ireland Galway
+Author{2}{Firstname}#=%=#Kartik
+Author{2}{Lastname}#=%=#Asooja
+Author{2}{Email}#=%=#kartik.asooja@insight-centre.org
+Author{2}{Affiliation}#=%=#Insight Centre for Data Analytics, Galway
+Author{3}{Firstname}#=%=#Nitish
+Author{3}{Lastname}#=%=#Aggarwal
+Author{3}{Email}#=%=#nitish.aggarwal@deri.org
+Author{3}{Affiliation}#=%=#Insight Centre for Data Analytics, National University of Ireland, Galway
+Author{4}{Firstname}#=%=#Paul
+Author{4}{Lastname}#=%=#Buitelaar
+Author{4}{Email}#=%=#paul.buitelaar@deri.org
+Author{4}{Affiliation}#=%=#INSIGHT, National University of Ireland, Galway
+
+==========

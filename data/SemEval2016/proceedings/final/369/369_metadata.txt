@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#369
+FinalPaperTitle#=%=#Melbourne at SemEval 2016 Task 11: Classifying Type-level Word Complexity using Random Forests with Corpus and Word List Features
+ShortPaperTitle#=%=#Word Complexity using Random Forests with Corpus and Word List Features
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Julian Brooke
+JobTitle#==#
+Organization#==#The University of Melbourne
+Parkvile, VIC 3010
+Australia
+Abstract#==#SemEval 2016 task 11 involved determining whether words in a sentence were
+complex or simple for a cohort of people
+  with English as a second language.  Training data consisted of 200 annotated
+sentences, representing the combined
+  judgements of 20 human annotators, such that if any annotator of the group
+labelled a word as complex, then it was
+  considered to be complex.  Testing was based on single annotator judgements.
+  Our system used a random forest classifier with a variety of features, the
+most important of which were term frequency
+  statistics garnered from four large corpora, and style lexicons built on two
+large corpora.              Minor features in the final system include the presence
+or
+absence of words in various readability word lists; many other features we
+tried were not successful.
+  Our ranking amongst submitted systems did not reflect the strength of our
+system, due to submitting a far from optimal
+  weighting between complex and simple, but we show that when a more
+appropriate weighting is used, our system ranks amongst the best
+  submitted systems.
+Author{1}{Firstname}#=%=#Julian
+Author{1}{Lastname}#=%=#Brooke
+Author{1}{Email}#=%=#jabrooke@unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Alexandra
+Author{2}{Lastname}#=%=#Uitdenbogerd
+Author{2}{Email}#=%=#sandrau@rmit.edu.au
+Author{2}{Affiliation}#=%=#RMIT University
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Email}#=%=#tb@ldwin.net
+Author{3}{Affiliation}#=%=#The University of Melbourne
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#440
+FinalPaperTitle#=%=#Towards Unsupervised and Language-independent Compound Splitting using Inflectional Morphological Transformations
+ShortPaperTitle#=%=#Towards Unsupervised and Language-independent Compound Splitting
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Patrick Ziering
+JobTitle#==#
+Organization#==#Institute for Natural Language Processing
+University of Stuttgart
+Pfaffenwaldring 5b
+70569 Stuttgart, Germany
+Abstract#==#In this paper, we address the task of language-independent, knowledge-lean and
+unsupervised compound splitting, which is an essential component for many
+natural language processing tasks such as machine translation. Previous methods
+on statistical compound splitting either include language-specific knowledge
+(e.g., linking elements) or rely on parallel data, which results in limited
+applicability. We aim to overcome these limitations by learning compounding
+morphology from inflectional information derived from lemmatized monolingual
+corpora. In experiments for Germanic languages, we show that our approach
+significantly outperforms language-dependent state-of-the-art methods in
+finding the correct split point and that word inflection is a good
+approximation for compounding morphology.
+Author{1}{Firstname}#=%=#Patrick
+Author{1}{Lastname}#=%=#Ziering
+Author{1}{Email}#=%=#patrick.ziering@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#Institute for Natural Language Processing, University of Stuttgart
+Author{2}{Firstname}#=%=#Lonneke
+Author{2}{Lastname}#=%=#van der Plas
+Author{2}{Email}#=%=#lonneke.vanderplas@um.edu.mt
+Author{2}{Affiliation}#=%=#University of Malta
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#504
+FinalPaperTitle#=%=#UniPI at SemEval-2016 Task 4: Convolutional Neural Networks for Sentiment Classification
+ShortPaperTitle#=%=#UniPI at SemEval-2016 Task 4: Convolutional Neural Networks for Sentiment Classification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Giuseppe Attardi
+JobTitle#==#
+Organization#==#
+Abstract#==#The paper describes the submission to the task on Sentiment Analysis on Twitter
+at SemEval 2016. The approach is based on a Deep Learn-ing architecture using
+convolutional neural networks. The approach used word embed-dings as only
+features. The submission used embeddings created from a corpus of news
+ar-ticles. We report on further experiments using embeddings built for a corpus
+of tweets as weel as sentiment specific word embeddings obtained by distant
+supervision.
+Author{1}{Firstname}#=%=#Giuseppe
+Author{1}{Lastname}#=%=#Attardi
+Author{1}{Email}#=%=#attardi@di.unipi.it
+Author{1}{Affiliation}#=%=#Università di Pisa
+Author{2}{Firstname}#=%=#Daniele
+Author{2}{Lastname}#=%=#Sartiano
+Author{2}{Email}#=%=#sartiano@di.unipi.it
+Author{2}{Affiliation}#=%=#Università di Pisa
+
+==========

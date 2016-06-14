@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Exploring the steps of Verb Phrase Ellipsis
+ShortPaperTitle#=%=#Exploring the steps of Verb Phrase Ellipsis
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Zhengzhong Liu
+JobTitle#==#
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+5000 Forbes Avenue
+15213, Pittsburgh PA
+Abstract#==#Verb Phrase Ellipsis is a well-studied topic in theoretical linguistics but has
+received little attention as a computational problem. Here we propose a
+decomposition of the overall resolution problem into three tasks-target
+detection, antecedent head resolution, and antecedent boundary detection-and
+implement a number of computational approaches for each one. We also explore
+the relationships among these tasks by attempting joint learning over different
+combinations. Our new decomposition of the problem yields significantly
+improved performance on publicly available datasets, including a newly
+contributed one.
+Author{1}{Firstname}#=%=#Zhengzhong
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liu@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Edgar
+Author{2}{Lastname}#=%=#Gonzàlez Pellicer
+Author{2}{Email}#=%=#edgar.gip@gmail.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Gillick
+Author{3}{Email}#=%=#dgillick@google.com
+Author{3}{Affiliation}#=%=#Google Research
+
+==========

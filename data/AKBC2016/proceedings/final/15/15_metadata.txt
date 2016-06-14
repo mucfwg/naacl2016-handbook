@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Design of Word Association Games using Dialog Systems for Acquisition of Word Association Knowledge
+ShortPaperTitle#=%=#Design of Word Association Games using Dialog Systems for Acquisition of Word Association Knowledge
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Daisuke Kawahara
+JobTitle#==#
+Organization#==#Kyoto University
+Yoshida-honmachi Sakyo-ku, Kyoto, 606-8501, JAPAN
+Abstract#==#We present a design for acquiring word association knowledge of high
+quality on the basis of a game with a purpose (GWAP). We evaluate
+automatically acquired word associations using a word association game
+as a GWAP. In the word association game, a player is given a set of
+associated words as a hint and is asked to answer a word that can be
+associated with the hint. If many players can answer the correct
+keyword, we judge the set of associated words to be of high
+quality. This word association game was implemented in a
+smartphone-based dialog system, which has been installed into more than
+one million smartphones. Our analysis of numerous game logs
+demonstrated that our framework can effectively select word
+associations of high quality.
+Author{1}{Firstname}#=%=#Yuichiro
+Author{1}{Lastname}#=%=#Machida
+Author{1}{Email}#=%=#eqsuke@gmail.com
+Author{1}{Affiliation}#=%=#Kyoto University
+Author{2}{Firstname}#=%=#Daisuke
+Author{2}{Lastname}#=%=#Kawahara
+Author{2}{Email}#=%=#dk@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Sadao
+Author{3}{Lastname}#=%=#Kurohashi
+Author{3}{Email}#=%=#kuro@i.kyoto-u.ac.jp
+Author{3}{Affiliation}#=%=#Kyoto University
+Author{4}{Firstname}#=%=#Manabu
+Author{4}{Lastname}#=%=#Sassano
+Author{4}{Email}#=%=#sassano@tfidf.net
+Author{4}{Affiliation}#=%=#Yahoo Japan Corporation
+
+==========

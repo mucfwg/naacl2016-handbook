@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Linguistically Aware Information Retrieval: Providing Input Enrichment for Second Language Learners
+ShortPaperTitle#=%=#Linguistically Aware Information Retrieval: Providing Input Enrichment for Second Language Learners
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Maria Chinkina
+JobTitle#==#
+Organization#==#
+Abstract#==#How can second language teachers retrieve texts that are rich in terms of the
+grammatical constructions to be taught, but also address the content of
+interest to the learners? We developed an Information Retrieval system that
+identifies the 87 grammatical constructions spelled out in the official English
+language curriculum of schools in Baden-Wu ̈rttemberg (Germany) and reranks
+the search results based on the selected (de)prioritization of grammatical
+forms. In combination with a visualization of the characteristics of the search
+results, the approach effectively supports teachers in prioritizing those texts
+that provide the targeted forms.
+The approach facilitates systematic input enrichment for language learners as a
+complement to the established notion of input enhancement: while input
+enrichment aims at richly representing the selected forms and categories in a
+text, input enhancement targets their presentation to make them more salient
+and support noticing.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Chinkina
+Author{1}{Email}#=%=#maria.chinkina@sfs.uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tübingen, LEAD Graduate School
+Author{2}{Firstname}#=%=#Detmar
+Author{2}{Lastname}#=%=#Meurers
+Author{2}{Email}#=%=#dm@sfs.uni-tuebingen.de
+Author{2}{Affiliation}#=%=#Universität Tübingen
+
+==========

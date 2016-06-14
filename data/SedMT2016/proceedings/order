@@ -1,0 +1,26 @@
+# Edit this file: 
+# reorder the lines that correspond to papers 
+#   and modify time slot, e.g. 9:00--9:30 
+# add lines for 
+#   start of new day, format: * DAY
+#   session headline, format: = HEADLINE 
+#   additional items, format: + TIME DESCRIPTION
+* Thursday, June 16, 2016
++ 8:45--9:00 Opening Remarks
++ 9:00--10:30 Session 1 (Chair: Yvette Graham)
++ 9:00--10:00 Invited Talk by Johan Bos 
+3 10:00--10:15 # Butler: Deterministic natural language generation from meaning representations for machine translation
+6 10:15--10:30 # Li: Extending Phrase-Based Translation with Dependencies by Using Graphs
++ 10:30--11:00 Coffee Break
++ 11:00--12:00 Session 2 (Chair: Nora Aranberri)
++ 11:00--12:00 Invited Talk by Kyunghyun Cho  
++ 12:00--14:00 Lunch
++ 14:00--15:30 Session 3 (Chair: Andrew Finch)
++ 14:00--15:00 Invited Talk by Jan Hajic 
+4 15:00--15:15 # Ge: The Naming Sharing Structure and its Cognitive Meaning in Chinese and English
+7 15:15--15:30 # Simov: Towards Semantic-based Hybrid Machine Translation between Bulgarian and English
++ 15:30--16:00 Coffee Break
++ 16:00--17:45 Session 4 (Chair: Nora Aranberri)
++ 16:00--17:00 Invited Talk by Martha Palmer
++ 17:00--17:45 Panel
++ 17:45--18:00 Closing

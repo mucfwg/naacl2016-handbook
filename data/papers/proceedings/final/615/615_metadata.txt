@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#615
+FinalPaperTitle#=%=#Activity Modeling in Email
+ShortPaperTitle#=%=#Activity Modeling in Email
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ashequl Qadir
+JobTitle#==#
+Organization#==#School of Computing
+University of Utah
+Salt Lake City, UT 84112, USA
+Abstract#==#We introduce a latent activity model for workplace
+emails, positing that communication at
+work is purposeful and organized by activities.
+We pose the problem as probabilistic inference
+in graphical models that jointly capture
+the interplay between latent activities and the
+email contexts they govern, such as the recipients,
+subject and body. The model parameters
+are learned using maximum likelihood estimation
+with an expectation maximization algorithm.
+We present three variants of the model
+that incorporate the recipients, co-occurrence
+of the recipients, and email body and subject.
+We demonstrate the model’s effectiveness in
+an email recipient recommendation task and
+show that it outperforms a state-of-the-art generative
+model. Additionally, we show that the
+activity model can be used to identify email
+senders who engage in similar activities, resulting
+in further improvements in recipient
+recommendation.
+Author{1}{Firstname}#=%=#Ashequl
+Author{1}{Lastname}#=%=#Qadir
+Author{1}{Email}#=%=#asheq@cs.utah.edu
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Gamon
+Author{2}{Email}#=%=#mgamon@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Patrick
+Author{3}{Lastname}#=%=#Pantel
+Author{3}{Email}#=%=#me@patrickpantel.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Ahmed Hassan
+Author{4}{Lastname}#=%=#Awadallah
+Author{4}{Email}#=%=#ahmed.awadallah@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

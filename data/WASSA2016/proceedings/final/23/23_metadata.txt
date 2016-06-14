@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#A semantic-affective compositional approach for the affective labelling of adjective-noun and noun-noun pairs
+ShortPaperTitle#=%=#A semantic-affective compositional approach for the affective labelling of word pairs
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Elisavet Palogiannidi
+JobTitle#==#
+Organization#==#
+Abstract#==#Motivated by recent advances in the area of Compositional Distributional
+Semantic Models (CDSMs), we propose a compositional approach for estimating
+continuous affective ratings for adjective-noun (AN)
+and noun-noun (NN) pairs. The ratings are computed for the three basic
+dimensions of continuous affective spaces, namely, valence, arousal and dom-
+inance. We propose that similarly to the semantic modification that underlies
+CDSMs, affective modification may occur within the framework of affective
+spaces, especially when the constituent words of the linguistic structures
+under investigation form modifier-head pairs (e.g., AN and NN). The affective
+content of the entire structure is determined from the interaction between the
+respective constituents, i.e., the affect conveyed by the head is altered by
+the
+modifier. In addition, we investigate the fusion of the proposed model with the
+semantic-affective model proposed in (Malandrakis et al., 2013) applied both
+at word- and phrase-level. The automatically computed affective ratings were
+evaluated against human ratings in terms of correlation. The most accurate
+estimates are achieved via fusion 
+and absolute performance improvement up to 5% and 4% is reported for NN and AN,
+respectively.
+Author{1}{Firstname}#=%=#Elisavet
+Author{1}{Lastname}#=%=#Palogiannidi
+Author{1}{Email}#=%=#epalogiannidi@gmail.com
+Author{1}{Affiliation}#=%=#School of ECE, Technical University of Crete
+Author{2}{Firstname}#=%=#Elias
+Author{2}{Lastname}#=%=#Iosif
+Author{2}{Email}#=%=#iosife@central.ntua.gr
+Author{2}{Affiliation}#=%=#School of ECE, National Technical University of Athens
+Author{3}{Firstname}#=%=#Polychronis
+Author{3}{Lastname}#=%=#Koutsakis
+Author{3}{Email}#=%=#p.koutsakis@murdoch.edu.au
+Author{3}{Affiliation}#=%=#School of Engineering and Information Technology, Murdoch University, Australia
+Author{4}{Firstname}#=%=#Alexandros
+Author{4}{Lastname}#=%=#Potamianos
+Author{4}{Email}#=%=#apotam@gmail.com
+Author{4}{Affiliation}#=%=#National Technical University of Athens
+
+==========

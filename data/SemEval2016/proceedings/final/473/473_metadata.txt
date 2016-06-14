@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#473
+FinalPaperTitle#=%=#TGB at SemEval-2016 Task 5: Multi-Lingual Constraint System for Aspect Based Sentiment Analysis
+ShortPaperTitle#=%=#TGB at SemEval-2016 Task 5: Multi-Lingual Constraint System for Aspect Based Sentiment Analysis
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Fatih Samet Çetin
+JobTitle#==#
+Organization#==#Istanbul Technical University
+Abstract#==#This paper presents our system description submitted to the Aspect Based
+Sentiment Analysis Task of SemEval-2016 (Task 5). Our system is built on linear
+binary classifiers for aspect category classification (Slot 1), lexicon-based
+detection of opinion target expres-sions (Slot 2), and linear multi-class
+classifi-ers for sentiment polarity detection (Slot 3). We conducted several
+different approaches for feature selection to improve classification
+performance on both Slot 1 and Slot 3. Our proposed methods are easily
+adaptable to all languages and domains since they are built as constrained
+systems which do not use any additional resources other than the provided
+datasets and which uses standard prepro-cessing methods.
+Author{1}{Firstname}#=%=#Fatih Samet
+Author{1}{Lastname}#=%=#Çetin
+Author{1}{Email}#=%=#cetinfatih@itu.edu.tr
+Author{1}{Affiliation}#=%=#Istanbul Technical University
+Author{2}{Firstname}#=%=#Ezgi
+Author{2}{Lastname}#=%=#Yıldırım
+Author{2}{Email}#=%=#ezgiyildrm@gmail.com
+Author{2}{Affiliation}#=%=#Istanbul Technical University
+Author{3}{Firstname}#=%=#Can
+Author{3}{Lastname}#=%=#Özbey
+Author{3}{Email}#=%=#canozbeycan@gmail.com
+Author{3}{Affiliation}#=%=#Turkcell Global Bilgi
+Author{4}{Firstname}#=%=#Gülşen
+Author{4}{Lastname}#=%=#Eryiğit
+Author{4}{Email}#=%=#gulsenc@itu.edu.tr
+Author{4}{Affiliation}#=%=#Istanbul Technical University
+
+==========

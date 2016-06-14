@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#533
+FinalPaperTitle#=%=#MTE-NN at SemEval-2016 Task 3: Can Machine Translation Evaluation Help Community Question Answering?
+ShortPaperTitle#=%=#Can Machine Translation Evaluation Help Community Question Answering?
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Preslav Nakov
+JobTitle#==#Senior Scientist
+Organization#==#Qatar Computing Research Institute, HBKU
+Tornado Tower
+Doha, Qatar
+Abstract#==#We present a system for answer ranking (SemEval-2016 Task 3, Subtask A) that is
+a direct adaptation of a pairwise neural network model for machine translation
+evaluation (MTE). In particular, the network incorporates MTE features, as well
+as rich syntactic and semantic embeddings, and it efficiently models complex
+non-linear interactions between them. With the addition of lightweight
+task-specific features, we obtained very encouraging experimental results, with
+sizeable contributions from both the MTE features and from the pairwise network
+architecture. We also achieved good results on subtask C.
+Author{1}{Firstname}#=%=#Francisco
+Author{1}{Lastname}#=%=#Guzmán
+Author{1}{Email}#=%=#fguzman@qf.org.qa
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{2}{Firstname}#=%=#Preslav
+Author{2}{Lastname}#=%=#Nakov
+Author{2}{Email}#=%=#preslav.nakov@gmail.com
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{3}{Firstname}#=%=#Lluís
+Author{3}{Lastname}#=%=#Màrquez
+Author{3}{Email}#=%=#lluism@lsi.upc.edu
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute
+
+==========

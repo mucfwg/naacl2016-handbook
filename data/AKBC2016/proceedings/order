@@ -1,0 +1,41 @@
+* Friday, June 17, 2016
+! 9:00--9:10 Opening Remarks 
+! 9:10--9:40 Joint Compositional Learning from Text and Knowledge Bases  %by Kristina Toutanova
+! 9:40--10:10 The Allen AI Science Challenge: Results, Lessons, and Open Questions %by Oren Etzioni
+= 10:10--11:00 Morning Poster Session and Coffee Break
+8   # Using Graphs of Classifiers to Impose Constraints on Semi-supervised Relation Extraction
+26   # Discovering Entity Knowledge Bases on the Web
+18   # IKE - An Interactive Tool for Knowledge Extraction
+24   # Incorporating Selectional Preferences in Multi-hop Relation Extraction
+6   # Knowledge Base Population for Organization Mentions in Email
+2   # Enriching Wikidata with Frame Semantics
+20   # Demonyms and Compound Relational Nouns in Nominal Open IE
+10   # But What Do We Actually Know?
+14   # Learning Knowledge Base Inference with Neural Theorem Provers
+! 11:00--11:30 Andrew McCallum's Mysterious Production of Facts (Talk TBA) %by Andrew McCallum
+! 11:30--12:00 Look Ma, No Neurons: Using Explicit Inference Rules to Complete a KB %by William Cohen
+= 12:00--13:20 Lunch Break and Morning Posters
+= 13:20--13:50 Contributed Talks 1
+13 13:20--13:35  # The Physics of Text: Ontological Realism in Information Extraction
+11 13:35--13:50  # Know2Look: Commonsense Knowledge for Visual Search
+! 13:50--14:15 Meaningful Discourses (Talk TBA) %by Christopher Manning
+! 14:15--14:40 Common Sense and Language %by Benjamin Van Durme
+= 14:40--15:10 Contributed Talks 2
+22 14:40--14:55  # Row-less Universal Schema
+16 14:55--15:10  # An Attentive Neural Architecture for Fine-grained Entity Type Classification
+= 15:10--16:00 Afternoon Poster Session and Coffee Break
+11  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Know2Look: Commonsense Knowledge for Visual Search
+21   # Regularizing Relation Representations by First-order Implications
+3   # Applying Universal Schemas for Domain Specific Ontology Expansion
+15   # Design of Word Association Games using Dialog Systems for Acquisition of Word Association Knowledge
+25   # Call for Discussion: Building a New Standard Dataset for Relation Extraction Tasks
+13  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # The Physics of Text: Ontological Realism in Information Extraction
+9   # A Comparison of Weak Supervision methods for Knowledge Base Construction
+16  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # An Attentive Neural Architecture for Fine-grained Entity Type Classification
+19   # A Factorization Machine Framework for Testing Bigram Embeddings in Knowledgebase Completion
+22  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Row-less Universal Schema
+! 16:00--16:25 Querying Unnormalized and Incomplete Knowledge Bases %by Percy Liang
+! 16:25--16:50 Memory Networks for Language Understanding: Successes and Challenges %by Antoine Bordes
+! 16:50--17:30 Afternoon Speaker Panel %by Christopher Manning, Benjamin Van Durme, Percy Liang, Antoine Bordes
+! 17:30--17:45 Closing Remarks 
+= 17:45--18:15 Evening Poster Session

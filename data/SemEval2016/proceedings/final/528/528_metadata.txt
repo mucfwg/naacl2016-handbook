@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#528
+FinalPaperTitle#=%=#UMD-TTIC-UW at SemEval-2016 Task 1: Attention-Based Multi-Perspective Convolutional Neural Networks for Textual Similarity Measurement
+ShortPaperTitle#=%=#UMD-TTIC-UW at SemEval-2016: Attention-Based Multi-Perspective ConvNet for Similarity Measurement
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hua He
+JobTitle#==#
+Organization#==#University of Maryland College Park
+Toyota Technological Institute at Chicago
+University of Waterloo
+Abstract#==#We describe an attention-based convolutional neural network for the English
+semantic textual similarity (STS) task in the SemEval-2016 competition (Agirre
+et al., 2016). We develop an attention-based input interaction layer and
+incorporate it into our multi-perspective convolutional neural network (He
+et al., 2015), using the PARAGRAM-PHRASE word embeddings (Wieting et al., 2016)
+trained on paraphrase pairs. Without using any sparse features, our final model
+outperforms the winning entry in STS2015 when evaluated on the STS2015 data.
+Author{1}{Firstname}#=%=#Hua
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#huah@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland, College Park
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Wieting
+Author{2}{Email}#=%=#wieting2@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois; TTI-Chicago
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Gimpel
+Author{3}{Email}#=%=#kgimpel@ttic.edu
+Author{3}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{4}{Firstname}#=%=#Jinfeng
+Author{4}{Lastname}#=%=#Rao
+Author{4}{Email}#=%=#jinfeng@cs.umd.edu
+Author{4}{Affiliation}#=%=#University of Maryland College Park
+Author{5}{Firstname}#=%=#Jimmy
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Email}#=%=#jimmylin@umd.edu
+Author{5}{Affiliation}#=%=#University of Maryland
+
+==========

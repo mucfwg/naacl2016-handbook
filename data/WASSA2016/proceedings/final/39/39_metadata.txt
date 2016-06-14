@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Sentiment, Subjectivity, and Social Analysis Go ToWork: An Industry View - Invited Talk
+ShortPaperTitle#=%=#Sentiment, Subjectivity, and Social Analysis Go ToWork: An Industry View - Invited Talk
+NumberOfPages#=%=#1
+CopyrightSigned#=%=#Grimes
+JobTitle#==#
+Organization#==#
+Abstract#==#Affective computing has a commercial side. Numerous
+products and projects provide sentiment, emotion,
+and intent extraction capabilities, applied in
+consumer and financial markets, for healthcare and
+customer care, and for media, policy, and politics.
+Academic and industry researchers are naturally interested
+how sentiment and social technologies are
+being applied and in commercial market opportunities
+and trends, in what’s being funded, what’s
+falling flat, and what’s on business’s roadmap. Analyst
+Seth Grimes will provide an industry overview,
+surveying companies and applications in the sentiment
+and social analytics spaces as well as work at
+the tech giants. He will discuss commercialization
+strategy and the affective market outlook.
+Author{1}{Firstname}#=%=#Seth
+Author{1}{Lastname}#=%=#Grimes
+Author{1}{Email}#=%=#grimes@altaplana.com
+Author{1}{Affiliation}#=%=#Alta Plana Corporation
+
+==========

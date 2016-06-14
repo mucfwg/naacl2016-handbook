@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Detecting novel metaphor using selectional preference information
+ShortPaperTitle#=%=#Detecting novel metaphor using selectional preference information
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Hessel Haagsma
+JobTitle#==#
+Organization#==#University of Groningen
+Groningen, The Netherlands
+Abstract#==#Recent work on metaphor processing often employs selectional preference
+information. We present a comparison of different approaches to the modelling
+of selectional preferences, based on various ways of generalizing over corpus
+frequencies. We evaluate on the VU Amsterdam Metaphor corpus, a broad corpus of
+metaphor. We find that using only selectional preference information is not
+enough to  outperform an all-metaphor baseline classification. A possible
+explanation for this lies in the nature of the evaluation data, and lack of
+power of selectional preference information on its own for non-novel metaphor
+detection. To better investigate the role of metaphor type in metaphor
+detection, we suggest a resource with annotation of novel metaphor should be
+created.
+Author{1}{Firstname}#=%=#Hessel
+Author{1}{Lastname}#=%=#Haagsma
+Author{1}{Email}#=%=#hessel.haagsma@rug.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Bjerva
+Author{2}{Email}#=%=#j.bjerva@rug.nl
+Author{2}{Affiliation}#=%=#Center for Language and Cognition Groningen, University of Groningen
+
+==========

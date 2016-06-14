@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#453
+FinalPaperTitle#=%=#Sentiment Composition of Words with Opposing Polarities
+ShortPaperTitle#=%=#Sentiment Composition of Words with Opposing Polarities
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we explore sentiment composition in phrases that have at least
+one positive and at least one negative word--phrases like 'happy accident' and
+'best winter break'. We compiled a dataset of such opposing polarity phrases
+and manually annotated them with real-valued scores of sentiment association.
+Using this dataset, we analyze the linguistic patterns present in opposing
+polarity phrases. Finally, we apply several unsupervised and supervised
+techniques of sentiment composition to determine their efficacy on this
+dataset. Our best system, which incorporates information from the phrase’s
+constituents, their parts of speech, their sentiment association scores, and
+their embedding vectors, obtains an accuracy of over 80% on the opposing
+polarity phrases.
+Author{1}{Firstname}#=%=#Svetlana
+Author{1}{Lastname}#=%=#Kiritchenko
+Author{1}{Email}#=%=#svetlana.kiritchenko@nrc-cnrc.gc.ca
+Author{1}{Affiliation}#=%=#NRC
+Author{2}{Firstname}#=%=#Saif M.
+Author{2}{Lastname}#=%=#Mohammad
+Author{2}{Email}#=%=#uvgotsaif@gmail.com
+Author{2}{Affiliation}#=%=#National Research Council Canada
+
+==========

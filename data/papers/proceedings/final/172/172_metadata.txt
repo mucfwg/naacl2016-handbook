@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#172
+FinalPaperTitle#=%=#Multi-Source Neural Translation
+ShortPaperTitle#=%=#Multi-Source Neural Translation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Barret Zoph
+JobTitle#==#
+Organization#==#Information Sciences Institute
+Abstract#==#We build a multi-source machine translation model and train it to maximize the
+probability of a target English string given French and German sources.  Using
+the neural encoder-decoder framework, we explore several combination methods
+and report up to +4.8 Bleu increases on top of a very strong attention-based
+neural translation model.
+Author{1}{Firstname}#=%=#Barret
+Author{1}{Lastname}#=%=#Zoph
+Author{1}{Email}#=%=#barretzoph@gmail.com
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Knight
+Author{2}{Email}#=%=#knight@isi.edu
+Author{2}{Affiliation}#=%=#USC/ISI
+
+==========

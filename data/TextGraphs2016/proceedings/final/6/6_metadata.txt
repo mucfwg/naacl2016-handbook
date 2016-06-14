@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Network Motifs May Improve Quality Assessment of Text Documents
+ShortPaperTitle#=%=#Network Motifs May Improve Quality Assessment of Text Documents
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Thomas Arnold
+JobTitle#==#
+Organization#==#Technische Universitat Darmstadt
+Hochschulstrasse 10, 64289 Darmstadt, Germany
+Abstract#==#Motif analysis counts the number of small building blocks (the motifs) in a
+network and relates these statistical numbers to the inherent semantics of the
+network. In the realm of natural language processing, the networks are induced
+by texts. We demonstrate that motif analysis may help assess the quality of a
+document. More specifically, we consider the German Wikipedia and use the label
+“featured” as the (binary) quality criterion. The length (number of words)
+of an article is a comparatively good predictor for this label. We show that a
+well-designed combination of this criterion and motif statistics yields a
+significant improvement. We also found that a deeper look into the most
+relevant motifs may improve our understanding of quality.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Arnold
+Author{1}{Email}#=%=#arnold@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Karsten
+Author{2}{Lastname}#=%=#Weihe
+Author{2}{Email}#=%=#weihe@cs.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+
+==========

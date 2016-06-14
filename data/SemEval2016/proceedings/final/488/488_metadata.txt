@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#488
+FinalPaperTitle#=%=#SENSEI-LIF at SemEval-2016 Task 4: Polarity embedding fusion for robust sentiment analysis
+ShortPaperTitle#=%=#SENSEI-LIF at SemEval-2016 Task 4: Polarity embedding fusion for robust sentiment analysis
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#ROUVIER
+JobTitle#==#
+Organization#==#LIF
+Abstract#==#This paper describes the system developed at LIF for the SemEval-2016 Task 4
+evaluation campaign. The goal of the task was to identify sentiment polarity in
+tweets. The system extends the Convolutional Neural Networks (CNN) state of the
+art approach. We initialize the input representations with embeddings trained
+on different units: lexical, joint lexical and part-of-speech, and joint
+lexical and emoticon embeddings. Neural networks for each input space are
+trained separately, and then the representations extracted from their hidden
+layers are concatenated as input of a fusion neural network. The fusion system
+ranked 2nd at the SemEval-2016 evaluation campaign and obtained an average F1
+of 63.0%.
+Author{1}{Firstname}#=%=#Mickael
+Author{1}{Lastname}#=%=#Rouvier
+Author{1}{Email}#=%=#mickael.rouvier@gmail.com
+Author{1}{Affiliation}#=%=#Aix-Marseille University LIF/CNRS
+Author{2}{Firstname}#=%=#Benoit
+Author{2}{Lastname}#=%=#Favre
+Author{2}{Email}#=%=#benoit.favre@lif.univ-mrs.fr
+Author{2}{Affiliation}#=%=#Aix-Marseille University LIF/CNRS
+
+==========

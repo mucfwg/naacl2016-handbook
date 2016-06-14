@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#328
+FinalPaperTitle#=%=#Cross-Domain Mining of Argumentative Text through Distant Supervision
+ShortPaperTitle#=%=#Cross-Domain Mining of Argumentative Text through Distant Supervision
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Khalid Al Khatib
+JobTitle#==#
+Organization#==#Faculty of Media, Bauhaus-Universität Weimar, Germany
+Abstract#==#Argumentation mining is considered as a key technology for future search
+engines and automated decision making. In such applications, argumentative text
+segments have to be mined from large and diverse document collections. However,
+most existing argumentation mining approaches tackle the classification of
+argumentativeness only for a few manually annotated documents from narrow
+domains and registers. This limits their practical applicability. We hence
+propose a distant supervision approach that acquires argumentative text
+segments automatically from online debate portals. Experiments across domains
+and registers show that training on such a corpus improves the effectiveness
+and robustness of mining argumentative text. We freely provide the underlying
+corpus for research.
+Author{1}{Firstname}#=%=#Khalid
+Author{1}{Lastname}#=%=#Al-Khatib
+Author{1}{Email}#=%=#khalid.alkhatib@uni-weimar.de
+Author{1}{Affiliation}#=%=#Bauhaus-Universität Weimar,  Faculty of Media
+Author{2}{Firstname}#=%=#Henning
+Author{2}{Lastname}#=%=#Wachsmuth
+Author{2}{Email}#=%=#henning.wachsmuth@uni-weimar.de
+Author{2}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{3}{Firstname}#=%=#Matthias
+Author{3}{Lastname}#=%=#Hagen
+Author{3}{Email}#=%=#matthias.hagen@uni-weimar.de
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Jonas
+Author{4}{Lastname}#=%=#Köhler
+Author{4}{Email}#=%=#jonas.koehler@uni-weimar.de
+Author{4}{Affiliation}#=%=#Bauhaus-Universität Weimar,
+Author{5}{Firstname}#=%=#Benno
+Author{5}{Lastname}#=%=#Stein
+Author{5}{Email}#=%=#benno.stein@uni-weimar.de
+Author{5}{Affiliation}#=%=#Bauhaus Universität Weimar
+
+==========

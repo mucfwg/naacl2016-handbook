@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Visualization of Dynamic Reference Graphs
+ShortPaperTitle#=%=#Visualization of Dynamic Reference Graphs
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ivan
+JobTitle#==#
+Organization#==#National Research University Higher School of Economics. 
+20 Myasnitskaya Street
+Moscow
+Russia
+Abstract#==#We present a tool for dynamic reference graph visualization. A reference graph
+is a graph based on key phrases retrieved from a time-indexed natural language
+text corpus. This tool may be useful for the analysis of connected pairs of
+latent topics, changes in the significance of these topics as well as in the
+relationship between them over various time periods.
+Author{1}{Firstname}#=%=#Ivan
+Author{1}{Lastname}#=%=#Rodin
+Author{1}{Email}#=%=#ivvrodin@gmail.com
+Author{1}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Chernyak
+Author{2}{Email}#=%=#echernyak@hse.ru
+Author{2}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{3}{Firstname}#=%=#Mikhail
+Author{3}{Lastname}#=%=#Dubov
+Author{3}{Email}#=%=#msdubov@gmail.com
+Author{3}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{4}{Firstname}#=%=#Boris
+Author{4}{Lastname}#=%=#Mirkin
+Author{4}{Email}#=%=#bmirkin@hse.ru
+Author{4}{Affiliation}#=%=#National Research University Higher School of Economics
+
+==========

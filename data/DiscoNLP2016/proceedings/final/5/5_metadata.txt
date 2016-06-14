@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Machine Translation of Non-Contiguous Multiword Units
+ShortPaperTitle#=%=#MT of Non-Contiguous MWU
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Anabela Barreiro
+JobTitle#==#Post-doctoral researcher
+Organization#==#INESC-ID
+Rua Alves Redol, 9
+1000-029 Lisboa, Portugal
+Abstract#==#Non-adjacent linguistic phenomena such as non-contiguous multiwords and other
+phrasal units containing insertions, i.e., words that are not part of the unit,
+are difficult to process and remain a problem for NLP applications.
+Non-contiguous multiword units are common across languages and constitute some
+of the most important challenges to high quality machine translation. This
+paper presents an empirical analysis of non-contiguous multiwords, and
+highlights our use of the Logos Model and the Semtab function to deploy
+semantic knowledge to align non-contiguous multiword units with the goal to
+translate these units with high fidelity. The phrase level manual alignments
+illustrated in the paper were produced with the CLUE-Aligner, a Cross-Language
+Unit Elicitation alignment tool.
+Author{1}{Firstname}#=%=#Anabela
+Author{1}{Lastname}#=%=#Barreiro
+Author{1}{Email}#=%=#barreiro_anabela@hotmail.com
+Author{1}{Affiliation}#=%=#INESC-ID
+Author{2}{Firstname}#=%=#Fernando
+Author{2}{Lastname}#=%=#Batista
+Author{2}{Email}#=%=#Fernando.Batista@inesc-id.pt
+Author{2}{Affiliation}#=%=#INESC-ID, ISCTE-IUL
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#522
+FinalPaperTitle#=%=#CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks
+ShortPaperTitle#=%=#AMR Parsing using LSTM-based Recurrent Neural Networks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#William Foland
+JobTitle#==#
+Organization#==#William Foland
+Department of Computer Science
+University of Colorado, Boulder
+Abstract#==#We describe the system used in our participation in the AMR Parsing task 8 for
+SemEval 2016. Our parser does not rely on a syntactic pre-parse, or heavily
+engineered features, and uses five recurrent neural networks as the key
+architectural components for estimating AMR graph structure.
+Author{1}{Firstname}#=%=#William
+Author{1}{Lastname}#=%=#Foland
+Author{1}{Email}#=%=#william.foland@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado
+Author{2}{Firstname}#=%=#James H.
+Author{2}{Lastname}#=%=#Martin
+Author{2}{Email}#=%=#james.martin@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado Boulder
+
+==========

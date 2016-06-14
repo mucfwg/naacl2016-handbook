@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Triaging Mental Health Forum Posts
+ShortPaperTitle#=%=#Triaging Mental Health Forum Posts
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Arman Cohan
+JobTitle#==#
+Organization#==#Georgetown University
+Abstract#==#Online mental health forums provide users with an anonymous support platform
+that is facilitated by moderators responsible for finding and addressing
+critical posts, especially those related to self-harm. Given the seriousness of
+these posts, it is important that the moderators are able to locate these
+critical posts quickly in order to respond with timely support. We approached
+the task of automatically triaging forum posts as a multiclass classification
+problem. Our model uses a supervised classifier with various features including
+lexical, psycholinguistic, and topic modeling features. On a dataset of mental
+forum posts from ReachOut.com, our approach identified critical cases with a
+F-score of over 80%, showing the effectiveness of the model. Among 16
+participating teams and 60 total runs, our best run achieved macro-average
+F1-score of 41% for the critical categories (The best score among all the runs
+was 42%).
+Author{1}{Firstname}#=%=#Arman
+Author{1}{Lastname}#=%=#Cohan
+Author{1}{Email}#=%=#arman@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Sydney
+Author{2}{Lastname}#=%=#Young
+Author{2}{Email}#=%=#sey24@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+Author{3}{Firstname}#=%=#Nazli
+Author{3}{Lastname}#=%=#Goharian
+Author{3}{Email}#=%=#nazli@ir.cs.georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+
+==========

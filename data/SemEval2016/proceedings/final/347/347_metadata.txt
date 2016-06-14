@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#347
+FinalPaperTitle#=%=#WHUNlp at SemEval-2016 Task DiMSUM: A Pilot Study in Detecting Minimal Semantic Units and their Meanings using Supervised Models
+ShortPaperTitle#=%=#A Pilot Study in Detecting Minimal Semantic Units and their Meanings using Supervised Models
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xin Tang
+JobTitle#==#
+Organization#==#
+Abstract#==#Thanks for all the reviewers' detailed comments.
+
+We try our best to revise our paper according to the reviews.
+1 We give more details about features in Section 2 and 3.
+2 Experimental settings are added in Section 4.1
+3 Feature contributions are described in Section 4.2
+4 We expand some features after the official evaluation, and these results are
+also included in Section 4.4 of this submission
+5 Error analysis is in Section 4.5.
+
+We also update the author information.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Email}#=%=#1648706227@qq.com
+Author{1}{Affiliation}#=%=#Wuhan University
+Author{2}{Firstname}#=%=#Fei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lifei_csnlp@whu.edu.cn
+Author{2}{Affiliation}#=%=#Wuhan University
+Author{3}{Firstname}#=%=#Donghong
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Email}#=%=#dhji@whu.edu.cn
+Author{3}{Affiliation}#=%=#Wuhan University
+
+==========

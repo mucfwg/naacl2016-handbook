@@ -1,0 +1,183 @@
+\documentclass[twoside,makeidx]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{xspace}
+
+\usepackage{combelow}
+\usepackage{newunicodechar}
+\newunicodechar{ș}{\cb{s}}
+\newunicodechar{ț}{\cb{t}}
+
+%% \usepackage{fontspec,xunicode,xltxtra}
+%% \setromanfont[Mapping=tex-text]{Times}
+%% \setsansfont[Mapping=tex-text]{Lucida Grande} 
+%% \setmonofont{Courier New}
+
+\usepackage{pdfpages}
+
+% set paper size and margins; needs to be adapted for A5 ideally, we
+% should have a document class for conference handbooks where A5
+% vs. letter-halved is a class option
+\usepackage[
+  paperheight=8.5in, 
+  paperwidth=5.5in, 
+  inner=.75in,
+  outer=.5in,
+  bottom=.75in,
+  top=.75in,
+  twoside]{geometry}
+
+% Lots of macros
+\input{content/special/preamble} 
+\input{content/special/macros}    
+
+\input{content/setup/venues}    % macros for event locations
+\input{content/setup/sessions}  % session titles and venues
+
+\renewcommand{\normalsize}{\fontsize{8}{9}\selectfont}
+\renewcommand{\small}{\fontsize{7}{8}\selectfont}
+\renewcommand{\footnotesize}{\fontsize{6}{6}\selectfont}
+\renewcommand{\large}{\fontsize{10}{11}\selectfont}
+\renewcommand{\Large}{\fontsize{12}{14}\selectfont}
+\renewcommand{\huge}{\fontsize{14}{17}\selectfont}
+
+% for each part of the conference, add the .bib file produced with
+% meta2bibtex.py here:
+
+\bibliography{auto/tacl/papers.bib}
+
+\bibliography{auto/AKBC2016/papers.bib}
+\bibliography{auto/BEA11/papers.bib}
+\bibliography{auto/CADD2016/papers.bib}
+\bibliography{auto/CLFL2016/papers.bib}
+\bibliography{auto/CLPsych2016/papers.bib}
+\bibliography{auto/CORBON2016/papers.bib}
+\bibliography{auto/DiscoNLP2016/papers.bib}
+\bibliography{auto/Events2016/papers.bib}
+\bibliography{auto/HCQA16/papers.bib}
+\bibliography{auto/MLCL2016/papers.bib}
+\bibliography{auto/Meta4NLP/papers.bib}
+\bibliography{auto/NAACL-SRW16/papers.bib}
+\bibliography{auto/SedMT2016/papers.bib}
+\bibliography{auto/SemEval2016/papers.bib}
+\bibliography{auto/TextGraphs2016/papers.bib}
+\bibliography{auto/Tutorials/papers.bib}
+\bibliography{auto/WASSA2016/papers.bib}
+\bibliography{auto/demos/papers.bib}
+\bibliography{auto/papers/papers.bib}
+
+% Special bib for the workshops
+\bibliography{content/workshops/papers.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\setdaydateyear{Sunday}{May 31}{2015}
+
+%% COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\fancyfoot[C]{}
+\includepdf[pages={1}]{content/fmatter/naacl-handbook-cover.pdf}
+\thispagestyle{empty}
+%\vspace{1in}~\\
+%\hspace{-0.4in}\includegraphics[width=4.5in]{content/fmatter/logo_naacl2016.pdf}
+
+%% INSIDE FRONT COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+\thispagestyle{empty}
+\input{content/maps}
+\noindent ~\\
+\emph{Logo design by Mark Klingsporn}\\
+\emph{Printing by Omnipress of Madison, Wisconsin}
+
+\newpage
+\cleardoublepage
+\fancyfoot[C]{\thepage}
+\frontmatter
+
+%% TOC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\addcontentsline{toc}{chapter}{Table of Contents}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\mainmatter
+\pagestyle{fancy}
+
+%% PREFACE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Conference Information}
+
+\input{content/fmatter/preface-chair}
+\clearpage
+\input{content/fmatter/preface-pc}
+
+\clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
+\setheaders{}{}
+\input{content/fmatter/committee}
+
+%% \clearpage
+%\input{content/fmatter/sponsors}
+\clearpage%{\thispagestyle{emptyheader}\cleardoublepage}
+\setheaders{}{}
+
+%\input{content/meal-info.tex}
+\clearpage
+
+%% TUTORIALS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setdaydateyear{Sunday}{June 12}{2016}
+\input{content/tutorials/tutorials-overview}
+
+%% Welcome reception %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\addcontentsline{toc}{chapter}{Welcome Reception: \daydate, 6:00pm}
+\input{content/tutorials/welcome_reception}
+
+%% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setdaydateyear{Monday}{June 13}{2016}
+\input{content/day1/day1}
+
+\setdaydateyear{Tuesday}{June 14}{2016}
+\input{content/day2/day2}
+
+\setdaydateyear{Wednesday}{June 15}{2016}
+\input{content/day3/day3}
+
+%% WORKSHOPS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setdaydateyear{Thursday--Friday}{June 16--17}{2015}
+\input{content/workshops/workshops}
+
+%% MISC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Anti-harassment policy
+\input{content/anti-harassment-policy}
+
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Author Index}
+\setheaders{Author Index}{Author Index}
+
+\printindex
+
+%% ADS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+%\addcontentsline{toc}{chapter}{Sponsorship}
+\setheaders{}{}
+\input{content/ads/ads}
+
+\clearpage
+\addcontentsline{toc}{chapter}{Sponsors}
+\setheaders{Sponsors}
+
+\thispagestyle{empty}
+
+\noindent NAACL gratefully acknowledges the following sponsors for their support:\\
+\input{content/sponsors/sponsors}
+
+\end{document}
+

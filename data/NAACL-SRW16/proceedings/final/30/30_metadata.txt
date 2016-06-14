@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter
+ShortPaperTitle#=%=#Hateful Symbols or Hateful People?
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#zeerak
+JobTitle#==#
+Organization#==#University of Copenhagen,
+Njalsgade 140-142, bygn. 25, 4.sal, 2300 København S, Denmark
+Abstract#==#Hate speech in the form of racist and sexist remarks are a common occurrence on
+social media. For that reason many social media services address the problem of
+identifying hate speech, but the definition of hate speech varies markedly and
+is largely manual effort. We provide a list of criteria founded in critical
+race theory to annotate a publicly available corpus of more than 16k tweets,
+and analyze the impact of various features in conjunction with character
+n-grams, for detection of said hate speech. We also present the most indicative
+words, and present a dictionary based on our data.
+Author{1}{Firstname}#=%=#Zeerak
+Author{1}{Lastname}#=%=#Waseem
+Author{1}{Email}#=%=#csp265@alumni.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Dirk
+Author{2}{Lastname}#=%=#Hovy
+Author{2}{Email}#=%=#mail@dirkhovy.com
+Author{2}{Affiliation}#=%=#Center for Language Technology, University of Copenhagen
+
+==========

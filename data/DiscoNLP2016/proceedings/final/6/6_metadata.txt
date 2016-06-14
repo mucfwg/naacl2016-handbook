@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Discontinuous VP in Bulgarian
+ShortPaperTitle#=%=#Discontinuous VP in Bulgarian
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Elisaveta Balabanova
+JobTitle#==#
+Organization#==#University of Library Studies and Information Technologies, Sofia, Bulgaria
+Abstract#==#The paper presents Bulgarian discontinuous constituents. Bulgarian is claimed
+to be a language of relatively free word order. As a typical manifestation of
+free word order discontinuous constituents in Bulgarian have not been studied
+so far. The paper discusses and analyzes the freedom in Bulgarian word order
+and points out the way discontinuity has been treated within Bultreebank. We
+show the results of our linguistic analysis of discontinuous VPs and summarize
+the extent of word order freedom and word order constraints within VP.
+Author{1}{Firstname}#=%=#Elisaveta
+Author{1}{Lastname}#=%=#Balabanova
+Author{1}{Email}#=%=#elisavetabal@yahoo.com
+Author{1}{Affiliation}#=%=#University of Library Studies and Information Technologies, Sofia, Bulgaria
+
+==========

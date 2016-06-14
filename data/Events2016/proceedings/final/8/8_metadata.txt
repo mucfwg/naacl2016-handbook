@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Constructing a Dictionary Describing Feature Changes of Arguments in Event Sentences
+ShortPaperTitle#=%=#Constructing a Dictionary Describing Feature Changes of Arguments in Event Sentences
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Tetsuaki Nakamura
+JobTitle#==#
+Organization#==#Kyoto University
+Yoshida-Honmachi, Sakyo-ku, Kyoto, Japan
+Abstract#==#Common sense knowledge plays an essential role for natural language
+understanding, human-machine communication and so forth. In this paper, we
+acquire knowledge of events as common sense knowledge because there is a
+possibility that dictionaries of such knowledge are useful for recognition of
+implication relations in texts, inference of human activities and their
+planning, and so on. As for event knowledge, we focus on feature changes of
+arguments (hereafter, FCAs) in event sentences as knowledge of events. To
+construct a dictionary of FCAs, we propose a framework for acquiring such
+knowledge based on both of the automatic approach and the collective
+intelligence approach to exploit merits of both approaches. We acquired FCAs in
+event sentences through crowdsourcing and conducted the subjective evaluation
+to validate whether the FCAs are adequately acquired. As a result of the
+evaluation, it was shown that we were able to reasonably well capture FCAs in
+event sentences.
+Author{1}{Firstname}#=%=#Tetsuaki
+Author{1}{Lastname}#=%=#Nakamura
+Author{1}{Email}#=%=#tetsuakinakamura8@gmail.com
+Author{1}{Affiliation}#=%=#Kyoto University
+Author{2}{Firstname}#=%=#Daisuke
+Author{2}{Lastname}#=%=#Kawahara
+Author{2}{Email}#=%=#dk@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+
+==========

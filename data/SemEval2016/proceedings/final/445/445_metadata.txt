@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#445
+FinalPaperTitle#=%=#SemEval-2016 Task 6: Detecting Stance in Tweets
+ShortPaperTitle#=%=#SemEval-2016 Task 6: Detecting Stance in Tweets
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Here for the first time we present a shared task on detecting stance from
+tweets: given a tweet and a target entity (person, organization, etc.),
+automatic natural language systems must determine whether the tweeter is in
+favor of the given target, against the given target, or whether neither
+inference is likely. The target of interest may or may not be referred to in
+the tweet, and it may or may not be the target of opinion. Two tasks are
+proposed. Task A is a traditional supervised classification task where 70% of
+the annotated data for a target is used as training and the rest for testing.
+For Task B, we use as test data all of the instances for a new target (not used
+in task A) and no training data is provided. Our shared task received
+submissions from 19 teams for Task A and from 9 teams for Task B. The highest
+classification F-score obtained was 67.82 for Task A and 56.28 for Task B.
+However, systems found it markedly more difficult to infer stance towards the
+target of interest from tweets that express opinion towards another entity.
+Author{1}{Firstname}#=%=#Saif
+Author{1}{Lastname}#=%=#Mohammad
+Author{1}{Email}#=%=#uvgotsaif@gmail.com
+Author{1}{Affiliation}#=%=#National Research Council Canada
+Author{2}{Firstname}#=%=#Svetlana
+Author{2}{Lastname}#=%=#Kiritchenko
+Author{2}{Email}#=%=#svetlana.kiritchenko@nrc-cnrc.gc.ca
+Author{2}{Affiliation}#=%=#NRC
+Author{3}{Firstname}#=%=#Parinaz
+Author{3}{Lastname}#=%=#Sobhani
+Author{3}{Email}#=%=#psobh090@uottawa.ca
+Author{3}{Affiliation}#=%=#School of Electrical Engineering and Computer Science, University of Ottawa
+Author{4}{Firstname}#=%=#Xiaodan
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Email}#=%=#zhu2048@gmail.com
+Author{4}{Affiliation}#=%=#National Research Council Canada
+Author{5}{Firstname}#=%=#Colin
+Author{5}{Lastname}#=%=#Cherry
+Author{5}{Email}#=%=#colin.a.cherry@gmail.com
+Author{5}{Affiliation}#=%=#NRC
+
+==========

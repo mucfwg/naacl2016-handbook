@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Non-decreasing Sub-modular Function for Comprehensible Summarization
+ShortPaperTitle#=%=#Non-decreasing Sub-modular Function for Comprehensible Summarization
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Litton J Kurisinkel
+JobTitle#==#
+Organization#==#IIIT-H, Gachibowli, Hyderabad, Telangana, 
+Pin - 500032
+Abstract#==#Extractive summarization techniques typically aim to maximize the information
+coverage of the summary with respect to the original corpus and report
+accuracies in ROUGE scores. Automated text summarization techniques should
+consider the dimensions of comprehensibility, coherence and readability. In the
+current work, we identify the discourse structure which provides the context
+for the creation of a sentence. We leverage the information from the structure
+to frame a mono-
+tone (non-decreasing) sub-modular scoring function for generating
+comprehensible summaries. Our approach improves the overall quality of
+comprehensibility of the summary in terms of human evaluation and gives
+sufficient content coverage with comparable ROUGE score. We also formulate a
+metric to measure summary comprehensibility in terms of Contextual Independence
+of a sentence. The metric is shown to be representative of human judgement of
+text comprehensibility.
+Author{1}{Firstname}#=%=#Litton
+Author{1}{Lastname}#=%=#JKurisinkel
+Author{1}{Email}#=%=#litton.jKurisinkel@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#IIIT, Hyderabad
+Author{2}{Firstname}#=%=#Pruthwik
+Author{2}{Lastname}#=%=#Mishra
+Author{2}{Email}#=%=#pruthwikmishra@gmail.com
+Author{2}{Affiliation}#=%=#IIIT, Hyderabad
+Author{3}{Firstname}#=%=#Vigneshwaran
+Author{3}{Lastname}#=%=#Muralidaran
+Author{3}{Email}#=%=#vigneshwaran.m@research.iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+Author{4}{Firstname}#=%=#Vasudeva
+Author{4}{Lastname}#=%=#Varma
+Author{4}{Email}#=%=#vv@iiit.ac.in
+Author{4}{Affiliation}#=%=#IIIT, Hyderabad
+Author{5}{Firstname}#=%=#Dipti
+Author{5}{Lastname}#=%=#Misra Sharma
+Author{5}{Email}#=%=#dipti@iiit.ac.in
+Author{5}{Affiliation}#=%=#IIIT, Hyderabad
+
+==========

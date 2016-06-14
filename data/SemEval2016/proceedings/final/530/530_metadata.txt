@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#530
+FinalPaperTitle#=%=#ECNU at SemEval-2016 Task 7: An Enhanced Supervised Learning Method for Lexicon Sentiment Intensity Ranking
+ShortPaperTitle#=%=#An Enhanced Supervised Learning Method for Lexicon Sentiment Intensity Ranking
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Feixiang Wang
+JobTitle#==#
+Organization#==#East China Normal University No.500 Dongchuan Road, Shanghai
+Abstract#==#This paper describes our system submissions to task 7 in SemEval 2016, i.e.,
+Determining Sentiment Intensity. We participated the first two subtasks in
+English, which are to predict the sentiment intensity of a word or a phrase in
+English Twitter and General English domains. To address this task, we present a
+supervised learning-to-rank system to predict the relevant scores, i.e., the
+strength associated with positive sentiment, for English words or phrases.
+Multiple linguistic and sentiment features are adopted, e.g., Sentiment
+Lexicons, Sentiment Word Vectors, Word Vectors, Linguistic Features, etc.
+Officially released results showed that our systems rank the 1st among all
+submissions in English, which proves the effectiveness of the proposed method.
+Author{1}{Firstname}#=%=#Feixiang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#51151201049@ecnu.cn
+Author{1}{Affiliation}#=%=#East China Normal University
+Author{2}{Firstname}#=%=#Zhihua
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#51131201039@ecnu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Man
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{3}{Affiliation}#=%=#East China Normal University
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#661
+FinalPaperTitle#=%=#Generation from Abstract Meaning Representation using Tree Transducers
+ShortPaperTitle#=%=#Generation from Abstract Meaning Representation using Tree Transducers
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jeffrey Flanigan
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Language generation from purely semantic representations is a challenging task.
+This paper addresses generating English from the Abstract Meaning
+Representation (AMR), consisting of re-entrant graphs whose nodes are concepts
+and edges are relations. The new method is trained statistically from
+AMR-annotated English and consists of two major steps: (i) generating an
+appropriate spanning tree for the AMR, and (ii) applying tree-to-string
+transducers to generate English. The method relies on discriminative learning
+and an argument realization model to overcome data sparsity. Initial tests on
+held-out data show good promise despite the complexity of the task. The system
+is available open-source as part of JAMR at: http://github.com/jflanigan/jamr
+Author{1}{Firstname}#=%=#Jeffrey
+Author{1}{Lastname}#=%=#Flanigan
+Author{1}{Email}#=%=#jeffflanigan@gmail.com
+Author{1}{Affiliation}#=%=#CMU
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Dyer
+Author{2}{Email}#=%=#cdyer@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Jaime
+Author{4}{Lastname}#=%=#Carbonell
+Author{4}{Email}#=%=#jgc@cs.cmu.edu
+Author{4}{Affiliation}#=%=#
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#389
+FinalPaperTitle#=%=#JUNLP at SemEval-2016 Task 13: A Language Independent Approach for Hypernym Identification
+ShortPaperTitle#=%=#A Language Independent Approach for Hypernym Identification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Promita Maitra
+JobTitle#==#
+Organization#==#Jadavpur University,
+Kolkata, India
+Abstract#==#This paper describes our approach to build a language-independent hypernym
+extraction system, based on two modules for the SemEval-2016 Task 13 on
+Taxonomy Extraction Evaluation (TExEval-2). This task focuses only on the
+hypernym-hyponym relation extraction from a list of terms collected from
+various domains and languages. The first module of our system is built on the
+state-of-the-art system using BabelNet while the second one deals with the
+parts found within terms and which are useful to establish a hierarchical
+relation among them. Our system performed well in terms of recall in most of
+the domains irrespective of the languages; however, the precision scores
+indicate a scope of improvement. In case of overall ranking, our present system
+stands fourth in monolingual (i.e. English) evaluation and second in
+multilingual (i.e. Dutch, Italian, French) setup.
+Author{1}{Firstname}#=%=#Promita
+Author{1}{Lastname}#=%=#Maitra
+Author{1}{Email}#=%=#promita.maitra@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Dipankar
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+
+==========

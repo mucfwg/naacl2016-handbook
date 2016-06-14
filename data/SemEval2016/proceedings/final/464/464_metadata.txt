@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#464
+FinalPaperTitle#=%=#INSIGHT-1 at SemEval-2016 Task 5: Deep Learning for Multilingual Aspect-based Sentiment Analysis
+ShortPaperTitle#=%=#Deep Learning for Multilingual Aspect-based Sentiment Analysis
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#Insight Research Centre for Data Analytics, National University of Galway, Ireland
+Abstract#==#This paper describes our deep learning-based approach to multilingual
+aspect-based sentiment analysis as part of SemEval 2016 Task 5. We use a
+convolutional neural network (CNN) for both aspect extraction and aspect-based
+sentiment analysis. We cast aspect extraction as a multi-label classification
+problem, outputting probabilities over aspects parameterized by a threshold. To
+determine the sentiment towards an aspect, we concatenate an aspect vector with
+every word embedding and apply a convolution over it.
+Our system achieves competitive results across all languages and domains,
+placing first or second in 5 and 7 out of 11 language-domain pairs for aspect
+extraction and sentiment analysis respectively, thereby demonstrating the
+viability of a deep learning-based approach for multilingual aspect-based
+sentiment analysis.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#National University of Ireland, Galway
+Author{2}{Firstname}#=%=#Parsa
+Author{2}{Lastname}#=%=#Ghaffari
+Author{2}{Email}#=%=#parsa@aylien.com
+Author{2}{Affiliation}#=%=#Aylien Ltd.
+Author{3}{Firstname}#=%=#John G.
+Author{3}{Lastname}#=%=#Breslin
+Author{3}{Email}#=%=#john.breslin@insight-centre.org
+Author{3}{Affiliation}#=%=#Insight Centre for Data Analytics
+
+==========

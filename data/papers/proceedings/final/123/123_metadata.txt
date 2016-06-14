@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#123
+FinalPaperTitle#=%=#Unsupervised Ranking Model for Entity Coreference Resolution
+ShortPaperTitle#=%=#Unsupervised Ranking Model for Entity Coreference Resolution
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xuezhe Ma
+JobTitle#==#
+Organization#==#Language Technologies Institute
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+Abstract#==#Coreference resolution is one of the first stages in deep language
+understanding and its importance has been well recognized in the natural
+language processing community. In this paper, we propose a generative,
+unsupervised ranking model for entity coreference resolution. Our unsupervised
+system achieves 58.44% F1 score of the CoNLL metric on the English data from
+CoNLL-2012 shared task, outperforming the Stanford deterministic system, the
+winner of the CoNLL 2011 shared task, by 3.01% absolute.
+Author{1}{Firstname}#=%=#Xuezhe
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#xuezhem@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Zhengzhong
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liu@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Eduard
+Author{3}{Lastname}#=%=#Hovy
+Author{3}{Email}#=%=#hovy@cmu.edu
+Author{3}{Affiliation}#=%=#CMU
+
+==========

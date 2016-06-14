@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Mental Distress Detection and Triage in Forum Posts: The LT3 CLPsych 2016 Shared Task System
+ShortPaperTitle#=%=#The LT3 CLPsych 2016 Shared Task System
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Bart Desmet
+JobTitle#==#
+Organization#==#Ghent University
+Groot-Brittanniëlaan 45
+9000 Ghent
+Belgium
+Abstract#==#This paper describes the contribution of LT3 for the CLPsych 2016 Shared Task
+on automatic triage of mental health forum posts. Our systems use multiclass
+Support Vector Machines (SVM), cascaded binary SVMs and ensembles with a rich
+feature set. The best systems obtain macro-averaged F-scores of 40% on the full
+task and 80% on the green versus alarming distinction. Multiclass SVMs with all
+features score best in terms of F-score, whereas feature filtering with
+bi-normal separation and classifier ensembling are found to improve recall of
+alarming posts.
+Author{1}{Firstname}#=%=#Bart
+Author{1}{Lastname}#=%=#Desmet
+Author{1}{Email}#=%=#bart.desmet@ugent.be
+Author{1}{Affiliation}#=%=#LT3, Ghent University
+Author{2}{Firstname}#=%=#Gilles
+Author{2}{Lastname}#=%=#Jacobs
+Author{2}{Email}#=%=#gillesm.jacobs@ugent.be
+Author{2}{Affiliation}#=%=#LT3, Ghent University
+Author{3}{Firstname}#=%=#Véronique
+Author{3}{Lastname}#=%=#Hoste
+Author{3}{Email}#=%=#veronique.hoste@ugent.be
+Author{3}{Affiliation}#=%=#LT3, Ghent University
+
+==========

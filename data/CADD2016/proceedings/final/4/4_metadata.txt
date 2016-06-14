@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Fake News or Truth? Using Satirical Cues to Detect Potentially Misleading News
+ShortPaperTitle#=%=#Fake News or Truth? Satirical Cues of Misleading News
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Victoria L. Rubin
+JobTitle#==#Associate Professor, Director, Language & Information Technology Research Lab, LiT.RL
+Organization#==#Faculty of Information and Media Studies
+Language & Information Technology Research Lab, LiT.RL
+Western University,
+London, Ontario, Canada N6A 5B7
+Abstract#==#Satire is an attractive subject in deception detection research: it is a type
+of deception that intentionally incorporates cues revealing its own
+deceptiveness. Whereas other types of fabrications aim to instill a false sense
+of truth in the reader, a successful satirical hoax must eventually be exposed
+as a jest. This paper provides a conceptual overview of satire and humor,
+elaborating and illustrating the unique features of satirical news, which
+mimics the format and style of journalistic reporting. Satirical news stories
+were carefully matched and examined in contrast with their legitimate news
+counterparts in 12 contemporary news topics in 4 domains (civics, science,
+business, and “soft” news). Building on previous work in satire detection,
+we proposed an SVM-based algorithm, enriched with 5 predictive features
+(Absurdity, Humor, Grammar, Negative Affect, and Punctuation) and tested their
+combinations on 360 news articles. Our best predicting feature combination
+(Absurdity, Grammar and Punctuation) detects satirical news with a 90%
+precision and 84% recall (F-score=87%). Our work in algorithmically identifying
+satirical news pieces can aid in minimizing the potential deceptive impact of
+satire.
+Author{1}{Firstname}#=%=#Victoria
+Author{1}{Lastname}#=%=#Rubin
+Author{1}{Email}#=%=#vrubin@uwo.ca
+Author{1}{Affiliation}#=%=#University of Western Ontario
+Author{2}{Firstname}#=%=#Niall
+Author{2}{Lastname}#=%=#Conroy
+Author{2}{Email}#=%=#nconroy1@uwo.ca
+Author{2}{Affiliation}#=%=#University of Western Ontario
+Author{3}{Firstname}#=%=#Yimin
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#ychen582@uwo.ca
+Author{3}{Affiliation}#=%=#University of Western Ontario
+Author{4}{Firstname}#=%=#Sarah
+Author{4}{Lastname}#=%=#Cornwell
+Author{4}{Email}#=%=#scornwel@uwo.ca
+Author{4}{Affiliation}#=%=#University of Western Ontario
+
+==========

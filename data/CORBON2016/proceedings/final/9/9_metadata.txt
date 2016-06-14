@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#When Annotation Schemes Change Rules Help:  A Configurable Approach to Coreference Resolution beyond OntoNotes
+ShortPaperTitle#=%=#A Configurable Approach to Coreference Resolution beyond OntoNotes
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Amir Zeldes
+JobTitle#==#
+Organization#==#Department of Linguistics
+Georgetown University
+1421 37th St. NW
+Washington, DC 20057
+Abstract#==#This paper approaches the challenge of adapting coreference resolution to
+different coreference phenomena and mention-border definitions when there is no
+access to large training data in the desired target scheme. We take a
+configurable, rule-based approach centered on dependency syntax input, which we
+test by examining coreference types not covered in benchmark corpora such as
+OntoNotes. These include cataphora, compound modifier coreference, generic
+anaphors, predicate markables, i-within-i, and metonymy. We test our system,
+called xrenner, using different configurations on two very different datasets:
+Wall Street Journal material from OntoNotes and four types Wiki data from the
+GUM corpus. Our system compares favorably with two leading rule based and
+stochastic approaches in handling the different annotation formats.
+Author{1}{Firstname}#=%=#Amir
+Author{1}{Lastname}#=%=#Zeldes
+Author{1}{Email}#=%=#amir.zeldes@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Shuo
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zangsir@gmail.com
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

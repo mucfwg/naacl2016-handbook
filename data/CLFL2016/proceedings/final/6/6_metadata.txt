@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Syntax Matters for Rhetorical Structure: The Case of Chiasmus
+ShortPaperTitle#=%=#Syntax Matters for Rhetorical Structure: The Case of Chiasmus
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marie Dubremetz
+JobTitle#==#
+Organization#==#Uppsala University
+Department of Linguistics and Philology
+Box 635, SE-75126 Uppsala
+SWEDEN
+Abstract#==#The chiasmus is a rhetorical figure involving
+the repetition of a pair of words in reverse order, as in “all for one, one
+for all”. Previous
+work on detecting chiasmus in running text
+has only considered superficial features like
+words and punctuation. In this paper, we explore the use of syntactic features
+as a means
+to improve the quality of chiasmus detection.
+Our results show that taking syntactic structure into account may increase
+average precision from about 40 to 65% on texts taken from
+European Parliament proceedings. To show
+the generality of the approach, we also evaluate it on literary text and
+observe a similar
+improvement and a slightly better overall result.
+Author{1}{Firstname}#=%=#Marie
+Author{1}{Lastname}#=%=#Dubremetz
+Author{1}{Email}#=%=#marie.dubremetz@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+Author{2}{Firstname}#=%=#Joakim
+Author{2}{Lastname}#=%=#Nivre
+Author{2}{Email}#=%=#joakim.nivre@lingfil.uu.se
+Author{2}{Affiliation}#=%=#Uppsala University
+
+==========

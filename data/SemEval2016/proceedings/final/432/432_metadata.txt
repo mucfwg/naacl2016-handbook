@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#432
+FinalPaperTitle#=%=#IIIT at SemEval-2016 Task 11: Complex Word Identification using Nearest Centroid Classification
+ShortPaperTitle#=%=#IIIT at SemEval-2016 Task 11: CWI using Nearest Centroid Classification
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ashish Palakurthi
+JobTitle#==#
+Organization#==#IIIT Hyderabad, India.
+Abstract#==#This paper describes the system that was submitted to SemEval2016 Task 11:
+Complex Word Identification. It presents a preliminary investigation into
+exploring word difficulty for non-native English speakers. We developed two
+systems using Nearest Centroid Classification technique to distinguish complex
+words from simple words. Optimized over G-score, the presented solution
+obtained a G-score of 0.67, while the winner achieved a G-score of 0.77 and the
+average G-score of all the submitted systems in the task was 0.56.
+Author{1}{Firstname}#=%=#Ashish
+Author{1}{Lastname}#=%=#Palakurthi
+Author{1}{Email}#=%=#ashish.palakurthi@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#IIIT Hyderabad
+Author{2}{Firstname}#=%=#Radhika
+Author{2}{Lastname}#=%=#Mamidi
+Author{2}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{2}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

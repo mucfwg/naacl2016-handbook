@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#685
+FinalPaperTitle#=%=#Drop-out Conditional Random Fields for Twitter with Huge Mined Gazetteer
+ShortPaperTitle#=%=#Drop-out Conditional Random Fields for Twitter with Huge Mined Gazetteer
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#young-bum kim
+JobTitle#==#scientist
+Organization#==#Microsoft Corporation, Redmond WA
+Abstract#==#In named entity recognition task especially
+for massive data like Twitter, having a large
+amount of high quality gazetteers can alleviate
+the problem of training data scarcity. One
+could collect large gazetteers from knowledge
+graph and phrase embeddings to obtain
+high coverage of gazetteers. However, large
+gazetteers cause a side-effect called “feature
+under-training”, where the gazetteer features
+overwhelm the context features. To resolve
+this problem, we propose the dropout conditional
+random fields, which decrease the influence
+of gazetteer features with a high weight.
+Our experiments on named entity recognition
+with Twitter data lead to higher F1 score of
+69.38%, about 4% better than the strong baseline
+presented in Smith and Osborne (2006).
+Author{1}{Firstname}#=%=#Eunsuk
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#esyang219@gmail.com
+Author{1}{Affiliation}#=%=#Hallym University
+Author{2}{Firstname}#=%=#Young-Bum
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Email}#=%=#ybkim@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Ruhi
+Author{3}{Lastname}#=%=#Sarikaya
+Author{3}{Email}#=%=#ruhi_sarikaya@yahoo.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Yu-Seop
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Email}#=%=#yskim01@hallym.ac.kr
+Author{4}{Affiliation}#=%=#
+
+==========

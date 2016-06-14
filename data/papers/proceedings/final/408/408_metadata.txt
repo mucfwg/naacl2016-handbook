@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#408
+FinalPaperTitle#=%=#Clustering for Simultaneous Extraction of Aspects and Features from Reviews
+ShortPaperTitle#=%=#Clustering for Simultaneous Extraction of Aspects and Features from Reviews
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lu Chen
+JobTitle#==#
+Organization#==#Kno.e.sis Center, Wright State University
+377, Joshi Research Center, 3rd Floor, 
+3640 Colonel Glenn Highway, Fairborn, OH 45435
+Abstract#==#This paper presents a clustering approach that simultaneously identifies
+product features and groups them into aspect categories from online reviews.
+Unlike prior approaches that first extract features and then group them into
+categories, the proposed approach combines feature and aspect discovery instead
+of chaining them. In addition, prior work on feature extraction tends to
+require seed terms and focus on identifying explicit features, while the
+proposed approach extracts both explicit and implicit features, and does not
+require seed terms. We evaluate this approach on reviews from three domains.
+The results show that it outperforms several state-of-the-art methods on both
+tasks across all three domains.
+Author{1}{Firstname}#=%=#Lu
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chen@knoesis.org
+Author{1}{Affiliation}#=%=#Kno.e.sis Center, Wright State University
+Author{2}{Firstname}#=%=#Justin
+Author{2}{Lastname}#=%=#Martineau
+Author{2}{Email}#=%=#justin.m@samsung.com
+Author{2}{Affiliation}#=%=#Samsung Research America, Silicon Valley
+Author{3}{Firstname}#=%=#Doreen
+Author{3}{Lastname}#=%=#Cheng
+Author{3}{Email}#=%=#doreen.c@samsung.com
+Author{3}{Affiliation}#=%=#Samsung Research America, Silicon Valley
+Author{4}{Firstname}#=%=#Amit
+Author{4}{Lastname}#=%=#Sheth
+Author{4}{Email}#=%=#amit@knoesis.org
+Author{4}{Affiliation}#=%=#Kno.e.sis Center, Wright State University
+
+==========

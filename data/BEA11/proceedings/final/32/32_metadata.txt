@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Investigating Active Learning for Short-Answer Scoring
+ShortPaperTitle#=%=#Investigating Active Learning for Short-Answer Scoring
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Andrea Horbach
+JobTitle#==#
+Organization#==#Saarland University
+66123 Saarbrücken, Germany
+Abstract#==#Active learning has been shown to be effective for reducing human labeling
+effort in supervised learning tasks,
+ and in this work we explore its suitability for automatic short answer
+assessment on the ASAP corpus. We systematically investigate a wide range of AL
+settings,
+varying not only the item selection method but also size and
+selection of seed set items and batch size. Comparing to a
+random baseline and a recently-proposed diversity-based baseline which
+uses cluster centroids as training data, we find that
+uncertainty-based sampling methods can be beneficial, especially for
+data sets with particular properties. The performance of AL, however,
+varies considerably across individual prompts.
+Author{1}{Firstname}#=%=#Andrea
+Author{1}{Lastname}#=%=#Horbach
+Author{1}{Email}#=%=#andrea@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Alexis
+Author{2}{Lastname}#=%=#Palmer
+Author{2}{Email}#=%=#palmer@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg University
+
+==========

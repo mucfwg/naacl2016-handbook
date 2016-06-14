@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#647
+FinalPaperTitle#=%=#Incorporating Side Information into Recurrent Neural Network Language Models
+ShortPaperTitle#=%=#Incorporating Side Information into Recurrent Neural Network Language Models
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Cong Duy Vu Hoang
+JobTitle#==#
+Organization#==#The University of Melbourne, Melbourne, VIC, Australia
+Abstract#==#Recurrent neural network language models (RNNLM) have recently demonstrated
+vast
+potential in modelling long-term dependencies for NLP problems, ranging from
+speech
+recognition to machine translation. In this work, we propose methods for
+conditioning
+RNNLMs on external side information, e.g., metadata such as keywords,
+description, document title or topic headline. Our experiments show consistent
+improvements of RNNLMs
+using side information over the baselines for two different datasets and genres
+in two languages. Interestingly, we found that side information in a foreign
+language can be highly beneficial in modelling texts in another language,
+serving as a form of cross-lingual language modelling.
+Author{1}{Firstname}#=%=#Cong Duy Vu
+Author{1}{Lastname}#=%=#Hoang
+Author{1}{Email}#=%=#duyvuleo@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#tcohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

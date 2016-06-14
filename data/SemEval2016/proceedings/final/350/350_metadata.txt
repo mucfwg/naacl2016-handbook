@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#350
+FinalPaperTitle#=%=#SteM at SemEval-2016 Task 4: Applying Active Learning to Improve Sentiment Classification
+ShortPaperTitle#=%=#Applying Active Learning to Improve Sentiment Classification
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stefan Räbiger
+JobTitle#==#
+Organization#==#Sabanci University
+Orta Mahalle, Üniversite Cd. No:27, 34956 Tuzla, Istanbul
+Abstract#==#This paper describes our approach to the SemEval 2016 task 4, “Sentiment
+Analysis in
+Twitter”, where we participated in subtask A.
+Our system relies on AlchemyAPI and Senti-
+WordNet to create 43 features based on which
+we select a feature subset as final represen-
+tation. Active Learning then filters out noisy
+tweets from the provided training set, leaving
+a smaller set of only 900 tweets which we use
+for training a Multinomial Naive Bayes classi-
+fier to predict the labels of the test set with an
+F1 score of 0.478.
+Author{1}{Firstname}#=%=#Stefan
+Author{1}{Lastname}#=%=#Räbiger
+Author{1}{Email}#=%=#stefan@sabanciuniv.edu
+Author{1}{Affiliation}#=%=#Sabanci University
+Author{2}{Firstname}#=%=#Mishal
+Author{2}{Lastname}#=%=#Kazmi
+Author{2}{Email}#=%=#mishalkazmi@sabanciuniv.edu
+Author{2}{Affiliation}#=%=#Sabanci University
+Author{3}{Firstname}#=%=#Yücel
+Author{3}{Lastname}#=%=#Saygın
+Author{3}{Email}#=%=#ysaygin@sabanciuniv.edu
+Author{3}{Affiliation}#=%=#Sabanci University
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Schüller
+Author{4}{Email}#=%=#peter.schuller@marmara.edu.tr
+Author{4}{Affiliation}#=%=#Marmara University
+Author{5}{Firstname}#=%=#Myra
+Author{5}{Lastname}#=%=#Spiliopoulou
+Author{5}{Email}#=%=#myra@iti.cs.uni-magdeburg.de
+Author{5}{Affiliation}#=%=#Otto-von-Guericke University Magdeburg
+
+==========

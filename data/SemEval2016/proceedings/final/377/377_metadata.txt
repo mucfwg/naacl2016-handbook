@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#377
+FinalPaperTitle#=%=#KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers
+ShortPaperTitle#=%=#KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Simone Filice
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the KeLP system participating in the SemEval-2016
+Community Question Answering (cQA) task.
+The challenge tasks are modeled as binary classification problems: kernel-based
+classifiers are trained on the SemEval datasets and their  scores are used to
+sort the instances and produce the final ranking. All classifiers and kernels
+have been implemented within the Kernel-based Learning Platform called KeLP. 
+Our primary submission ranked first in Subtask A, third in Subtask B and second
+in Subtask C.
+These ranks are based on MAP, which is the referring challenge system score. 
+Our approach outperforms all the other systems with respect to all the other
+challenge metrics.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Filice
+Author{1}{Email}#=%=#filice.simone@gmail.com
+Author{1}{Affiliation}#=%=#University of Roma "Tor Vergata"
+Author{2}{Firstname}#=%=#Danilo
+Author{2}{Lastname}#=%=#Croce
+Author{2}{Email}#=%=#croce@info.uniroma2.it
+Author{2}{Affiliation}#=%=#University of Roma, Tor Vergata
+Author{3}{Firstname}#=%=#Alessandro
+Author{3}{Lastname}#=%=#Moschitti
+Author{3}{Email}#=%=#amoschitti@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute (prof. in Computer Science at University of Trento)
+Author{4}{Firstname}#=%=#Roberto
+Author{4}{Lastname}#=%=#Basili
+Author{4}{Email}#=%=#basili@info.uniroma2.it
+Author{4}{Affiliation}#=%=#University of Roma, Tor Vergata
+
+==========

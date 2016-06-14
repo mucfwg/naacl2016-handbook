@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Neural Generative Question Answering
+ShortPaperTitle#=%=#Neural Generative Question Answering
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xin Jiang
+JobTitle#==#
+Organization#==#Xin Jiang
+Unit 525-530, 5/F, Core Building 2, Hong Kong Science Park, Shatin, NT, Hong Kong SAR
+Abstract#==#This paper presents an end-to-end neural network model, named Neural Generative
+Question Answering (genQA), that can generate answers to simple factoid
+questions, based on the facts in a knowledge-base. More specifically, the model
+is built on the encoder-decoder framework for sequence-to-sequence learning,
+while equipped with the ability to enquire the knowledge-base, and is trained
+on a corpus of question-answer pairs, with their associated triples in the
+knowledge-base. Empirical study shows the proposed model can effectively deal
+with the variations of questions and answers, and generate right and natural
+answers by referring to the facts in the knowledge-base. The experiment on
+question answering demonstrates that the proposed model can outperform an
+embedding-based QA model as well as a neural dialogue model trained on the same
+data.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Yin
+Author{1}{Email}#=%=#jun.yin@pku.edu.cn
+Author{1}{Affiliation}#=%=#School of Electronic Engineering and Computer Science, Peking University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#jiang.xin@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{3}{Firstname}#=%=#Zhengdong
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Email}#=%=#Lu.Zhengdong@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{4}{Firstname}#=%=#Lifeng
+Author{4}{Lastname}#=%=#Shang
+Author{4}{Email}#=%=#Shang.Lifeng@huawei.com
+Author{4}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{5}{Firstname}#=%=#Hang
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#HangLi.HL@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{6}{Firstname}#=%=#Xiaoming
+Author{6}{Lastname}#=%=#Li
+Author{6}{Email}#=%=#lxm@pku.edu.cn
+Author{6}{Affiliation}#=%=#School of Electronic Engineering and Computer Science, Peking University
+
+==========

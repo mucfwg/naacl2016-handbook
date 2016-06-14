@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Kathaa: A Visual Programming Framework for NLP Applications
+ShortPaperTitle#=%=#Kathaa: A Visual Programming Framework for NLP Applications
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sharada Prasanna Mohanty
+JobTitle#==#
+Organization#==#Language Technologies Research Center, International Institute of Information Technology, Hyderabad, India
+Abstract#==#In this paper, we present Kathaa, an open source web based Visual
+Programming Framework for NLP applications. It supports design, execution and
+analysis of complex NLP systems by choosing and visually connecting NLP modules
+from an already available and easily extensible Module library. It models NLP
+systems as a Directed Acyclic Graph of optionally parallalized information
+flow, and lets the user choose and use available modules in their NLP
+applications irrespective of their technical proficiency. Kathaa exposes a
+precise Module definition API to allow easy integration of external NLP
+components (along with their associated services as docker containers), it
+allows everyone to publish their services in a standardized format for everyone
+else to use it out of the box.
+Author{1}{Firstname}#=%=#Sharada Prasanna
+Author{1}{Lastname}#=%=#Mohanty
+Author{1}{Email}#=%=#spmohanty@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#nternational Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Nehal J
+Author{2}{Lastname}#=%=#Wani
+Author{2}{Email}#=%=#nehal.wani@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Manish
+Author{3}{Lastname}#=%=#Srivastava
+Author{3}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{4}{Firstname}#=%=#Dipti Misra
+Author{4}{Lastname}#=%=#Sharma
+Author{4}{Email}#=%=#dipti@iiit.ac.in
+Author{4}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+
+==========

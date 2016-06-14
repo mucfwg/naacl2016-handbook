@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#404
+FinalPaperTitle#=%=#QASSIT at SemEval-2016 Task 13: On the integration of Semantic Vectors in Pretopological Spaces for Lexical Taxonomy Acquisition
+ShortPaperTitle#=%=#QASSIT: On the integration of Semantic Vectors in Pretopological Spaces for LTA
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jose G Moreno
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents our participation to the
+SemEval ``Task 13: Taxonomy Extraction Evaluation (TExEval-2)''.
+This year, we propose the combination of recent semantic vectors representation
+into a methodology for semisupervised
+and auto-supervised acquisition of
+lexical taxonomies from raw texts. In our proposal, first similarities between
+concepts are calculated using semantic vectors, then a pretopological space is
+defined from which a preliminary structure is constructed. Finally, a genetic
+algorithm is used to optimize two different functions, the quality of the added
+relationships in the taxonomy and the quality of the structure. Experiments
+show that our proposal has a competitive performance when compared with the
+other participants achieving the second position in the general rank.
+Author{1}{Firstname}#=%=#Guillaume
+Author{1}{Lastname}#=%=#Cleuziou
+Author{1}{Email}#=%=#cleuziou@univ-orleans.fr
+Author{1}{Affiliation}#=%=#LIFO - University of Orléans
+Author{2}{Firstname}#=%=#Jose G.
+Author{2}{Lastname}#=%=#Moreno
+Author{2}{Email}#=%=#jose.moreno@unicaen.fr
+Author{2}{Affiliation}#=%=#Normandie University - GREYC
+
+==========

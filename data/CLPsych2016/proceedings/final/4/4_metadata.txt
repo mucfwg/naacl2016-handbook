@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Towards Early Dementia Detection: Fusing Linguistic and Non-Linguistic Clinical Data
+ShortPaperTitle#=%=#Towards Early Dementia Detection: Fusing Linguistic and Non-Linguistic Clinical Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Joseph Bullard
+JobTitle#==#
+Organization#==#Rochester Institute of Technology
+Abstract#==#Dementia is an increasing problem for an aging population, with a lack of
+available treatment
+options, as well as expensive patient care. Early detection is critical to
+eventually
+postpone symptoms and to prepare health care providers and families for
+managing a
+patient’s needs. Identification of diagnostic markers may be possible with
+patients’ clinical
+records. Text portions of clinical records are integrated into predictive
+models of dementia
+development in order to gain insights towards automated identification of
+patients
+who may benefit from providers’ early assessment. Results support the
+potential power
+of linguistic records for predicting dementia status, both in the absence of,
+and in
+complement to, corresponding structured nonlinguistic data.
+Author{1}{Firstname}#=%=#Joseph
+Author{1}{Lastname}#=%=#Bullard
+Author{1}{Email}#=%=#jtb4478@cs.rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Cecilia
+Author{2}{Lastname}#=%=#Ovesdotter Alm
+Author{2}{Email}#=%=#coagla@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Xumin
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#xl@cs.rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Email}#=%=#qi.yu@rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+Author{5}{Firstname}#=%=#Rubén
+Author{5}{Lastname}#=%=#Proaño
+Author{5}{Email}#=%=#rpmeie@rit.edu
+Author{5}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

@@ -1,0 +1,113 @@
+P: 3
+M: 
+T: Abstract Coreference in a Multilingual Perspective: a View on Czech and German
+A: Nedoluzhko, Anna
+A: Lapshinova-Koltunski, Ekaterina
+F: final/3/3_Paper.pdf
+L: 6
+
+P: 5
+M: 
+T: Bridging Corpus for Russian in comparison with Czech
+A: Roitberg, Anna
+A: Nedoluzhko, Anna
+F: final/5/5_Paper.pdf
+L: 8
+
+P: 6
+M: 
+T: Beyond Identity Coreference: Contrasting Indicators of Textual Coherence in English and German
+A: Kunz, Kerstin
+A: Lapshinova-Koltunski, Ekaterina
+A: Mart\'{i}nez, Jos\'{e} Manuel
+F: final/6/6_Paper.pdf
+L: 9
+
+P: 9
+M: 
+T: When Annotation Schemes Change Rules Help:  A Configurable Approach to Coreference Resolution beyond OntoNotes
+A: Zeldes, Amir
+A: Zhang, Shuo
+F: final/9/9_Paper.pdf
+L: 10
+
+P: 10
+M: 
+T: Coreference Resolution for the Basque Language with BART
+A: Soraluze, Ander
+A: Arregi, Olatz
+A: Arregi, Xabier
+A: Diaz de Ilarraza, Arantza
+A: Kabadjov, Mijail
+A: Poesio, Massimo
+F: final/10/10_Paper.pdf
+L: 7
+
+P: 11
+M: 
+T: Error analysis for anaphora resolution in Russian: new challenging issues for anaphora resolution task in a morphologically rich language
+A: Toldova, Svetlana
+A: Azerkovich, Ilya
+A: Ladygina, Alina
+A: Roitberg, Anna
+A: Vasilyeva, Maria
+F: final/11/11_Paper.pdf
+L: 10
+
+P: 12
+M: 0 4
+T: Antecedent Prediction Without a Pipeline
+A: Wiseman, Sam
+A: Rush, Alexander M.
+A: Shieber, Stuart
+F: final/12/12_Paper.pdf
+L: 6
+
+P: 14
+M: 0 5
+T: Sense Anaphoric Pronouns: Am I One?
+A: Recasens, Marta
+A: Hu, Zhichao
+A: Rhinehart, Olivia
+F: final/14/14_Paper.pdf
+L: 6
+
+P: 16
+M: 
+T: Anaphoricity in Connectives: A Case Study on German
+A: Stede, Manfred
+A: Grishina, Yulia
+F: final/16/16_Paper.pdf
+L: 6
+
+P: 17
+M: 0 5
+T: Experiments on bridging across languages and genres
+A: Grishina, Yulia
+F: final/17/17_Paper.pdf
+L: 9
+
+P: 19
+M: 
+T: Exploring the steps of Verb Phrase Ellipsis
+A: Liu, Zhengzhong
+A: Gonz\`{a}lez Pellicer, Edgar
+A: Gillick, Daniel
+F: final/19/19_Paper.pdf
+L: 9
+
+P: 20
+M: 
+T: How to Handle Split Antecedents in Tamil?
+A: Sundar Ram, Vijay
+A: Lalitha Devi, Sobha
+F: final/20/20_Paper.pdf
+L: 8
+
+P: 21
+M: 
+T: Bridging Relations in Polish: Adaptation of Existing Typologies
+A: Ogrodniczuk, Maciej
+A: Zawis{\l}awska, Magdalena
+F: final/21/21_Paper.pdf
+L: 7

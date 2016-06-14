@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#386
+FinalPaperTitle#=%=#Fast and Easy Short Answer Grading with High Accuracy
+ShortPaperTitle#=%=#Fast and Easy Short Answer Grading with High Accuracy
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Md Arafat Sultan
+JobTitle#==#
+Organization#==#University of Colorado, Boulder, CO 80309
+Abstract#==#We present a fast, simple and high-accuracy short answer grading system. Given
+a short-answer question and its correct answer, key measures of the correctness
+of a student response can be derived from its semantic similarity with the
+correct answer. Our supervised model (1) utilizes recent advances in the
+identification of short-text similarity, and (2) augments text similarity
+features with key grading-specific constructs. We present experimental results
+where our model demonstrates top performance on multiple benchmarks.
+Author{1}{Firstname}#=%=#Md Arafat
+Author{1}{Lastname}#=%=#Sultan
+Author{1}{Email}#=%=#arafat.sultan@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Cristobal
+Author{2}{Lastname}#=%=#Salazar
+Author{2}{Email}#=%=#crsa7687@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado Boulder
+Author{3}{Firstname}#=%=#Tamara
+Author{3}{Lastname}#=%=#Sumner
+Author{3}{Email}#=%=#sumner@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado Boulder
+
+==========

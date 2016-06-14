@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#86
+FinalPaperTitle#=%=#Clustering Paraphrases by Word Sense
+ShortPaperTitle#=%=#Clustering Paraphrases by Word Sense
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anne Cocos
+JobTitle#==#
+Organization#==#University of Pennsylvania, Department of Computer and Information Science
+3330 Walnut St
+Philadelphia, PA 19104
+USA
+Abstract#==#Automatically generated databases of English paraphrases have the drawback that
+they return a single list of paraphrases for an input word or phrase. This
+means that all senses of polysemous words are grouped together, unlike WordNet
+which partitions different senses into separate synsets. We present a new
+method for clustering paraphrases by word sense, and apply it to the Paraphrase
+Database (PPDB). We investigate the performance of hierarchical and spectral
+clustering algorithms, and systematically explore different ways of defining
+the similarity matrix that they use as input. Our method produces sense
+clusters that are qualitatively and quantitatively good, and that represent a
+substantial improvement to the PPDB resource.
+Author{1}{Firstname}#=%=#Anne
+Author{1}{Lastname}#=%=#Cocos
+Author{1}{Email}#=%=#acocos@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Callison-Burch
+Author{2}{Email}#=%=#ccb@upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+
+==========

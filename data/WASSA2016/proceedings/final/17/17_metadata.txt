@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Improve Sentiment Analysis of Citations with Author Modelling
+ShortPaperTitle#=%=#Improve Sentiment Analysis of Citations with Author Modelling
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zheng Ma
+JobTitle#==#
+Organization#==#Information Center for Education, German Institute for Educational Research (DIPF) Schloßstraße 29, 60486 Frankfurt, Germany
+
+Computer Science Department, Technische Universität Darmstadt Hochschulstrasse 10, 64283 Darmstadt, Germany
+Abstract#==#In this paper, we introduce a novel approach to sentiment polarity
+classification, which integrates data about the authors’ reputation. More
+specifically, our method extends the h-index with citation polarities and
+utilize it in sentiment classification of citation sentences. Our computational
+results show that our method yields significant improvement in terms of
+classification performance.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#mazhengm2@hotmail.com
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Jinseok
+Author{2}{Lastname}#=%=#Nam
+Author{2}{Email}#=%=#nam@kdsl.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{3}{Firstname}#=%=#Karsten
+Author{3}{Lastname}#=%=#Weihe
+Author{3}{Email}#=%=#karweihe@googlemail.com
+Author{3}{Affiliation}#=%=#Technische Universität Darmstadt
+
+==========

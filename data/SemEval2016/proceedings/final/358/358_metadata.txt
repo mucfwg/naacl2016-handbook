@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#358
+FinalPaperTitle#=%=#Sensible at SemEval-2016 Task 11: Neural Nonsense Mangled in Ensemble Mess
+ShortPaperTitle#=%=#Neural Nonsense Mangled in Ensemble Mess
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nat Gillin
+JobTitle#==#
+Organization#==#Gillin Inc. 36 Natchez Street, Seahaven, USA
+Abstract#==#This paper describes our submission to the Complex Word Identification (CWI)
+task in SemEval-2016. We test an experimental approach to blindly use neural
+nets to solve the CWI task that we know little/nothing about. By structuring
+the input as a series of sequences and the output as a binary that indicates 1
+to denote complex words and 0 otherwise, we introduce a novel approach to
+complex word identification using Recurrent Neural Nets (RNN). We also show
+that it is possible to simply ensemble several RNN classifiers when we are
+unsure of the optimal hyper-parameters or the best performing models using
+eXtreme gradient boosted trees classifiers. Our systems submitted to the CWI
+task achieved the highest accuracy and F-score among the systems that uses
+neural networks.
+Author{1}{Firstname}#=%=#Gillin
+Author{1}{Lastname}#=%=#Nat
+Author{1}{Email}#=%=#gillin.nat@gmail.com
+Author{1}{Affiliation}#=%=#Gillin Inc.
+
+==========

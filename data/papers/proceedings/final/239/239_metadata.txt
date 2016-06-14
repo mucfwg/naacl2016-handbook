@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#239
+FinalPaperTitle#=%=#Improve Chinese Word Embeddings by Exploiting Internal Structure
+ShortPaperTitle#=%=#Improve Chinese Word Embeddings by Exploiting Internal Structure
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jian Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently, researchers have demonstrated that both Chinese word and its
+component characters provide rich semantic information when learning Chinese
+word embeddings. However, they ignored the semantic similarity across component
+characters in a word. In this paper, we learn the semantic contribution of
+characters to a word by exploiting the similarity between a word and its
+component characters with the semantic knowledge obtained from other languages.
+We propose a similarity-based method to learn Chinese word and character
+embeddings jointly. This method is also capable of disambiguating Chinese
+characters and distinguishing non-compositional Chinese words. Experiments on
+word similarity and text classification demonstrate the effectiveness of our
+method.
+Author{1}{Firstname}#=%=#Jian
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#jianxu1@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Jiawei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#ustcljw@mail.ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Liangang
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#1315878688@qq.com
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+Author{4}{Firstname}#=%=#Zhengyu
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lzy0503@mail.ustc.edu.cn
+Author{4}{Affiliation}#=%=#University Of Science And Technology Of China
+Author{5}{Firstname}#=%=#Huanhuan
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#hchen@ustc.edu.cn
+Author{5}{Affiliation}#=%=#University of Science And Technology of China
+
+==========

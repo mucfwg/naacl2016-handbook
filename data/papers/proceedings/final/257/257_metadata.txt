@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#257
+FinalPaperTitle#=%=#Shallow Parsing Pipeline - Hindi-English Code-Mixed Social Media Text
+ShortPaperTitle#=%=#Shallow Parsing Pipeline for Hindi-English Code-Mixed Social Media Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Arnav Sharma
+JobTitle#==#
+Organization#==#Kohli Center on Intelligent Systems (KCIS)
+International Institute of Information Technology, Hyderabad (IIIT Hyderabad) Gachibowli, Hyderabad, Telangana 500032
+Abstract#==#In this study, the problem of shallow pars- ing of Hindi-English code-mixed
+social me- dia text (CSMT) has been addressed. We have annotated the data,
+developed a language identifier, a normalizer, a part-of-speech tag- ger and a
+shallow parser. To the best of our knowledge, we are the first to attempt
+shallow parsing on CSMT. The pipeline developed has been made available to the
+research commu- nity with the goal of enabling better text anal- ysis of Hindi
+English CSMT.  The pipeline is accessible at [http://bit.ly/csmt-parser-api].
+Author{1}{Firstname}#=%=#Arnav
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#arnavsharma93@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Sakshi
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#sakshigupta93@gmail.com
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Raveesh
+Author{3}{Lastname}#=%=#Motlani
+Author{3}{Email}#=%=#raveeshmotlani@gmail.com
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{4}{Firstname}#=%=#Piyush
+Author{4}{Lastname}#=%=#Bansal
+Author{4}{Email}#=%=#piyush.devel@gmail.com
+Author{4}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{5}{Firstname}#=%=#Manish
+Author{5}{Lastname}#=%=#Shrivastava
+Author{5}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{5}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+Author{6}{Firstname}#=%=#Radhika
+Author{6}{Lastname}#=%=#Mamidi
+Author{6}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{6}{Affiliation}#=%=#IIIT Hyderabad
+Author{7}{Firstname}#=%=#Dipti M.
+Author{7}{Lastname}#=%=#Sharma
+Author{7}{Email}#=%=#diptims@gmail.com
+Author{7}{Affiliation}#=%=#IIIT, Hyderabad
+
+==========

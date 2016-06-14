@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#383
+FinalPaperTitle#=%=#IHS-RD-Belarus at SemEval-2016 Task 5: Detecting Sentiment Polarity Using the Heatmap of Sentence
+ShortPaperTitle#=%=#IHS-RD-Belarus at SemEval-2016 Task 5: Detecting Sentiment Polarity Using the Heatmap of Sentence
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marina Chernyshevich
+JobTitle#==#
+Organization#==#IHS Inc. / IHS Global Belarus
+131 Starovilenskaya St
+220123, Minsk, Belarus
+Abstract#==#This paper describes the system submitted by IHS-RD-Belarus team for the
+sentiment detection polarity subtask on Aspect Based Sentiment Analysis task at
+the SemEval 2016 workshop on semantic evaluation. We tried an approach to
+the polarity detection task based on an artificial neural network. Evaluation
+on the test data set showed that our system achieved the F-score of 0.83 for
+restaurants domain (rank 4 out of 28 submissions) and F-score of 0.78 for
+laptops domain (rank 4 out of 21 submissions).
+Author{1}{Firstname}#=%=#Maryna
+Author{1}{Lastname}#=%=#Chernyshevich
+Author{1}{Email}#=%=#Marina.Chernyshevich@ihs.com
+Author{1}{Affiliation}#=%=#IHS Inc. / IHS Global Belarus
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Discontinuity Re^2-visited: A Minimalist Approach to Pseudoprojective Constituent Parsing
+ShortPaperTitle#=%=#Discontinuity Re^2-visited: A Minimalist Approach to Pseudoprojective Constituent Parsing
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yannick Versley
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we use insights from Minimalist Grammars
+  (Keenan and Stabler, 2003) to argue for a context-free
+  approximation of discontinuous structures that is both
+  easy to parse for state-of-the-art dynamic programming
+  constituent parsers and has a simple and effective
+  method for the reconstruction of discontinuous tree structures.
+
+  The results achieved on the Tiger treebank -- paired with
+  state-of-the-art constituent parsers such as the BLLIP and Berkeley
+  parsers -- both improve on existing transformation-based approaches
+  for representing discontinuous structures and the state-of-the-art
+  results of Fernandez-Gonzalez and Martins (2015)
+Author{1}{Firstname}#=%=#Yannick
+Author{1}{Lastname}#=%=#Versley
+Author{1}{Email}#=%=#versley@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#University of Heidelberg
+
+==========

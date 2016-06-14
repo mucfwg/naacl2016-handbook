@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures
+ShortPaperTitle#=%=#CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nasrin Mostafazadeh
+JobTitle#==#
+Organization#==#University of Rochester
+Rochester NY
+Abstract#==#Learning commonsense causal and temporal relation between events is one of the
+major steps towards deeper language understanding. This is even more crucial
+for understanding stories and script learning. A prerequisite for learning
+scripts is a semantic framework which enables capturing rich event structures.
+In this paper we introduce a novel semantic annotation framework, called Causal
+and Temporal Relation Scheme (CaTeRS), which is unique in simultaneously
+capturing a comprehensive set of temporal and causal relations between events.
+By annotating a total of 1,600 sentences in the context of 320 five-sentence
+short stories sampled from ROCStories corpus, we demonstrate that these stories
+are indeed full of causal and temporal relations. Furthermore, we show that the
+CaTeRS annotation scheme enables high inter-annotator agreement for
+broad-coverage event entity annotation and moderate agreement on semantic link
+annotation.
+Author{1}{Firstname}#=%=#Nasrin
+Author{1}{Lastname}#=%=#Mostafazadeh
+Author{1}{Email}#=%=#nsrn.mostafazadeh@gmail.com
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Alyson
+Author{2}{Lastname}#=%=#Grealish
+Author{2}{Email}#=%=#agrealis@u.Rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Nathanael
+Author{3}{Lastname}#=%=#Chambers
+Author{3}{Email}#=%=#nchamber@usna.edu
+Author{3}{Affiliation}#=%=#US Naval Academy
+Author{4}{Firstname}#=%=#James
+Author{4}{Lastname}#=%=#Allen
+Author{4}{Email}#=%=#james@ihmc.us
+Author{4}{Affiliation}#=%=#University of Rochester
+Author{5}{Firstname}#=%=#Lucy
+Author{5}{Lastname}#=%=#Vanderwende
+Author{5}{Email}#=%=#lucyv@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

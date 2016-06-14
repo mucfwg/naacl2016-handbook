@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#94
+FinalPaperTitle#=%=#A Study of the Impact of Persuasive Argumentation in Political Debates
+ShortPaperTitle#=%=#A Study of the Impact of Persuasive Argumentation in Political Debates
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yulan He
+JobTitle#==#
+Organization#==#Aston University
+Abstract#==#Persuasive communication is the process of shaping, reinforcing and changing
+others' responses. In political debates, speakers express their views towards
+the debated topics through not only the choice of discourse content but also an
+argumentation process. In this work we study the use of semantic frames for
+modelling argumentation in speakers' discourse. We investigate the impact of a
+speaker's argumentation style and their effect in influencing an audience in
+supporting their candidature. We model the influence index of each candidate
+based on results of national polls occurring immediately after a debate took
+place and present a system which ranks speakers in terms of their relative
+influence based on a combination of content and persuasive argumentation
+features. Our results show that although content alone is predictive of a
+speaker's influence rank, persuasive argumentation also affects such indices.
+Author{1}{Firstname}#=%=#Amparo Elizabeth
+Author{1}{Lastname}#=%=#Cano-Basave
+Author{1}{Email}#=%=#a.cano-basave@aston.ac.uk
+Author{1}{Affiliation}#=%=#Aston University
+Author{2}{Firstname}#=%=#Yulan
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#y.he9@aston.ac.uk
+Author{2}{Affiliation}#=%=#Aston University
+
+==========

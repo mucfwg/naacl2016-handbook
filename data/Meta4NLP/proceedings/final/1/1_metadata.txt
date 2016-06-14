@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Supervised Metaphor Detection using Conditional Random Fields
+ShortPaperTitle#=%=#Supervised Metaphor Detection using Conditional Random Fields
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sunny Rai
+JobTitle#==#
+Organization#==#Netaji Subhas Institute of Technology, University of Delhi, Azad Hind Fauz Marg, Sector-3, Dwarka, Delhi-110078
+Abstract#==#In this paper, we propose a novel approach for supervised classification of
+linguistic metaphors in an open domain text using Conditional Random Fields
+(CRF). We analyze CRF based classification model for metaphor detection using
+syntactic, conceptual, affective, and word embeddings based features which
+are extracted from MRC Psycholinguistic Database (MRCPD) and WordNet-Affect. We
+use word embeddings given by Huang et al. to capture information such as
+coherence and analogy between words. To tackle the bottleneck of limited
+coverage of psychological features in MRCPD, we employ synonymy relations from
+WordNet ® . A comparison of our approach with previous approaches shows the
+efficacy of CRF classifier in detecting metaphors. The experiments conducted on
+VU Amsterdam metaphor corpus provides an accuracy of more than 92% and
+F-measure of approximately 78%. Results shows that inclusion of conceptual
+features improves the recall by 5% whereas affective features do not have any
+major impact on metaphor detection in open text.
+Author{1}{Firstname}#=%=#Sunny
+Author{1}{Lastname}#=%=#Rai
+Author{1}{Email}#=%=#sunny.rai2010@hotmail.com
+Author{1}{Affiliation}#=%=#Netaji Subhas Institute of Technology, University of Delhi
+Author{2}{Firstname}#=%=#Shampa
+Author{2}{Lastname}#=%=#Chakraverty
+Author{2}{Email}#=%=#apmahs.nsit@gmail.com
+Author{2}{Affiliation}#=%=#Netaji Subhas Institute of Technology, University of Delhi
+Author{3}{Firstname}#=%=#Devendra K.
+Author{3}{Lastname}#=%=#Tayal
+Author{3}{Email}#=%=#dev_tayal2001@yahoo.com
+Author{3}{Affiliation}#=%=#Indira Gandhi Delhi Technical University of Women
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Automatically Extracting Topical Components for a Response-to-Text Writing Assessment
+ShortPaperTitle#=%=#Automatically Extracting Topical Components for a Response-to-Text Writing Assessment
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zahra Rahimi
+JobTitle#==#
+Organization#==#University of Pittsburgh
+5113 Sennott Square
+210 South Bouquet Street
+Pittsburgh, PA 15260
+Abstract#==#We investigate automatically extracting multi-word topical components to
+replace information currently provided by experts that is used to score the
+Evidence dimension of a writing in response to text assessment. Our goal is to
+reduce the amount of expert effort and improve the scalability of an automatic
+scoring system. Experimental results show that scoring performance using
+automatically extracted data-driven topical components is promising.
+Author{1}{Firstname}#=%=#Zahra
+Author{1}{Lastname}#=%=#Rahimi
+Author{1}{Email}#=%=#zar10@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Email}#=%=#litman@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

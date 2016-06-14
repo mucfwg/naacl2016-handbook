@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#503
+FinalPaperTitle#=%=#Pomona at SemEval-2016 Task 11: Predicting Word Complexity Based on Corpus Frequency
+ShortPaperTitle#=%=#Pomona at SemEval-2016 Task 11: Predicting Word Complexity Based on Corpus Frequency
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#David Kauchak
+JobTitle#==#
+Organization#==#Computer Science Department
+Pomona College
+Claremont, CA 91711
+Abstract#==#We introduce a word frequency-based classifier for the SemEval 2016 complex
+word identification task (#11).  Words with lower frequency are predicted as
+complex based on a threshold optimized for G-score.  We examine three different
+corpora for calculating frequencies and find English Wikipedia to perform best
+(ranked 13th on the SemEval task), followed by the Google Web Corpus and lastly
+Simple English Wikipedia. Bagging is also shown to slightly improve the
+performance of the classifier.                          Overall, we find word
+frequency to
+be a
+strong
+predictor of complexity.  On the SemEval "test" set, a frequency classifier
+that uses the optimal frequency threshold performs on-par with the best
+submitted system and a system trained using only 500 labeled examples split
+from the test set achieves results that are only slightly below the best
+submitted system.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Kauchak
+Author{1}{Email}#=%=#david.kauchak@pomona.edu
+Author{1}{Affiliation}#=%=#Pomona College
+
+==========

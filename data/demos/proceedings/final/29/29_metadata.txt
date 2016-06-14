@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#LingoTurk: managing crowdsourced tasks for psycholinguistics
+ShortPaperTitle#=%=#LingoTurk: managing crowdsourced tasks for psycholinguistics
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Asad Sayeed
+JobTitle#==#
+Organization#==#Saarland University
+66123 Saarbrücken
+Germany
+Abstract#==#LingoTurk is an open-source, freely available crowdsourcing client/server
+system aimed primarily at psycholinguistic experimentation where custom and
+specialized user interfaces are required but not supported by popular
+crowdsourcing task management platforms. LingoTurk enables user-friendly local
+hosting of experiments as well as condition management and participant
+exclusion. It is compatible with Amazon Mechanical Turk and Prolific Academic.
+New experiments can easily be set up via the Play Framework and the LingoTurk
+API, while multiple experiments can be managed from a single system.
+Author{1}{Firstname}#=%=#Florian
+Author{1}{Lastname}#=%=#Pusse
+Author{1}{Email}#=%=#fpusse@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Asad
+Author{2}{Lastname}#=%=#Sayeed
+Author{2}{Email}#=%=#asayeed@mbl.ca
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Vera
+Author{3}{Lastname}#=%=#Demberg
+Author{3}{Email}#=%=#vera@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Know2Look: Commonsense Knowledge for Visual Search
+ShortPaperTitle#=%=#Know2Look: Commonsense Knowledge for Visual Search
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sreyasi Nag Chowdhury
+JobTitle#==#
+Organization#==#Max Planck Institute for Informatics
+Campus E 1 4
+66123 Saarbruecken, Germany
+Abstract#==#With the rise in popularity of social media, images accompanied by contextual
+text form a huge section of the web. However, search and retrieval of documents
+are still largely dependent on solely textual cues. Although visual cues have
+started to gain focus, the imperfection in object/scene detection do not lead
+to significantly improved results. We hypothesize that the use of background
+commonsense knowledge on query terms can significantly aid in retrieval of
+documents with associated images. To this end we deploy three different
+modalities - text, visual cues, and commonsense knowledge pertaining to the
+query - as a recipe for efficient search and retrieval.
+Author{1}{Firstname}#=%=#Sreyasi
+Author{1}{Lastname}#=%=#Nag Chowdhury
+Author{1}{Email}#=%=#sreyasi@mpi-inf.mpg.de
+Author{1}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{2}{Firstname}#=%=#Niket
+Author{2}{Lastname}#=%=#Tandon
+Author{2}{Email}#=%=#ntandon@mpi-inf.mpg.de
+Author{2}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{3}{Firstname}#=%=#Gerhard
+Author{3}{Lastname}#=%=#Weikum
+Author{3}{Email}#=%=#weikum@mpi-inf.mpg.de
+Author{3}{Affiliation}#=%=#Max Planck Institute for Informatics
+
+==========

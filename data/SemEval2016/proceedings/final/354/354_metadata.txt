@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#354
+FinalPaperTitle#=%=#LSIS at SemEval-2016 Task 7: Using Web Search Engines for English and Arabic Unsupervised Sentiment Intensity Prediction
+ShortPaperTitle#=%=#LSIS SemEval-2016 Task7 Web Search Engines English/Arabic Unsupervised Sentiment Intensity Predicts
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Amal HTAIT
+JobTitle#==#
+Organization#==#Aix-Marseille University, CNRS
+LSIS UMR 7296
+13397, Marseille
+France
+Abstract#==#In this paper, we present our contribution
+in SemEval2016 task7: Determining Sentiment
+Intensity of English and Arabic Phrases,
+where we use web search engines for English
+and Arabic unsupervised sentiment intensity
+prediction. Our work is based, first, on a
+group of classic sentiment lexicons (e.g. Sentiment140
+Lexicon, SentiWordNet). Second,
+on web search engines’ ability to find the cooccurrence
+of sentences with predefined negative
+and positive words. The use of web search
+engines (e.g. Google Search API) enhance the
+results on phrases built from opposite polarity
+terms.
+Author{1}{Firstname}#=%=#Amal
+Author{1}{Lastname}#=%=#Htait
+Author{1}{Email}#=%=#amal.htait@gmail.com
+Author{1}{Affiliation}#=%=#Aix-Marseille
+Author{2}{Firstname}#=%=#Sebastien
+Author{2}{Lastname}#=%=#Fournier
+Author{2}{Email}#=%=#sebatien.fournier@lsis.org
+Author{2}{Affiliation}#=%=#Aix-Marseille
+Author{3}{Firstname}#=%=#Patrice
+Author{3}{Lastname}#=%=#Bellot
+Author{3}{Email}#=%=#patrice.bellot@univ-amu.fr
+Author{3}{Affiliation}#=%=#Aix-Marseille Université (AMU-LSIS)
+
+==========

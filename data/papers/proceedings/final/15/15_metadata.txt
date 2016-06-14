@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Achieving Accurate Conclusions in Evaluation of Automatic Machine Translation Metrics
+ShortPaperTitle#=%=#Achieving Accurate Conclusions in Evaluation of Automatic Machine Translation Metrics
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yvette Graham
+JobTitle#==#
+Organization#==#School of Computing,
+DCU,
+Santry,
+Dublin 9,
+Ireland
+Abstract#==#Automatic Machine Translation metrics, such as BLEU, are widely used in
+empirical evaluation as a substitute for human assessment. Subsequently, the
+performance of a given metric is measured by its strength of correlation with
+human judgment. When a newly proposed metric achieves a stronger correlation
+over that of a baseline, it is important to take into account the uncertainty
+inherent in correlation point estimates prior to concluding improvements in
+metric performance. Confidence intervals for correlations with human judgment
+are rarely reported in metric evaluations, however, and when they have been
+reported, appropriate methods have unfortunately not been applied. Several
+issues including incorrect assumptions about correlation sampling distributions
+greatly risk the over-estimation of significant differences in
+metric performance. In this paper, we provide analysis of each of the issues
+leading to inaccuracies in current evaluations before providing detail of an
+appropriate method that overcomes previous challenges. Additionally, we propose
+a new method of translation sampling that in contrast achieves genuine high
+conclusivity in evaluation of the relative performance of metrics.
+Author{1}{Firstname}#=%=#Yvette
+Author{1}{Lastname}#=%=#Graham
+Author{1}{Email}#=%=#graham.yvette@gmail.com
+Author{1}{Affiliation}#=%=#Dublin City University
+Author{2}{Firstname}#=%=#Qun
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#qliu@computing.dcu.ie
+Author{2}{Affiliation}#=%=#ADAPT, Dublin City University
+
+==========

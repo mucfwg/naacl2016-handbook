@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#342
+FinalPaperTitle#=%=#ICL-HD at SemEval-2016 Task 8: Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network
+ShortPaperTitle#=%=#Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lauritz Brandt, David Grimm, Mengfei Zhou, Yannick Versley
+JobTitle#==#
+Organization#==#Institut for Computational Linguistics Heidelberg - Im Neuenheimer Feld 325
+Abstract#==#We describe our submission system to the
+SemEval-2016 Task 8 on Abstract Meaning
+Representation (AMR) Parsing. We attempt
+to improve AMR parsing by exploiting prepo-
+sition semantic role labeling information re-
+trieved from a multi-layer feed-forward neu-
+ral network. Prepositional semantics is in-
+cluded as features into the transition-based
+AMR parsing system CAMR (Wang, Xue, and
+S. Pradhan 2015a). The inclusion of the fea-
+tures modifies the behavior of CAMR when
+creating meaning representations triggered by
+prepositional semantics. Despite the useful-
+ness of preposition semantic role labeling in-
+formation for AMR parsing, it does not have
+an impact to the parsing F-score of CAMR,
+but reduces the parsing recall by 1%.
+Author{1}{Firstname}#=%=#Lauritz
+Author{1}{Lastname}#=%=#Brandt
+Author{1}{Email}#=%=#brandt@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#ICL Heidelberg
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Grimm
+Author{2}{Email}#=%=#fomo-ws15@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Institute For Computational Linguistics Heidelberg
+Author{3}{Firstname}#=%=#Mengfei
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#zhou@cl.uni-heidelberg.de
+Author{3}{Affiliation}#=%=#ICL Heidelberg
+Author{4}{Firstname}#=%=#Yannick
+Author{4}{Lastname}#=%=#Versley
+Author{4}{Email}#=%=#versley@cl.uni-heidelberg.de
+Author{4}{Affiliation}#=%=#ICL Heidelberg
+
+==========

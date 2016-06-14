@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#359
+FinalPaperTitle#=%=#Comparing Convolutional Neural Networks to Traditional Models for Slot Filling
+ShortPaperTitle#=%=#Comparing Convolutional Neural Networks to Traditional Models for Slot Filling
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Heike Adel
+JobTitle#==#
+Organization#==#Center for Information and Language Processing
+LMU Munich
+Oettingenstr. 67
+80538 Munich
+Germany
+Abstract#==#We address relation classification in the context of slot filling, the task of
+finding and evaluating fillers like "Steve Jobs" for the slot X in "X founded
+Apple". We propose a convolutional neural network which splits the input
+sentence into three parts according to the relation arguments and compare it to
+state-of-the-art and traditional approaches of relation classification.
+Finally, we combine different methods and show that the combination is better
+than individual approaches. We also analyze the effect of genre differences on
+performance.
+Author{1}{Firstname}#=%=#Heike
+Author{1}{Lastname}#=%=#Adel
+Author{1}{Email}#=%=#heike.adel@cis.lmu.de
+Author{1}{Affiliation}#=%=#University of Munich
+Author{2}{Firstname}#=%=#Benjamin
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#beroth@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{3}{Firstname}#=%=#Hinrich
+Author{3}{Lastname}#=%=#Schütze
+Author{3}{Email}#=%=#inquiries@cislmu.org
+Author{3}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

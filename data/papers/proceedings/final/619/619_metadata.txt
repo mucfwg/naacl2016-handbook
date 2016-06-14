@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#619
+FinalPaperTitle#=%=#Consensus Maximization Fusion of Probabilistic Information Extractors
+ShortPaperTitle#=%=#Consensus Maximization Fusion of Probabilistic Information Extractors
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Miguel Rodriguez
+JobTitle#==#
+Organization#==#E301 CSE Building, PO Box 116120, Gainesville, FL 32611
+Abstract#==#Current approaches to Information Extraction (IE) are capable of extracting
+large amounts of facts with associated probabilities. Because no current IE
+system is perfect, complementary and conflicting facts are obtained when
+different systems are run over the same data. Knowledge Fusion (KF) is the
+problem of aggregating facts from different extractors. Existing methods
+approach KF using supervised learning or deep linguistic knowledge, which
+either lack sufficient data or are not robust enough. We propose a
+semi-supervised application of Consensus Maximization to the KF problem, using
+a combination of supervised and unsupervised models. Consensus Maximization
+Fusion (CM Fusion) is able to pro- mote high quality facts and eliminate
+incorrect ones. We demonstrate the effectiveness of our system on the NIST Slot
+Filler Validation contest, which seeks to evaluate and aggregate multiple
+independent information ex- tractors. Our system achieved the highest F1 score
+relative to other system submissions.
+Author{1}{Firstname}#=%=#Miguel
+Author{1}{Lastname}#=%=#Rodríguez
+Author{1}{Email}#=%=#miguelrodriguez@ufl.edu
+Author{1}{Affiliation}#=%=#University of Florida
+Author{2}{Firstname}#=%=#Sean
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#sean@cise.ufl.edu
+Author{2}{Affiliation}#=%=#University of Florida
+Author{3}{Firstname}#=%=#Daisy Zhe
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#daisyw@cise.ufl.edu
+Author{3}{Affiliation}#=%=#University of Florida
+
+==========

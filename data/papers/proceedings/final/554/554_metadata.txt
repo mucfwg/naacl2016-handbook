@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#554
+FinalPaperTitle#=%=#Integrating Morphological Desegmentation into Phrase-based Decoding
+ShortPaperTitle#=%=#Integrating Morphological Desegmentation into Phrase-based Decoding
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mohammad Salameh
+JobTitle#==#
+Organization#==#University of Alberta
+Abstract#==#When translating into a morphologically complex language, segmenting the target
+language can reduce data sparsity, while introducing the complication of
+desegmenting the system output. We present a method for decoder-integrated
+desegmentation, allowing features that consider the desegmented target, such as
+a word-level language model, to be considered throughout the entire search
+space. Our results on a large-scale, English to Arabic translation task show
+significant improvement over the 1-best desegmentation baseline.
+Author{1}{Firstname}#=%=#Mohammad
+Author{1}{Lastname}#=%=#Salameh
+Author{1}{Email}#=%=#msalameh@ualberta.ca
+Author{1}{Affiliation}#=%=#University of Alberta
+Author{2}{Firstname}#=%=#Colin
+Author{2}{Lastname}#=%=#Cherry
+Author{2}{Email}#=%=#colin.a.cherry@gmail.com
+Author{2}{Affiliation}#=%=#NRC
+Author{3}{Firstname}#=%=#Grzegorz
+Author{3}{Lastname}#=%=#Kondrak
+Author{3}{Email}#=%=#gkondrak@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+
+==========

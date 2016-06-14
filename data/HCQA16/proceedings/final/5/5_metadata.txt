@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Watson Discovery Advisor: Question-answering in an industrial setting
+ShortPaperTitle#=%=#Watson Discovery Advisor: Question-answering in an industrial setting
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Charles E Beller
+JobTitle#==#
+Organization#==#IBM Watson Group
+15036 Conference Center Drive
+Chantilly, VA 20151
+United States
+Abstract#==#This work discusses a mix of challenges arising from Watson Discovery Advisor
+(WDA), an industrial strength descendant of the Watson Jeopardy! Question
+Answering system currently used in production in industry settings. Typical
+challenges include generation of appropriate training questions, adaptation to
+new industry domains, and iterative improvement of the system through manual
+error analyses.
+Author{1}{Firstname}#=%=#Charley
+Author{1}{Lastname}#=%=#Beller
+Author{1}{Email}#=%=#charleybeller@gmail.com
+Author{1}{Affiliation}#=%=#IBM Watson Group
+Author{2}{Firstname}#=%=#Graham
+Author{2}{Lastname}#=%=#Katz
+Author{2}{Email}#=%=#graham.katz@gmail.com
+Author{2}{Affiliation}#=%=#CACI Inc
+Author{3}{Firstname}#=%=#Allen
+Author{3}{Lastname}#=%=#Ginsberg
+Author{3}{Email}#=%=#abginsbe@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Watson Group
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Phipps
+Author{4}{Email}#=%=#phippsc@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Watson Group
+Author{5}{Firstname}#=%=#Sean
+Author{5}{Lastname}#=%=#Bethard
+Author{5}{Email}#=%=#slbethar@us.ibm.com
+Author{5}{Affiliation}#=%=#IBM Watson Group
+Author{6}{Firstname}#=%=#Paul
+Author{6}{Lastname}#=%=#Chase
+Author{6}{Email}#=%=#pjchase@us.ibm.com
+Author{6}{Affiliation}#=%=#IBM Watson Group
+Author{7}{Firstname}#=%=#Elinna
+Author{7}{Lastname}#=%=#Shek
+Author{7}{Email}#=%=#eshek@us.ibm.com
+Author{7}{Affiliation}#=%=#IBM Watson Group
+Author{8}{Firstname}#=%=#Kristen
+Author{8}{Lastname}#=%=#Summers
+Author{8}{Email}#=%=#kmsummer@us.ibm.com
+Author{8}{Affiliation}#=%=#IBM Watson Group
+
+==========

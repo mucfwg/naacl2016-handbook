@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#398
+FinalPaperTitle#=%=#NileTMRG at SemEval-2016 Task 7: Deriving Prior Polarities for Arabic Sentiment Terms
+ShortPaperTitle#=%=#NileTMRG: Deriving Prior Polarities for Arabic Sentiment Terms
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Samhaa El-Beltagy
+JobTitle#==#
+Organization#==#Center for Informatics Science
+Nile University, Juhayna Square, Sheikh Zayed City
+Giza, Egypt
+Abstract#==#Abstract
+This paper presents a model that was developed to address SemEval Task 7:
+“Determining Sentiment Intensity of English and Arabic Phrases”, with focus
+on ‘Arabic Phrases’. The goal of this task is to determine the degree to
+which some given term is associated with positive sentiment. The underlying
+premise behind the model that we’ve adopted is that determining the context
+(positive or negative) in which a term usually occurs can determine its
+strength. Since the focus is on Twitter terms, Twitter was used to collect
+tweets for each term for which a strength value was to be derived. An Arabic
+sentiment analyzer, was then used to assign a polarity to each of these tweets,
+thus defining their context. We then experimented with normalized point wise
+mutual information with and without linear regression to assign intensity
+scores to input terms.                    The output of the model that we’ve
+adopted
+ranked at
+two out of the three presented systems for this task.
+Author{1}{Firstname}#=%=#Samhaa R.
+Author{1}{Lastname}#=%=#El-Beltagy
+Author{1}{Email}#=%=#samhaa@computer.org
+Author{1}{Affiliation}#=%=#Nile University
+
+==========

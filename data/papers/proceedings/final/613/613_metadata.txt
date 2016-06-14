@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#613
+FinalPaperTitle#=%=#Automatic Prediction of Linguistic Decline in Writings of Subjects with Degenerative Dementia
+ShortPaperTitle#=%=#Automatic Prediction of Linguistic Decline in Writings of Subjects with Degenerative Dementia
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Davy Weissenbacher
+JobTitle#==#
+Organization#==#Davy Weissenbacher
+Department of Biomedical Informatics
+Mayo Clinic, Samuel C. Johnson Research Bldg
+13212 East Shea Boulevard
+Scottsdale, AZ 85259 USA
+Abstract#==#Given the limited success of medication in reversing the effects of Alzheimer's
+and other dementias, a lot of the neuroscience research has been focused on
+early detection, in order to slow the progress of the disease through different
+interventions. We propose a Natural Language Processing approach applied to
+descriptive writing to attempt to discriminate decline due to normal aging from
+decline due to predementia conditions. Within the context of a longitudinal
+study on Alzheimer's disease, we created a unique corpus of 201 descriptions of
+a control image written by subjects of the study. Our classifier, computing
+linguistic features, was able to discriminate normal from cognitively impaired
+patients to an accuracy of 86.1% using lexical and semantic irregularities
+found in their writing. This is a promising result towards elucidating the
+existence of a general pattern in linguistic deterioration caused by dementia
+that might be detectable from a subject's written descriptive language.
+Author{1}{Firstname}#=%=#Davy
+Author{1}{Lastname}#=%=#Weissenbacher
+Author{1}{Email}#=%=#davy.weissenbacher@gmail.com
+Author{1}{Affiliation}#=%=#Arizona State University
+Author{2}{Firstname}#=%=#Travis A.
+Author{2}{Lastname}#=%=#Johnson
+Author{2}{Email}#=%=#johnson.travis2@mayo.edu
+Author{2}{Affiliation}#=%=#Mayo Clinic
+Author{3}{Firstname}#=%=#Laura
+Author{3}{Lastname}#=%=#Wojtulewicz
+Author{3}{Email}#=%=#whitz@asu.edu
+Author{3}{Affiliation}#=%=#Arizona State University
+Author{4}{Firstname}#=%=#Amylou
+Author{4}{Lastname}#=%=#Dueck
+Author{4}{Email}#=%=#Dueck.Amylou@mayo.edu
+Author{4}{Affiliation}#=%=#Mayo Clinic
+Author{5}{Firstname}#=%=#Dona
+Author{5}{Lastname}#=%=#Locke
+Author{5}{Email}#=%=#Locke.Dona@mayo.edu
+Author{5}{Affiliation}#=%=#Mayo Clinic
+Author{6}{Firstname}#=%=#Richard
+Author{6}{Lastname}#=%=#Caselli
+Author{6}{Email}#=%=#caselli.richard@mayo.edu
+Author{6}{Affiliation}#=%=#Mayo Clinic
+Author{7}{Firstname}#=%=#Graciela
+Author{7}{Lastname}#=%=#Gonzalez
+Author{7}{Email}#=%=#Graciela.Gonzalez@asu.edu
+Author{7}{Affiliation}#=%=#Arizona State University
+
+==========

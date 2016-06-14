@@ -1,0 +1,64 @@
+SubmissionNumber#=%=#373
+FinalPaperTitle#=%=#IUCL at SemEval-2016 Task 6: An Ensemble Model for Stance Detection in Twitter
+ShortPaperTitle#=%=#IUCL at SemEval-2016 Task 6
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sandra Kuebler
+JobTitle#==#
+Organization#==#
+Abstract#==#We present the IUCL system, based on supervised learning, for the shared task
+on stance detection. Our official submission, the random forest model, reaches
+a score of 63.60, and is ranked 6th out of 19 teams. We  also use gradient
+boosting decision trees and SVM and merge all classifiers into an  ensemble
+method. Our analysis shows that random forest is good at retrieving minority
+classes and gradient boosting majority classes.  The strengths of different
+classifiers wrt. precision and recall complement each other in the ensemble.
+Author{1}{Firstname}#=%=#Can
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liucan@indiana.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Firstname}#=%=#Wen
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#wl9@indiana.edu
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Firstname}#=%=#Bradford
+Author{3}{Lastname}#=%=#Demarest
+Author{3}{Email}#=%=#bdemares@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University
+Author{4}{Firstname}#=%=#Yue
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#yc59@indiana.edu
+Author{4}{Affiliation}#=%=#Indiana University
+Author{5}{Firstname}#=%=#Sara
+Author{5}{Lastname}#=%=#Couture
+Author{5}{Email}#=%=#scouture@indiana.edu
+Author{5}{Affiliation}#=%=#Indiana University
+Author{6}{Firstname}#=%=#Daniel
+Author{6}{Lastname}#=%=#Dakota
+Author{6}{Email}#=%=#ddakota@indiana.edu
+Author{6}{Affiliation}#=%=#Indiana University
+Author{7}{Firstname}#=%=#Nikita
+Author{7}{Lastname}#=%=#Haduong
+Author{7}{Email}#=%=#nhaduong@indiana.edu
+Author{7}{Affiliation}#=%=#Indiana University
+Author{8}{Firstname}#=%=#Noah
+Author{8}{Lastname}#=%=#Kaufman
+Author{8}{Email}#=%=#nkaufma@indiana.edu
+Author{8}{Affiliation}#=%=#Indiana University
+Author{9}{Firstname}#=%=#Andrew
+Author{9}{Lastname}#=%=#Lamont
+Author{9}{Email}#=%=#alamont@indiana.edu
+Author{9}{Affiliation}#=%=#Indiana University
+Author{10}{Firstname}#=%=#Manan
+Author{10}{Lastname}#=%=#Pancholi
+Author{10}{Email}#=%=#mpanchol@indiana.edu
+Author{10}{Affiliation}#=%=#Indiana University
+Author{11}{Firstname}#=%=#Kenneth
+Author{11}{Lastname}#=%=#Steimel
+Author{11}{Email}#=%=#ksteimel@indiana.edu
+Author{11}{Affiliation}#=%=#Indiana University
+Author{12}{Firstname}#=%=#Sandra
+Author{12}{Lastname}#=%=#Kübler
+Author{12}{Email}#=%=#skuebler@indiana.edu
+Author{12}{Affiliation}#=%=#Indiana University
+
+==========

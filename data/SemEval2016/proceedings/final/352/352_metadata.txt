@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#352
+FinalPaperTitle#=%=#LyS at SemEval-2016 Task 4: Exploiting Neural Activation Values for Twitter Sentiment Classification and Quantification
+ShortPaperTitle#=%=#Exploiting Neural Activation Values for Twitter Sentiment Classification and Quantification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#David Vilares
+JobTitle#==#
+Organization#==#Grupo LyS, Departamento de Computación, Universidade da Coruña, Campus de A Coruña s/n, 15071, A Coruña, Spain
+Abstract#==#In this paper we describe our deep learning approach for solving both two-,
+three- and five-class tweet polarity classification, and two- and five-class
+quantification. We first trained a convolutional neural network using
+pretrained Twitter word embeddings, so that we could extract the hidden
+activation values from the hidden layers once some input had been fed to the
+network. These values were then used as features for a support vector machine
+in both the classification and quantification subtasks, together with
+additional linguistic information in the former scenario. The results obtained
+for the classification subtasks show that this approach performs better than a
+single convolutional network, and for the quantification part it also yields
+good results. Official rankings locate us: 2nd (practically tied with 1st) for
+the binary classification task, 2nd for binary quantification and 4th
+(practically tied with 3rd) for the five-class polarity classification
+challenge.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Vilares
+Author{1}{Email}#=%=#david.vilares@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
+Author{2}{Firstname}#=%=#Yerai
+Author{2}{Lastname}#=%=#Doval
+Author{2}{Email}#=%=#yerai.doval@udc.es
+Author{2}{Affiliation}#=%=#University of Vigo
+Author{3}{Firstname}#=%=#Miguel A.
+Author{3}{Lastname}#=%=#Alonso
+Author{3}{Email}#=%=#miguel.alonso@udc.es
+Author{3}{Affiliation}#=%=#Universidade da Coruña
+Author{4}{Firstname}#=%=#Carlos
+Author{4}{Lastname}#=%=#Gómez-Rodríguez
+Author{4}{Email}#=%=#cgomezr@udc.es
+Author{4}{Affiliation}#=%=#Universidade da Coruña
+
+==========

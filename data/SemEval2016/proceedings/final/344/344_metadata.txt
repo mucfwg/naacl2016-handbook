@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#344
+FinalPaperTitle#=%=#Inspire at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity Alignment based on Answer Set Programming
+ShortPaperTitle#=%=#Inspire: Interpretable Semantic Textual Similarity Alignment based on Answer Set Programming
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Mishal Kazmi
+JobTitle#==#
+Organization#==#Sabanci University
+Orta Mah.Üniversite CAD.NO:27,
+Orhanlo, 34956 Tuzla, Istanbul, Turkey
+Abstract#==#In this paper we present our system de-
+veloped for the SemEval 2016 Task 2 -
+Interpretable Semantic Textual Similarity
+along with the results obtained for our sub-
+mitted runs. Our system participated in
+the subtasks predicting chunk similarity
+alignments for gold chunks as well as for
+predicted chunks. The Inspire system ex-
+tends the basic ideas from last years par-
+ticipant NeRoSim, however we realize the
+rules in logic programming and obtain the
+result with an Answer Set Solver. To pre-
+pare the input for the logic program, we
+use the PunktTokenizer, Word2Vec, and
+WordNet APIs of NLTK, and the POS-
+and NER-taggers from Stanford CoreNLP.
+For chunking we use a joint POS-tagger
+and dependency parser and based on that
+determine chunks with an Answer Set Pro-
+gram. Our system ranked third place over-
+all and first place in the Headlines gold
+chunk subtask.
+Author{1}{Firstname}#=%=#Mishal
+Author{1}{Lastname}#=%=#Kazmi
+Author{1}{Email}#=%=#mishalkazmi@sabanciuniv.edu
+Author{1}{Affiliation}#=%=#Sabanci University
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Schüller
+Author{2}{Email}#=%=#schueller.p@gmail.com
+Author{2}{Affiliation}#=%=#Marmara University
+
+==========

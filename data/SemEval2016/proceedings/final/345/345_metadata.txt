@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#345
+FinalPaperTitle#=%=#RDI_Team at SemEval-2016 Task 3: RDI Unsupervised Framework for Text Ranking
+ShortPaperTitle#=%=#RDI_Team at SemEval-2016 Task 3: RDI Unsupervised Framework for Text Ranking
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ahmed Ezzat AbdelGawad Magooda
+JobTitle#==#
+Organization#==#12 Haroon st., Dokki, Giza, Egypt
+Abstract#==#Ranking is an important task in the field of information retrieval. Ranking may
+be used in different tasks in natural language processing such as search
+engines. In this paper, we introduce a competitive ranking system which combine
+3 different unsupervised modules. The proposed system achieved the third
+position in SemEval 2016 question ranking task for Arabic language.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Magooda
+Author{1}{Email}#=%=#ahmed.ezzat.gawad@gmail.com
+Author{1}{Affiliation}#=%=#Cairo University
+Author{2}{Firstname}#=%=#Amr
+Author{2}{Lastname}#=%=#Gomaa
+Author{2}{Email}#=%=#amr@fci-cu.edu.eg
+Author{2}{Affiliation}#=%=#Computer Science Department, Faculty of Computers and Information, Cairo University, Egypt
+Author{3}{Firstname}#=%=#Ashraf
+Author{3}{Lastname}#=%=#Mahgoub
+Author{3}{Email}#=%=#ashraf.youssef.mahgoub@gmail.com
+Author{3}{Affiliation}#=%=#Computer Engineering Department, Cairo University, Egypt
+Author{4}{Firstname}#=%=#Hany
+Author{4}{Lastname}#=%=#Ahmed
+Author{4}{Email}#=%=#hanyahmed@aucegypt.edu
+Author{4}{Affiliation}#=%=#Electronics and Communications Department, Cairo University, Egypt.
+Author{5}{Firstname}#=%=#Mohsen
+Author{5}{Lastname}#=%=#Rashwan
+Author{5}{Email}#=%=#mrashwan@rdi-eg.com
+Author{5}{Affiliation}#=%=#Electronics and Communications Department, Cairo University, Egypt.
+Author{6}{Firstname}#=%=#Hazem
+Author{6}{Lastname}#=%=#Raafat
+Author{6}{Email}#=%=#hazem@cs.ku.edu.kw
+Author{6}{Affiliation}#=%=#Computer Science Department, Kuwait University, Kuwait
+Author{7}{Firstname}#=%=#Eslam
+Author{7}{Lastname}#=%=#Kamal
+Author{7}{Email}#=%=#eskam@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research, Cairo, Egypt
+Author{8}{Firstname}#=%=#Ahmad
+Author{8}{Lastname}#=%=#Al Sallab
+Author{8}{Email}#=%=#ahmad.el-sallab@valeo.com
+Author{8}{Affiliation}#=%=#Valeo Inter-branch Automotive Software, Cairo, Egypt.
+
+==========

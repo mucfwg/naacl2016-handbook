@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Argument Identification in Chinese Editorials
+ShortPaperTitle#=%=#Argument Identification in Chinese Editorials
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#MC
+JobTitle#==#
+Organization#==#Princeton University
+Princeton, NJ 08544
+Abstract#==#In this paper, we develop and evaluate several techniques for identifying
+argumentative paragraphs in Chinese editorials. We first use three methods of
+evaluation to score a paragraph's argumentative nature: a relative word
+frequency approach; a method which targets known argumentative words in our
+corpus; and a combined approach which uses elements from the previous two.
+Then, we determine the best score thresholds for separating argumentative and
+non-argumentative paragraphs. The results of our experimentation show that our
+relative word frequency approach provides a reliable way to identify
+argumentative paragraphs, though the inaccuracies in scoring invite improvement
+through context-aware means.
+Author{1}{Firstname}#=%=#Marisa
+Author{1}{Lastname}#=%=#Chow
+Author{1}{Email}#=%=#mlchow@princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+
+==========

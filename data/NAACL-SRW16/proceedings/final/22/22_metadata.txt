@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Exploring Fine-Grained Emotion Detection in Tweets
+ShortPaperTitle#=%=#Exploring Fine-Grained Emotion Detection in Tweets
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jasy Liew Suet Yan
+JobTitle#==#Graduate Student
+Organization#==#343 Hinds Hall
+Syracuse
+New York 13244, USA
+Abstract#==#We examine if common machine learning techniques known to perform well in
+coarse-grained emotion and sentiment classification can also be applied
+successfully on a set of fine-grained emotion categories. We first describe the
+grounded theory approach used to develop a corpus of 5,553 tweets manually
+annotated with 28 emotion categories. From our preliminary experiments, we have
+identified two machine learning algorithms that perform well in this emotion
+classification task and demonstrated that it is feasible to train classifiers
+to detect 28 emotion categories without a huge drop in performance compared to
+coarser-grained classification schemes.
+Author{1}{Firstname}#=%=#Jasy Suet Yan
+Author{1}{Lastname}#=%=#Liew
+Author{1}{Email}#=%=#jliewsue@syr.edu
+Author{1}{Affiliation}#=%=#School of Information Studies, Syracuse University
+Author{2}{Firstname}#=%=#Howard R.
+Author{2}{Lastname}#=%=#Turtle
+Author{2}{Email}#=%=#turtle@syr.edu
+Author{2}{Affiliation}#=%=#School of Information Studies, Syracuse University
+
+==========

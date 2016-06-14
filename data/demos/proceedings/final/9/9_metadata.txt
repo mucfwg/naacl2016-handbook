@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Instant Feedback for Increasing the Presence of Solutions in Peer Reviews
+ShortPaperTitle#=%=#Instant Feedback for Increasing the Presence of Solutions in Peer Reviews
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Huy Nguyen
+JobTitle#==#
+Organization#==#University of Pittsburgh
+4200 Fifth Ave, Pittsburgh, PA 15260
+Abstract#==#We present the design and evaluation of a web-based peer review system that
+uses natural language processing to automatically evaluate and provide instant
+feedback regarding the presence of solutions in peer reviews. Student reviewers
+can then choose to either revise their reviews to address the system's
+feedback, or ignore the feedback and submit their original reviews. A system
+deployment in multiple high school classrooms shows that our solution
+prediction model triggers instant feedback with high precision, and that the
+feedback is successful in increasing the number of peer reviews with solutions.
+Author{1}{Firstname}#=%=#Huy
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#hvn3@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Wenting
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#wenting.pitt@gmail.com
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+Author{3}{Firstname}#=%=#Diane
+Author{3}{Lastname}#=%=#Litman
+Author{3}{Email}#=%=#litman@cs.pitt.edu
+Author{3}{Affiliation}#=%=#University of Pittsburgh
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#336
+FinalPaperTitle#=%=#CUFE at SemEval-2016 Task 4: A Gated Recurrent Model for Sentiment Classification
+ShortPaperTitle#=%=#CUFE at SemEval-2016 Task 4: A Gated Recurrent Model for Sentiment Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mahmoud Nabil
+JobTitle#==#Teaching Assistant
+Organization#==#Cairo University, Giza, Egypt
+Abstract#==#In this paper we describe a deep learning system that has been built for
+SemEval 2016 Task4 (Subtask A and B). In this work we trained a Gated Recurrent
+Unit (GRU) neural network model on top of two sets of word embeddings: (a)
+general word embeddings generated from unsupervised neural language model; and
+(b) task specific word embeddings generated from supervised neural language
+model that was trained to classify tweets into positive and negative
+categories. We also added a method for analyzing and splitting multi-words
+hashtags and appending them to the tweet body before feeding it to our model.
+Our models achieved 0.58 F1-measure for Subtask A (ranked 12/35) and 0.679
+Recall for Subtask B (ranked 12/19).
+Author{1}{Firstname}#=%=#Mahmoud
+Author{1}{Lastname}#=%=#Nabil
+Author{1}{Email}#=%=#mah.nabil@hotmail.com
+Author{1}{Affiliation}#=%=#Faculty of Engineering Cairo University
+Author{2}{Firstname}#=%=#Amir
+Author{2}{Lastname}#=%=#Atyia
+Author{2}{Email}#=%=#amir@alumni.caltech.edu
+Author{2}{Affiliation}#=%=#Faculty of Engineering Cairo University
+Author{3}{Firstname}#=%=#Mohamed
+Author{3}{Lastname}#=%=#Aly
+Author{3}{Email}#=%=#mohamed@mohamedaly.info
+Author{3}{Affiliation}#=%=#Faculty of Engineering Cairo University
+
+==========

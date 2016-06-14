@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#439
+FinalPaperTitle#=%=#IDI@NTNU at SemEval-2016 Task 6: Detecting Stance in Tweets Using Shallow Features and GloVe Vectors for Word Representation
+ShortPaperTitle#=%=#Stance Detection with Shallow Features and GloVe Vectors
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Petter Asla
+JobTitle#==#
+Organization#==#Norwegian University of Science and Technology,
+Sem Sælands vei 9,
+Trondheim, 7491, NORWAY
+Abstract#==#This paper describes an approach to automatically detect stance in tweets by
+building a supervised system combining shallow features and pre-trained word
+vectors as word representation. The word vectors were obtained from several
+collections of large corpora using GloVe, an unsupervised learning algorithm.
+We created feature vectors by selecting the word vectors relevant to the data
+and summing them for each unique word. Combining multiple classifiers into a
+voting classifier, representing the best of both approaches, shows a
+significant improvement over the baseline system.
+Author{1}{Firstname}#=%=#Henrik
+Author{1}{Lastname}#=%=#Bøhler
+Author{1}{Email}#=%=#henriboh@stud.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{2}{Firstname}#=%=#Petter
+Author{2}{Lastname}#=%=#Asla
+Author{2}{Email}#=%=#pettefas@stud.ntnu.no
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{3}{Firstname}#=%=#Erwin
+Author{3}{Lastname}#=%=#Marsi
+Author{3}{Email}#=%=#emarsi@idi.ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+Author{4}{Firstname}#=%=#Rune
+Author{4}{Lastname}#=%=#Sætre
+Author{4}{Email}#=%=#satre@idi.ntnu.no
+Author{4}{Affiliation}#=%=#Norwegian University of Science and Technology
+
+==========

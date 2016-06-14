@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#424
+FinalPaperTitle#=%=#SwissCheese at SemEval-2016 Task 4: Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision
+ShortPaperTitle#=%=#Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jan Deriu
+JobTitle#==#
+Organization#==#ETH Zürich
+Rämistrasse 101, 
+8092 Zürich
+Switzerland
+Abstract#==#In this paper, we propose a classifier for
+predicting message-level sentiments of English
+micro-blog messages from Twitter. Our
+method builds upon the convolutional sentence
+embedding approach proposed by (Severyn
+and Moschitti, 2015a; Severyn and Moschitti,
+2015b). We leverage large amounts of
+data with distant supervision to train an ensemble
+of 2-layer convolutional neural networks
+whose predictions are combined using
+a random forest classifier. Our approach was
+evaluated on the datasets of the SemEval-2016
+competition (Task 4) outperforming all other
+approaches for the Message Polarity Classification
+task.
+Author{1}{Firstname}#=%=#Jan
+Author{1}{Lastname}#=%=#Deriu
+Author{1}{Email}#=%=#jderiu@student.ethz.ch
+Author{1}{Affiliation}#=%=#ETH-Zürich
+Author{2}{Firstname}#=%=#Maurice
+Author{2}{Lastname}#=%=#Gonzenbach
+Author{2}{Email}#=%=#mauriceg@student.ethz.ch
+Author{2}{Affiliation}#=%=#ETH Zurich
+Author{3}{Firstname}#=%=#Fatih
+Author{3}{Lastname}#=%=#Uzdilli
+Author{3}{Email}#=%=#uzdi@zhaw.ch
+Author{3}{Affiliation}#=%=#Zurich University of Applied Sciences
+Author{4}{Firstname}#=%=#Aurelien
+Author{4}{Lastname}#=%=#Lucchi
+Author{4}{Email}#=%=#alucchi@inf.ethz.ch
+Author{4}{Affiliation}#=%=#ETH Zurich
+Author{5}{Firstname}#=%=#Valeria
+Author{5}{Lastname}#=%=#De Luca
+Author{5}{Email}#=%=#vdeluca@vision.ee.ethz.ch
+Author{5}{Affiliation}#=%=#ETH Zurich
+Author{6}{Firstname}#=%=#Martin
+Author{6}{Lastname}#=%=#Jaggi
+Author{6}{Email}#=%=#jaggi@inf.ethz.ch
+Author{6}{Affiliation}#=%=#ETH Zurich
+
+==========

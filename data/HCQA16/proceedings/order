@@ -1,0 +1,31 @@
+* Thursday, June 16, 2016
++ 9:00--9:15 Welcome
+
+= Invited Talks I
++ 9:15--9:50 Invited Talk by Ray Mooney
++ 9:50--10:25 Invited Talk by Jason Weston
++ 10:25--10:40 Coffee Break
+
+= Talks by Authors of Accepted Papers
+5   10:40-11:00 # Watson Discovery Advisor: Question-answering in an industrial setting
+8   11:00--11:20 # Crowdsourcing for (almost) Real-time Question Answering
+3   11:20--11:40 # Attention-Based Convolutional Neural Network for Machine Comprehension
++ 11:40--12:00 Invited Talk by Eunsol Choi
++ 12:00--1:15 Lunch
+
+= Invited Talks II
++ 13:15--13:50 Invited Talk by Peter Clark
++ 13:50--14:25 Invited Talk by Zhengdong Lu
++ 14:25--15:00 Invited Talk by Richard Socher
+
+= Poster Session
++ 15:00--15:15 Coffee Break
+6  15:15--16:00 # Open-domain Factoid Question Answering via Knowledge Graph Search
+7  15:15--16:00 # Neural Enquirer: Learning to Query Tables in Natural Language
+9  15:15--16:00 # Neural Generative Question Answering
+10 15:15--16:00 # "A Distorted Skull Lies in the Bottom Center..." Identifying Paintings from Text Descriptions
+11  15:15--16:00 # Using Confusion Graphs to Understand Classifier Error
+4   15:15--16:00 # Paraphrase for Open Question Answering: New Dataset and Methods
+
+= Exhibition Match
++ 16:00--17:15 Best Shared Task System vs. Human Quiz Bowl Team

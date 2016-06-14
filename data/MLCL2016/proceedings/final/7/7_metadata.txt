@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Enhancing Automatic Wordnet Construction Using Word Embeddings
+ShortPaperTitle#=%=#Enhancing Automatic Wordnet Construction Using Word Embeddings
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Feras Al Tarouti
+JobTitle#==#
+Organization#==#University of Colorado Colorado Springs
+1420 Austin Bluffs Pkwy
+Colorado Springs, CO 80918, USA
+Abstract#==#Researchers have shown that a wordnet for a new language, possibly
+resource-poor, can be constructed automatically by translating wordnets of
+resource-rich languages. The quality of these constructed wordnets is affected
+by the quality of the resources used such as dictionaries and translation
+methods in the construction process. Recent work shows that vector
+representation of words (word embeddings) can be used to discover related words
+in text. In this paper, we propose a method that performs such similarity
+computation using word embeddings to improve the quality of automatically
+constructed wordnets.
+Author{1}{Firstname}#=%=#Feras
+Author{1}{Lastname}#=%=#Al tarouti
+Author{1}{Email}#=%=#faltarou@uccs.edu
+Author{1}{Affiliation}#=%=#University of Colorado Colorado Springs
+Author{2}{Firstname}#=%=#Jugal
+Author{2}{Lastname}#=%=#Kalita
+Author{2}{Email}#=%=#jkalita@uccs.edu
+Author{2}{Affiliation}#=%=#University of Colorado
+
+==========

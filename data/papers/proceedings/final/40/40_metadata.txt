@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#Morphological Inflection Generation Using Character Sequence to Sequence Learning
+ShortPaperTitle#=%=#Morphological Inflection Generation Using Character Sequence to Sequence Learning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Manaal Faruqui
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Morphological inflection generation is the task of generating the inflected
+form of a given lemma corresponding to a particular linguistic transformation.
+We model the problem of inflection generation as a character sequence to
+sequence learning problem and present a variant of the neural encoder-decoder
+model for solving it. Our model is language independent and can be trained in
+both supervised and semi-supervised settings. We evaluate our system on seven
+datasets of morphologically rich languages and achieve either better or
+comparable results to existing state-of-the-art models of inflection
+generation.
+Author{1}{Firstname}#=%=#Manaal
+Author{1}{Lastname}#=%=#Faruqui
+Author{1}{Email}#=%=#manaalfar@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Tsvetkov
+Author{2}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Graham
+Author{3}{Lastname}#=%=#Neubig
+Author{3}{Email}#=%=#neubig@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Dyer
+Author{4}{Email}#=%=#cdyer@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#423
+FinalPaperTitle#=%=#ULISBOA at SemEval-2016 Task 12: Extraction of temporal expressions, clinical events and relations using IBEnt
+ShortPaperTitle#=%=#ULISBOA: Extraction of temporal expressions, clinical events and relations using IBEnt
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Márcia Cristina Afonso Barros
+JobTitle#==#
+Organization#==#LaSIGE, Departamento de Informática, Faculdade de Ciências, Universidade de Lisboa, 1749-016 Lisboa, Portugal
+Abstract#==#This paper describes our approach to participate on SemEval2016 Task12:
+Clinical TempEval. Our system was based on IBEnt, a framework to identify
+chemical entities and their relations in text using machine learning
+techniques. This system has two modules, one to identify chemical entities, and
+other to identify the pairs of entities that represent a chemical interaction
+in the same text. In this work we adapted both IBEnt modules to extract
+temporal expressions, event expressions and relations, by creating new CRF
+classifiers, lists and rules. The top result of our system was in phase2 for
+the identification of narrative container relations where it obtained the
+maximum score of precision (0.823) from all participants.
+Author{1}{Firstname}#=%=#Marcia
+Author{1}{Lastname}#=%=#Barros
+Author{1}{Email}#=%=#marcia.c.a.barros@gmail.com
+Author{1}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{2}{Firstname}#=%=#André
+Author{2}{Lastname}#=%=#Lamúrias
+Author{2}{Email}#=%=#andrelamurias@gmail.com
+Author{2}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{3}{Firstname}#=%=#Gonçalo
+Author{3}{Lastname}#=%=#Figueiró
+Author{3}{Email}#=%=#gfigueiro@gmail.com
+Author{3}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{4}{Firstname}#=%=#Marta
+Author{4}{Lastname}#=%=#Antunes
+Author{4}{Email}#=%=#mrtntns@gmail.com
+Author{4}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{5}{Firstname}#=%=#Joana
+Author{5}{Lastname}#=%=#Teixeira
+Author{5}{Email}#=%=#joana-santos-teixeira@hotmail.com
+Author{5}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{6}{Firstname}#=%=#Alexandre
+Author{6}{Lastname}#=%=#Pinheiro
+Author{6}{Email}#=%=#pinheiro.alexandre2@gmail.com
+Author{6}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+Author{7}{Firstname}#=%=#Francisco M.
+Author{7}{Lastname}#=%=#Couto
+Author{7}{Email}#=%=#fcouto@di.fc.ul.pt
+Author{7}{Affiliation}#=%=#LaSIGE, Faculdade de Ciências, Universidade de Lisboa
+
+==========

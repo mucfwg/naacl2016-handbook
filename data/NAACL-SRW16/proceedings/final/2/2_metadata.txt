@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Combining syntactic patterns and Wikipedia's hierarchy of hyperlinks to extract meronym relations
+ShortPaperTitle#=%=#Combining syntactic patterns and Wikipedia's hierarchy of hyperlinks to extract meronym relations
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Debela Tesfaye
+JobTitle#==#
+Organization#==#Addis Ababa University
+Addis Ababa
+Ethiopia
+Abstract#==#We present here two methods for extraction o, meronymic relation : (a) the
+first one relies solely on syntactic information. Unlike other approaches based
+on simple patterns, we determine their optimal combination to extract word
+pairs linked via a given semantic relation; (b) the second approach consists in
+combining syntactic patterns with the semantic information extracted from the
+Wikipedia hyperlink hierarchy (WHH) of the constituent words. By comparing our
+work with SemEval 2007 (Task 4 test set) and WordNet (WN) we found that our
+system clearly outperforms its competitors
+Author{1}{Firstname}#=%=#Debela Tesfaye
+Author{1}{Lastname}#=%=#Gemechu
+Author{1}{Email}#=%=#dabookoo@gmail.com
+Author{1}{Affiliation}#=%=#Addis Ababa University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Zock
+Author{2}{Email}#=%=#michael.zock@lif.univ-mrs.fr
+Author{2}{Affiliation}#=%=#Aix-Marseille Université and CNRS & LIF, France
+Author{3}{Firstname}#=%=#Solomon
+Author{3}{Lastname}#=%=#Teferra
+Author{3}{Email}#=%=#solomon_teferra_7@yahoo.com
+Author{3}{Affiliation}#=%=#Addis Ababa University, Ethiopia
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#370
+FinalPaperTitle#=%=#NTNUSentEval at SemEval-2016 Task 4: Combining General Classifiers for Fast Twitter Sentiment Analysis
+ShortPaperTitle#=%=#NTNUSentEval: Combining General Classifiers for Fast Twitter Sentiment Analysis
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Björn Gambäck
+JobTitle#==#
+Organization#==#
+Abstract#==#The paper describes experiments on sentiment classification of microblog
+messages using an architecture allowing general machine learning classifiers to
+be combined either sequentially to form a multi-step classifier, or in
+parallel, creating an ensemble classifier.
+The system achieved very competitive results in the shared task on sentiment
+analysis in Twitter, in particular on non-Twitter social media data, that is,
+input it was not specifically tailored to.
+Author{1}{Firstname}#=%=#Brage Ekroll
+Author{1}{Lastname}#=%=#Jahren
+Author{1}{Email}#=%=#brageej@stud.ntnu.no
+Author{1}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{2}{Firstname}#=%=#Valerij
+Author{2}{Lastname}#=%=#Fredriksen
+Author{2}{Email}#=%=#valerijf@stud.ntnu.no
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{3}{Firstname}#=%=#Björn
+Author{3}{Lastname}#=%=#Gambäck
+Author{3}{Email}#=%=#gamback@idi.ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology
+Author{4}{Firstname}#=%=#Lars
+Author{4}{Lastname}#=%=#Bungum
+Author{4}{Email}#=%=#larsbun@idi.ntnu.no
+Author{4}{Affiliation}#=%=#Norwegian University of Science and Technology
+
+==========

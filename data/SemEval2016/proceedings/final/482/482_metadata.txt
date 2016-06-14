@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#482
+FinalPaperTitle#=%=#NaCTeM at SemEval-2016 Task 1: Inferring sentence-level semantic similarity from an ensemble of complementary lexical and sentence-level features
+ShortPaperTitle#=%=#Inferring sentence-level semantic similarity from complementary lexical and sentence-level features
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Piotr Przybyła
+JobTitle#==#
+Organization#==#National Centre for Text Mining, University of Manchester
+131 Princess Street
+Manchester
+M1 7DN
+UK
+Abstract#==#We present a description of the system submitted to the Semantic Textual
+Similarity (STS) shared task at SemEval 2016. The task is to assess the degree
+to which two sentences carry the same meaning. We have designed two different
+methods to automatically compute a similarity score between sentences. The
+first method combines a variety of semantic similarity measures as features in
+a machine learning model. In our second approach, we employ training data from
+the Interpretable Similarity subtask to create a combined word-similarity
+measure and assess the importance of both aligned and unaligned words. Finally,
+we combine the two methods into a single hybrid model. Our best-performing run
+attains a score of 0.7732 on the 2015 STS evaluation data and 0.7488 on the
+2016 STS evaluation data.
+Author{1}{Firstname}#=%=#Piotr
+Author{1}{Lastname}#=%=#Przybyła
+Author{1}{Email}#=%=#piotr.przybyla@manchester.ac.uk
+Author{1}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{2}{Firstname}#=%=#Nhung T. H.
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#nhung.nguyen@manchester.ac.uk
+Author{2}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{3}{Firstname}#=%=#Matthew
+Author{3}{Lastname}#=%=#Shardlow
+Author{3}{Email}#=%=#matthew.shardlow@manchester.ac.uk
+Author{3}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{4}{Firstname}#=%=#Georgios
+Author{4}{Lastname}#=%=#Kontonatsios
+Author{4}{Email}#=%=#georgios.kontonatsios@manchester.ac.uk
+Author{4}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+Author{5}{Firstname}#=%=#Sophia
+Author{5}{Lastname}#=%=#Ananiadou
+Author{5}{Email}#=%=#sophia.ananiadou@manchester.ac.uk
+Author{5}{Affiliation}#=%=#National Centre for Text Mining, University of Manchester
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#367
+FinalPaperTitle#=%=#UW-CSE at SemEval-2016 Task 10: Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields
+ShortPaperTitle#=%=#Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mohammad Javad Hosseini
+JobTitle#==#
+Organization#==#University of Washington, Computer Science and Engineering Department, 185 Stevens Way
+Seattle WA 98195-2350
+Abstract#==#We describe our entry to  SemEval 2016 Task 10: Detecting Minimal Semantic
+Units and their Meanings.  Our approach uses a discriminative first-order
+sequence model similar to \newcite{schneider2015corpus}.  The chief novelty in
+our approach is a factorization of the labels into multiword expression and
+supersense labels, and restricting first-order dependencies within these two
+parts.                          Our submitted models achieved first place in the
+closed
+competition
+(CRF) and second place in the open competition (2-CRF).
+Author{1}{Firstname}#=%=#Mohammad Javad
+Author{1}{Lastname}#=%=#Hosseini
+Author{1}{Email}#=%=#hosseini@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington, Computer Science & Engineering
+Author{2}{Firstname}#=%=#Noah A.
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#nasmith@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Su-In
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#suinlee@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

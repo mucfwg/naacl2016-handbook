@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Unsupervised Modeling of Topical Relevance in L2 Learner Text
+ShortPaperTitle#=%=#Unsupervised Modeling of Topical Relevance in L2 Learner Text
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ronan Cummins
+JobTitle#==#
+Organization#==#Computer Laboratory
+University of Cambridge
+UK, CB3 0FD
+Abstract#==#The automated scoring of second-language
+(L2) learner text along various writing 
+dimensions is an increasingly active research area.
+In this paper, we focus on determining the topical 
+relevance of an essay to the prompt that
+elicited it. Given the burden involved in manually 
+assigning scores for use in training supervised 
+prompt-relevance models, we develop
+unsupervised models and show that they 
+correlate well with human judgements.
+
+We show that expanding prompts using
+topically-related words, via pseudo-relevance
+modelling, is beneficial and outperforms other
+distributional techniques. Finally, we incorporate 
+our prompt-relevance models into a supervised 
+essay scoring system that predicts a
+holistic score and show that it improves its
+performance.
+Author{1}{Firstname}#=%=#Ronan
+Author{1}{Lastname}#=%=#Cummins
+Author{1}{Email}#=%=#ron.cummins@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Helen
+Author{2}{Lastname}#=%=#Yannakoudakis
+Author{2}{Email}#=%=#helen.yannakoudakis@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Ted
+Author{3}{Lastname}#=%=#Briscoe
+Author{3}{Email}#=%=#ejb@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

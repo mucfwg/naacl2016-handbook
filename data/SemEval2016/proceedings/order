@@ -1,0 +1,240 @@
+* Thursday, June 16, 2016
+= Welcome
+! 09:00--09:15 Opening Remarks %by SemEval organizers
+= 09:15--10:30 Sentiment Analysis
+542 09:15--09:30  # SemEval-2016 Task 4: Sentiment Analysis in Twitter
+470 09:30--09:45  # SemEval-2016 Task 5: Aspect Based Sentiment Analysis
+445 09:45--10:00  # SemEval-2016 Task 6: Detecting Stance in Tweets
+493 10:00--10:15  # SemEval-2016 Task 7: Determining Sentiment Intensity of English and Arabic Phrases
+! 10:15--10:30 Sentiment Analysis Discussion %by Task Organizers
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Poster Session: Sentiment Analysis
+336   # CUFE at SemEval-2016 Task 4: A Gated Recurrent Model for Sentiment Classification
+349   # QCRI at SemEval-2016 Task 4: Probabilistic Methods for Binary and Ordinal Quantification
+350   # SteM at SemEval-2016 Task 4: Applying Active Learning to Improve Sentiment Classification
+351   # I2RNTU at SemEval-2016 Task 4: Classifier Fusion for Polarity Classification in Twitter
+352   # LyS at SemEval-2016 Task 4: Exploiting Neural Activation Values for Twitter Sentiment Classification and Quantification
+360   # TwiSE at SemEval-2016 Task 4: Twitter Sentiment Classification
+361   # ISTI-CNR at SemEval-2016 Task 4: Quantification on an Ordinal Scale
+364   # aueb.twitter.sentiment at SemEval-2016 Task 4: A Weighted Ensemble of SVMs for Twitter Sentiment Analysis
+366   # thecerealkiller at SemEval-2016 Task 4: Deep Learning based System for Classifying Sentiment of Tweets on Two Point Scale
+370   # NTNUSentEval at SemEval-2016 Task 4: Combining General Classifiers for Fast Twitter Sentiment Analysis
+397   # UDLAP at SemEval-2016 Task 4: Sentiment Quantification Using a Graph Based Representation
+411   # GTI at SemEval-2016 Task 4: Training a Naive Bayes Classifier using Features of an Unsupervised System
+414   # Aicyber at SemEval-2016 Task 4: i-vector based sentence representation
+424   # SwissCheese at SemEval-2016 Task 4: Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision
+426   # PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis
+435   # mib at SemEval-2016 Task 4a: Exploiting lexicon based features for Sentiment Analysis in Twitter
+442   # MDSENT at SemEval-2016 Task 4: A Supervised System for Message Polarity Classification
+444   # CICBUAPnlp at SemEval-2016 Task 4-A: Discovering Twitter Polarity using Enhanced Embeddings
+446   # Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis
+447   # Tweester at SemEval-2016 Task 4: Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation
+448   # UofL at SemEval-2016 Task 4: Multi Domain word2vec for Twitter Sentiment Classification
+457   # NRU-HSE at SemEval-2016 Task 4: Comparative Analysis of Two Iterative Methods Using Quantification Library
+462   # INSIGHT-1 at SemEval-2016 Task 4: Convolutional Neural Networks for Sentiment Classification and Quantification
+466   # UNIMELB at SemEval-2016 Tasks 4A and 4B: An Ensemble of Neural Networks and a Word2Vec Based Model for Sentiment Classification
+476   # SentiSys at SemEval-2016 Task 4: Feature-Based System for Sentiment Analysis in Twitter
+481   # DSIC-ELIRF at SemEval-2016 Task 4: Message Polarity Classification in Twitter using a Support Vector Machine Approach
+488   # SENSEI-LIF at SemEval-2016 Task 4: Polarity embedding fusion for robust sentiment analysis
+494   # DiegoLab16 at SemEval-2016 Task 4: Sentiment Analysis in Twitter using Centroids, Clusters, and Sentiment Lexicons
+502   # VCU-TSA at Semeval-2016 Task 4: Sentiment Analysis in Twitter
+504   # UniPI at SemEval-2016 Task 4: Convolutional Neural Networks for Sentiment Classification
+506   # IIP at SemEval-2016 Task 4: Prioritizing Classes in Ensemble Classification for Sentiment Analysis of Tweets
+507   # PotTS at SemEval-2016 Task 4: Sentiment Analysis of Twitter Using Character-level Convolutional Neural Networks.
+509   # INESC-ID at SemEval-2016 Task 4-A: Reducing the Problem of Out-of-Embedding Words
+519   # SentimentalITsts at SemEval-2016 Task 4: building a Twitter sentiment analyzer in your backyard
+520   # Minions at SemEval-2016 Task 4: or how to build a sentiment analyzer using off-the-shelf resources?
+532   # YZU-NLP Team at SemEval-2016 Task 4: Ordinal Sentiment Classification Using a Recurrent Convolutional Network
+536   # ECNU at SemEval-2016 Task 4: An Empirical Investigation of Traditional NLP Features and Word Embedding Features for Sentence-level and Topic-level Sentiment Analysis in Twitter
+537   # OPAL at SemEval-2016 Task 4: the Challenge of Porting a Sentiment Analysis System to the "Real" World
+331   # Know-Center at SemEval-2016 Task 5: Using Word Vectors with Typed Dependencies for Opinion Target Expression Extraction
+333   # NileTMRG at SemEval-2016 Task 5: Deep Convolutional Neural Networks for Aspect Category and Sentiment Extraction
+343   # XRCE at SemEval-2016 Task 5: Feedbacked Ensemble Modeling on Syntactico-Semantic Knowledge for Aspect Based Sentiment Analysis
+346   # NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features
+372   # bunji at SemEval-2016 Task 5: Neural and Syntactic Models of Entity-Attribute Relationship for Aspect-based Sentiment Analysis
+383   # IHS-RD-Belarus at SemEval-2016 Task 5: Detecting Sentiment Polarity Using the Heatmap of Sentence
+405   # BUTknot at SemEval-2016 Task 5: Supervised Machine Learning with Term Substitution Approach in Aspect Category Detection
+413   # IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis
+416   # GTI at SemEval-2016 Task 5: SVM and CRF for Aspect Detection and Unsupervised Aspect-Based Sentiment Analysis
+440   # AUEB-ABSA at SemEval-2016 Task 5: Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis
+449   # AKTSKI at SemEval-2016 Task 5: Aspect Based Sentiment Analysis for Consumer Reviews
+456   # MayAnd at SemEval-2016 Task 5: Syntactic and word2vec-based approach to aspect-based polarity detection in Russian
+464   # INSIGHT-1 at SemEval-2016 Task 5: Deep Learning for Multilingual Aspect-based Sentiment Analysis
+473   # TGB at SemEval-2016 Task 5: Multi-Lingual Constraint System for Aspect Based Sentiment Analysis
+475   # UWB at SemEval-2016 Task 5: Aspect Based Sentiment Analysis
+477   # SentiSys at SemEval-2016 Task 5: Opinion Target Extraction and Sentiment Polarity Detection
+480   # COMMIT at SemEval-2016 Task 5: Sentiment Analysis with Rhetorical Structure Theory
+483   # ECNU at SemEval-2016 Task 5: Extracting Effective Features from Relevant Fragments in Sentence for Aspect-Based Sentiment Analysis in Reviews
+489   # UFAL at SemEval-2016 Task 5: Recurrent Neural Networks for Sentence Classification
+497   # UWaterloo at SemEval-2016 Task 5: Minimally Supervised Approaches to Aspect-Based Sentiment Analysis
+338   # INF-UFRGS-OPINION-MINING at SemEval-2016 Task 6: Automatic Generation of a Training Corpus for Unsupervised Identification of Stance in Tweets
+339   # pkudblab at SemEval-2016 Task 6 : A Specific Convolutional Neural Network System for Effective Stance Detection
+355   # USFD at SemEval-2016 Task 6: Any-Target Stance Detection on Twitter with Autoencoders
+373   # IUCL at SemEval-2016 Task 6: An Ensemble Model for Stance Detection in Twitter
+375   # Tohoku at SemEval-2016 Task 6: Feature-based Model versus Convolutional Neural Network for Stance Detection
+381   # UWB at SemEval-2016 Task 6: Stance Detection
+402   # DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs
+420   # NLDS-UCSC at SemEval-2016 Task 6: A Semi-Supervised Approach to Detecting Stance in Tweets
+421   # ltl.uni-due at SemEval-2016 Task 6: Stance Detection in Social Media Using Stacked Classifiers
+422   # CU-GWU Perspective at SemEval-2016 Task 6: Ideological Stance Detection in Informal Text
+434   # JU_NLP at SemEval-2016 Task 6: Detecting Stance in Tweets using Support Vector Machines
+439   # IDI@NTNU at SemEval-2016 Task 6: Detecting Stance in Tweets Using Shallow Features and GloVe Vectors for Word Representation
+474   # ECNU at SemEval 2016 Task 6: Relevant or Not? Supportive or Not? A Two-step Learning System for Automatic Detecting Stance in Tweets
+512   # MITRE at SemEval-2016 Task 6: Transfer Learning for Stance Detection
+516   # TakeLab at SemEval-2016 Task 6: Stance Classification in Tweets Using a Genetic Algorithm Based Ensemble
+354   # LSIS at SemEval-2016 Task 7: Using Web Search Engines for English and Arabic Unsupervised Sentiment Intensity Prediction
+378   # iLab-Edinburgh at SemEval-2016 Task 7: A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases
+393   # UWB at SemEval-2016 Task 7: Novel Method for Automatic Sentiment Intensity Determination
+398   # NileTMRG at SemEval-2016 Task 7: Deriving Prior Polarities for Arabic Sentiment Terms
+530   # ECNU at SemEval-2016 Task 7: An Enhanced Supervised Learning Method for Lexicon Sentiment Intensity Ranking
++ 12:30--02:00 Lunch
+= 02:00--03:30 Textual Similarity, Question Answering and Semantic Analysis
+#548 02:00--02:15 # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # SemEval-2016 Task 1: Semantic Textual Similarity, Monolingual and Cross-Lingual Evaluation
+500 02:15--02:30  # SemEval-2016 Task 2: Interpretable Semantic Textual Similarity
+545 02:30--02:45  # SemEval-2016 Task 3: Community Question Answering
+515 02:45--03:00  # SemEval-2016 Task 10: Detecting Minimal Semantic Units and their Meanings (DiMSUM)
+363 03:00--03:15  # SemEval 2016 Task 11: Complex Word Identification
+! 03:15--03:30 Textual Similarity and Question Answering Discussion %by Task Organizers
++ 03:30--04:00 Coffee Break
+= 04:00--05:30 Poster Session: Textual Similarity, and Question Answering
+384   # FBK HLT-MT at SemEval-2016 Task 1: Cross-lingual Semantic Similarity Measurement Using Quality Estimation Features and Compositional Bilingual Word Embeddings
+408   # VRep at SemEval-2016 Task 1 and Task 2: A System for Interpretable Semantic Similarity
+428   # UTA DLNLP at SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation
+430   # UWB at SemEval-2016 Task 1: Semantic Textual Similarity using Lexical, Syntactic, and Semantic Information
+436   # HHU at SemEval-2016 Task 1: Multiple Approaches to Measuring Semantic Textual Similarity
+454   # Samsung Poland NLP Team at SemEval-2016 Task 1: Necessity for diversity; combining recursive autoencoders, WordNet and ensemble methods to measure semantic similarity.
+460   # USFD at SemEval-2016 Task 1: Putting different State-of-the-Arts into a Box
+482   # NaCTeM at SemEval-2016 Task 1: Inferring sentence-level semantic similarity from an ensemble of complementary lexical and sentence-level features
+486   # ECNU at SemEval-2016 Task 1: Leveraging Word Embedding From Macro and Micro Views to Boost Performance for Semantic Textual Similarity
+501   # SAARSHEFF at SemEval-2016 Task 1: Semantic Textual Similarity with Machine Translation Evaluation Metrics and (eXtreme) Boosted Tree Ensembles
+508   # WOLVESAAR at SemEval-2016 Task 1: Replicating the Success of Monolingual Word Alignment and Neural Embeddings for Semantic Textual Similarity
+514   # DTSim at SemEval-2016 Task 1: Semantic Similarity Model Including Multi-Level Alignment and Vector-Based Compositional Semantics
+521   # ISCAS_NLP at SemEval-2016 Task 1: Sentence Similarity Based on Support Vector Regression using Multiple Features
+528   # UMD-TTIC-UW at SemEval-2016 Task 1: Attention-Based Multi-Perspective Convolutional Neural Networks for Textual Similarity Measurement
+534   # DLS@CU at SemEval-2016 Task 1: Supervised Models of Sentence Similarity
+544   # DCU-SEManiacs at SemEval-2016 Task 1: Synthetic Paragram Embeddings for Semantic Textual Similarity
+334   # iUBC at SemEval-2016 Task 2: RNNs and LSTMs for interpretable STS
+340   # Rev at SemEval-2016 Task 2: Aligning Chunks by Lexical, Part of Speech and Semantic Equivalence
+344   # Inspire at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity Alignment based on Answer Set Programming
+387   # FBK-HLT-NLP at SemEval-2016 Task 2: A Multitask, Deep Learning Approach for Interpretable Semantic Textual Similarity
+401   # IISCNLP at SemEval-2016 Task 2: Interpretable STS with ILP based Multiple Chunk Aligner
+431   # VENSESEVAL at Semeval-2016 Task 2 iSTS - with a full-fledged rule-based approach
+465   # UWB at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity with Distributional Semantics for Chunks
+513   # DTSim at SemEval-2016 Task 2: Interpreting Similarity of Texts Based on Automated Chunking, Chunk Alignment and Semantic Relation Prediction
+337   # UH-PRHLT at SemEval-2016 Task 3: Combining Lexical and Semantic-based Features for Community Question Answering
+345   # RDI_Team at SemEval-2016 Task 3: RDI Unsupervised Framework for Text Ranking
+377   # KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers
+395   # SLS at SemEval-2016 Task 3: Neural-based Approaches for Ranking in Community Question Answering
+429   # SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering
+437   # PMI-cool at SemEval-2016 Task 3: Experiments with PMI and Goodness Polarity Lexicons for Community Question Answering
+451   # UniMelb at SemEval-2016 Task 3: Identifying Similar Questions by combining a CNN with String Similarity Measures
+467   # ICL00 at SemEval-2016 Task 3: Translation-Based Method for CQA System
+517   # Overfitting at SemEval-2016 Task 3: Detecting Semantically Similar Questions in Community Question Answering Forums with Word Embeddings
+523   # QU-IR at SemEval 2016 Task 3: Learning to Rank on Arabic Community Question Answering Forums with Word Embedding
+525   # ECNU at SemEval-2016 Task 3: Exploring Traditional Method and Deep Learning Method for Question Retrieval and Answer Ranking in Community Question Answering
+529   # SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings
+533   # MTE-NN at SemEval-2016 Task 3: Can Machine Translation Evaluation Help Community Question Answering?
+539   # ConvKN at SemEval-2016 Task 3: Answer and Question Selection for Question Answering on Arabic and English Fora
+540   # ITNLP-AiKF at SemEval-2016 Task 3 a quesiton answering system using community QA repository
+332   # UFRGS&LIF at SemEval-2016 Task 10: Rule-Based MWE Identification and Predominant-Supersense Tagging
+347   # WHUNlp at SemEval-2016 Task DiMSUM: A Pilot Study in Detecting Minimal Semantic Units and their Meanings using Supervised Models
+359   # UTU at SemEval-2016 Task 10: Binary Classification for Expression Detection (BCED)
+367   # UW-CSE at SemEval-2016 Task 10: Detecting Multiword Expressions and Supersenses using Double-Chained Conditional Random Fields
+433   # ICL-HD at SemEval-2016 Task 10: Improving the Detection of Minimal Semantic Units and their Meanings with an Ontology and Word Embeddings
+531   # VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)
+341   # PLUJAGH at SemEval-2016 Task 11: Simple System for Complex Word Identification
+357   # USAAR at SemEval-2016 Task 11: Complex Word Identification with Sense Entropy and Sentence Perplexity
+358   # Sensible at SemEval-2016 Task 11: Neural Nonsense Mangled in Ensemble Mess
+362   # SV000gg at SemEval-2016 Task 11: Heavy Gauge Complex Word Identification with System Voting
+369   # Melbourne at SemEval 2016 Task 11: Classifying Type-level Word Complexity using Random Forests with Corpus and Word List Features
+371   # CLaC at SemEval-2016 Task 11: Exploring linguistic and psycho-linguistic Features for Complex Word Identification
+379   # JU_NLP at SemEval-2016 Task 11: Identifying Complex Words in a Sentence
+390   # MAZA at SemEval-2016 Task 11: Detecting Lexical Complexity Using a Decision Stump Meta-Classifier
+391   # LTG at SemEval-2016 Task 11: Complex Word Identification with Classifier Ensembles
+394   # MacSaar at SemEval-2016 Task 11: Zipfian and Character Features for ComplexWord Identification
+415   # Garuda & Bhasha at SemEval-2016 Task 11: Complex Word Identification Using Aggregated Learning Models
+427   # TALN at SemEval-2016 Task 11: Modelling Complex Words by Contextual, Lexical and Semantic Features
+432   # IIIT at SemEval-2016 Task 11: Complex Word Identification using Nearest Centroid Classification
+472   # AmritaCEN at SemEval-2016 Task 11: Complex Word Identification using Word Embedding
+487   # CoastalCPH at SemEval-2016 Task 11: The importance of designing your Neural Networks right
+495   # HMC at SemEval-2016 Task 11: Identifying Complex Words Using Depth-limited Decision Trees
+498   # UWB at SemEval-2016 Task 11: Exploring Features for Complex Word Identification
+499   # AI-KU at SemEval-2016 Task 11: Word Embeddings and Substring Features for Complex Word Identification
+503   # Pomona at SemEval-2016 Task 11: Predicting Word Complexity Based on Corpus Frequency
+* Friday, June 17, 2016
+= 09:00--10:30 Perspectives
+! 09:00--09:30 SemEval-2017 Preview %by SemEval organizers
++ 09:30--10:30 Invited Talk
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Semantic Analysis, Semantic Parsing and Semantic Taxonomy
+407 11:00--11:15  # SemEval-2016 Task 12: Clinical TempEval
+443 11:15--11:30  # SemEval-2016 Task 8: Meaning Representation Parsing
+546 11:30--11:45  # SemEval-2016 Task 9: Chinese Semantic Dependency Parsing
+468 11:45--12:00  # SemEval-2016 Task 13: Taxonomy Extraction Evaluation (TExEval-2)
+538 12:00--12:15  # SemEval-2016 Task 14: Semantic Taxonomy Enrichment
++ 12:30--02:00 Lunch
+= 02:00--03:30 Best Of SemEval
+#528 02:00--02:15 # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # UMD-TTIC-UW at SemEval-2016 Task 1: Attention-Based Multi-Perspective Convolutional Neural Networks for Textual Similarity Measurement
+#344 02:15--02:30 # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Inspire at SemEval-2016 Task 2: Interpretable Semantic Textual Similarity Alignment based on Answer Set Programming
+#377 02:30--02:45 # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # KeLP at SemEval-2016 Task 3: Learning Semantic Relations between Questions and Answers
+#424 02:45--03:00 # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # SwissCheese at SemEval-2016 Task 4: Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision
+#413 03:00--03:15 # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis
+458 03:15--03:30  # LIMSI-COT at SemEval-2016 Task 12: Temporal relation identification using a pipeline of classifiers
++ 03:30--04:00 Coffee Break
+= 04:00--05:30 Poster Session: Semantic Analysis, Parsing, and Taxonomy
+325   # RIGA at SemEval-2016 Task 8: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy
+328   # DynamicPower at SemEval-2016 Task 8: Processing syntactic parse trees with a Dynamic Semantics core
+330   # M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks
+342   # ICL-HD at SemEval-2016 Task 8: Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network
+388   # UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound
+419   # CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser
+484   # The Meaning Factory at SemEval-2016 Task 8: Producing AMRs with Boxer
+491   # UofR at SemEval-2016 Task 8: Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing
+518   # CLIP@UMD at SemEval-2016 Task 8: Parser for Abstract Meaning Representation using Learning to Search
+522   # CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks
+535   # CMU at SemEval-2016 Task 8: Graph-based AMR Parsing with Infinite Ramp Loss
+385   # IHS-RD-Belarus at SemEval-2016 Task 9: Transition-based Chinese Semantic Dependency Parsing with Online Reordering and Bootstrapping.
+392   # OCLSP at SemEval-2016 Task 9: Multilayered LSTM as a Neural Semantic Dependency Parser
+399   # OSU_CHGCG at SemEval-2016 Task 9 : Chinese Semantic Dependency Parsing with Generalized Categorial Grammar
+335   # LIMSI at SemEval-2016 Task 12: machine-learning and temporal information to identify clinical events and time expressions
+353   # Hitachi at SemEval-2016 Task 12: A Hybrid Approach for Temporal Information Extraction from Clinical Notes
+356   # CDE-IIITH at SemEval-2016 Task 12: Extraction of Temporal Information from Clinical documents using Machine Learning techniques
+376   # VUACLTL at SemEval 2016 Task 12: A CRF Pipeline to Clinical TempEval
+406   # GUIR at SemEval-2016 task 12: Temporal Information Processing for Clinical Narratives
+417   # UtahBMI at SemEval-2016 Task 12: Extracting Temporal Information from Clinical Text
+423   # ULISBOA at SemEval-2016 Task 12: Extraction of temporal expressions, clinical events and relations using IBEnt
+425   # UTA DLNLP at SemEval-2016 Task 12: Deep Learning Based Natural Language Processing System for Clinical Information Identification from Clinical Notes and Pathology Reports
+455   # Brundlefly at SemEval-2016 Task 12: Recurrent Neural Networks vs. Joint Inference for Clinical Temporal Information Extraction
+#458  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # LIMSI-COT at SemEval-2016 Task 12: Temporal relation identification using a pipeline of classifiers
+471   # KULeuven-LIIR at SemEval 2016 Task 12: Detecting Narrative Containment in Clinical Records
+478   # CENTAL at SemEval-2016 Task 12: a linguistically fed CRF model for medical and temporal information extraction
+490   # UTHealth at SemEval-2016 Task 12: an End-to-End System for Temporal Information Extraction from Clinical Notes
+348   # NUIG-UNLP at SemEval-2016 Task 13: A Simple Word Embedding-based Approach for Taxonomy Extraction
+368   # USAAR at SemEval-2016 Task 13: Hyponym Endocentricity
+389   # JUNLP at SemEval-2016 Task 13: A Language Independent Approach for Hypernym Identification
+404   # QASSIT at SemEval-2016 Task 13: On the integration of Semantic Vectors in Pretopological Spaces for Lexical Taxonomy Acquisition
+418   # TAXI at SemEval-2016 Task 13: a Taxonomy Induction Method based on Lexico-Syntactic Patterns, Substrings and Focused Crawling
+374   # Duluth at SemEval 2016 Task 14: Extending Gloss Overlaps to Enrich Semantic Taxonomies
+380   # TALN at SemEval-2016 Task 14: Semantic Taxonomy Enrichment Via Sense-Based Embeddings
+386   # MSejrKu at SemEval-2016 Task 14: Taxonomy Enrichment by Evidence Ranking
+396   # Deftor at SemEval-2016 Task 14: Taxonomy enrichment using definition vectors
+485   # UMNDuluth at SemEval-2016 Task 14: WordNet___s Missing Lemmas
+492   # VCU at Semeval-2016 Task 14: Evaluating definitional-based similarity measure for semantic taxonomy enrichment
+409   # GWU NLP at SemEval-2016 Shared Task 1: Matrix Factorization for Crosslingual STS
+412   # CNRC: Experiments in Crosslingual Semantic Textual Similarity
+438   # MayoNLP at SemEval-2016 Task 1: Semantic Textual Similarity based on Lexical Semantic Net and Deep Learning Semantic Model
+441   # UoB-UK: A Flexible and Extendable System for Semantic Text Similarity using Types, Surprise and Phrase Linking
+450   # BIT at SemEval-2016 Task 1: Sentence Similarity Based on Alignments and Vector with the Weight of Information Content
+453   # RICOH at SemEval-2016 Task 1: IR-based Semantic Textual Similarity Estimation
+461   # IHS-RD-Belarus at SemEval-2016 Task 1: Multistage Approach for Measuring Semantic Similarity
+463   # JUNITMZ: Identifying Semantic Similarity Using Levenshtein Ratio
+469   # Amrita_CEN at SemEval-2016 Task Semantic Textual Similarity : Semantic Relation from Word Embeddings in Higher Dimension
+479   # NUIG-UNLP at SemEval-2016 Task 1: Soft Alignment and Deep Learning for Semantic Textual Similarity
+496   # SEMSIM: A Multi-Feature Approach to Semantic Text Similarity
+505   # LIPN-IIMAS at SemEval-2016 Task STS: Random Forest Regression Experiments on Align-and-Differentiate and Word Embeddings penalizing strategies
+510   # UNBNLP at SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation
+511   # ASOBEK at SemEval-2016 Task 1: Sentence Representation with Character N-gram Embeddings for Semantic Textual Similarity
+524   # SimiHawk at SemEval-2016 Task 1: A Deep Ensemble System for Semantic Textual Similarity
+541   # SERGIOJIMENEZ at SemEval-2016 Task-1: Effectively Combining Paraphrase Database, String Matching, WordNet, and Word Embedding for Semantic Textual Similarity
+543   # RTM at SemEval-2016 Task 1: Predicting Semantic Similarity with Referential Translation Machines and Related Statistics
+547   # DalGTM at SemEval-2016 Task 1: Importance-Aware Compositional Approach to Short Text Similarity

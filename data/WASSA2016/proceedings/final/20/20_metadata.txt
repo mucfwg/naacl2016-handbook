@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Domain Adaptation of Polarity Lexicon combining Term Frequency and Bootstrapping
+ShortPaperTitle#=%=#Domain Adaptation of Polarity Lexicon combining Term Frequency and Bootstrapping
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Salud María Jiménez-Zafra
+JobTitle#==#
+Organization#==#Department of Computer Science, Universidad de Jaén (Spain).Campus Las Lagunillas, E-23071, Jaén, Spain
+Abstract#==#In this paper we study several approaches to adapting a polarity lexicon to a
+specific domain. On the one hand, the domain adaptation using Term Frequency
+(TF) and on the other hand, the domain adaptation using pattern matching with a
+BootStrapping algorithm (BS). Both methods are corpus based and start with the
+same polarity lexicon, but the first one requires an annotated collection of
+documents while the second one only needs a corpus where it looks for
+linguistic patterns. The performance of both methods overcomes the baseline
+system using the general polarity lexicon iSOL. However, although the TF
+approach achieves very promising results, the BS strategy does not give as much
+improvement as we expected. For this reason we have combined both methods, in
+order to take advantage of the positive aspects of each one. With this new
+approach the results obtained are even better that those with the systems
+applied individually. Actually, we have achieved a significant improvement of
+11.50% (in terms of accuracy) in the polarity classification of the movie
+reviews with respect to the results achieved with the general purpose lexicon
+iSOL.
+Author{1}{Firstname}#=%=#Salud María
+Author{1}{Lastname}#=%=#Jiménez-Zafra
+Author{1}{Email}#=%=#sjzafra@ujaen.es
+Author{1}{Affiliation}#=%=#Universidad de Jaén
+Author{2}{Firstname}#=%=#Maite
+Author{2}{Lastname}#=%=#Martin
+Author{2}{Email}#=%=#maite@ujaen.es
+Author{2}{Affiliation}#=%=#Univeristy of Jaen
+Author{3}{Firstname}#=%=#M. Dolores
+Author{3}{Lastname}#=%=#Molina González
+Author{3}{Email}#=%=#mdmolina@ujaen.es
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#L. Alfonso
+Author{4}{Lastname}#=%=#Urena Lopez
+Author{4}{Email}#=%=#laurena@ujaen.es
+Author{4}{Affiliation}#=%=#University of Jaen
+
+==========

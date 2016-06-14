@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#The Effect of Multiple Grammatical Errors on Processing Non-Native Writing
+ShortPaperTitle#=%=#The Effect of Multiple Grammatical Errors on Processing Non-Native Writing
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#courtney
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N Charles St
+Baltimore, MD 21118
+Abstract#==#In this work, we estimate the deterioration of NLP processing given an estimate
+of the amount and nature of grammatical errors in a text. From a corpus of
+essays written by English-language learners, we extract ungrammatical
+sentences, controlling the number and types of errors in each sentence. We
+focus on six categories of errors that are commonly made by English-language
+learners, and consider sentences containing one or more of these errors.
+To evaluate the effect of grammatical errors, we measure the deterioration of
+the ungrammatical dependency parses using the labeled F-score, an adaptation of
+the labeled attachment score. We find notable differences between the influence
+of individual error types on the dependency parse, as well as interactions
+between multiple errors.
+Author{1}{Firstname}#=%=#Courtney
+Author{1}{Lastname}#=%=#Napoles
+Author{1}{Email}#=%=#cdnapoles@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Aoife
+Author{2}{Lastname}#=%=#Cahill
+Author{2}{Email}#=%=#acahill@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+Author{3}{Firstname}#=%=#Nitin
+Author{3}{Lastname}#=%=#Madnani
+Author{3}{Email}#=%=#nmadnani@ets.org
+Author{3}{Affiliation}#=%=#Educational Testing Service
+
+==========

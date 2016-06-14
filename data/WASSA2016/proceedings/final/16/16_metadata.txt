@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Threat detection in online discussions
+ShortPaperTitle#=%=#Threat detection in online discussions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aksel Wester
+JobTitle#==#
+Organization#==#Department of Informatics, University of Oslo,
+Gaustadalléen 23 B, 0373 Oslo, Norway
+Abstract#==#This paper investigates the effect of various types of linguistic features
+(lexical, syntactic and semantic) for training classifiers to detect threats of
+violence in a corpus of YouTube comments. Our results show that combinations of
+lexical features outperform the use of more complex syntactic and semantic
+features for this task.
+Author{1}{Firstname}#=%=#Aksel
+Author{1}{Lastname}#=%=#Wester
+Author{1}{Email}#=%=#aksellw@ifi.uio.no
+Author{1}{Affiliation}#=%=#University of Oslo
+Author{2}{Firstname}#=%=#Lilja
+Author{2}{Lastname}#=%=#Øvrelid
+Author{2}{Email}#=%=#liljao@ifi.uio.no
+Author{2}{Affiliation}#=%=#Dept of Informatics, University of Oslo
+Author{3}{Firstname}#=%=#Erik
+Author{3}{Lastname}#=%=#Velldal
+Author{3}{Email}#=%=#erikve@ifi.uio.no
+Author{3}{Affiliation}#=%=#University of Oslo
+Author{4}{Firstname}#=%=#Hugo Lewi
+Author{4}{Lastname}#=%=#Hammer
+Author{4}{Email}#=%=#hugo.hammer@hioa.no
+Author{4}{Affiliation}#=%=#Oslo and Akershus University College
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#460
+FinalPaperTitle#=%=#USFD at SemEval-2016 Task 1: Putting different State-of-the-Arts into a Box
+ShortPaperTitle#=%=#USFD at SemEval-2016 Task 1: Putting different State-of-the-Arts into a Box
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ahmet Aker
+JobTitle#==#Research Fellow
+Organization#==#University of Sheffield, Sheffield
+Abstract#==#In this paper we describe our participation in the STS Core subtask which is
+the determination of the monolingual semantic similarity between pair of
+sentences.
+In our participation we adapted state-of-the-art approaches from related work
+applied on previous STS Core subtasks and run them on the 2016 data.
+We investigated the performance of single methods but also the combination of
+them.
+Our results show that Convolutional Neural Networks (CNN) are superior to both
+the Monolingual Word Alignment and the Word2Vec approaches.
+The combination of all the three methods performs slightly better than using
+CNN only.
+Our results also show that the performance of our systems varies between the
+datasets.
+Author{1}{Firstname}#=%=#Ahmet
+Author{1}{Lastname}#=%=#Aker
+Author{1}{Email}#=%=#a.aker@dcs.shef.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Frederic
+Author{2}{Lastname}#=%=#Blain
+Author{2}{Email}#=%=#f.blain@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Andres
+Author{3}{Lastname}#=%=#Duque
+Author{3}{Email}#=%=#andres.duq.fer@gmail.com
+Author{3}{Affiliation}#=%=#University of Madrid
+Author{4}{Firstname}#=%=#Marina
+Author{4}{Lastname}#=%=#Fomicheva
+Author{4}{Email}#=%=#marina.fomicheva@upf.edu
+Author{4}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{5}{Firstname}#=%=#Jurica
+Author{5}{Lastname}#=%=#Seva
+Author{5}{Email}#=%=#j.seva@sheffield.ac.uk
+Author{5}{Affiliation}#=%=#University of Sheffield
+Author{6}{Firstname}#=%=#Kashif
+Author{6}{Lastname}#=%=#Shah
+Author{6}{Email}#=%=#kashif.shah@sheffield.ac.uk
+Author{6}{Affiliation}#=%=#University of Sheffield
+
+==========

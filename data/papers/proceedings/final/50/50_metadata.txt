@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#50
+FinalPaperTitle#=%=#A Corpus and Semantic Parser for Multilingual Natural Language Querying of OpenStreetMap
+ShortPaperTitle#=%=#A Corpus and Semantic Parser for Multilingual Natural Language Querying of OpenStreetMap
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Stefan Riezler
+JobTitle#==#Professor
+Organization#==#Heidelberg University
+Im Neuenheimer Feld 325
+69120 Heidelberg
+Germany
+Abstract#==#We present a corpus of 2,380 natural language queries paired with machine
+readable formulae that can be executed against world wide geographic data of
+the OpenStreetMap (OSM) database. We use the corpus to learn an accurate
+semantic parser that builds the basis of a natural language interface to OSM.
+Furthermore, we use response-based learning on parser feedback to adapt a
+statistical machine translation system for multilingual database access to OSM.
+Our framework allows to map fuzzy natural language expressions such as
+``nearby'', ``north of'', or ``in walking distance'' to spatial polygons on an
+interactive map. Furthermore, it combines syntactic complexity and
+compositionality with a reasonable lexical variability of queries, making it an
+interesting new publicly available dataset for research on semantic parsing.
+Author{1}{Firstname}#=%=#Carolin
+Author{1}{Lastname}#=%=#Haas
+Author{1}{Email}#=%=#haas1@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+Author{2}{Firstname}#=%=#Stefan
+Author{2}{Lastname}#=%=#Riezler
+Author{2}{Email}#=%=#riezler@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg University
+
+==========

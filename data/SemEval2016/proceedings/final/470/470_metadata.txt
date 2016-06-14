@@ -1,0 +1,89 @@
+SubmissionNumber#=%=#470
+FinalPaperTitle#=%=#SemEval-2016 Task 5: Aspect Based Sentiment Analysis
+ShortPaperTitle#=%=#SemEval-2016 Task 5: Aspect Based Sentiment Analysis
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Maria Pontiki
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the SemEval 2016 shared task on Aspect Based Sentiment
+Analysis (ABSA), a continuation of the respective tasks of 2014 and 2015. In
+its third year, the task provided 19 training and 20 testing datasets for 8
+languages and 7 domains, as well as a common evaluation procedure. From these
+datasets, 25 were for sentence-level and 14 for text-level ABSA; the latter was
+introduced for
+the first time as a subtask in SemEval. The task attracted 245 submissions from
+29 teams.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Pontiki
+Author{1}{Email}#=%=#mpontiki@ilsp.gr
+Author{1}{Affiliation}#=%=#Institute for Language and Speech Processing (ILSP), Athena R.C., Greece
+Author{2}{Firstname}#=%=#Dimitris
+Author{2}{Lastname}#=%=#Galanis
+Author{2}{Email}#=%=#galanisd@gmail.com
+Author{2}{Affiliation}#=%=#Institute for Language and Speech Processing, Athena Research Center
+Author{3}{Firstname}#=%=#Haris
+Author{3}{Lastname}#=%=#Papageorgiou
+Author{3}{Email}#=%=#xaris@ilsp.athena-innovation.gr
+Author{3}{Affiliation}#=%=#Institute for Language and Speech Processing  ILSP/ ATHENA R.C.
+Author{4}{Firstname}#=%=#Ion
+Author{4}{Lastname}#=%=#Androutsopoulos
+Author{4}{Email}#=%=#ionandr@gmail.com
+Author{4}{Affiliation}#=%=#Athens University of Economics and Business
+Author{5}{Firstname}#=%=#Suresh
+Author{5}{Lastname}#=%=#Manandhar
+Author{5}{Email}#=%=#suresh@cs.york.ac.uk
+Author{5}{Affiliation}#=%=#University of York
+Author{6}{Firstname}#=%=#Mohammad
+Author{6}{Lastname}#=%=#AL-Smadi
+Author{6}{Email}#=%=#maalsmadi9@just.edu.jo
+Author{6}{Affiliation}#=%=#Jordan University of Science and Technology, Computer Science Department, Irbid, Jordan
+Author{7}{Firstname}#=%=#Mahmoud
+Author{7}{Lastname}#=%=#Al-Ayyoub
+Author{7}{Email}#=%=#maalshbool@just.edu.jo
+Author{7}{Affiliation}#=%=#Jordan University of Science and Technology, Computer Science Department, Irbid, Jordan
+Author{8}{Firstname}#=%=#Yanyan
+Author{8}{Lastname}#=%=#Zhao
+Author{8}{Email}#=%=#zyyster@gmail.com
+Author{8}{Affiliation}#=%=#Harbin Institute of Technology
+Author{9}{Firstname}#=%=#Bing
+Author{9}{Lastname}#=%=#Qin
+Author{9}{Email}#=%=#bqin@ir.hit.edu.cn
+Author{9}{Affiliation}#=%=#Harbin Institute of Technology
+Author{10}{Firstname}#=%=#Orphee
+Author{10}{Lastname}#=%=#De Clercq
+Author{10}{Email}#=%=#Orphee.DeClercq@UGent.be
+Author{10}{Affiliation}#=%=#LT3, Language and Translation Technology Team, Ghent University
+Author{11}{Firstname}#=%=#Veronique
+Author{11}{Lastname}#=%=#Hoste
+Author{11}{Email}#=%=#veronique.hoste@ugent.be
+Author{11}{Affiliation}#=%=#Ghent University
+Author{12}{Firstname}#=%=#Marianna
+Author{12}{Lastname}#=%=#Apidianaki
+Author{12}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{12}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+Author{13}{Firstname}#=%=#Xavier
+Author{13}{Lastname}#=%=#Tannier
+Author{13}{Email}#=%=#xtannier@limsi.fr
+Author{13}{Affiliation}#=%=#LIMSI, CNRS, Univ. Paris-Sud, Université Paris-Saclay
+Author{14}{Firstname}#=%=#Natalia
+Author{14}{Lastname}#=%=#Loukachevitch
+Author{14}{Email}#=%=#louk_nat@mail.ru
+Author{14}{Affiliation}#=%=#Lomonosov Moscow State University
+Author{15}{Firstname}#=%=#Evgeniy
+Author{15}{Lastname}#=%=#Kotelnikov
+Author{15}{Email}#=%=#kotelnikov.ev@gmail.com
+Author{15}{Affiliation}#=%=#Vyatka State University of Humanities at Kirov
+Author{16}{Firstname}#=%=#Núria
+Author{16}{Lastname}#=%=#Bel
+Author{16}{Email}#=%=#nuria.bel@upf.edu
+Author{16}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{17}{Firstname}#=%=#Salud María
+Author{17}{Lastname}#=%=#Jiménez-Zafra
+Author{17}{Email}#=%=#sjzafra@ujaen.es
+Author{17}{Affiliation}#=%=#Universidad de Jaén
+Author{18}{Firstname}#=%=#Gülşen
+Author{18}{Lastname}#=%=#Eryiğit
+Author{18}{Email}#=%=#gulsenc@itu.edu.tr
+Author{18}{Affiliation}#=%=#Istanbul Technical University
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Pictogrammar: an AAC device based on a semantic grammar
+ShortPaperTitle#=%=#Pictogrammar: an AAC device based on a semantic grammar
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#As many as two-thirds of individuals with an Autism Spectrum Disorder (ASD)
+also have language impairments, which can range from mild limitations to
+complete non-verbal behavior. For such cases, there are several augmentative
+and alternative communication (AAC) devices available. These are
+computer-designed tools in order to help people with ASD to palliate or
+overcome such limitations, at least partially. Some of the most popular AAC
+devices are based on pictograms, so that a pictogram is the graphical
+representation
+of a simple concept and sentences are composed by concatenating a number of
+such pictograms. Usually, these tools have to manage a vocabulary made up of
+several hundred of pictograms/concepts, with no or very poor
+knowledge of the language at semantic and pragmatic level. In this paper we
+present Pictogrammar, an AAC system which takes advantage of SUpO and
+PictOntology. SUpO (Simple Upper Ontology) is a formal semantic ontology which
+is made up of detailed knowledge of facts of everyday life such as simple
+words, with special interest in linguistic issues. PictOntology is an ontology
+developed to manage sets of pictograms, linked to SUpO.
+Both ontologies make possible the development of tools which are able to take
+advantage of a formal semantic.
+Author{1}{Firstname}#=%=#Fernando
+Author{1}{Lastname}#=%=#Martínez-Santiago
+Author{1}{Email}#=%=#dofer@ujaen.es
+Author{1}{Affiliation}#=%=#University of Jaén at Spain
+Author{2}{Firstname}#=%=#Miguel Ángel
+Author{2}{Lastname}#=%=#García Cumbreras
+Author{2}{Email}#=%=#magc@ujaen.es
+Author{2}{Affiliation}#=%=#University of Jaén at Spain
+Author{3}{Firstname}#=%=#Arturo
+Author{3}{Lastname}#=%=#Montejo Ráez
+Author{3}{Email}#=%=#amontejo@ujaen.es
+Author{3}{Affiliation}#=%=#University of Jaén at Spain
+Author{4}{Firstname}#=%=#Manuel Carlos
+Author{4}{Lastname}#=%=#Díaz Galiano
+Author{4}{Email}#=%=#mcdiaz@ujaen.es
+Author{4}{Affiliation}#=%=#University of Jaén at Spain
+
+==========

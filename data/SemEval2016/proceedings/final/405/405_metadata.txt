@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#405
+FinalPaperTitle#=%=#BUTknot at SemEval-2016 Task 5: Supervised Machine Learning with Term Substitution Approach in Aspect Category Detection
+ShortPaperTitle#=%=#Supervised Machine Learning with Term Substitution Approach in Aspect Category Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jakub Macháček
+JobTitle#==#Student
+Organization#==#Brno university of technology
+Abstract#==#This paper describes an approach used to solve Aspect Category Detection
+(Subtask 1, Slot 1) of SemEval 2016 Task 5. The core of the presented system is
+based on Supervised machine learning using bigram bag-of-words model. The
+performance is enhanced by several pre-processing methods, most importantly by
+a term substitution technique. The system has reached a very good performance
+in comparison with other submitted systems.
+Author{1}{Firstname}#=%=#Jakub
+Author{1}{Lastname}#=%=#Machacek
+Author{1}{Email}#=%=#xtreit@gmail.com
+Author{1}{Affiliation}#=%=#BUT FIT
+
+==========

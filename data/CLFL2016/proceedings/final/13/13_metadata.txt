@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Intersecting Word Vectors to Take Figurative Language to New Heights
+ShortPaperTitle#=%=#Intersecting Word Vectors for Figurative Language
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Emily Paul
+JobTitle#==#
+Organization#==#UC Berkeley
+School of Information
+102 S Hall Rd. #4600
+Berkeley, CA  94720
+Abstract#==#This paper proposes a technique to create figurative  relationships  using 
+Mikolov  et  al.’s word vectors.  Drawing on existing work on figurative 
+language,  we  start  with  a  pair  of words and use the intersection of word
+vector similarity  sets  to  blend  the  distinct  semantic spaces of the two
+words. We conduct preliminary quantitative and qualitative observations to
+compare the use of this novel intersection method with the standard word vector
+addition method for the purpose of supporting the generation of figurative
+language.
+Author{1}{Firstname}#=%=#Andrea
+Author{1}{Lastname}#=%=#Gagliano
+Author{1}{Email}#=%=#andrea.gagliano@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Emily
+Author{2}{Lastname}#=%=#Paul
+Author{2}{Email}#=%=#emily.paul@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+Author{3}{Firstname}#=%=#Kyle
+Author{3}{Lastname}#=%=#Booten
+Author{3}{Email}#=%=#kbooten@berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+Author{4}{Firstname}#=%=#Marti A.
+Author{4}{Lastname}#=%=#Hearst
+Author{4}{Email}#=%=#hearst@ischool.berkeley.edu
+Author{4}{Affiliation}#=%=#UC Berkeley
+
+==========

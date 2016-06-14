@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#206
+FinalPaperTitle#=%=#Controlling Politeness in Neural Machine Translation via Side Constraints
+ShortPaperTitle#=%=#Controlling Politeness in Neural Machine Translation via Side Constraints
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rico Sennrich
+JobTitle#==#
+Organization#==#University of Edinburgh
+10 Crichton Street
+Edinburgh, EH8 9AB, United Kingdom
+Abstract#==#Many languages use honorifics to express politeness, social distance, or the
+relative social status between the speaker and their addressee(s). In machine
+translation from a language without honorifics such as English, it is difficult
+to predict the appropriate honorific, but users may want to control the level
+of politeness in the output. In this paper, we perform a pilot study to control
+honorifics in neural machine translation (NMT) via side constraints, focusing
+on English-German. We show that by marking up the (English) source side of the
+training data with a feature that encodes the use of honorifics on the (German)
+target side, we can control the honorifics produced at test time. Experiments
+show that the choice of honorifics has a big impact on translation quality as
+measured by BLEU, and oracle experiments show that substantial improvements are
+possible by constraining the translation to the desired level of politeness.
+Author{1}{Firstname}#=%=#Rico
+Author{1}{Lastname}#=%=#Sennrich
+Author{1}{Email}#=%=#rico.sennrich@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Barry
+Author{2}{Lastname}#=%=#Haddow
+Author{2}{Email}#=%=#bhaddow@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Alexandra
+Author{3}{Lastname}#=%=#Birch
+Author{3}{Email}#=%=#lexi.birch@gmail.com
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

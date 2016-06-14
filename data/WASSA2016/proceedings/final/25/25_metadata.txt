@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Fracking Sarcasm using Neural Network
+ShortPaperTitle#=%=#Fracking Sarcasm using Neural Network
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Aniruddha Ghosh
+JobTitle#==#
+Organization#==#University College Dublin
+Belfield, Dublin 4
+Ireland
+Abstract#==#Precise semantic representation of a sentence and definitive information
+extraction are key steps in the accurate processing of sentence meaning,
+especially for figurative phenomena such as sarcasm, Irony, and metaphor cause
+literal meanings to be discounted and secondary or extended meanings to be
+intentionally profiled. Semantic modelling faces a new challenge in social
+media, because grammatical inaccuracy is commonplace yet many previous
+state-of-the-art methods exploit grammatical structure. For sarcasm detection
+over social media content, researchers so far have counted on
+Bag-of-Words(BOW), N-grams etc. In this paper, we propose a neural network
+semantic model for the task of sarcasm detection. We also review semantic
+modelling using Support Vector Machine (SVM) that employs constituency
+parse-trees fed and labeled with syntactic and semantic information. The
+proposed neural network model composed of Convolution Neural Network(CNN) and
+followed by a Long short term memory (LSTM) network and finally a Deep neural
+network(DNN). The proposed model outperforms state-of-the-art text-based
+methods for sarcasm detection, yielding an F-score of .92.
+Author{1}{Firstname}#=%=#Aniruddha
+Author{1}{Lastname}#=%=#Ghosh
+Author{1}{Email}#=%=#arghyaonline@gmail.com
+Author{1}{Affiliation}#=%=#University College Dublin
+Author{2}{Firstname}#=%=#Dr. Tony
+Author{2}{Lastname}#=%=#Veale
+Author{2}{Email}#=%=#tony.veale@ucd.ie
+Author{2}{Affiliation}#=%=#University College Dublin
+
+==========

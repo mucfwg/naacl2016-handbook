@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Anaphoricity in Connectives: A Case Study on German
+ShortPaperTitle#=%=#Anaphoricity in Connectives: A Case Study on German
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Manfred Stede
+JobTitle#==#
+Organization#==#FSP Cognitive Science, University of Potsdam
+Karl-Liebknecht Str 24-25
+14476 Potsdam
+Germany
+Abstract#==#Anaphoric connectives are event anaphors (or abstract anaphors) that in
+addition convey a coherence relation holding between the antecedent and the
+host clause of the connective. Some of them carry an explicitly-anaphoric
+morpheme, others do not. We analysed the set of German connectives for this
+property and found that many have an additional non-connective reading, where
+they serve as nominal anaphors. Furthermore, many connectives can have multiple
+senses, so altogether the processing of these words can involve substantial
+disambiguation. We study the problem for one specific German word,
+'demzufolge', which can be taken as representative for a large group of similar
+words.
+Author{1}{Firstname}#=%=#Manfred
+Author{1}{Lastname}#=%=#Stede
+Author{1}{Email}#=%=#stede@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Grishina
+Author{2}{Email}#=%=#grishina@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+
+==========

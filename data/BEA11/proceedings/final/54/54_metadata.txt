@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#54
+FinalPaperTitle#=%=#The NTNU-YZU System in the AESW Shared Task: Automated Evaluation of Scientific Writing Using a Convolutional Neural Network
+ShortPaperTitle#=%=#The NTNU-YZU System in the AESW Shared Task
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Liang-Chih Yu
+JobTitle#==#Associate Professor
+Organization#==#Yuan Ze University. No. 135, Yuan-Tung Rd., Chung-Li 320, Taiwan
+Abstract#==#This study describes the design of the NTNU-YZU system for the automated
+evaluation of scientific writing shared task. We employ a convolutional neural
+network with the Word2Vec/GloVe embedding representation to predict whether a
+sentence needs language editing. For the Boolean prediction track, our best
+F-score of 0.6108 ranked second among the ten submissions. Our system also
+achieved an F-score of 0.7419 for the probabilistic estimation track, ranking
+fourth among the nine submissions.
+Author{1}{Firstname}#=%=#Lung-Hao
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#lunghaolee@gmail.com
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Bo-Lin
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#s1046253@mail.yzu.edu.tw
+Author{2}{Affiliation}#=%=#Yuan Ze University
+Author{3}{Firstname}#=%=#Liang-Chih
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Email}#=%=#lcyu@saturn.yzu.edu.tw
+Author{3}{Affiliation}#=%=#Yuan Ze University
+Author{4}{Firstname}#=%=#Yuen-Hsien
+Author{4}{Lastname}#=%=#Tseng
+Author{4}{Email}#=%=#samtseng@ntnu.edu.tw
+Author{4}{Affiliation}#=%=#National Taiwan Normal University
+
+==========

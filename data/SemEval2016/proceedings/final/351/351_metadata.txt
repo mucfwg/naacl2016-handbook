@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#351
+FinalPaperTitle#=%=#I2RNTU at SemEval-2016 Task 4: Classifier Fusion for Polarity Classification in Twitter
+ShortPaperTitle#=%=#I2RNTU at SemEval-2016 Task 4: Classifier Fusion for Polarity Classification in Twitter
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Zhang Zhengchen
+JobTitle#==#
+Organization#==#Name: Human Language Technology Department, Institute for Infocomm Research (I2R), A*STAR, Singapore
+
+Address: 1 Fusionopolis Way, #21-01 Connexis (South Tower), Singapore 138632
+Abstract#==#In this work, we apply classifier fusion to tweet polarity identification
+problem. The task is to predict whether the emotion hidden in a tweet is
+positive, neutral, or negative. An asymmetric SIMPLS (ASIMPLS) based
+classifier, which was proved to be able to identify the minority class well in
+imbalanced classification problems, is implemented. Word embedding is also
+employed as a new feature. For each word, we obtain three word embedding
+vectors on positive, neutral, and negative tweet sets respectively. These
+vectors are used as features in the ASIMPLS classifier. Another three
+state-of-the-art systems are implemented also, and these four systems are fused
+together to further boost the performance. The fusion system achieved 59.63%
+accuracy on the 2016 test set of SemEval2016 Task 4, Subtask A.
+Author{1}{Firstname}#=%=#Zhengchen
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhangzc@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#Institute for Inforcomm Research, A*Star
+Author{2}{Firstname}#=%=#Chen
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#CZHANG017@e.ntu.edu.sg
+Author{2}{Affiliation}#=%=#School of Computer Engineering, Nanyang Technological University, Singapore
+Author{3}{Firstname}#=%=#wu
+Author{3}{Lastname}#=%=#fuxiang
+Author{3}{Email}#=%=#wfxownedu@gmail.com
+Author{3}{Affiliation}#=%=#BeiHang University
+Author{4}{Firstname}#=%=#Dongyan
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#huang@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research
+Author{5}{Firstname}#=%=#Weisi
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Email}#=%=#wslin@ntu.edu.sg
+Author{5}{Affiliation}#=%=#School of Computer Engineering, Nanyang Technological University
+Author{6}{Firstname}#=%=#Minghui
+Author{6}{Lastname}#=%=#Dong
+Author{6}{Email}#=%=#mhdong@i2r.a-star.edu.sg
+Author{6}{Affiliation}#=%=#Institute for Infocomm Research,  A-Star
+
+==========

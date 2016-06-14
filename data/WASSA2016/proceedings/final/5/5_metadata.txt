@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Early text classification: a Naïve solution
+ShortPaperTitle#=%=#Early text classification: a Naïve solution
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Hugo Jair Escalante
+JobTitle#==#
+Organization#==#INAOE,
+Luis Enrique Erro No. 1, Tonantzintla, 
+Puebla, 72840, Mexico
+Abstract#==#This paper analyzes the suitability of the standard naïve Bayes classifier for
+approaching the early classification problem, that is, determining the category
+of a document by using partial information only. Specifically, we assess its
+performance when classifying documents after seeing  an increasingly number of
+terms. A modification to the standard naïve Bayes allows us to make
+predictions with partial information. To the best of our knowledge Naïve Bayes
+has not been used for this purpose before. Throughout an extensive experimental
+evaluation we show the effectiveness of the classifier for early text
+classification. We also show that this simple solution is very competitive when
+compared with state of the art methodologies that are more elaborated.
+Author{1}{Firstname}#=%=#Hugo Jair
+Author{1}{Lastname}#=%=#Escalante
+Author{1}{Email}#=%=#hugo.jair@gmail.com
+Author{1}{Affiliation}#=%=#INAOE
+Author{2}{Firstname}#=%=#Manuel
+Author{2}{Lastname}#=%=#Montes y Gomez
+Author{2}{Email}#=%=#mmontesg@inaoep.mx
+Author{2}{Affiliation}#=%=#INAOE
+Author{3}{Firstname}#=%=#Luis
+Author{3}{Lastname}#=%=#Villasenor
+Author{3}{Email}#=%=#villasen@inaoep.mx
+Author{3}{Affiliation}#=%=#INAOE
+Author{4}{Firstname}#=%=#Marcelo Luis
+Author{4}{Lastname}#=%=#Errecalde
+Author{4}{Email}#=%=#merrecalde@gmail.com
+Author{4}{Affiliation}#=%=#Universidad Nacional de San Luis
+
+==========

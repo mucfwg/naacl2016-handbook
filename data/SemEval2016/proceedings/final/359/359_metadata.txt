@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#359
+FinalPaperTitle#=%=#UTU at SemEval-2016 Task 10: Binary Classification for Expression Detection (BCED)
+ShortPaperTitle#=%=#UTU at SemEval-2016 Task 10: Binary Classification for Expression Detection (BCED)
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jari Björne
+JobTitle#==#
+Organization#==#Department of Information Technology
+University of Turku
+Faculty of Mathematics and Natural Sciences
+FI-20014 Turku
+Finland
+Abstract#==#The SemEval 2016 DiMSUM Shared Task concerns the  detection of minimal semantic
+units from text and prediction of their coarse lexical categories known as
+supersenses. Our approach is to define this task as a binary
+classification problem approachable by straightforward machine learning
+methods.
+
+We start by detecting semantic units by matching text spans against several
+large dictionaries, including the English WordNet, expressions derived from the
+Yelp Academic Dataset and concepts from the English Wikipedia, generating a set
+of potential supersenses for each matched span. For each potential supersense
+and text span pair a binary machine learning example is defined. We classify
+these examples using an ensemble method, taking as the final predicted
+supersense the one with the highest confidence score.
+
+Our system achieves good performance on the supersense classification task but
+has limited performance for detection of multi-word semantic units. We show
+that
+the task of supersense prediction can be effectively defined as a binary
+classification task.
+Author{1}{Firstname}#=%=#Jari
+Author{1}{Lastname}#=%=#Björne
+Author{1}{Email}#=%=#jari.bjorne@utu.fi
+Author{1}{Affiliation}#=%=#University of Turku
+Author{2}{Firstname}#=%=#Tapio
+Author{2}{Lastname}#=%=#Salakoski
+Author{2}{Email}#=%=#tapio.salakoski@utu.fi
+Author{2}{Affiliation}#=%=#University of Turku
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#442
+FinalPaperTitle#=%=#MDSENT at SemEval-2016 Task 4: A Supervised System for Message Polarity Classification
+ShortPaperTitle#=%=#MDSENT: A Supervised System for Message Polarity Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#HANG GAO
+JobTitle#==#
+Organization#==#UNIVERSITY OF MARYLAND BALTIMORE COUNTY
+
+1000 Hilltop Circle, Baltimore, MD 21250
+Abstract#==#This paper describes our system submitted for the Sentiment Analysis in Twitter
+task of SemEval-2016, and specifically for the Message Polarity Classification
+subtask. We used a system that combines Convolutional Neural Network and
+Logistic Regression for sentiment prediction, where the former makes use of
+embedding features while the later utilizes various features like lexicons and
+dictionaries.
+Author{1}{Firstname}#=%=#Hang
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#hanggao1@umbc.edu
+Author{1}{Affiliation}#=%=#University of Maryland Baltimore County
+Author{2}{Firstname}#=%=#Tim
+Author{2}{Lastname}#=%=#Oates
+Author{2}{Email}#=%=#oates@cs.umbc.edu
+Author{2}{Affiliation}#=%=#University of Maryland Baltimore County
+
+==========

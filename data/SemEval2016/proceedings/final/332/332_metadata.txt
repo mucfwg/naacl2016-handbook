@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#332
+FinalPaperTitle#=%=#UFRGS&LIF at SemEval-2016 Task 10: Rule-Based MWE Identification and Predominant-Supersense Tagging
+ShortPaperTitle#=%=#UFRGS&LIF: Rule-Based MWE Identification and Predominant-Supersense Tagging
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Silvio Ricardo Cordeiro
+JobTitle#==#
+Organization#==#Universidade Federal do Rio Grande do Sul
+Abstract#==#This paper presents our approach towards the SemEval-2016 Task 10 -- Detecting
+Minimal Semantic Units and their Meanings. Systems are expected to provide a
+representation of lexical semantics by (1) segmenting tokens into words and
+multiword units and (2) providing a supersense tag for segments that function
+as nouns or verbs.
+Our pipeline rule-based system uses no external resources and was implemented
+using the mwetoolkit. First, we extract and filter known MWEs from the training
+corpus. Second, we group input tokens of the test corpus based on this lexicon,
+with special treatment for non-contiguous expressions. Third, we use an
+MWE-aware predominant-sense heuristic for supersense tagging.
+We obtain an F-score of 51.48% for MWE identification and 49.98% for supersense
+tagging.
+Author{1}{Firstname}#=%=#Silvio
+Author{1}{Lastname}#=%=#Cordeiro
+Author{1}{Email}#=%=#silvioricardoc@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Informatics - UFRGS
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Ramisch
+Author{2}{Email}#=%=#carlosramisch@gmail.com
+Author{2}{Affiliation}#=%=#LIF, Aix-Marseille Université
+Author{3}{Firstname}#=%=#Aline
+Author{3}{Lastname}#=%=#Villavicencio
+Author{3}{Email}#=%=#alinev@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Informatics, Federal University of Rio Grande do Sul
+
+==========

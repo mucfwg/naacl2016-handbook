@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#546
+FinalPaperTitle#=%=#SemEval-2016 Task 9: Chinese Semantic Dependency Parsing
+ShortPaperTitle#=%=#SemEval-2016 Task 9: Chinese Semantic Dependency Parsing
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Wanxiang Che
+JobTitle#==#
+Organization#==#School of Computer Science and Technology
+Harbin Institute of Technology
+Harbin, China, 150001
+Abstract#==#This paper describes the SemEval-2016 Shared Task 9: \textit{Chinese semantic
+Dependency Parsing}.
+We extend the traditional tree-structured representation of Chinese sentence to
+directed acyclic graphs that can capture richer latent semantics, and the goal
+of this task is to identify such semantic structures from a corpus of Chinese
+sentences.
+We provide two distinguished corpora in the NEWS domain with 10,068 sentences
+and the TEXTBOOKS domain with 14,793 sentences respectively.
+We will first introduce the motivation for this task, and then present the task
+in detail including data preparation, data format, task evaluation and so on.
+At last, we briefly describe the submitted systems and analyze these results.
+Author{1}{Firstname}#=%=#Wanxiang
+Author{1}{Lastname}#=%=#Che
+Author{1}{Email}#=%=#wanxiang@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Yanqiu
+Author{2}{Lastname}#=%=#Shao
+Author{2}{Email}#=%=#yqshao@blcu.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Language and Culture University
+Author{3}{Firstname}#=%=#Ting
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#tliu72@vip.126.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Yu
+Author{4}{Lastname}#=%=#Ding
+Author{4}{Email}#=%=#yding@ir.hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

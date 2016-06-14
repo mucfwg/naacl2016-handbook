@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Recent Progress in Deep Learning for NLP
+ShortPaperTitle#=%=#Recent Progress in Deep Learning for NLP
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#
+Author{1}{Firstname}#=%=#Zhengdong
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Email}#=%=#lu.zhengdong@huawei.com
+Author{1}{Affiliation}#=%=#Noah's Ark Lab, Huawei
+Author{2}{Firstname}#=%=#Hang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#hangli.hl@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Technologies
+
+==========

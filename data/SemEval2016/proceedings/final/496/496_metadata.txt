@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#496
+FinalPaperTitle#=%=#SEMSIM: A Multi-Feature Approach to Semantic Text Similarity
+ShortPaperTitle#=%=#SEMSIM: A Multi-Feature Approach to Semantic Text Similarity
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Adebayo Kolawole John
+JobTitle#==#
+Organization#==#University of Torino
+Corso Svizzera 185
+Torino,  10149, Italy
+Abstract#==#This paper presents the submission of our
+team (NORMAS) to the SemEval 2016 semantic
+textual similarity (STS) shared task.
+We submitted three system runs, each using
+a set of 36 features extracted from the training
+set. The runs explore the use of the following
+three machine learning algorithms: Support
+Vector Regression, Elastic Net and Random
+Forest. Each run was trained using sentence
+pairs from the STS 2012 training data. Features
+extracted include lexical, syntactic and
+semantic features. This paper describes the
+features we designed for assessing the semantic
+similarity between sentence pairs, the models
+we build using these features and the performance
+obtained by the resulting systems on
+the 2016 evaluation data.
+Author{1}{Firstname}#=%=#kolawole
+Author{1}{Lastname}#=%=#adebayo
+Author{1}{Email}#=%=#collawolley3@yahoo.com
+Author{1}{Affiliation}#=%=#University of Torino
+Author{2}{Firstname}#=%=#Luigi
+Author{2}{Lastname}#=%=#Di Caro
+Author{2}{Email}#=%=#dicaro@di.unito.it
+Author{2}{Affiliation}#=%=#University of Turin
+Author{3}{Firstname}#=%=#Guido
+Author{3}{Lastname}#=%=#Boella
+Author{3}{Email}#=%=#guido@di.unito.it
+Author{3}{Affiliation}#=%=#University of Torino
+
+==========

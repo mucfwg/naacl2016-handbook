@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Call for Discussion: Building a New Standard Dataset for Relation Extraction Tasks
+ShortPaperTitle#=%=#Call for Discussion: Building a New Standard Dataset for Relation Extraction Tasks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Teresa Martin
+JobTitle#==#
+Organization#==#University of Massachusetts
+140 Governors Drive
+Amherst, MA 01003, USA
+Abstract#==#This paper is an attempt to raise pertinent questions and act as platform to
+generate fruitful discussions within the AKBC community about the need for a
+large scale dataset for relation extraction. For proper training and evaluation
+of relation extraction tasks, the weaknesses of datasets used so far need to be
+tackled: mainly the size (too small) and the amount of data that is actually
+labelled (unlabelled data leading to recall problems). We have the vision of
+building a new large and fully labelled dataset for entity pairs connected via
+binary relations from both Freebase as well as other datasets, such as Clueweb.
+Concerning the process of building, we present pioneering work on a roadmap
+which will serve as the foundation for the intended discussion within the
+community. Points to discuss arise within the following steps: first, the
+source data has to be preprocessed in order to ensure that the set of relations
+consists of valid relations only; second, we suggest a method to find the most
+relevant relations for an entity pair; and third, we outline approaches on how
+to actually label the data. It is necessary to discuss several key issues in
+the process of generating this dataset. This will enable us to thoroughly
+create a dataset that will have the potential to serve as a standard to the
+community.
+Author{1}{Firstname}#=%=#Teresa
+Author{1}{Lastname}#=%=#Martin
+Author{1}{Email}#=%=#teresa.martin@web.de
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Fiete
+Author{2}{Lastname}#=%=#Botschen
+Author{2}{Email}#=%=#fiete.botschen@gmail.com
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Ajay
+Author{3}{Lastname}#=%=#Nagesh
+Author{3}{Email}#=%=#ajaynagesh@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#McCallum
+Author{4}{Email}#=%=#mccallum@cs.umass.edu
+Author{4}{Affiliation}#=%=#UMass Amherst
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#374
+FinalPaperTitle#=%=#Using Context to Predict the Purpose of Argumentative Writing Revisions
+ShortPaperTitle#=%=#Using Context to Predict the Purpose of Argumentative Writing Revisions
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Fan Zhang
+JobTitle#==#
+Organization#==#Department of Computer Science,
+University of Pittsburgh, PA 15260
+Abstract#==#While there is increasing interest in automatically recognizing the
+argumentative structure of a text, recognizing the argumentative purpose of
+revisions to such texts has been less explored. Furthermore, existing revision
+classification approaches typically ignore  contextual information. We propose
+two approaches for utilizing contextual information when predicting
+argumentative revision purposes: 
+developing contextual features for use in the classification paradigm of prior
+work, and transforming the classification problem to a sequence labeling task.
+Experimental results using two corpora of  student essays demonstrate the
+utility of contextual information for predicting argumentative revision
+purposes.
+Author{1}{Firstname}#=%=#Fan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#faz23@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Email}#=%=#litman@cs.pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

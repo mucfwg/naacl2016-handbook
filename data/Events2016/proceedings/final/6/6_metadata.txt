@@ -1,0 +1,65 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A Comparison of Event Representations in DEFT
+ShortPaperTitle#=%=#A Comparison of Event Representations in DEFT
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ann Bies
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper will discuss and compare event representations across a variety of
+types of event annotation: Rich Entities, Relations, and Events (Rich ERE),
+Light Entities, Relations, and Events (Light ERE), Event Nugget (EN), Event
+Argument Extraction (EAE), Richer Event Descriptions (RED), and Event-Event
+Relations (EER).  Comparisons of event representations are presented, along
+with a comparison of data annotated according to each event representation.  An
+event annotation experiment is also discussed, including annotation for all of
+these representations on the same set of sample data, with the purpose of being
+able to compare actual annotation across all of these approaches as directly as
+possible. We walk through a brief example to illustrate the various annotation
+approaches, and to show the intersections among the various annotated data
+sets.
+Author{1}{Firstname}#=%=#Ann
+Author{1}{Lastname}#=%=#Bies
+Author{1}{Email}#=%=#bies@ldc.upenn.edu
+Author{1}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{2}{Firstname}#=%=#Zhiyi
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#zhiyi@ldc.upenn.edu
+Author{2}{Affiliation}#=%=#Linguistic Data Consortium
+Author{3}{Firstname}#=%=#Jeremy
+Author{3}{Lastname}#=%=#Getman
+Author{3}{Email}#=%=#jgetman@ldc.upenn.edu
+Author{3}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{4}{Firstname}#=%=#Joe
+Author{4}{Lastname}#=%=#Ellis
+Author{4}{Email}#=%=#joellis@ldc.upenn.edu
+Author{4}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{5}{Firstname}#=%=#Justin
+Author{5}{Lastname}#=%=#Mott
+Author{5}{Email}#=%=#jmott@ldc.upenn.edu
+Author{5}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{6}{Firstname}#=%=#Stephanie
+Author{6}{Lastname}#=%=#Strassel
+Author{6}{Email}#=%=#strassel@ldc.upenn.edu
+Author{6}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{7}{Firstname}#=%=#Martha
+Author{7}{Lastname}#=%=#Palmer
+Author{7}{Email}#=%=#martha.palmer@colorado.edu
+Author{7}{Affiliation}#=%=#University of Colorado
+Author{8}{Firstname}#=%=#Teruko
+Author{8}{Lastname}#=%=#Mitamura
+Author{8}{Email}#=%=#teruko@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+Author{9}{Firstname}#=%=#Marjorie
+Author{9}{Lastname}#=%=#Freedman
+Author{9}{Email}#=%=#mfreedma@bbn.com
+Author{9}{Affiliation}#=%=#Raytheon BBN Technologies
+Author{10}{Firstname}#=%=#Heng
+Author{10}{Lastname}#=%=#Ji
+Author{10}{Email}#=%=#jih@rpi.edu
+Author{10}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{11}{Firstname}#=%=#Tim
+Author{11}{Lastname}#=%=#O'Gorman
+Author{11}{Email}#=%=#timjogorman@gmail.com
+Author{11}{Affiliation}#=%=#University of Colorado Boulder
+
+==========

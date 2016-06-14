@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Explicit Argument Identification for Discourse Parsing In Hindi: A Hybrid Pipeline
+ShortPaperTitle#=%=#Explicit Argument Identification for Discourse Parsing In Hindi
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#rohit jain
+JobTitle#==#
+Organization#==#Language Technologies Research Center(LTRC)
+IIIT-Hyderabad
+Gachibowli, Hyderabad 500032, Telangana, India
+Abstract#==#Shallow discourse parsing enables us to study discourse as a coherent piece of
+information rather than a sequence of clauses, sentences and paragraphs. In
+this paper, we identify arguments of explicit discourse relations in Hindi.
+This is the first such work carried out for Hindi. Building upon previous work
+carried out on discourse connective identification in Hindi, we propose a
+hybrid pipeline which makes use of both sub-tree extraction and linear tagging
+approaches. We report state-of-the-art performance for this task.
+Author{1}{Firstname}#=%=#Rohit
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#rohit.jain@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#IIIT , Hyderabad
+Author{2}{Firstname}#=%=#Dipti
+Author{2}{Lastname}#=%=#Sharma
+Author{2}{Email}#=%=#diptims@gmail.com
+Author{2}{Affiliation}#=%=#IIIT, Hyderabad
+
+==========

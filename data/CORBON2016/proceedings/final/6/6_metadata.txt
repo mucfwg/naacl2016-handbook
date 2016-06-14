@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Beyond Identity Coreference: Contrasting Indicators of Textual Coherence in English and German
+ShortPaperTitle#=%=#Beyond Identity Coreference: Contrasting Indicators of Textual Coherence in English and German
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#José Manuel Martínez Martínez
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper focuses on the interaction of chains of coreference identity with
+other types of relations, comparing English and German data sets in terms of
+language, mode (written vs. spoken) and register. We first describe the types
+of coreference and the chain features analysed as indicators of textual
+coherence and topic continuity. After sketching the feature categories under
+analysis and the methods used for statistical evaluation, we present the
+findings from our analysis and interpret them in terms of the contrasts
+mentioned above. We will also show that for some registers, coreference types
+other than identity are of great importance.
+Author{1}{Firstname}#=%=#Kerstin
+Author{1}{Lastname}#=%=#Kunz
+Author{1}{Email}#=%=#kerstin.kunz@iued.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Lapshinova-Koltunski
+Author{2}{Email}#=%=#e.lapshinova@mx.uni-saarland.de
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+Author{3}{Firstname}#=%=#José Manuel
+Author{3}{Lastname}#=%=#Martínez
+Author{3}{Email}#=%=#chozelinek@gmail.com
+Author{3}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

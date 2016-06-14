@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#511
+FinalPaperTitle#=%=#ASOBEK at SemEval-2016 Task 1: Sentence Representation with Character N-gram Embeddings for Semantic Textual Similarity
+ShortPaperTitle#=%=#ASOBEK: Sentence Representation with Character N-gram Embeddings for Semantic Textual Similarity
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Asli Eyecioglu Ozmutlu
+JobTitle#==#
+Organization#==#University of Sussex
+Department of Informatics
+Brighton, BN19QJ, UK
+Abstract#==#A growing body of research has recently been conducted on semantic textual
+similarity using a variety of neural network models. While recent research
+focuses on word-based representation for phrases, sentences and even
+paragraphs, this study considers an alternative approach based on character
+n-grams. We generate embeddings for character n-grams using a
+continuous-bag-of-n-grams neural network model. Three different sentence
+representations based on n-gram embeddings are considered. Results are reported
+for experiments with bigram, trigram and 4-gram embeddings on the STS Core
+dataset for SemEval-2016 Task 1.
+Author{1}{Firstname}#=%=#Asli
+Author{1}{Lastname}#=%=#Eyecioglu
+Author{1}{Email}#=%=#ae208@sussex.ac.uk
+Author{1}{Affiliation}#=%=#University of Sussex
+Author{2}{Firstname}#=%=#Bill
+Author{2}{Lastname}#=%=#Keller
+Author{2}{Email}#=%=#billk@sussex.ac.uk
+Author{2}{Affiliation}#=%=#University of Sussex
+
+==========

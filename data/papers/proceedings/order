@@ -1,0 +1,355 @@
+* Sunday, June 12, 2016
+
++ 18:00--21:00 Welcome reception 
+
+
+* Monday, June 13, 2016
+
++ 07:30--08:45 Breakfast 
+
++ 09:00--09:15 Welcome %by Kevin Knight, Ani Nenkova, Owen Rambow
+
++ 09:15--10:30 Invited talk: "How can NLP help cure cancer?" %by Regina Barzilay
+
++ 10:30--11:00 Coffee break
+
+= 11:00--12:30 Parallel Session 1A: Machine translation  %chair David Chiang
+15 11:00--11:20  # Achieving Accurate Conclusions in Evaluation of Automatic Machine Translation Metrics
+187 11:20--11:40  # Flexible Non-Terminals for Dependency Tree-to-Tree Reordering
+503 11:40--12:00  # Selecting Syntactic, Non-redundant Segments in Active Learning for Machine Translation
+172 12:00--12:10  # Multi-Source Neural Translation
+206 12:10--12:20  # Controlling Politeness in Neural Machine Translation via Side Constraints
+648 12:20--12:30  # An Empirical Evaluation of Noise Contrastive Estimation for the Neural Network Joint Model of Translation
+
+= 11:00--12:30 Parallel Session 1B: Summarization  %chair Fei Liu
+470 11:00--11:20  # Neural Network-Based Abstract Generation for Opinions and Arguments
+214 11:20--11:40  # A Low-Rank Approximation Approach to Learning Joint Embeddings of News Stories and Images for Timeline Summarization
+157 11:40--12:00  # Entity-balanced Gaussian pLSA for Automated Comparison
+149 12:00--12:10  # Automatic Summarization of Student Course Feedback
+448 12:10--12:20  # Knowledge-Guided Linguistic Rewrites for Inference Rule Verification
+550 12:20--12:30  # Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
+
+= 11:00--12:30 Parallel Session 1C: Dialog  %chair Mari Ostendorf
+213 11:00--11:20  # Integer Linear Programming for Discourse Parsing
+529 11:20--11:40  # A Diversity-Promoting Objective Function for Neural Conversation Models
+308 11:40--12:00  # Multi-domain Neural Network Language Generation for Spoken Dialogue Systems
+389 12:00--12:10  # A Long Short-Term Memory Framework for Predicting Humor in Dialogues
+650 12:10--12:20  # Conversational Flow in Oxford-style Debates
+100 12:20--12:30  # Counter-fitting Word Vectors to Linguistic Constraints
+
++ 12:30--14:00 Lunch break
+
++ 12:30--14:00 Student lunch 
+
+= 14:00--15:30 Parallel Session 2A: Language and Vision %room Grande Ballroom A %chair Meg Mitchell
+564 14:00--14:20  # Grounded Semantic Role Labeling
+528 14:20--14:40  # Black Holes and White Rabbits: Metaphor Identification with Visual Features
+339 14:40--15:00  # Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning
+159 15:00--15:20  # Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings
+575 15:20--15:30  # Stating the Obvious: Extracting Visual Common Sense Knowledge
+
+= 14:00--15:30 Parallel Session 2B: Parsing %room Grande Ballroom B %chair Alexander M. Rush
+999/TACL 14:00--14:20  Efficient Structured Inference for Transition-Based Parsing with Neural Networks and Error States [TACL] %by Ashish Vaswani and Kenji Sagae
+348 14:20--14:40  # Recurrent Neural Network Grammars
+477 14:40--15:00  # Expected F-Measure Training for Shift-Reduce Parsing with Recurrent Neural Networks
+559 15:00--15:20  # LSTM CCG Parsing
+668 15:20--15:30  # Supertagging With LSTMs
+
+= 14:00--15:30 Parallel Session 2C: Named Entity Recognition  %room Grande Ballroom C %chair Alessandro Moschitti
+585 14:00--14:20  # An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition
+68 14:20--14:40  # Name Tagging for Low-resource Incident Languages based on Expectation-driven Learning
+521 14:40--15:00  # Neural Architectures for Named Entity Recognition
+16 15:00--15:20  # Dynamic Feature Induction: The Last Gist to the State-of-the-Art
+685 15:20--15:30  # Drop-out Conditional Random Fields for Twitter with Huge Mined Gazetteer
+
++ 15:30--16:00 Coffee break
+
+= 16:00--17:00 Parallel Session 3A: Event detection  %room Grande Ballroom A %chair Heng Ji
+680 16:00--16:20  # Joint Extraction of Events and Entities within a Document Context
+634/TACL 16:20--16:40 A Hierarchical Distance-dependent Bayesian Model for Event Coreference Resolution [TACL] %by Bishan Yang, Claire Cardie, and Peter Frazier
+479 16:40--17:00  # Joint Event Extraction via Recurrent Neural Networks
+
+= 16:00--17:00 Parallel Session 3B: Language Models  %room Grande Ballroom B %chair Chris Dyer
+164 16:00--16:20  # Top-down Tree Long Short-Term Memory Networks
+232 16:20--16:40  # Recurrent Memory Networks for Language Modeling
+480 16:40--17:00  # A Latent Variable Recurrent Neural Network for Discourse-Driven Language Models
+
+= 16:00--17:00 Parallel Session 3C: Non Literal Language  %room Grande Ballroom C %chair Marie-Catherine de Marneffe
+553 16:00--16:20  # Questioning Arbitrariness in Language: a Data-Driven Study of Conventional Iconicity
+147 16:20--16:40  # Distinguishing Literal and Non-Literal Usage of German Particle Verbs
+446 16:40--17:00  # Phrasal Substitution of Idiomatic Expressions
+
++ 17:00--17:15 Break
+
++ 17:15--18:00 One Minute Madness  %room Grande Ballroom %chair Joel Tetreault
+
++ 18:00--20:00 Poster Session 1
+150   # Leverage Financial News to Predict Stock Price Movements Using Word Embeddings and Deep Neural Networks
+41   # Grammatical error correction using neural machine translation
+43   # Multimodal Semantic Learning from Child-Directed Input
+44   # Recurrent Support Vector Machines For Slot Tagging In Spoken Language Understanding
+55   # Expectation-Regulated Neural Model for Event Mention Extraction
+62   # Agreement on Target-bidirectional Neural Machine Translation
+66   # Psycholinguistic Features for Deceptive Role Detection in Werewolf
+72   # Individual Variation in the Choice of Referential Form
+77   # Joint Learning Templates and Slots for Event Schema Induction
+89   # Inferring Psycholinguistic Properties of Words
+96   # Intra-Topic Variability Normalization based on Linear Projection for Topic Classification
+108   # Shift-Reduce CCG Parsing using Neural Network Models
+114   # Online Multilingual Topic Models with Multi-Level Hyperpriors
+132   # STransE: a novel embedding model of entities and relationships in knowledge bases
+168   # An Unsupervised Model of Orthographic Variation for Historical Document Transcription
+177   # Bidirectional RNN for Medical Event Detection in Electronic Health Records
+183   # The Sensitivity of Topic Coherence Evaluation to Topic Cardinality
+215   # Transition-Based Syntactic Linearization with Lookahead Features
+224   # A Recurrent Neural Networks Approach for Estimating the Quality of Machine Translation Output
+231   # Symmetric Patterns and Coordinations: Fast and Enhanced Representations of Verbs and Adjectives
+272   # Breaking the Closed World Assumption in Text Classification
+282   # Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks
+294   # Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence
+312   # Learning Distributed Word Representations For Bidirectional LSTM Recurrent Neural Network
+332   # Combining Recurrent and Convolutional Neural Networks for Relation Classification
+337   # Building Chinese Affective Resources in Valence-Arousal Dimensions
+338   # Improving event prediction by representing script participants
+364   # Structured Prediction with Output Embeddings for Semantic Image Annotation
+371   # Large-scale Multitask Learning for Machine Translation Quality Estimation
+469   # Conversational Markers of Constructive Discussions
+498   # Vision and Feature Norms: Improving automatic feature norm learning through cross-modal maps
+557   # Cross-lingual Wikification Using Multilingual Embeddings
+649   # Deconstructing Complex Search Tasks: a Bayesian Nonparametric Approach for Extracting Sub-tasks
+
++ 18:00--20:00 System Demonstrations 1
+4/demos rstWeb - A Browser-based Annotation Interface for Rhetorical Structure Theory and Discourse Relations %by  Amir Zeldes
+9/demos  Instant Feedback for Increasing the Presence of Solutions in Peer Reviews %by Huy Nguyen, Wenting Xiong and Diane Litman
+12/demos Farasa: A Fast and Furious Segmenter for Arabic %by Ahmed Abdelali, Kareem Darwish, Nadir Durrani and Hamdy Mubarak
+13/demos iAppraise: A Manual Machine Translation Evaluation Environment Supporting Eye-tracking %by Ahmed Abdelali, Nadir Durrani and Francisco Guzmán
+15/demos Linguistica 17: Unsupervised Learning of Linguistic Structure %by Jackson Lee and John Goldsmith
+17/demos TransRead: Designing a Bilingual Reading Experience with Machine Translation Technologies %by François Yvon, Yong Xu, Marianna Apidianaki, Clément Pillias and Pierre Cubaud
+20/demos New Dimensions in Testimony Demonstration %by Ron Artstein, Alesia Gainer, Kallirroi Georgila, Anton Leuski, Ari Shapiro and David Traum
+21/demos ArgRewrite: A Web-based Revision Assistant for Argumentative Writings %by Fan Zhang, Rebecca Hwa, Diane Litman and Homa B. Hashemi
+24/demos Scaling Up Word Clustering %by Jon Dehdari, Liling Tan and Josef van Genabith
+26/demos Task Completion Platform %by A self-serve multi-domain goal oriented dialogue platform: Paul Crook, Alex Marin, Vipul Agarwal, Khushboo Aggarwal, Tasos Anastasakos, Ravi Bikkula, Daniel Boies, Asli Celikyilmaz, Senthilkumar Chandramohan, Zhaleh Feizollahi, Roman Holenstein, Minwoo Jeong, Omar Khan, Young-Bum Kim, Elizabeth Krawczyk, Xiaohu Liu, Danko Panic, Vasiliy Radostev, Nikhil Ramesh, Jean-Phillipe Robichaud, Alexandre Rochette, Logan Stromberg and Ruhi Sarikaya
+
++ 18:00--20:00 Student Workshop Posters 1
+10/NAACL-SRW16 An End-to-end Approach to Learning Semantic Frames with Feedforward Neural Network %by Yukun Feng, Yipei Xu and Dong Yu
+23/NAACL-SRW16 Analogy-based detection of morphological and semantic relations with word embeddings %by what works and what doesn't: Anna Gladkova, Aleksandr Drozd and Satoshi Matsuoka
+15/NAACL-SRW16 Argument Identification in Chinese Editorials %by Marisa Chow
+7/NAACL-SRW16 Automatic tagging and retrieval of E-Commerce products based on visual features %by Vasu Sharma and Harish Karnick
+2/NAACL-SRW16 Combining syntactic patterns and Wikipedia's hierarchy of hyperlinks to extract relations: The case of meronymy extraction %by Debela Tesfaye Gemechu, Michael Zock and Solomon Teferra
+8/NAACL-SRW16 Data-driven Paraphrasing and Stylistic Harmonization %by Gerold Hintz
+3/NAACL-SRW16 Detecting "Smart" Spammers on Social Network %by A Topic Model Approach: Linqing Liu, Yao Lu, Ye Luo, Renxian Zhang, Laurent Itti and Jianwei Lu
+18/NAACL-SRW16 Developing language technology tools and resources for a resource-poor language: Sindhi %by Raveesh Motlani
+
+
+* Tuesday, June 14, 2016
+
++ 07:30--08:45 Breakfast
+
+= 09:00--10:30 Parallel Session 4A: Semantic Parsing  %room Grande Ballroom A %chair Mike Lewis
+807/TACL 09:00--09:20  Transforming Dependency Structures to Logical Forms for Semantic Parsing [TACL] %by Siva Reddy, Oscar Täckström, Michael Collins, Tom Kwiatkowski, Dipanjan Das, Mark Steedman, and Mirella Lapata
+646/TACL 09:20--09:40 Imitation Learning of Agenda-based Semantic Parsers [TACL] %by Jonathan Berant and Percy Liang
+162 09:40--10:00  # Probabilistic Models for Learning a Semantic Parser Lexicon
+654/TACL 10:00--10:20  Semantic Parsing of Ambiguous Input through Paraphrasing and Verification [TACL] %by Philip Arthur, Graham Neubig, Sakriani Sakti, Tomoki Toda, and Satoshi Nakamura
+321 10:20--10:30  # Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods
+
+= 09:00--10:30 Parallel Session 4B: Morphology and Phonology  %room Grande Ballroom B %chair Dilek Hakkani-Tur
+599 09:00--09:20  # Weighting Finite-State Transductions With Neural Context
+40 09:20--09:40  # Morphological Inflection Generation Using Character Sequence to Sequence Learning
+440 09:40--10:00  # Towards Unsupervised and Language-independent Compound Splitting using Inflectional Morphological Transformations
+399 10:00--10:20  # Phonological Pun-derstanding
+275 10:20--10:30  # [Best paper runner up] A Joint Model of Orthography and Morphological Segmentation
+
+= 09:00--10:30 Parallel Session 4C: Various  %room Grande Ballroom C %chair Jinho D. Choi
+135 09:00--09:20  # Syntactic Parsing of Web Queries with Question Intent
+253 09:20--09:40  # Visualizing and Understanding Neural Models in NLP
+122 09:40--10:00  # Bilingual Word Embeddings from Parallel and Non-parallel Corpora for Cross-Language Text Classification
+375 10:00--10:20  # Joint Learning with Global Inference for Comment Classification in Community Question Answering
+511 10:20--10:30  # Weak Semi-Markov CRFs for Noun Phrase Chunking in Informal Text
+
++ 10:30--11:00 Coffee break
+
+= 11:00--12:30 Parallel Session 5A: Generation  %room Grande Ballroom A %chair Lu Wang
+462 11:00--11:20  # What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment
+661 11:20--11:40  # Generation from Abstract Meaning Representation using Tree Transducers
+50 11:40--12:00  # A Corpus and Semantic Parser for Multilingual Natural Language Querying of OpenStreetMap
+607 12:00--12:20  # Natural Language Communication with Robots
+534 12:20--12:30  # Inter-document Contextual Language model
+
+= 11:00--12:30 Parallel Session 5B: Sentiment  %room Grande Ballroom B %chair Ellen Riloff
+38 11:00--11:20  # Ultradense Word Embeddings by Orthogonal Transformation
+143 11:20--11:40  # Separating Actor-View from Speaker-View Opinion Expressions using Linguistic Features
+408 11:40--12:00  # Clustering for Simultaneous Extraction of Aspects and Features from Reviews
+153 12:00--12:20  # Opinion Holder and Target Extraction on Opinion Compounds -- A Linguistic Approach
+356 12:20--12:30  # Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best___Worst Scaling
+
+= 11:00--12:30 Parallel Session 5C: Knowledge Acquisition  %room Grande Ballroom C %chair Ray Mooney
+608/TACL 11:00--11:20 Concept Grounding to Multiple Knowledge Bases via Indirect Supervision [TACL] %by Chen-Tse Tsai and Dan Roth
+181 11:20--11:40  # Mapping Verbs in Different Languages to Knowledge Base Relations using Web Text as Interlingua
+359 11:40--12:00  # Comparing Convolutional Neural Networks to Traditional Models for Slot Filling
+593 12:00--12:20  # A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
+628 12:20--12:30  # Dynamic Entity Representation with Max-pooling Improves Machine Reading
+
++ 12:30--13:15 Lunch
+
++ 13:15--14:15 Panel Discussion: How Will Deep Learning Change Computational Linguistics?
+
+= 14:30--15:30 Parallel Session 6A: Machine Translation II  %room Grande Ballroom A %chair Colin Cherry
+39 14:30--14:50  # Speed-Constrained Tuning for Statistical Machine Translation Using Bayesian Optimization
+227 14:50--15:10  # [Best paper runner up] Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism
+286 15:10--15:30  # Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
+
+= 14:30--15:30 Parallel Session 6B: Relation Extraction  %room Grande Ballroom B %chair Byron C. Wallace
+366 14:30--14:50  # Multilingual Relation Extraction using Compositional Universal Schema
+567 14:50--15:10  # Effective Crowd Annotation for Relation Extraction
+193 15:10--15:30  # A Translation-Based Knowledge Graph Embedding Preserving Logical Property of Relations
+
+= 14:30--15:30 Parallel Session 6C: Semantic Similarity  %room Grande Ballroom C %chair Dipanjan Das
+126 14:30--14:50  # DAG-Structured Long Short-Term Memory for Semantic Compositionality
+401 14:50--15:10  # Bayesian Supervised Domain Adaptation for Short Text Similarity
+696 15:10--15:30  # Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement
+
++ 15:30--16:00 Break
+
+= 16:00--17:00 Parallel Session 7A: Machine Translation III  %room Grande Ballroom A %chair Marine Carpuat
+288 16:00--16:20  # An Attentional Model for Speech Translation Without Transcription
+372 16:20--16:40  # Information Density and Quality Estimation Features as Translationese Indicators for Human Translation Classification
+234 16:40--16:50  # Interpretese vs. Translationese: The Uniqueness of Human Strategies in Simultaneous Interpretation
+703 16:50--17:00  # LSTM Neural Reordering Feature for Statistical Machine Translation
+
+= 16:00--17:00 Parallel Session 7B: Anaphora Resolution  %room Grande Ballroom B %chair Vincent Ng
+318 16:00--16:20  # A Novel Approach to Dropped Pronoun Translation
+546 16:20--16:40  # Learning Global Features for Coreference Resolution
+23 16:40--16:50  # Search Space Pruning: A Simple Solution for Better Coreference Resolvers
+123 16:50--17:00  # Unsupervised Ranking Model for Entity Coreference Resolution
+
+= 16:00--17:00 Parallel Session 7C: Word Embeddings I  %room Grande Ballroom C %chair Manaal Faruqui
+99 16:00--16:20  # Embedding Lexical Features via Low-Rank Tensors
+167 16:20--16:40  # The Role of Context Types and Dimensionality in Learning Word Embeddings
+239 16:40--17:00  # Improve Chinese Word Embeddings by Exploiting Internal Structure
+
++ 17:15--18:00 One Minute Madness  %room Grande Ballroom
+
++ 18:00--20:00 Poster Session 2
+305   # Assessing Relative Sentence Complexity using an Incremental CCG Parser
+365   # Frustratingly Easy Cross-Lingual Transfer for Transition-Based Dependency Parsing
+369   # Geolocation for Twitter: Timing Matters
+386   # Fast and Easy Short Answer Grading with High Accuracy
+390   # Interlocking Phrases in Phrase-based Statistical Machine Translation
+404   # Eyes Don't Lie: Predicting Machine Translation Quality Using Eye Movement
+427   # Making Dependency Labeling Simple, Fast and Accurate
+433   # Deep Lexical Segmentation and Syntactic Parsing in the Easy-First Dependency Framework
+453   # Sentiment Composition of Words with Opposing Polarities
+481   # Learning to Recognize Ancillary Information for Automatic Paraphrase Identification
+496   # Learning a POS tagger for AAVE-like language
+504   # PIC a Different Word: A Simple Model for Lexical Substitution in Context
+505   # Bootstrapping Translation Detection and Sentence Extraction from Comparable Corpora
+512   # Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation
+524   # [Best paper runner up] Patterns of Wisdom: Discourse-Level Style in Multi-Sentence Quotations
+525   # Right-truncatable Neural Word Embeddings
+537   # MAWPS: A Math Word Problem Repository
+539   # Cross-genre Event Extraction with Knowledge Enrichment
+543   # Emergent: a novel data-set for stance classification
+549   # BIRA: Improved Predictive Exchange Word Clustering
+554   # Integrating Morphological Desegmentation into Phrase-based Decoding
+572   # The Instantiation Discourse Relation: A Corpus Analysis of Its Properties and Improved Detection
+597   # Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment
+613   # Automatic Prediction of Linguistic Decline in Writings of Subjects with Degenerative Dementia
+619   # Consensus Maximization Fusion of Probabilistic Information Extractors
+620   # Simple, Fast Noise-Contrastive Estimation for Large RNN Vocabularies
+632   # Automatically Inferring Implicit Properties in Similes
+639   # Visual Storytelling
+645   # PRIMT: A Pick-Revise Framework for Interactive Machine Translation
+647   # Incorporating Side Information into Recurrent Neural Network Language Models
+655   # Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks
+679   # $K$-Embeddings: Learning Conceptual Embeddings for Words using Context
+586/TACL Learning Composition Models for Phrase Embeddings [TACL] %by Mo Yu and Mark Dredze
+
++ 18:00--20:00 System Demonstrations 2
+28/demos Illinois Math Solver: Math Reasoning on the Web %by Subhro Roy and Dan Roth
+29/demos LingoTurk: managing crowdsourced tasks for psycholinguistics %by Florian Pusse, Asad Sayeed and Vera Demberg
+30/demos Sentential Paraphrasing as Black-Box Machine Translation %by Courtney Napoles, Chris Callison-Burch and Matt Post
+31/demos A Tag-based English Math Word Problem Solver with Understanding, Reasoning and Explanation %by Chao-Chun Liang, Kuang-Yi Hsu, Chien-Tsung Huang, Chung-Min Li, Shen-Yu Miao and Keh-Yih Su
+32/demos Cross-media Event Extraction and Recommendation %by Di Lu, Clare Voss, Fangbo Tao, Xiang Ren, Rachel Guan, Rostyslav Korolov, Tongtao Zhang, Dongang Wang, Hongzhi Li, Taylor Cassidy, Heng Ji, Shih-fu Chang, Jiawei Han, William Wallace, James Hendler, Mei Si and Lance Kaplan
+33/demos SODA: Service Oriented Domain Adaptation Architecture for Microblog Categorization %by Himanshu Sharad Bhatt, Sandipan Dandapat, Peddamuthu Balaji, Shourya Roy, Sharmistha Jat and Deepali Semwal
+34/demos Lecture Translator - Speech translation framework for simultaneous lecture translation %by Markus Müller, Thai Son Nguyen, Jan Niehues, Eunah Cho, Bastian Krüger, Thanh-Le Ha, Kevin Kilgour, Matthias Sperber, Mohammed Mediani, Sebastian Stüker and Alex Waibel
+37/demos Zara The Supergirl: An Empathetic Personality Recognition System %by Pascale Fung, Anik Dey, Farhad Bin Siddique, Ruixi Lin, Yang Yang, Yan Wan and Ho Yin Ricky Chan
+38/demos Kathaa: A Visual Programming Framework for NLP Applications %by Sharada Prasanna Mohanty, Nehal J Wani, Manish Srivastava and Dipti Misra Sharma
+39/demos Why Should I Trust You?": Explaining the Predictions of Any Classifier %by Marco Ribeiro, Sameer Singh and Carlos Guestrin
+
++ 18:00--20:00 Student Workshop Posters 2
+16/NAACL-SRW16 Effects of Communicative Pressures on Novice L2 Learners' Use of Optional Formal Devices %by Yoav Binoun
+24/NAACL-SRW16 Explicit Argument Identification for Discourse Parsing In Hindi: A Hybrid Pipeline %by Rohit Jain and Dipti Sharma
+22/NAACL-SRW16 Exploring Fine-Grained Emotion Detection in Tweets %by Jasy Suet Yan Liew and Howard Turtle
+5/NAACL-SRW16 Extraction of Bilingual Technical Terms for Chinese-Japanese Patent Translation %by Wei Yang, Jinghui Yan and Yves Lepage
+30/NAACL-SRW16 Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter %by Zeerak Waseem and Dirk Hovy
+11/NAACL-SRW16 Non-decreasing Sub-modular Function for Comprehensible Summarization %by Litton JKurisinkel, Pruthwik Mishra, Vigneshwaran Muralidaran, Vasudeva Varma and Dipti Misra Sharma
+21/NAACL-SRW16 Phylogenetic simulations over constraint-based grammar formalisms %by Andrew Lamont and Jonathan Washington
+4/NAACL-SRW16 Question Answering over Knowledge Base using Weakly Supervised Memory Networks %by Sarthak Jain
+13/NAACL-SRW16 Using Related Languages to Enhance Statistical Language Models %by Anna Currey, Alina Karakanta and Jon Dehdari
+
++ 20:00--23:00 Social Event
+
+
+* Wednesday, June 15, 2016
+
++ 07:30--08:45 Breakfast
+
++ 09:00--10:15 Invited talk: "Human-based evaluations of language generation systems" %by Ehud Reiter
+
++ 10:15--10:45 Coffee break
+
+= 10:45--12:15 Parallel Session 8A: Question Answering  %room Grand Ballroom A %chair Eduard Hovy
+738/TACL 10:45--11:05 A Joint Model for Answer Sentence Ranking and Answer Extraction [TACL] %by Md Arafat Sultan, Vittorio Castelli, and Radu Florian
+683 11:05--11:25  # Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking
+467 11:25--11:45  # Semi-supervised Question Retrieval with Gated Convolutions
+692/TACL 11:45--12:05 Parsing Algebraic Word Problems into Equations [TACL] %by Rik Koncel-Kedziorski, Hannaneh Hajishirzi, Ashish Sabharwal, Oren Etzioni, and Siena Dumas Ang
+141 12:05--12:15  # This is how we do it: Answer Reranking for Open-domain How Questions with Paragraph Vectors and Minimal Feature Engineering
+
+= 10:45--12:15 Parallel Session 8B: Multilingual Processing  %room Grande Ballroom B %chair Mohit Bansal
+514 10:45--11:05  # Multilingual Language Processing From Bytes
+460 11:05--11:25  # Ten Pairs to Tag -- Multilingual POS Tagging via Coarse Mapping between Embeddings
+278 11:25--11:45  # Part-of-Speech Tagging for Historical English
+360 11:45--12:05  # Statistical Modeling of Creole Genesis
+257 12:05--12:15  # Shallow Parsing Pipeline - Hindi-English Code-Mixed Social Media Text
+
+= 10:45--12:15 Parallel Session 8C: Word Embeddings II  %room Grande Ballroom C %chair Schütze Schuetze
+465 10:45--11:05  # Bilingual Learning of Multi-sense Embeddings with Discrete Autoencoders
+370 11:05--11:25  # Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning
+266 11:25--11:45  # Learning Distributed Representations of Sentences from Unlabelled Data
+711/TACL 11:45--12:05 Learning to Understand Phrases by Embedding the Dictionary [TACL] %by Felix Hill, KyungHyun Cho, Anna Korhonen, and Yoshua Bengio
+517 12:05--12:15  # Retrofitting Sense-Specific Word Vectors Using Parallel Text
+
++ 12:15--13:00 Lunch
+
++ 13:00--14:00 NAACL business meeting, Grande Ballroom A
+
+= 14:15--15:45 Parallel Session 9A: Argumentation and Discourse  %room Grande Ballroom A %chair Cristian Danescu-Niculescu-Mizil
+667 14:15--14:35  # End-to-End Argumentation Mining in Student Essays
+328 14:35--14:55  # Cross-Domain Mining of Argumentative Text through Distant Supervision
+94 14:55--15:15  # A Study of the Impact of Persuasive Argumentation in Political Debates
+544 15:15--15:35  # Lexical Coherence Graph Modeling Using Word Embeddings
+374 15:35--15:45  # Using Context to Predict the Purpose of Argumentative Writing Revisions
+
+= 14:15--15:45 Parallel Session 9B: Misc Semantics  %room Grande Ballroom B %chair Steven Bethard
+624 14:15--14:35  # Automatic Generation and Scoring of Positive Interpretations from Negated Statements
+331 14:35--14:55  # Learning Natural Language Inference with LSTM
+615 14:55--15:15  # Activity Modeling in Email
+86 15:15--15:35  # Clustering Paraphrases by Word Sense
+208 15:35--15:45  # Unsupervised Learning of Prototypical Fillers for Implicit Semantic Role Labeling
+
+= 14:15--15:45 Parallel Session 9C: Text Categorization  %room Grande Ballroom C %chair Jacob Eisenstein
+392 14:15--14:35  # Hierarchical Attention Networks for Document Classification
+681 14:35--14:55  # Dependency Based Embeddings for Sentence Classification Tasks
+156 14:55--15:15  # Deep LSTM based Feature Mapping for Query Classification
+61 15:15--15:35  # Dependency Sensitive Convolutional Neural Networks for Modeling Sentences and Documents
+82 15:35--15:45  # MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification
+
++ 15:45--16:15 Coffee break
+
+= 16:15--17:45 Best paper awards %chair Owen Rambow
+562 16:15--16:35  # Improving sentence compression by learning to predict gaze
+490 16:35--17:05  # Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Relationships
+569 17:05--17:35  # Learning to Compose Neural Networks for Question Answering
+
++ 17:35--17:45 Closing remarks 
+

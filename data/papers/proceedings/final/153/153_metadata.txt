@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#153
+FinalPaperTitle#=%=#Opinion Holder and Target Extraction on Opinion Compounds -- A Linguistic Approach
+ShortPaperTitle#=%=#Opinion Holder and Target Extraction on Opinion Compounds
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#MW
+JobTitle#==#
+Organization#==#
+Abstract#==#We present an approach to the new task of opinion holder and target extraction
+on opinion compounds. Opinion compounds (e.g. "user rating" or "victim
+support") are noun compounds whose head is an opinion noun. We do not only
+examine features known to be effective for noun compound analysis, such as
+paraphrases and semantic classes of heads and modifiers, but also propose novel
+features tailored to this new task. Among them, we examine paraphrases that
+jointly consider holders and targets, a verb detour in which noun heads are
+replaced by related verbs, a global head constraint allowing inferencing
+between different compounds, and the categorization of the sentiment view that
+the head conveys.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Wiegand
+Author{1}{Email}#=%=#michael.wiegand@lsv.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Christine
+Author{2}{Lastname}#=%=#Bocionek
+Author{2}{Email}#=%=#bocionek@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#Ruppenhofer
+Author{3}{Email}#=%=#ruppenho@uni-hildesheim.de
+Author{3}{Affiliation}#=%=#Hildesheim University
+
+==========

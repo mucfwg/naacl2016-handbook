@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#389
+FinalPaperTitle#=%=#A Long Short-Term Memory Framework for Predicting Humor in Dialogues
+ShortPaperTitle#=%=#A Long Short-Term Memory Framework for Predicting Humor in Dialogues
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dario Bertero
+JobTitle#==#
+Organization#==#Human Language Technology Center
+Department of Electronic and Computer Engineering
+The Hong Kong University of Science and Technology
+Clear Water Bay, Hong Kong
+Abstract#==#We propose a first-ever attempt to employ a Long Short-Term memory based
+framework to predict humor in dialogues. We analyze data from a popular
+TV-sitcom, whose canned laughters give an indication of when the audience would
+react. We model the setup-punchline relation of conversational humor with a
+Long Short-Term Memory, with utterance encodings obtained from a Convolutional
+Neural Network. Out neural network framework is able to improve the F-score of
+8% over a Conditional Random Field baseline. We show how the LSTM effectively
+models the setup-punchline relation reducing the number of false positives and
+increasing the recall. We aim to employ our humor prediction model to build
+effective empathetic machine able to understand jokes.
+Author{1}{Firstname}#=%=#Dario
+Author{1}{Lastname}#=%=#Bertero
+Author{1}{Email}#=%=#dbertero@ust.hk
+Author{1}{Affiliation}#=%=#Human Language Technology Center, The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Pascale
+Author{2}{Lastname}#=%=#Fung
+Author{2}{Email}#=%=#pascale@ece.ust.hk
+Author{2}{Affiliation}#=%=#Human Language Technology Center, The Hong Kong University of Science and Technology
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#448
+FinalPaperTitle#=%=#UofL at SemEval-2016 Task 4: Multi Domain word2vec for Twitter Sentiment Classification
+ShortPaperTitle#=%=#Multi Domain word2vec for Twitter Sentiment Classification
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Omar Abdelwahab
+JobTitle#==#
+Organization#==#University of Louisville, J.B Speed School of Engineering.
+132 Eastern Park way, Louisville, KY 40292
+Abstract#==#In this paper, we present a transfer learning system for twitter sentiment
+classification and compare its performance using different feature sets that
+include different word representation vectors. We utilized data from a
+different source domain to increase the performance of our system in the target
+domain. Our approach was based on training various word2vec models on data from
+the source and target domains combined, then using these models to calculate
+the average word vector of all the word vectors in a tweet observation, then
+input the average word vector as a feature to our classifiers for training. We
+further developed one doc2vec model that was trained on the positive, negative
+and neutral tweets in the target domain only. We then used these models in
+calculating the average word vector for every tweet in the training set as a
+preprocessing step. The final evaluation results show that our approach gave a
+prediction accuracy on the Twitter2016 test data set that outperformed two
+teams that were among the top 10 in terms of AvgF1 scores.
+Author{1}{Firstname}#=%=#Omar
+Author{1}{Lastname}#=%=#Abdelwahab
+Author{1}{Email}#=%=#oaabde01@louisville.edu
+Author{1}{Affiliation}#=%=#University of Louisville
+Author{2}{Firstname}#=%=#Adel
+Author{2}{Lastname}#=%=#Elmaghraby
+Author{2}{Email}#=%=#adel.elmaghraby@louisville.edu
+Author{2}{Affiliation}#=%=#University of Louisville
+
+==========

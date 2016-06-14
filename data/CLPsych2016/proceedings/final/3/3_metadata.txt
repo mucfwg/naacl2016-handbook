@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Detecting late-life depression in Alzheimer's disease through analysis of speech and language
+ShortPaperTitle#=%=#Detecting late-life depression in Alzheimer's
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kathleen Fraser
+JobTitle#==#
+Organization#==#
+Abstract#==#Alzheimer's disease (AD) and depression share a number of symptoms, and
+commonly occur together. Being able to differentiate between these two
+conditions is critical, as depression is generally treatable. We use linguistic
+analysis and machine learning to determine whether automated screening
+algorithms for AD are affected by depression, and to detect when individuals
+diagnosed with AD are also showing signs of depression. In the first case, we
+find that our automated AD screening procedure does not show false positives
+for individuals who have depression but are otherwise healthy. In the second
+case, we have moderate success in detecting signs of depression in AD (accuracy
+= 0.649), but we are not able to draw a strong conclusion about the features
+which are most informative to the classification.
+Author{1}{Firstname}#=%=#Kathleen C.
+Author{1}{Lastname}#=%=#Fraser
+Author{1}{Email}#=%=#kfraser@cs.toronto.edu
+Author{1}{Affiliation}#=%=#University of Toronto
+Author{2}{Firstname}#=%=#Frank
+Author{2}{Lastname}#=%=#Rudzicz
+Author{2}{Email}#=%=#frank@cs.toronto.edu
+Author{2}{Affiliation}#=%=#Toronto Rehabilitation Institute; University of Toronto, Department of Computer Science
+Author{3}{Firstname}#=%=#Graeme
+Author{3}{Lastname}#=%=#Hirst
+Author{3}{Email}#=%=#gh@cs.toronto.edu
+Author{3}{Affiliation}#=%=#University of Toronto
+
+==========

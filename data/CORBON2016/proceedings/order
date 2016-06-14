@@ -1,0 +1,25 @@
+= 09:00--10:30 Session 1
++ 09:00--09:10 Introduction
+! 09:10--10:10 Invited talk: The (Non)Utility of Semantics for Coreference Resolution (CORBON  Remix) %by Michael Strube
+14 10:10--10:30  # Sense Anaphoric Pronouns: Am I One?
++ 10:30--11:00 Coffee break
+= 11:00--12:30 Session 2
+17 11:00--11:30  # Experiments on bridging across languages and genres
+21 11:30--12:00  # Bridging Relations in Polish: Adaptation of Existing Typologies
+6 12:00--12:30  # Beyond Identity Coreference: Contrasting Indicators of Textual Coherence in English and German
++ 12:30--14:00 Lunch break
+= 14:00--15:30 Session 3
+! 14:00--15:00 Invited talk: A Bayesian Model of Pronoun Production and Interpretation %by Andrew Kehler
+19 15:00--15:30  # Exploring the steps of Verb Phrase Ellipsis
++ 15:30--16:00 Coffee break
+= 16:00--17:30 Session 4
+16 16:00--16:20  # Anaphoricity in Connectives: A Case Study on German
++ 16:20--16:30 One minute madness for posters
+= 16:30--17:30 Poster session
+3   # Abstract Coreference in a Multilingual Perspective: a View on Czech and German
+12   # Antecedent Prediction Without a Pipeline
+5   # Bridging Corpus for Russian in comparison with Czech
+10   # Coreference Resolution for the Basque Language with BART
+11   # Error analysis for anaphora resolution in Russian: new challenging issues for anaphora resolution task in a morphologically rich language
+20   # How to Handle Split Antecedents in Tamil?
+9   # When Annotation Schemes Change Rules Help: A Configurable Approach to Coreference Resolution beyond OntoNotes

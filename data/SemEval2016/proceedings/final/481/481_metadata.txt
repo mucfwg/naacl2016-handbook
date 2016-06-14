@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#481
+FinalPaperTitle#=%=#DSIC-ELIRF at SemEval-2016 Task 4: Message Polarity Classification in Twitter using a Support Vector Machine Approach
+ShortPaperTitle#=%=#Message Polarity Classification in Twitter using a Support Vector Machine Approach
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Victor Martinez Morant
+JobTitle#==#
+Organization#==#Universitat Politècnica de València
+Camí de Vera s/n
+46022 València
+Abstract#==#This paper contains the description of our participation at task 4 (sub-task A,
+Message Polarity  Classification)  of  SemEval-2016.   Our proposed   system  
+consists   mainly   of                                             three steps. 
+Firstly,
+the
+preprocessing
+step
+includes
+the  tokenization  and                                            identification     
+         
+        of 
+
+special
+elements
+including URLs,
+hashtags, user mentions and emoticons.                                            The
+second step
+aims
+at
+selecting
+ and 
+extracting  the  feature  set.                                             Finally, a
+supervised
+approach, in particular a Support Vector Machine has been applied to tackle the
+classification problem.
+Author{1}{Firstname}#=%=#Victor
+Author{1}{Lastname}#=%=#Martinez Morant
+Author{1}{Email}#=%=#vmartinez2@dsic.upv.es
+Author{1}{Affiliation}#=%=#Universitat Politècnica de València
+Author{2}{Firstname}#=%=#Lluís-F
+Author{2}{Lastname}#=%=#Hurtado
+Author{2}{Email}#=%=#lhurtado@dsic.upv.es
+Author{2}{Affiliation}#=%=#Universitat Politècnica de València
+Author{3}{Firstname}#=%=#Ferran
+Author{3}{Lastname}#=%=#Pla
+Author{3}{Email}#=%=#fpla@dsic.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

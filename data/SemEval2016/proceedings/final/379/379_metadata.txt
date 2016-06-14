@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#379
+FinalPaperTitle#=%=#JU_NLP at SemEval-2016 Task 11: Identifying Complex Words in a Sentence
+ShortPaperTitle#=%=#JU_NLP at SemEval-2016 Task 11: Identifying Complex Words in a Sentence
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Braja Gopal Patra
+JobTitle#==#
+Organization#==#Computer Science & Engineering, Jadavpur University, 188 Raja S.C Mullick Road, Kolkata, West Bengal.
+Abstract#==#The complex word identification task refers to the process of identifying
+difficult words in a sentence from the perspective of readers belonging to a
+specific target audience. This task has immense importance in the field of
+lexical simplification. Lexical simplification helps in improving the
+readability of texts consisting of challenging words. As a participant of the
+SemEval-2016: Task 11 shared task, we developed two systems using various
+lexical and semantic features to identify complex words, one using Naive Bayes
+and another based on Random Forest Classifiers. The Naive Bayes classifier
+based system achieves the maximum G-score of 76.7% after incorporating rule
+based post-processing techniques.
+Author{1}{Firstname}#=%=#Niloy
+Author{1}{Lastname}#=%=#Mukherjee
+Author{1}{Email}#=%=#niloymukherjee93@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Braja Gopal
+Author{2}{Lastname}#=%=#Patra
+Author{2}{Email}#=%=#brajagopal.cse@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Dipankar
+Author{3}{Lastname}#=%=#Das
+Author{3}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{3}{Affiliation}#=%=#Jadavpur University
+Author{4}{Firstname}#=%=#Sivaji
+Author{4}{Lastname}#=%=#Bandyopadhyay
+Author{4}{Email}#=%=#sivaji_cse_ju@yahoo.com
+Author{4}{Affiliation}#=%=#JADAVPUR UNIVERSITY
+
+==========

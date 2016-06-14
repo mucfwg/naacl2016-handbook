@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#The Physics of Text: Ontological Realism in Information Extraction
+ShortPaperTitle#=%=#The Physics of Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Stuart Russell
+JobTitle#==#
+Organization#==#UC Berkeley, CA 94720, USA
+Abstract#==#We propose an approach to extracting information from text based on the
+hypothesis that text sometimes describes the world. The hypothesis is embodied
+in a generative probability model that describes (1) possible worlds and the
+facts they might contain, (2) how an author chooses facts to express, and (3)
+how those facts are expressed in text. Given text, information extraction is
+done by computing a posterior over the worlds that might have generated it. As
+a by-product, this unsupervised learning process discovers new relations and
+their textual expressions, extracts new facts, disambiguates instances of
+polysemous expressions, and resolves entity references. The probability model
+also explains and improves on Brin’s bootstrapping heuristic, which underlies
+many open information extraction systems. Preliminary results on a small corpus
+of New York Times text suggest that the approach is effective.
+Author{1}{Firstname}#=%=#Stuart
+Author{1}{Lastname}#=%=#Russell
+Author{1}{Email}#=%=#russell@cs.berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Ole Torp
+Author{2}{Lastname}#=%=#Lassen
+Author{2}{Email}#=%=#otl@propercontext.org
+Author{2}{Affiliation}#=%=#Roskilde University
+Author{3}{Firstname}#=%=#Justin
+Author{3}{Lastname}#=%=#Uang
+Author{3}{Email}#=%=#justin.uang@gmail.com
+Author{3}{Affiliation}#=%=#Palantir Technologies
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#benwei.wang@outlook.com
+Author{4}{Affiliation}#=%=#UPMC, Paris
+
+==========

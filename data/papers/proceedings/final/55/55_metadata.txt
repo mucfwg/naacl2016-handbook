@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#Expectation-Regulated Neural Model for Event Mention Extraction
+ShortPaperTitle#=%=#Expectation-Regulated Neural Model for Event Mention Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ching-Yun Chang
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Road, Singapore 487372
+Abstract#==#We tackle the task of extracting tweets that mention a specific event from all
+tweets that contain relevant keywords, for which the main challenges include
+unbalanced positive and negative cases, and the unavailability of manually
+labeled training data. Existing methods leverage a few manually given seed
+events and large unlabeled tweets to train a classifier, by using expectation
+regularization training with discrete ngram features. We propose a LSTM-based
+neural model that learns tweet-level features automatically. Compared with
+discrete ngram features, the neural model can potentially capture non-local
+dependencies and deep semantic information, which are more effective for
+disambiguating subtle semantic differences between true event mentions and
+false cases that use similar wording patterns. Results on both tweets and forum
+posts show that our neural model is more effective compared with a
+state-of-the-art discrete baseline.
+Author{1}{Firstname}#=%=#Ching-Yun
+Author{1}{Lastname}#=%=#Chang
+Author{1}{Email}#=%=#chingyun_chang@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Zhiyang
+Author{2}{Lastname}#=%=#Teng
+Author{2}{Email}#=%=#zhiyang_teng@mymail.sutd.edu.sg
+Author{2}{Affiliation}#=%=#SUTD
+Author{3}{Firstname}#=%=#Yue
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

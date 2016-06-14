@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Using the verifiability of details as a test of deception: A conceptual framework for the automation of the verifiability approach
+ShortPaperTitle#=%=#Using the verifiability of details as a test of deception
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Bennett Kleinberg
+JobTitle#==#
+Organization#==#
+Abstract#==#The Verifiability Approach (VA) is a promising new approach for deception
+detection. It extends existing verbal credibility assessment tools by asking
+interviewees to provide statements rich in verifiable detail. Details that i)
+have been experienced with an identifiable person, ii) have been witnessed by
+an identifiable person, or iii) have been recorded through technology, are
+labelled as verifiable. With only minimal modifications of
+information-gathering interviews this approach has yielded remarkable
+classification accuracies. Currently, the VA relies on extensive manual
+annotation by human coders. Aiming to extend the VA’s applicability, we
+present a work in progress on automated VA scoring. We provide a conceptual
+outline of two automation approaches: one being based on the Linguistic Inquiry
+and Word Count software and the other on rule-based shallow parsing and named
+entity recognition. Differences between both approaches and possible future
+steps for an automated VA are discussed.
+Author{1}{Firstname}#=%=#Bennett
+Author{1}{Lastname}#=%=#Kleinberg
+Author{1}{Email}#=%=#b.a.r.kleinberg@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Galit
+Author{2}{Lastname}#=%=#Nahari
+Author{2}{Email}#=%=#Galit.Nahari@biu.ac.il
+Author{2}{Affiliation}#=%=#Bar-Ilan University, Israel
+Author{3}{Firstname}#=%=#Bruno
+Author{3}{Lastname}#=%=#Verschuere
+Author{3}{Email}#=%=#b.j.verschuere@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+
+==========

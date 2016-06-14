@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#542
+FinalPaperTitle#=%=#SemEval-2016 Task 4: Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#SemEval-2016 Task 4: Sentiment Analysis in Twitter
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Preslav Nakov
+JobTitle#==#Senior Scientist
+Organization#==#Qatar Computing Research Institute, Hamad bin Khalifa University, Qatar
+Tornado Tower
+Doha, Qatar
+Abstract#==#This document discusses SemEval-2016 Task 4 “Sentiment Analysis in
+Twitter”, a continuation of SemEval-2013 Task 2, SemEval-2014 Task 9, and
+SemEval-2015 Task 10. SemEval-2016 Task 4 comprises five subtasks, three of
+which represent a significant departure from previous editions. The three new
+subtasks focus, individually or in combination, on two variants of the basic
+“sentiment classification in Twitter” task that had not been previously
+explored within SemEval. The first variant adopts a five-point scale, which
+confers an ordinal character to the classification task. The second variant
+focuses on the correct estimation of the prevalence of each class of interest,
+a task which has been called quantification in the supervised learning
+literature. In contrast, previous years’ subtasks have focused on the correct
+labelling of individual tweets. The task attracted a total of 43 teams.
+Author{1}{Firstname}#=%=#Preslav
+Author{1}{Lastname}#=%=#Nakov
+Author{1}{Email}#=%=#preslav.nakov@gmail.com
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{2}{Firstname}#=%=#Alan
+Author{2}{Lastname}#=%=#Ritter
+Author{2}{Email}#=%=#ritter.1492@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Sara
+Author{3}{Lastname}#=%=#Rosenthal
+Author{3}{Email}#=%=#sara@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Fabrizio
+Author{4}{Lastname}#=%=#Sebastiani
+Author{4}{Email}#=%=#fsebastiani@qf.org.qa
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{5}{Firstname}#=%=#Veselin
+Author{5}{Lastname}#=%=#Stoyanov
+Author{5}{Email}#=%=#ves@cs.jhu.edu
+Author{5}{Affiliation}#=%=#Facebook
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#391
+FinalPaperTitle#=%=#LTG at SemEval-2016 Task 11: Complex Word Identification with Classifier Ensembles
+ShortPaperTitle#=%=#LTG at SemEval-2016 Task 11: Complex Word Identification with Classifier Ensembles
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Shervin Malmasi
+JobTitle#==#
+Organization#==#Macquarie University
+Abstract#==#We present the description of the LTG entry in the SemEval-2016 Complex Word
+Identification (CWI) task, which aimed to develop systems for identifying
+complex words in English sentences. Our entry focused on the use of contextual
+language model features and the application of ensemble classification methods.
+Both of our systems achieved good performance, ranking in 2nd and 3rd place
+overall in terms of F-Score.
+Author{1}{Firstname}#=%=#Shervin
+Author{1}{Lastname}#=%=#Malmasi
+Author{1}{Email}#=%=#shervin.malmasi@students.mq.edu.au
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Dras
+Author{2}{Email}#=%=#mark.dras@mq.edu.au
+Author{2}{Affiliation}#=%=#Macquarie University
+Author{3}{Firstname}#=%=#Marcos
+Author{3}{Lastname}#=%=#Zampieri
+Author{3}{Email}#=%=#marcos.zampieri@uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

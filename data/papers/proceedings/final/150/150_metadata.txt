@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#150
+FinalPaperTitle#=%=#Leverage Financial News to Predict Stock Price Movements Using Word Embeddings and Deep Neural Networks
+ShortPaperTitle#=%=#Leverage Financial News to Predict Stock Price Movements
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yangtuo Peng
+JobTitle#==#A graduate student
+Organization#==#York University
+4700 Keele Street, Toronto, Ontario, Canada
+Abstract#==#Financial news contains useful information on public companies and the market.
+In this paper we apply the popular word embedding methods and deep neural
+networks to leverage financial news to predict stock price movements in the
+market. Experimental results have shown that our proposed methods are simple
+but very effective, which can significantly improve the stock prediction
+accuracy on a standard financial database over the baseline system using only
+the historical price information.
+Author{1}{Firstname}#=%=#Yangtuo
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#tim@cse.yorku.ca
+Author{1}{Affiliation}#=%=#Department of Electrical Engineering and Computer Science, York University
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#hj@cse.yorku.ca
+Author{2}{Affiliation}#=%=#Department of Electrical Engineering and Computer Science, York University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#562
+FinalPaperTitle#=%=#Improving sentence compression by learning to predict gaze
+ShortPaperTitle#=%=#Improving sentence compression by learning to predict gaze
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anders Søgaard
+JobTitle#==#
+Organization#==#University of Copenhagen
+Njalsgade 140, DK-2300 Copenhagen
+Abstract#==#We show how eye-tracking corpora can be used to improve sentence compression
+models, presenting a novel multi-task learning algorithm based on multi-layer
+LSTMs. We obtain performance competitive with state-of-the-art approaches to
+sentence compression.
+Author{1}{Firstname}#=%=#Sigrid
+Author{1}{Lastname}#=%=#Klerke
+Author{1}{Email}#=%=#skl@hum.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#yoav.goldberg@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+Author{3}{Firstname}#=%=#Anders
+Author{3}{Lastname}#=%=#Søgaard
+Author{3}{Email}#=%=#soegaard@hum.ku.dk
+Author{3}{Affiliation}#=%=#University of Copenhagen
+
+==========

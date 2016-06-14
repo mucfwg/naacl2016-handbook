@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#384
+FinalPaperTitle#=%=#FBK HLT-MT at SemEval-2016 Task 1: Cross-lingual Semantic Similarity Measurement Using Quality Estimation Features and Compositional Bilingual Word Embeddings
+ShortPaperTitle#=%=#FBK HLT-MT at SemEval-2016 Task 1
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#DUYGU ATAMAN
+JobTitle#==#PHD STUDENT
+Organization#==#FONDAZIONE BRUNO KESSLER
+VIA SOMMARIVE 18, I-38123 TRENTO, ITALIA
+Abstract#==#This paper describes the system by FBK HLT-MT for cross-lingual semantic
+textual similarity measurement. Our approach is based on supervised regression
+with an ensemble decision tree. In order to assign a semantic similarity score
+to an input sentence pair, the model combines features collected by
+state-of-the-art
+methods in machine translation quality estimation and distance metrics between
+cross-lingual embeddings of the two sentences. In our analysis, we compare
+different techniques for composing sentence vectors, several distance features
+and ways to produce training data. The proposed system achieves a mean
+Pearson’s correlation of 0.39533, ranking 7th among all participants in the
+cross-lingual
+STS task organized within the SemEval 2016 evaluation campaign.
+Author{1}{Firstname}#=%=#Duygu
+Author{1}{Lastname}#=%=#Ataman
+Author{1}{Email}#=%=#ataman@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler, University of Trento
+Author{2}{Firstname}#=%=#Jose G.
+Author{2}{Lastname}#=%=#C. De Souza
+Author{2}{Email}#=%=#desouza@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler, University of Trento
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Turchi
+Author{3}{Email}#=%=#turchi@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Matteo
+Author{4}{Lastname}#=%=#Negri
+Author{4}{Email}#=%=#negri@fbk.eu
+Author{4}{Affiliation}#=%=#Fondazione Bruno Kessler
+
+==========

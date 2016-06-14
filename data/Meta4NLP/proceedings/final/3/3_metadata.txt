@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Finding metaphorical triggers through source (not target) domain lexicalization patterns
+ShortPaperTitle#=%=#Finding metaphorical triggers through source (not target) domain lexicalization patterns
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jenny Lederer
+JobTitle#==#
+Organization#==#Jenny Lederer
+Assistant Professor of Linguistics
+Department of English Language and Literature
+San Francisco State University
+1600 Holloway Ave.
+San Francisco CA 94132
+Abstract#==#Some metaphorical mappings between source and target are obvious and appear in
+collocation patterns in natural language data. However, other metaphors that
+structure abstract processes or complex topics are trickier to investigate
+because the target domain is lexically divorced from the source.  Using
+metaphors for the economy as a case study, this paper introduces new techniques
+to find metaphorical tokens when target and source relationships are
+nonobvious. Through novel methods, constellations of source-domain triggers are
+identified in the data and evaluated for metaphoricity and keyness and then
+grouped according to trigger potency.
+Author{1}{Firstname}#=%=#Jenny
+Author{1}{Lastname}#=%=#Lederer
+Author{1}{Email}#=%=#lederer@sfsu.edu
+Author{1}{Affiliation}#=%=#San Francisco State University
+
+==========

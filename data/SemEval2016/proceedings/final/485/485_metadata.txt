@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#485
+FinalPaperTitle#=%=#UMNDuluth at SemEval-2016 Task 14: WordNet’s Missing Lemmas
+ShortPaperTitle#=%=#UMNDuluth at SemEval-2016 Task 14
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jonathan Rusert
+JobTitle#==#
+Organization#==#UMD Computer Science Department
+1114 Kirby Dr 
+Duluth, MN 55812
+Abstract#==#This paper presents a solution to Semeval
+2016 Task 14 which asks for a system that is
+able to insert new lemmas into WordNet. Our
+system aims to do this by overlapping words in
+the definitions of the to-be-inserted lemma and
+all senses in WordNet. This paper includes
+the results of our system and also includes the
+baseline provided by Task 14, with our system
+scoring higher than the random baseline, and
+lower than the first word baseline.
+Author{1}{Firstname}#=%=#Jon
+Author{1}{Lastname}#=%=#Rusert
+Author{1}{Email}#=%=#ruse0008@d.umn.edu
+Author{1}{Affiliation}#=%=#University of Minnesota, Duluth
+Author{2}{Firstname}#=%=#Ted
+Author{2}{Lastname}#=%=#Pedersen
+Author{2}{Email}#=%=#tpederse@d.umn.edu
+Author{2}{Affiliation}#=%=#University of Minnesota, Duluth
+
+==========

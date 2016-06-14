@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Sentiment Lexicon Creation using Continuous Latent Space and Neural Networks
+ShortPaperTitle#=%=#Sentiment Lexicon Creation using Continuous Latent Space and Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Pedro Miguel Dias Cardoso
+JobTitle#==#Director of Data Science
+Organization#==#Synthesio
+8 rue Villedo, 75001 Paris
+France
+Abstract#==#This work presents a novel approach for automatic creation of sentiment word
+lists. In this approach, words are first mapped into a continuous latent space,
+which serves as input to a multilayer perceptron (MLP) trained using
+sentiment-annotated words. When evaluated using manually annotated EmoLex
+corpus, our approach compares favourably with SentiWordNet 3.0, another
+automatically generated word list.
+Author{1}{Firstname}#=%=#Pedro
+Author{1}{Lastname}#=%=#Dias Cardoso
+Author{1}{Email}#=%=#karudoso@gmail.com
+Author{1}{Affiliation}#=%=#Synthesio
+Author{2}{Firstname}#=%=#Anindya
+Author{2}{Lastname}#=%=#Roy
+Author{2}{Email}#=%=#aroy@synthesio.com
+Author{2}{Affiliation}#=%=#Synthesio
+
+==========

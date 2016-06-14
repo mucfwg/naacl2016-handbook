@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Multilingual Multimodal Language Processing Using Neural Networks
+ShortPaperTitle#=%=#Multilingual Multimodal Language Processing Using Neural Networks
+NumberOfPages#=%=#2
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#
+Author{1}{Firstname}#=%=#Mitesh M.
+Author{1}{Lastname}#=%=#Khapra
+Author{1}{Email}#=%=#khapra.mitesh@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research India
+Author{2}{Firstname}#=%=#Sarath
+Author{2}{Lastname}#=%=#Chandar
+Author{2}{Email}#=%=#apsarathchandar@gmail.com
+Author{2}{Affiliation}#=%=#University of Montreal
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#449
+FinalPaperTitle#=%=#AKTSKI at SemEval-2016 Task 5: Aspect Based Sentiment Analysis for Consumer Reviews
+ShortPaperTitle#=%=#AKTSKI at SemEval-2016 Task 5: ABSA
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shubham Pateria
+JobTitle#==#
+Organization#==#Samsung R&D Institute, Doddanekundi, Bangalore - 560066, Karnataka, India
+Abstract#==#This paper describes the polarity classification system designed for
+participation in SemEval-2016 Task 5 - ABSA. The aim is to determine the
+sentiment polarity expressed towards certain aspect within a consumer review.
+Our system is based on supervised learning using Support Vector Machine (SVM).
+We use standard features for basic classification model. On top this, we
+include rules to check precedent polarity sequence. This approach is
+experimental.
+Author{1}{Firstname}#=%=#Shubham
+Author{1}{Lastname}#=%=#Pateria
+Author{1}{Email}#=%=#s.pateria@samsung.com
+Author{1}{Affiliation}#=%=#Samsung R&D
+Author{2}{Firstname}#=%=#Prafulla
+Author{2}{Lastname}#=%=#Choubey
+Author{2}{Email}#=%=#prafulla.ch@samsung.com
+Author{2}{Affiliation}#=%=#Samsung R&D India Bangalore Pvt. Ltd.
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#215
+FinalPaperTitle#=%=#Transition-Based Syntactic Linearization with Lookahead Features
+ShortPaperTitle#=%=#Transition-Based Syntactic Linearization with Lookahead Features
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ratish Puduppully
+JobTitle#==#
+Organization#==#IIIT Hyderabad,
+Hyderabad- 500032
+Telangana,
+Abstract#==#It has been shown that transition-based methods can be used for syntactic word
+ordering and tree linearization, achieving significantly faster speed compared
+with traditional best-first methods. State-of-the-art transition-based models
+give competitive results on abstract word ordering and unlabeled tree
+linearization, but significantly worse results on labeled tree linearization.
+We demonstrate that the main cause for the performance bottleneck is the
+sparsity of SHIFT transition actions rather than heavy pruning. To address this
+issue, we propose a modification to the standard transition-based feature
+structure, which reduces feature sparsity and allows lookahead features at a
+small cost to decoding efficiency. Our model gives the best reported accuracies
+on all benchmarks, yet still being over 30 times faster compared with
+best-first-search.
+Author{1}{Firstname}#=%=#Ratish
+Author{1}{Lastname}#=%=#Puduppully
+Author{1}{Email}#=%=#ratish.surendran@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#IIIT Hyderabad
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Manish
+Author{3}{Lastname}#=%=#Shrivastava
+Author{3}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

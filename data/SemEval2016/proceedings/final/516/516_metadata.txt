@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#516
+FinalPaperTitle#=%=#TakeLab at SemEval-2016 Task 6: Stance Classification in Tweets Using a Genetic Algorithm Based Ensemble
+ShortPaperTitle#=%=#Stance Classification in Tweets Using a Genetic Algorithm Based Ensemble
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jan Snajder
+JobTitle#==#Assistant Professor
+Organization#==#TakeLab
+University of Zagreb, Faculty of Electrical Engineering and Computing
+10000 Zagreb
+Croatia
+Abstract#==#This paper describes our system for the detection of stances in tweets
+submitted to SemEval 2016 Task 6A. The system uses an ensemble of learning
+algorithms, fine-tuned using a genetic algorithm. We experiment with various
+off-the-shelf classifiers and build our model using standard lexical and a
+number of task-specific features. Our system ranked 3rd among the 19 systems
+submitted to this task.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Tutek
+Author{1}{Email}#=%=#martin.tutek@gmail.com
+Author{1}{Affiliation}#=%=#University of Zagreb
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Sekulic
+Author{2}{Email}#=%=#ivansekulic0@gmail.com
+Author{2}{Affiliation}#=%=#University of Zagreb
+Author{3}{Firstname}#=%=#Paula
+Author{3}{Lastname}#=%=#Gombar
+Author{3}{Email}#=%=#gombarica@gmail.com
+Author{3}{Affiliation}#=%=#University of Zagreb
+Author{4}{Firstname}#=%=#Ivan
+Author{4}{Lastname}#=%=#Paljak
+Author{4}{Email}#=%=#ipaljak@gmail.com
+Author{4}{Affiliation}#=%=#University of Zagreb
+Author{5}{Firstname}#=%=#Filip
+Author{5}{Lastname}#=%=#Culinovic
+Author{5}{Email}#=%=#filip.culinovic@gmail.com
+Author{5}{Affiliation}#=%=#University of Zagreb
+Author{6}{Firstname}#=%=#Filip
+Author{6}{Lastname}#=%=#Boltuzic
+Author{6}{Email}#=%=#filipbolt@gmail.com
+Author{6}{Affiliation}#=%=#
+Author{7}{Firstname}#=%=#Mladen
+Author{7}{Lastname}#=%=#Karan
+Author{7}{Email}#=%=#mladen.karan@fer.hr
+Author{7}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Zagreb, Croatia
+Author{8}{Firstname}#=%=#Domagoj
+Author{8}{Lastname}#=%=#Alagić
+Author{8}{Email}#=%=#domagoj.alagic@fer.hr
+Author{8}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing
+Author{9}{Firstname}#=%=#Jan
+Author{9}{Lastname}#=%=#Šnajder
+Author{9}{Email}#=%=#jan.snajder@fer.hr
+Author{9}{Affiliation}#=%=#University of Zagreb, Faculty of Electrical Engineering and Computing, Unska 3, 10000 Zagreb
+
+==========

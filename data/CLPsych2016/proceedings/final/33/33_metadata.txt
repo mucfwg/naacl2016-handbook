@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#CLPsych 2016 Shared Task: Triaging content in online peer-support forums
+ShortPaperTitle#=%=#CLPsych 2016 Shared Task: Triaging content in online peer-support forums
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Glen Pink
+JobTitle#==#
+Organization#==#University of Sydney
+Abstract#==#This paper introduces a new shared task for the text mining community, and a
+rare chance to collaborate around unredacted social media data. The task aims
+to directly support the moderators of a youth mental health forum. It asks
+participants to automatically triage posts into one of four severity labels:
+green, amber, red or crisis. The task attracted 60 submissions from 15
+different teams. The best of these achieve scores well above baselines. Their
+approaches and results provide valuable insights to enable moderators of peer
+support forums to react quickly to the most urgent, concerning content.
+Author{1}{Firstname}#=%=#David N.
+Author{1}{Lastname}#=%=#Milne
+Author{1}{Email}#=%=#david.milne@sydney.edu.au
+Author{1}{Affiliation}#=%=#University of Sydney
+Author{2}{Firstname}#=%=#Glen
+Author{2}{Lastname}#=%=#Pink
+Author{2}{Email}#=%=#glenpink@gmail.com
+Author{2}{Affiliation}#=%=#University of Sydney
+Author{3}{Firstname}#=%=#Ben
+Author{3}{Lastname}#=%=#Hachey
+Author{3}{Email}#=%=#bhachey@hugo.ai
+Author{3}{Affiliation}#=%=#Hugo Australia
+Author{4}{Firstname}#=%=#Rafael A.
+Author{4}{Lastname}#=%=#Calvo
+Author{4}{Email}#=%=#rafael.calvo@sydney.edu.au
+Author{4}{Affiliation}#=%=#University of Sydney
+
+==========

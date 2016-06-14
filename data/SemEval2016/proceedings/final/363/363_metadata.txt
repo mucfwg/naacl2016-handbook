@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#363
+FinalPaperTitle#=%=#SemEval 2016 Task 11: Complex Word Identification
+ShortPaperTitle#=%=#SemEval 2016 Task 11: Complex Word Identification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gustavo Henrique Paetzold
+JobTitle#==#
+Organization#==#University of Sheffield
+Western Bank
+Sheffield, South Yorkshire
+S10 2TN
+United Kingdom
+Abstract#==#We report the findings of the Complex Word Identification task of SemEval 2016.
+To create a dataset, we conduct a user study with 400 non-native English
+speakers, and find that complex words tend to be rarer, less ambiguous and
+shorter. A total of 42 systems were submitted from 21 distinct teams, and nine
+baselines were provided. The results highlight the effectiveness of Decision
+Trees and Ensemble methods for the task, but ultimately reveal that word
+frequencies remain the most reliable predictor of word complexity.
+Author{1}{Firstname}#=%=#Gustavo
+Author{1}{Lastname}#=%=#Paetzold
+Author{1}{Email}#=%=#ghpaetzold@outlook.com
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Lucia
+Author{2}{Lastname}#=%=#Specia
+Author{2}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

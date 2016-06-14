@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#364
+FinalPaperTitle#=%=#Structured Prediction with Output Embeddings for Semantic Image Annotation
+ShortPaperTitle#=%=#Structured Prediction with Output Embeddings for Semantic Image Annotation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ariadna Quattoni
+JobTitle#==#
+Organization#==#
+Abstract#==#We address the task of annotating images with semantic tuples. Solving this
+problem requires an algorithm able to deal with hundreds of classes for each
+argument of the tuple. In such contexts, data sparsity becomes a key challenge.
+We propose handling this by incorporating feature representations of both the
+inputs (images) and outputs (argument classes) into a factorized log-linear
+model.
+Author{1}{Firstname}#=%=#Ariadna
+Author{1}{Lastname}#=%=#Quattoni
+Author{1}{Email}#=%=#aquattoni@lsi.upc.edu
+Author{1}{Affiliation}#=%=#XRCE
+Author{2}{Firstname}#=%=#Arnau
+Author{2}{Lastname}#=%=#Ramisa
+Author{2}{Email}#=%=#arnauramisa@gmail.com
+Author{2}{Affiliation}#=%=#IRI
+Author{3}{Firstname}#=%=#Pranava Swaroop
+Author{3}{Lastname}#=%=#Madhyastha
+Author{3}{Email}#=%=#pranava@cs.upc.edu
+Author{3}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{4}{Firstname}#=%=#Edgar
+Author{4}{Lastname}#=%=#Simo-Serra
+Author{4}{Email}#=%=#esimo@iri.upc.edu
+Author{4}{Affiliation}#=%=#Institut de Robòtica i Informàtica Industrial (CSIC-UPC)
+Author{5}{Firstname}#=%=#Francesc
+Author{5}{Lastname}#=%=#Moreno-Noguer
+Author{5}{Email}#=%=#fmoreno@gmail.com
+Author{5}{Affiliation}#=%=#IRI
+
+==========

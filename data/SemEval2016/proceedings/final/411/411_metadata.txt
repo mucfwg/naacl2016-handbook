@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#411
+FinalPaperTitle#=%=#GTI at SemEval-2016 Task 4: Training a Naive Bayes Classifier using Features of an Unsupervised System
+ShortPaperTitle#=%=#GTI: Training a Naive Bayes Classifier using Features of an Unsupervised System
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Milagros Fernández-Gavilanes
+JobTitle#==#
+Organization#==#AtlantTIC Centre
+Esc. de Enx. de Telecomunación
+Campus Universitario
+36310 Vigo
+Abstract#==#This paper presents the approach of the GTI Research Group to SemEval-2016 task
+4 on Sentiment Analysis in Twitter, or more specifically, subtasks A (Message
+Polarity Classification), B (Tweet classification according to a two-point
+scale) and D (Tweet quantification according to a two-point scale). We followed
+a supervised approach based on the extraction of features by an unsupervised
+dependency parsing-based approach using a sentiment lexicon and Natural
+Language Processing techniques.
+Author{1}{Firstname}#=%=#Jonathan
+Author{1}{Lastname}#=%=#Juncal-Martínez
+Author{1}{Email}#=%=#jonijm@gti.uvigo.es
+Author{1}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{2}{Firstname}#=%=#Tamara
+Author{2}{Lastname}#=%=#Álvarez-López
+Author{2}{Email}#=%=#talvarez@gti.uvigo.es
+Author{2}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{3}{Firstname}#=%=#Milagros
+Author{3}{Lastname}#=%=#Fernández-Gavilanes
+Author{3}{Email}#=%=#milagros.fernandez@gti.uvigo.es
+Author{3}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{4}{Firstname}#=%=#Enrique
+Author{4}{Lastname}#=%=#Costa-Montenegro
+Author{4}{Email}#=%=#kike@gti.uvigo.es
+Author{4}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+Author{5}{Firstname}#=%=#Francisco Javier
+Author{5}{Lastname}#=%=#González-Castaño
+Author{5}{Email}#=%=#javier@det.uvigo.es
+Author{5}{Affiliation}#=%=#AtlantTIC Centre - University of Vigo
+
+==========

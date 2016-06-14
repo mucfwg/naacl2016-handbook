@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#467
+FinalPaperTitle#=%=#ICL00 at SemEval-2016 Task 3: Translation-Based Method for CQA System
+ShortPaperTitle#=%=#ICL00 at SemEval-2016 Task 3: Translation-Based Method for CQA System
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Minghua Zhang
+JobTitle#==#ICL00 at SemEval-2016 Task 3: Translation-Based Method for CQA System
+Organization#==#Institute of Computational Linguistics, Peking University
+Abstract#==#We participate in the English subtask B and C at SemEval-2016 Task 3
+“Community Question Answering”. This paper is concerned with the
+description of our participating system. We propose a ranking model that
+combines a translation model with the cosine similarity-based method. Compared
+to the traditional bag of words method, the proposed model is more effective
+because the relationships between words can be explicitly modeled through
+word-to-word translation probabilities. Experiments conducted on the official
+test data demonstrate that our proposed ranking method obtains promising
+results.
+Author{1}{Firstname}#=%=#Yunfang
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wuyf@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Minghua
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhangmh1993@163.com
+Author{2}{Affiliation}#=%=#Peking University
+
+==========

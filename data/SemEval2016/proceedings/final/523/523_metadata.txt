@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#523
+FinalPaperTitle#=%=#QU-IR at SemEval 2016 Task 3: Learning to Rank on Arabic Community Question Answering Forums with Word Embedding
+ShortPaperTitle#=%=#Learning to Rank on Arabic Community Question Answering Forums with Word Embedding
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rana Malhas
+JobTitle#==#
+Organization#==#Qatar University
+P.O. Box 2713
+Doha - Qatar
+Abstract#==#This is the system description paper for our participation in SemEval 2016 Task
+3-Subtask D (Arabic subtrack)
+Author{1}{Firstname}#=%=#Rana
+Author{1}{Lastname}#=%=#Malhas
+Author{1}{Email}#=%=#rana.malhas@qu.edu.qa
+Author{1}{Affiliation}#=%=#Qatar University
+Author{2}{Firstname}#=%=#Marwan
+Author{2}{Lastname}#=%=#Torki
+Author{2}{Email}#=%=#mtorki@qu.edu.qa
+Author{2}{Affiliation}#=%=#Qatar University
+Author{3}{Firstname}#=%=#Tamer
+Author{3}{Lastname}#=%=#Elsayed
+Author{3}{Email}#=%=#telsayed@qu.edu.qa
+Author{3}{Affiliation}#=%=#Qatar University
+
+==========

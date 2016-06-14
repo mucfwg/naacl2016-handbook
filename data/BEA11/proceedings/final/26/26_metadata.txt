@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Automatically Scoring Tests of Proficiency in Music Instruction
+ShortPaperTitle#=%=#Automatically Scoring Tests of Proficiency in Music Instruction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nitin Madnani
+JobTitle#==#
+Organization#==#
+Abstract#==#We present preliminary work on automatically scoring constructed responses
+elicited as part of a certification test designed to measure the effectiveness
+of the test-taker as a K-12 music teacher. This content scoring differs from
+most previous work in that the responses are relatively long and are written by
+an adult population of generally proficient English writers. We obtain
+reasonably good scoring performance for all the test questions using simple
+features. We carry out some initial error analysis and show that there is still
+room for improvement.
+Author{1}{Firstname}#=%=#Nitin
+Author{1}{Lastname}#=%=#Madnani
+Author{1}{Email}#=%=#nmadnani@ets.org
+Author{1}{Affiliation}#=%=#Educational Testing Service
+Author{2}{Firstname}#=%=#Aoife
+Author{2}{Lastname}#=%=#Cahill
+Author{2}{Email}#=%=#acahill@ets.org
+Author{2}{Affiliation}#=%=#Educational Testing Service
+Author{3}{Firstname}#=%=#Brian
+Author{3}{Lastname}#=%=#Riordan
+Author{3}{Email}#=%=#briordan@ets.org
+Author{3}{Affiliation}#=%=#Educational Testing Service
+
+==========

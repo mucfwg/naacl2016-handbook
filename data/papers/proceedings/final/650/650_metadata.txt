@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#650
+FinalPaperTitle#=%=#Conversational Flow in Oxford-style Debates
+ShortPaperTitle#=%=#Conversational Flow in Oxford-style Debates
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Justine Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Public debates are a common platform for presenting and juxtaposing diverging
+views on important issues. In this work we propose a methodology for tracking
+how ideas flow between participants throughout a debate. We use this approach
+in a case study of Oxford-style debates—a competitive format where the winner
+is determined by audience votes—and show how the outcome of a debate depends
+on aspects of conversational flow. In particular, we find that winners tend to
+make better use of a debate’s interactive component than losers, by actively
+pursuing their opponents’ points rather than promoting their own ideas over
+the course of the conversation.
+Author{1}{Firstname}#=%=#Justine
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#jz727@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Ravi
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Email}#=%=#ravi.k53@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Sujith
+Author{3}{Lastname}#=%=#Ravi
+Author{3}{Email}#=%=#sravi@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Cristian
+Author{4}{Lastname}#=%=#Danescu-Niculescu-Mizil
+Author{4}{Email}#=%=#cristian@cs.cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+
+==========

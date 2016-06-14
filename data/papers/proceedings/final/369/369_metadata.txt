@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#369
+FinalPaperTitle#=%=#Geolocation for Twitter: Timing Matters
+ShortPaperTitle#=%=#Geolocation for Twitter: Timing Matters
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mark Dredze
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles Street
+Baltimore, MD 21218
+Abstract#==#Automated geolocation of social media messages can benefit a variety of
+downstream applications.
+However, these geolocation systems are typically evaluated without attention to
+how changes in time impact geolocation. Since different people, in different
+locations write messages
+at different times, these factors can significantly vary the performance of a
+geolocation system over time.
+We demonstrate cyclical temporal effects on geolocation
+accuracy in Twitter, as well as rapid drops as test data moves beyond the time
+period of training data. We show
+that temporal drift can effectively be countered with even modest online model
+updates.
+Author{1}{Firstname}#=%=#Mark
+Author{1}{Lastname}#=%=#Dredze
+Author{1}{Email}#=%=#mdredze@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Miles
+Author{2}{Lastname}#=%=#Osborne
+Author{2}{Email}#=%=#milesosb@gmail.com
+Author{2}{Affiliation}#=%=#Bloomberg
+Author{3}{Firstname}#=%=#Prabhanjan
+Author{3}{Lastname}#=%=#Kambadur
+Author{3}{Email}#=%=#pkambadur@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg
+
+==========

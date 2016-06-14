@@ -1,0 +1,56 @@
+SubmissionNumber#=%=#447
+FinalPaperTitle#=%=#Tweester at SemEval-2016 Task 4: Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation
+ShortPaperTitle#=%=#Tweester: Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Elisavet Palogiannidi
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe our submission to SemEval2016 Task 4: Sentiment Analysis in
+Twitter. The proposed system ranked first for the subtask B. Our system
+comprises of multiple independent models such as neural networks, semantic
+affective models and topic modeling that are combined in a probabilistic way.
+The novelty of the system is the employment of a topic modeling approach in
+order to adapt the semantic-affective space for each tweet. In addition,
+significant enhancements were made in the main system dealing with the data
+preprocessing and feature extraction including the employment of word
+embeddings. Each model is used to predict a tweet’s sentiment (positive,
+negative or neutral) and a late fusion
+scheme is adopted for the final decision.
+Author{1}{Firstname}#=%=#Elisavet
+Author{1}{Lastname}#=%=#Palogiannidi
+Author{1}{Email}#=%=#epalogiannidi@gmail.com
+Author{1}{Affiliation}#=%=#School of ECE, Technical University of Crete
+Author{2}{Firstname}#=%=#Athanasia
+Author{2}{Lastname}#=%=#Kolovou
+Author{2}{Email}#=%=#sasa.charis@gmail.com
+Author{2}{Affiliation}#=%=#UOA
+Author{3}{Firstname}#=%=#Fenia
+Author{3}{Lastname}#=%=#Christopoulou
+Author{3}{Email}#=%=#fenia.christopoulou@gmail.com
+Author{3}{Affiliation}#=%=#School of ECE, National Technical University of Athens
+Author{4}{Firstname}#=%=#Filippos
+Author{4}{Lastname}#=%=#Kokkinos
+Author{4}{Email}#=%=#filippoutios@hotmail.com
+Author{4}{Affiliation}#=%=#National Technical University of Athens
+Author{5}{Firstname}#=%=#Elias
+Author{5}{Lastname}#=%=#Iosif
+Author{5}{Email}#=%=#iosife@central.ntua.gr
+Author{5}{Affiliation}#=%=#School of ECE, National Technical University of Athens
+Author{6}{Firstname}#=%=#Nikolaos
+Author{6}{Lastname}#=%=#Malandrakis
+Author{6}{Email}#=%=#malandra@usc.edu
+Author{6}{Affiliation}#=%=#Signal Analysis and Interpretation Laboratory (SAIL), USC, Los Angeles, CA 90089, USA
+Author{7}{Firstname}#=%=#Haris
+Author{7}{Lastname}#=%=#Papageorgiou
+Author{7}{Email}#=%=#xaris@ilsp.athena-innovation.gr
+Author{7}{Affiliation}#=%=#Institute for Language and Speech Processing  ILSP/ ATHENA R.C.
+Author{8}{Firstname}#=%=#Shrikanth
+Author{8}{Lastname}#=%=#Narayanan
+Author{8}{Email}#=%=#shri@sipi.usc.edu
+Author{8}{Affiliation}#=%=#University of Southern California
+Author{9}{Firstname}#=%=#Alexandros
+Author{9}{Lastname}#=%=#Potamianos
+Author{9}{Email}#=%=#apotam@gmail.com
+Author{9}{Affiliation}#=%=#National Technical University of Athens
+
+==========

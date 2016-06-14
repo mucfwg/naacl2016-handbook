@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#514
+FinalPaperTitle#=%=#Multilingual Language Processing From Bytes
+ShortPaperTitle#=%=#Multilingual Language Processing From Bytes
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Daniel Gillick
+JobTitle#==#
+Organization#==#Google
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+Abstract#==#We describe an LSTM-based model which we call Byte-to-Span (BTS) that reads
+text as bytes and outputs span annotations of the form [start, length, label]
+where start positions, lengths, and labels are separate entries in our
+vocabulary. Because we operate directly on unicode bytes rather than
+language-specific words or characters, we can analyze text in many languages
+with a single model. Due to the small vocabulary size, these multilingual
+models are very compact, but produce results similar to or better than the
+state-of- the-art in Part-of-Speech tagging and Named Entity Recognition that
+use only the provided training datasets (no external data sources). Our models
+are learning “from scratch” in that they do not rely on any elements of the
+standard pipeline in Natural Language Processing (including tokenization), and
+thus can run in standalone fashion on raw text.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Gillick
+Author{1}{Email}#=%=#dgillick@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Cliff
+Author{2}{Lastname}#=%=#Brunk
+Author{2}{Email}#=%=#cliffbrunk@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Oriol
+Author{3}{Lastname}#=%=#Vinyals
+Author{3}{Email}#=%=#vinyals@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Amarnag
+Author{4}{Lastname}#=%=#Subramanya
+Author{4}{Email}#=%=#amar.subramanya@gmail.com
+Author{4}{Affiliation}#=%=#Google Research
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#141
+FinalPaperTitle#=%=#This is how we do it: Answer Reranking for Open-domain How Questions with Paragraph Vectors and Minimal Feature Engineering
+ShortPaperTitle#=%=#Answer Reranking for Open-domain How Questions with Minimal Feature Engineering
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dasha Bogdanova
+JobTitle#==#
+Organization#==#ADAPT centre, School of Computing, Dublin City University, Dublin, Ireland
+Abstract#==#We present a simple yet powerful approach to non-factoid answer reranking
+whereby question-answer pairs are represented by concatenated distributed
+representation vectors and a multilayer perceptron is used to compute the score
+for an answer. Despite its simplicity, our approach achieves state-of-the-art
+performance on a public dataset of How questions, outperforming systems which
+employ sophisticated feature sets. We attribute this good performance to the
+use of paragraph instead of word vector representations and to the use of
+suitable data for training these representations.
+Author{1}{Firstname}#=%=#Dasha
+Author{1}{Lastname}#=%=#Bogdanova
+Author{1}{Email}#=%=#dasha.bogdanova@gmail.com
+Author{1}{Affiliation}#=%=#ADAPT centre, School of Computing, Dublin City University
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Foster
+Author{2}{Email}#=%=#jfoster@computing.dcu.ie
+Author{2}{Affiliation}#=%=#Dublin City University
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#An LFG Account of Discontinuous Nominal Expressions
+ShortPaperTitle#=%=#An LFG Account of Discontinuous Nominal Expressions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Liselotte Snijders
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents an overview of an LFG treatment of discontinuous nominal
+expressions involving modification, making the claim that cross-linguistically
+different types of discontinuity (i.e. in Warlpiri and English) should be
+captured by the same overall analysis, despite being licensed in different
+ways. LFG's separation of grammatical functions from phrase structural
+positions intuitively accounts for discontinuous expressions, and its use of
+glue semantics ensures that discontinuous and contiguous expressions receive
+the same semantic analysis.
+Author{1}{Firstname}#=%=#Liselotte
+Author{1}{Lastname}#=%=#Snijders
+Author{1}{Email}#=%=#liselottesnijders@gmail.com
+Author{1}{Affiliation}#=%=#Waseda University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#539
+FinalPaperTitle#=%=#Cross-genre Event Extraction with Knowledge Enrichment
+ShortPaperTitle#=%=#Cross-genre Event Extraction with Knowledge Enrichment
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hao Li
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+110 8th Street, Troy, NY 12180, USA
+Abstract#==#The goal of Event extraction is to extract structured information of events
+that are of interest from unstructured documents. Existing event extractors for
+social media suffer from two major problems: lack of context and informal
+nature. In this paper, instead of conducting event extraction solely on each
+social media message, we incorporate cross-genre knowledge to boost the event
+extractor performance. Experiment results demonstrate that without any
+additional annotations, our proposed approach is able to provide 15% absolute
+F-score improvement over the state-of-the-art.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#haoli.qc@gmail.com
+Author{1}{Affiliation}#=%=#Computer Science Department, Rensselaer Polytechnic Institute, U.S.A
+Author{2}{Firstname}#=%=#Heng
+Author{2}{Lastname}#=%=#Ji
+Author{2}{Email}#=%=#jih@rpi.edu
+Author{2}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

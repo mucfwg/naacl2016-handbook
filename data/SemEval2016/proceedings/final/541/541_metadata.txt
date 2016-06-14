@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#541
+FinalPaperTitle#=%=#SERGIOJIMENEZ at SemEval-2016 Task-1: Effectively Combining Paraphrase Database, String Matching, WordNet, and Word Embedding for Semantic Textual Similarity
+ShortPaperTitle#=%=#SERGIOJIMENEZ SemEval-2016 Task-1: Combining PPDB, String Matching, WordNet, Word Embedding for STS
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Sergio Jimenez
+JobTitle#==#
+Organization#==#Sergio Jimenez
+Carrera 45 A # 106-46, Bogotá D.C., Colombia
+Abstract#==#In this paper, a system for semantic textual similarity, which participated in
+Task-1 in SemEval 2016 (monolingual and cross-lingual sub-tasks) is described.
+The system contains a preprocessing step that simplifies text using PPDB 2.0
+and detects negations. Also, six lexical similarity functions were constructed
+using string matching, word embedding and synonyms-antonyms relations in
+WordNet. These lexical similarity functions are projected to sentence level
+using a new method called Polarized Soft Cardinality that supports negative
+similarities between words to model opposites. We also introduce a novel
+$L^{2}$-norm “cardinality” for vector space representations. The system
+extracts a set of 660 features from each pair of text snippets using the
+proposed cardinality measures. From this set, a subset of 12 features was
+selected in a supervised manner. These features are combined by SVR and,
+alternatively, by using the arithmetic mean to produce similarity predictions.
+Our team ranked second in the cross-lingual sub-task and got close to the best
+official results in the monolingual sub-task.
+Author{1}{Firstname}#=%=#Sergio
+Author{1}{Lastname}#=%=#Jimenez
+Author{1}{Email}#=%=#sergio.jimenez.vargas@gmail.com
+Author{1}{Affiliation}#=%=#none
+
+==========

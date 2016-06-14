@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#433
+FinalPaperTitle#=%=#Deep Lexical Segmentation and Syntactic Parsing in the Easy-First Dependency Framework
+ShortPaperTitle#=%=#Deep Lexical Segmentation and Syntactic Parsing in the Easy-First Dependency Framework
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Matthieu Constant
+JobTitle#==#
+Organization#==#Université Paris-Est Marne-la-Vallée
+Abstract#==#We explore the consequences of representing token segmentations as hierarchical
+structures (trees) for the task of Multiword Expression (MWE) recognition, in
+isolation or in combination with dependency parsing. We propose a novel
+representation of token segmentation as trees on tokens, resembling dependency
+trees. Given this new representation, we present and evaluate two different
+architectures to combine MWE recognition and dependency parsing in the
+easy-first framework: a pipeline and a joint system, both taking advantage of
+lexical and syntactic dimensions. We experimentally validate that MWE
+recognition significantly helps syntactic parsing.
+Author{1}{Firstname}#=%=#Matthieu
+Author{1}{Lastname}#=%=#Constant
+Author{1}{Email}#=%=#Mathieu.Constant@u-pem.fr
+Author{1}{Affiliation}#=%=#Université Paris-Est, LIGM, CNRS
+Author{2}{Firstname}#=%=#Joseph
+Author{2}{Lastname}#=%=#Le Roux
+Author{2}{Email}#=%=#joseph.le.roux@gmail.com
+Author{2}{Affiliation}#=%=#Université Paris Nord
+Author{3}{Firstname}#=%=#Nadi
+Author{3}{Lastname}#=%=#Tomeh
+Author{3}{Email}#=%=#nadi.tomeh@lipn.univ-paris13.fr
+Author{3}{Affiliation}#=%=#Université Paris 13, Sorbonne Paris Cité
+
+==========

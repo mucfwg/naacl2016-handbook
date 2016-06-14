@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Reputation System: Evaluating Reputation among All Good Sellers
+ShortPaperTitle#=%=#Reputation System: Evaluating Reputation among All Good Sellers
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Vandana Jha
+JobTitle#==#
+Organization#==#Department of Computer Science and Engineering,
+University Visvesvaraya College of Engineering,
+Bangalore University, Bangalore, India
+Abstract#==#A reputation system assists people selecting
+whom to trust. The “all good reputation”
+problem is common in e-commerce domain,
+making it difficult for buyers to choose cred-
+ible sellers. Observing high growth of on-
+line data in Hindi language, in this paper, we
+propose a reputation system in this language.
+The functions of this system include 1) review
+mining for different criteria of online transac-
+tions 2) calculation of reputation rating and
+reputation weight for each criteria from user
+reviews and 3) ranking sellers based on com-
+puted reputation score. Extensive simulations
+conducted on eBay dataset show its effective-
+ness in solving “all good reputation” problem.
+So far as our knowledge is concerned, this is
+the first work in Hindi language on reputation
+system.
+Author{1}{Firstname}#=%=#Vandana
+Author{1}{Lastname}#=%=#Jha
+Author{1}{Email}#=%=#vjvandanajha@gmail.com
+Author{1}{Affiliation}#=%=#UVCE, Bangalore
+Author{2}{Firstname}#=%=#Savitha
+Author{2}{Lastname}#=%=#R
+Author{2}{Email}#=%=#savitharamu@gmail.com
+Author{2}{Affiliation}#=%=#UVCE, Bangalore
+Author{3}{Firstname}#=%=#P Deepa
+Author{3}{Lastname}#=%=#Shenoy
+Author{3}{Email}#=%=#shenoypd1@gmail.com
+Author{3}{Affiliation}#=%=#UVCE, Bangalore
+Author{4}{Firstname}#=%=#Venugopal
+Author{4}{Lastname}#=%=#K R
+Author{4}{Email}#=%=#venugopalkr@gmail.com
+Author{4}{Affiliation}#=%=#UVCE, Bangalore
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Open-domain Factoid Question Answering via Knowledge Graph Search
+ShortPaperTitle#=%=#Open-domain Factoid Question Answering via Knowledge Graph Search
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a highly scalable approach for open-domain question answering with
+no dependence on any data set for surface form to logical form mapping or any
+linguistic analytic tool such as POS tagger or named entity recognizer. We
+define our approach under the Constrained Conditional Models framework which
+lets us scale up to a full knowledge graph with no limitation on the size. On a
+standard benchmark, we obtained near 4 percent improvement over the
+state-of-the-art in open-domain question answering task.
+Author{1}{Firstname}#=%=#Ahmad
+Author{1}{Lastname}#=%=#Aghaebrahimian
+Author{1}{Email}#=%=#aghaebrahimian.ahmad@yahoo.com
+Author{1}{Affiliation}#=%=#Institute of Formal and Applied Linguistics, Charles University
+
+==========

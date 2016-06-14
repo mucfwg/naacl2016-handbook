@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#143
+FinalPaperTitle#=%=#Separating Actor-View from Speaker-View Opinion Expressions using Linguistic Features
+ShortPaperTitle#=%=#Separating Actor-View from Speaker-View Opinion Expressions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#MW
+JobTitle#==#
+Organization#==#
+Abstract#==#We examine different features and classifiers for the categorization of opinion
+words into actor and speaker view. To our knowledge, this is the first
+comprehensive work to address sentiment views on the word level taking into
+consideration opinion verbs, nouns and adjectives. We consider many high-level
+features requiring only few labeled training data. A detailed feature analysis
+produces linguistic insights into the nature of sentiment views. We also
+examine in how far global constraints between different opinion words help to
+increase classification performance.
+Finally, we show that our (prior) word-level annotation correlates with
+contextual sentiment views.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Wiegand
+Author{1}{Email}#=%=#michael.wiegand@lsv.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Marc
+Author{2}{Lastname}#=%=#Schulder
+Author{2}{Email}#=%=#marc.schulder@lsv.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#Ruppenhofer
+Author{3}{Email}#=%=#ruppenho@uni-hildesheim.de
+Author{3}{Affiliation}#=%=#Hildesheim University
+
+==========

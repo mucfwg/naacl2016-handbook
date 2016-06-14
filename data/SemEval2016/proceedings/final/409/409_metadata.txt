@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#409
+FinalPaperTitle#=%=#GWU NLP at SemEval-2016 Shared Task 1: Matrix Factorization for Crosslingual STS
+ShortPaperTitle#=%=#GWU NLP at SemEval-2016 Shared Task 1: Matrix Factorization for Crosslingual STS
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Hanan Aldarmaki
+JobTitle#==#
+Organization#==#The George Washington University
+Abstract#==#We present a matrix factorization model for learning cross-lingual
+representations for sentences. Using sentence-aligned corpora, the proposed
+model learns distributed representations by factoring the given data into
+language-dependent factors and one shared factor. As a result, input sentences
+from both languages can be mapped into fixed-length vectors and then compared
+directly using the cosine similarity measure, which achieves 0.8 Pearson
+correlation on Spanish-English semantic textual similarity.
+Author{1}{Firstname}#=%=#Hanan
+Author{1}{Lastname}#=%=#Aldarmaki
+Author{1}{Email}#=%=#aldarmaki@gwu.edu
+Author{1}{Affiliation}#=%=#The George Washington University
+Author{2}{Firstname}#=%=#Mona
+Author{2}{Lastname}#=%=#Diab
+Author{2}{Email}#=%=#mtdiab@gwu.edu
+Author{2}{Affiliation}#=%=#GWU
+
+==========

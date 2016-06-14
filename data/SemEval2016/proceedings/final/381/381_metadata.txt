@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#381
+FinalPaperTitle#=%=#UWB at SemEval-2016 Task 6: Stance Detection
+ShortPaperTitle#=%=#UWB at SemEval-2016 Task 6: Stance Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Josef Steinberger
+JobTitle#==#Associate professor
+Organization#==#University of West Bohemia,
+Univerzitni 8
+30614 Plzen
+Czech Republic
+Abstract#==#This paper describes our system participating
+in the Semeval 2016 task: Detecting stance
+in Tweets. The goal was to identify whether
+the author of a tweet is in favor of the given
+target or against. Our approach is based
+on a maximum entropy classifier, which uses
+surface-level, sentiment and domain-specific
+features. We participated in both the supervised
+and weakly supervised subtasks and received
+promising results for most of the targets.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Krejzl
+Author{1}{Email}#=%=#pkrejzl@gmail.com
+Author{1}{Affiliation}#=%=#University of West Bohemia
+Author{2}{Firstname}#=%=#Josef
+Author{2}{Lastname}#=%=#Steinberger
+Author{2}{Email}#=%=#jstein@kiv.zcu.cz
+Author{2}{Affiliation}#=%=#University of West Bohemia
+
+==========

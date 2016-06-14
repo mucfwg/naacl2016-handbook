@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#335
+FinalPaperTitle#=%=#LIMSI at SemEval-2016 Task 12: machine-learning and temporal information to identify clinical events and time expressions
+ShortPaperTitle#=%=#LIMSI at SemEval-2016 Task 12: machine-learning and temporal information
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Cyril Grouin
+JobTitle#==#
+Organization#==#LIMSI, CNRS, Université Paris-Saclay, rue John von Neumann, Campus universitaire, F-91405 Orsay
+Abstract#==#Our experiments rely on a combination of machine-learning (CRF) and rule-based
+(HeidelTime) systems. First, a CRF system identifies both EVENTS and TIMEX3,
+along with polarity values for EVENT and types of TIMEX. Second, the HeidelTime
+tool  identifies DOCTIME and TIMEX3 elements, and computes DocTimeRel for each
+EVENT identified by the CRF. Third, another CRF system computes DocTimeRel for
+each previously identified EVENT, based on DocTimeRel computed by HeidelTime.
+In the first submission, all EVENTS and TIMEX3 are identified through one
+general CRF model while in the second submission, we combined two CRF models
+(one for both EVENT and TIMEX3, and one only for TIMEX3) and we applied
+post-processing rules on the outputs.
+Author{1}{Firstname}#=%=#Cyril
+Author{1}{Lastname}#=%=#Grouin
+Author{1}{Email}#=%=#cyril.grouin@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Véronique
+Author{2}{Lastname}#=%=#MORICEAU
+Author{2}{Email}#=%=#moriceau@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI-CNRS
+
+==========

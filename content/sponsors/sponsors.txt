@@ -1,0 +1,27 @@
+platinum (full page)
+Baidu
+Google
+
+gold (half page)
+amazon
+Bloomberg
+ebay
+IBM Research
+Maluuba
+Microsoft
+optum
+
+silver (quarter page)
+Huawei
+
+bronze (quarter page)
+adobe
+civis
+facebook
+grammarly
+newsela
+nuance
+voicebox
+
+supporter (acknowledgement)
+uw

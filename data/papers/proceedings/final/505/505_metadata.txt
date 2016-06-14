@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#505
+FinalPaperTitle#=%=#Bootstrapping Translation Detection and Sentence Extraction from Comparable Corpora
+ShortPaperTitle#=%=#Bootstrapping Translation Detection and Sentence Extraction from Comparable Corpora
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kriste Krstovski
+JobTitle#==#
+Organization#==#Harvard-Smithsonian Center for Astrophysics (CfA)
+60 Garden Street
+Cambridge, MA
+02138
+Abstract#==#Most work on extracting parallel text from comparable corpora depends on
+linguistic resources such as seed parallel documents or translation
+dictionaries. This paper presents a simple baseline approach for bootstrapping
+a parallel collection. It starts by observing documents published on similar
+dates and the co-occurrence of a small number of identical tokens across
+languages. It then uses fast, online inference for a latent variable model to
+represent multilingual documents in a shared topic space where it can do
+efficient nearest-neighbor search. Starting from the Gigaword collections in
+English and Spanish, we train a translation system that outperforms one trained
+on the WMT'11 parallel training set.
+Author{1}{Firstname}#=%=#Kriste
+Author{1}{Lastname}#=%=#Krstovski
+Author{1}{Email}#=%=#kriste@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#dasmith@ccs.neu.edu
+Author{2}{Affiliation}#=%=#Northeastern University
+
+==========

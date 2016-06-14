@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#569
+FinalPaperTitle#=%=#Learning to Compose Neural Networks for Question Answering
+ShortPaperTitle#=%=#Learning to Compose Neural Networks for Question Answering
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jacob Andreas
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe a question answering model that applies to both natural images and
+structured knowledge bases. The model uses natural language strings to
+automatically assemble deep networks from a collection of composable neural
+modules. Parameters for these modules are learned jointly with network-assembly
+parameters via reinforcement learning, with only (world, question, answer)
+triples as supervision. Our  approach, which we term a _dynamic neural module
+network_,  achieves state-of-the-art results on benchmark datasets in both
+visual and structured domains.
+Author{1}{Firstname}#=%=#Jacob
+Author{1}{Lastname}#=%=#Andreas
+Author{1}{Email}#=%=#jda@cs.berkeley.edu
+Author{1}{Affiliation}#=%=#Berkeley
+Author{2}{Firstname}#=%=#Marcus
+Author{2}{Lastname}#=%=#Rohrbach
+Author{2}{Email}#=%=#rohrbach@icsi.berkeley.edu
+Author{2}{Affiliation}#=%=#berkeley.edu
+Author{3}{Firstname}#=%=#Trevor
+Author{3}{Lastname}#=%=#Darrell
+Author{3}{Email}#=%=#darrell@eecs.berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Klein
+Author{4}{Email}#=%=#klein@cs.berkeley.edu
+Author{4}{Affiliation}#=%=#UC Berkeley
+
+==========

@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Event Nugget and Event Coreference Annotation
+ShortPaperTitle#=%=#Event Nugget and Event Coreference Annotation
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Zhiyi Song
+JobTitle#==#
+Organization#==#Linguistic Data Conrortium, University of Pennsylvania
+Abstract#==#In this paper, we describe the event nugget annotation created in support of
+the pilot Event Nugget Detection evaluation in 2014 and in support of the Event
+Nugget Detec-tion and Coreference open evaluation in 2015, which was one of the
+Knowledge Base Population tracks within the NIST Text Analysis Conference. We
+present the data volume annotated for both training and evaluation data for the
+2015 evaluation as well as changes to annotation in 2015 as compared to that of
+2014. We also analyze the annotation for the 2015 evaluation as an example to
+show the annotation chal-lenges and consistency, and identify the event types
+and subtypes that are most dif-ficult for human annotators. Finally, we discuss
+annotation issues that we need to take into consideration in the future.
+Author{1}{Firstname}#=%=#Zhiyi
+Author{1}{Lastname}#=%=#Song
+Author{1}{Email}#=%=#zhiyi@ldc.upenn.edu
+Author{1}{Affiliation}#=%=#Linguistic Data Consortium
+Author{2}{Firstname}#=%=#Ann
+Author{2}{Lastname}#=%=#Bies
+Author{2}{Email}#=%=#bies@ldc.upenn.edu
+Author{2}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{3}{Firstname}#=%=#Stephanie
+Author{3}{Lastname}#=%=#Strassel
+Author{3}{Email}#=%=#strassel@ldc.upenn.edu
+Author{3}{Affiliation}#=%=#Linguistic Data Consortium, University of Pennsylvania
+Author{4}{Firstname}#=%=#Joe
+Author{4}{Lastname}#=%=#Ellis
+Author{4}{Email}#=%=#joellis@ldc.upenn.edu
+Author{4}{Affiliation}#=%=#Linguistic Data Consortium
+Author{5}{Firstname}#=%=#Teruko
+Author{5}{Lastname}#=%=#Mitamura
+Author{5}{Email}#=%=#teruko@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Hoa Trang
+Author{6}{Lastname}#=%=#Dang
+Author{6}{Email}#=%=#hoa.dang@nist.gov
+Author{6}{Affiliation}#=%=#National Institute of Standards and Technology
+Author{7}{Firstname}#=%=#Yukari
+Author{7}{Lastname}#=%=#Yamakawa
+Author{7}{Email}#=%=#yukariy@andrew.cmu.edu
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+Author{8}{Firstname}#=%=#Sue
+Author{8}{Lastname}#=%=#Holm
+Author{8}{Email}#=%=#sh4s@andrew.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

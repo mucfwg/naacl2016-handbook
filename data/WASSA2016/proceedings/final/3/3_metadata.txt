@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Fashioning Data - A Social Media Perspective on Fast Fashion Brands
+ShortPaperTitle#=%=#Fashioning Data - A Social Media Perspective on Fast Fashion Brands
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rupak Chakraborty
+JobTitle#==#
+Organization#==#Adobe Systems Inc
+A5,Sector-132, Noida-201304, India
+Abstract#==#In this paper, we study the performance of N-gram language models on
+classification tasks such as sentiment analysis and spam detection and evaluate
+the effect of prior probability estimates on the results. Our data is in the
+form of public online posts pertaining to fast fashion brands, from different
+social media channels (Twitter and Facebook).We propose a novel ensemble model
+based on the combination of different N-grams in order to deal with the
+heteroskedastic nature of data collected from these social media channels. This
+has been further extended to increase the efficacy of the classification
+results
+Author{1}{Firstname}#=%=#Rupak
+Author{1}{Lastname}#=%=#Chakraborty
+Author{1}{Email}#=%=#rupak97.4@gmail.com
+Author{1}{Affiliation}#=%=#Adobe Systems Inc
+Author{2}{Firstname}#=%=#Senjuti
+Author{2}{Lastname}#=%=#Kundu
+Author{2}{Email}#=%=#senjuti.kundu@mail.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#Prakul
+Author{3}{Lastname}#=%=#Agarwal
+Author{3}{Email}#=%=#prakula@uci.edu
+Author{3}{Affiliation}#=%=#University of California, Irvine
+
+==========

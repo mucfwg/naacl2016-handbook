@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#But What Do We Actually Know?
+ShortPaperTitle#=%=#But What Do We Actually Know?
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#SR
+JobTitle#==#
+Organization#==#FU Bozen-Bolzano
+Universitätsplatz 1
+39100 Bozen
+Italy
+Abstract#==#Knowledge bases such as Wikidata, DBpedia, YAGO, or the Google Knowledge Vault
+collect a vast number of facts about the world. But while quite some facts are
+known about the world, little is known about how much is unknown. For example,
+while the knowledge base may tell us that Barack Obama is the father of Malia
+Obama and Sasha Obama, it does not tell us whether these are all of his
+children. This is not just an epistemic challenge, but also a practical problem
+for data producers and consumers. We envision that KBs become annotated with
+information about their recall on specific topics. We show what such
+annotations could look like, how they could be obtained, and survey related
+work.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Razniewski
+Author{1}{Email}#=%=#srazniew@gmail.com
+Author{1}{Affiliation}#=%=#Free University of Bozen-Bolzano
+Author{2}{Firstname}#=%=#Fabian
+Author{2}{Lastname}#=%=#Suchanek
+Author{2}{Email}#=%=#fabian@suchanek.name
+Author{2}{Affiliation}#=%=#Telecom ParisTech University
+Author{3}{Firstname}#=%=#Werner
+Author{3}{Lastname}#=%=#Nutt
+Author{3}{Email}#=%=#nutt@inf.unibz.it
+Author{3}{Affiliation}#=%=#Free University of Bozen-Bolzano
+
+==========

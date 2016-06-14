@@ -1,0 +1,56 @@
+SubmissionNumber#=%=#545
+FinalPaperTitle#=%=#SemEval-2016 Task 3: Community Question Answering
+ShortPaperTitle#=%=#SemEval-2016 Task 3: Community Question Answering
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Preslav Nakov
+JobTitle#==#Senior Scientist
+Organization#==#ALT Research Group, Qatar Computing Research Institute, HBKU
+Tornado Tower
+Doha, Qatar
+Abstract#==#This paper describes and analyzes the SemEval–2016 Task 3 on Community
+Question Answering, which we offered in English and Arabic. For English, we had
+subtask A (Question–Comment Similarity), subtask B (Question–Question
+Similarity), and subtask C (Question–External Comment Similarity). For
+Arabic, we had subtask D (Rerank the correct answers for a new question).
+Eighteen teams participated in the task, submitting a total of 95 runs (38
+primary and 57 contrastive) for the four subtasks. A variety of approaches and
+features were used by the participating systems to address the different
+subtasks, which are summarized in this paper. The best systems achieved an
+official score (MAP) of 79.19, 76.70, 55.41, and 45.83 in subtasks A, B, C, and
+D, respectively. These scores are significantly better than those for the
+baselines that we provided. For subtask A, the best system improved over the
+2015 winner by 3 points absolute in terms of Accuracy.
+Author{1}{Firstname}#=%=#Preslav
+Author{1}{Lastname}#=%=#Nakov
+Author{1}{Email}#=%=#preslav.nakov@gmail.com
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{2}{Firstname}#=%=#Lluís
+Author{2}{Lastname}#=%=#Màrquez
+Author{2}{Email}#=%=#lluism@lsi.upc.edu
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Alessandro
+Author{3}{Lastname}#=%=#Moschitti
+Author{3}{Email}#=%=#amoschitti@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute (prof. in Computer Science at University of Trento)
+Author{4}{Firstname}#=%=#Walid
+Author{4}{Lastname}#=%=#Magdy
+Author{4}{Email}#=%=#wmagdy@qf.org.qa
+Author{4}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{5}{Firstname}#=%=#Hamdy
+Author{5}{Lastname}#=%=#Mubarak
+Author{5}{Email}#=%=#hmubarak@qf.org.qa
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute, Qatar Foundation
+Author{6}{Firstname}#=%=#abed Alhakim
+Author{6}{Lastname}#=%=#Freihat
+Author{6}{Email}#=%=#fraihat@disi.unitn.it
+Author{6}{Affiliation}#=%=#University of Trento
+Author{7}{Firstname}#=%=#Jim
+Author{7}{Lastname}#=%=#Glass
+Author{7}{Email}#=%=#glass@mit.edu
+Author{7}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{8}{Firstname}#=%=#Bilal
+Author{8}{Lastname}#=%=#Randeree
+Author{8}{Email}#=%=#bilal.randeree@qatarliving.com
+Author{8}{Affiliation}#=%=#Qatar Living
+
+==========

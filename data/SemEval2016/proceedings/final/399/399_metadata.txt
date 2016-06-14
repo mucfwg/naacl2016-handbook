@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#399
+FinalPaperTitle#=%=#OSU_CHGCG at SemEval-2016 Task 9 : Chinese Semantic Dependency Parsing with Generalized Categorial Grammar
+ShortPaperTitle#=%=#OSU_CHGCG: Chinese Semantic Dependency Parsing with Generalized Categorial Grammar
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Manjuan Duan
+JobTitle#==#
+Organization#==#the Department of Linguistics of Ohio State University
+Abstract#==#This paper introduces our Chinese semantic dependency parsing system for Task 9
+of SemEval 2016. 
+ Our system has two components: a parser trained by Berkeley Grammar Trainer on
+the Penn Chinese Treebank reannotated in a Generalized Categorial Grammar, and
+a multinomial logistic regression classifier. We first parse the data with the
+automatic parser to obtain predicate-argument dependencies and then we use the
+classifier to predict the semantic dependency labels for the predicate-argument
+dependency relations extracted. Although our parser is not trained directly on
+the task training data, our system yields the best performance for the
+non-local dependency recovery for the news data and comparable overall results.
+Author{1}{Firstname}#=%=#Manjuan
+Author{1}{Lastname}#=%=#Duan
+Author{1}{Email}#=%=#duan@ling.osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Lifeng
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Email}#=%=#jin.544@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#William
+Author{3}{Lastname}#=%=#Schuler
+Author{3}{Email}#=%=#schuler@ling.osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

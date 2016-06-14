@@ -1,0 +1,65 @@
+SubmissionNumber#=%=#429
+FinalPaperTitle#=%=#SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering
+ShortPaperTitle#=%=#SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Tsvetomila Mihaylova
+JobTitle#==#
+Organization#==#Sofia University
+Abstract#==#We present the system we built for participating in SemEval-2016 Task 3 on
+Community Question Answering. We achieved the best results on subtask C, and
+strong results on subtasks A and B, by combining a rich set of various types of
+features: semantic, lexical, metadata, and user-related. The most important
+group turned out to be the metadata for the question and for the comment,
+semantic vectors trained on QatarLiving data and similarities between the
+question and the comment for subtasks A and C, and between the original and the
+related question for Subtask B.
+Author{1}{Firstname}#=%=#Tsvetomila
+Author{1}{Lastname}#=%=#Mihaylova
+Author{1}{Email}#=%=#tsvetomila.mihaylova@gmail.com
+Author{1}{Affiliation}#=%=#Sofia University
+Author{2}{Firstname}#=%=#Pepa
+Author{2}{Lastname}#=%=#Gencheva
+Author{2}{Email}#=%=#pepa.k.gencheva@gmail.com
+Author{2}{Affiliation}#=%=#Sofia University
+Author{3}{Firstname}#=%=#Martin
+Author{3}{Lastname}#=%=#Boyanov
+Author{3}{Email}#=%=#mboyanov@gmail.com
+Author{3}{Affiliation}#=%=#Sofia University
+Author{4}{Firstname}#=%=#Ivana
+Author{4}{Lastname}#=%=#Yovcheva
+Author{4}{Email}#=%=#ivana.yovcheva@gmail.com
+Author{4}{Affiliation}#=%=#Sofia University
+Author{5}{Firstname}#=%=#Todor
+Author{5}{Lastname}#=%=#Mihaylov
+Author{5}{Email}#=%=#tbmihailov@gmail.com
+Author{5}{Affiliation}#=%=#Sofia University
+Author{6}{Firstname}#=%=#Momchil
+Author{6}{Lastname}#=%=#Hardalov
+Author{6}{Email}#=%=#momchil.hardalov@gmail.com
+Author{6}{Affiliation}#=%=#Sofia University
+Author{7}{Firstname}#=%=#Yasen
+Author{7}{Lastname}#=%=#Kiprov
+Author{7}{Email}#=%=#yasen.kiprov@gmail.com
+Author{7}{Affiliation}#=%=#Sofia University
+Author{8}{Firstname}#=%=#Daniel
+Author{8}{Lastname}#=%=#Balchev
+Author{8}{Email}#=%=#dbalchev@gmail.com
+Author{8}{Affiliation}#=%=#Sofia University
+Author{9}{Firstname}#=%=#Ivan
+Author{9}{Lastname}#=%=#Koychev
+Author{9}{Email}#=%=#koychev@fmi.uni-sofia.bg
+Author{9}{Affiliation}#=%=#Sofia University
+Author{10}{Firstname}#=%=#Preslav
+Author{10}{Lastname}#=%=#Nakov
+Author{10}{Email}#=%=#preslav.nakov@gmail.com
+Author{10}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{11}{Firstname}#=%=#Ivelina
+Author{11}{Lastname}#=%=#Nikolova
+Author{11}{Email}#=%=#iva@lml.bas.bg
+Author{11}{Affiliation}#=%=#Bulgarian Academy of Sciences
+Author{12}{Firstname}#=%=#Galia
+Author{12}{Lastname}#=%=#Angelova
+Author{12}{Email}#=%=#galia@lml.bas.bg
+Author{12}{Affiliation}#=%=#Institute of Information and communication Technologies, Bulgarian Academy of Sciences
+
+==========

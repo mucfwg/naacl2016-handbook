@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification
+ShortPaperTitle#=%=#MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ye Zhang
+JobTitle#==#
+Organization#==#University of Texas at Austin, Computer Science Department
+Abstract#==#We introduce a novel, simple convolution neural network (CNN) architecture -
+multi-group norm  constraint  CNN  (MGNC-CNN)–  that capitalizes  on 
+multiple  sets of  word embeddings for sentence classification.     
+MGNC-CNN extracts features from input embedding sets independently and then
+joins these at the penultimate layer in the network to form a final  feature 
+vector.  We  then  adopt  a  group regularization  strategy  that 
+differentially penalizes  weights associated with  the subcomponents generated
+from the respective embedding  sets.  This model  is  much 
+simpler than comparable  alternative  architectures  and  requires 
+substantially less training time.                                      
+Furthermore, it is flexible in that it does not require input word embeddings
+to be of the same dimensionality.   We show  that  MGNC-CNN consistently
+outperforms baseline models.
+Author{1}{Firstname}#=%=#Ye
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#yezhang@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Roller
+Author{2}{Email}#=%=#roller@cs.utexas.edu
+Author{2}{Affiliation}#=%=#The University of Texas at Austin
+Author{3}{Firstname}#=%=#Byron C.
+Author{3}{Lastname}#=%=#Wallace
+Author{3}{Email}#=%=#byron.wallace@utexas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Austin
+
+==========

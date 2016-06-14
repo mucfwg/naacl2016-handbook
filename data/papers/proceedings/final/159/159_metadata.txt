@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#159
+FinalPaperTitle#=%=#Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings
+ShortPaperTitle#=%=#Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Spandana Gella
+JobTitle#==#
+Organization#==#Institute for Language, Cognition and Computation
+School of Informatics, University of Edinburgh
+10 Crichton Street, Edinburgh EH8 9AB
+Abstract#==#We introduce a new task, visual sense disambiguation for verbs: given an image
+and a verb, assign the correct sense of the verb, i.e., the one that describes
+the action depicted in the image. Just as textual word sense disambiguation is
+useful for a wide range of NLP tasks, visual sense disambiguation can be useful
+for
+multimodal tasks such as image retrieval, image description, and text
+illustration. We introduce VerSe, a new dataset that augments existing
+multimodal datasets (COCO and TUHOI) with sense labels. We propose an
+unsupervised
+algorithm based on Lesk which performs visual sense disambiguation using
+textual, vi-
+sual, or multimodal embeddings. We find that textual embeddings perform well
+when gold-
+standard textual annotations (object labels and image descriptions) are
+available, while multimodal embeddings perform well on unannotated images. We
+also verify our findings by
+using the textual and multimodal embeddings as features in a supervised setting
+and analyse
+the performance of visual sense disambiguation task. VerSe is made publicly
+available
+and can be downloaded at: https://github.com/spandanagella/verse.
+Author{1}{Firstname}#=%=#Spandana
+Author{1}{Lastname}#=%=#Gella
+Author{1}{Email}#=%=#spandanagella@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Mirella
+Author{2}{Lastname}#=%=#Lapata
+Author{2}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{3}{Firstname}#=%=#Frank
+Author{3}{Lastname}#=%=#Keller
+Author{3}{Email}#=%=#keller@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

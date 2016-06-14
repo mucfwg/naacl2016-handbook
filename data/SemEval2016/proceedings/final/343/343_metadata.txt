@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#343
+FinalPaperTitle#=%=#XRCE at SemEval-2016 Task 5: Feedbacked Ensemble Modeling on Syntactico-Semantic Knowledge for Aspect Based Sentiment Analysis
+ShortPaperTitle#=%=#Feedbacked Ensemble Modeling on Syntactico-Semantic Knowledge for ABSA
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Caroline Brun
+JobTitle#==#Senior Scientist
+Organization#==#Xerox Research Center Europe
+6 chemin de Maupertuis
+38240 Meylan, France
+Abstract#==#This paper presents our contribution to the SemEval 2016 task 5: Aspect-Based
+Sentiment Analysis.
+We have addressed Subtask 1 for the restaurant domain, in English and French,
+which implies opinion target expression detection, aspect category and polarity
+classification. We describe the different components of the system, based on
+composite models combining sophisticated linguistic features with Machine
+Learning algorithms, and report the results obtained for both languages.
+Author{1}{Firstname}#=%=#Caroline
+Author{1}{Lastname}#=%=#Brun
+Author{1}{Email}#=%=#caroline.brun@xrce.xerox.com
+Author{1}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{2}{Firstname}#=%=#Julien
+Author{2}{Lastname}#=%=#Perez
+Author{2}{Email}#=%=#julien.perez@xrce.xerox.com
+Author{2}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{3}{Firstname}#=%=#Claude
+Author{3}{Lastname}#=%=#Roux
+Author{3}{Email}#=%=#claude.roux@xrce.xerox.com
+Author{3}{Affiliation}#=%=#Xerox reearch Centre Europe
+
+==========

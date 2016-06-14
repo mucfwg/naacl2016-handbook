@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Extraction of Bilingual Technical Terms for Chinese-Japanese Patent Translation
+ShortPaperTitle#=%=#Extraction of Bilingual Technical Terms for Chinese-Japanese Patent Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Wei Yang
+JobTitle#==#Ph.D. student
+Organization#==#Graduate School of IPS, Waseda University,
+2-7 Hibikino, Wakamatsu Kitakyushu Fukuoka, 808-0135, Japan
+Abstract#==#The translation of patents or scientific papers is a key issue that should be
+helped by the use of statistical machine translation (SMT). In this paper, we
+propose a method to improve Chinese-Japanese patent SMT by pre-marking the
+training corpus with aligned bilingual multi-word terms. We automatically
+extract multi-word terms from monolingual corpora by combining statistical and
+linguistic filtering methods. We use the sampling-based alignment method to
+identify aligned terms and set some threshold on translation probabilities to
+select the most promising bilingual multi-word terms. We pre-mark a
+Chinese-Japanese training corpus with such selected aligned bilingual
+multi-word terms. We obtain the performance of over 70% precision in bilingual
+term extraction and a significant improvement of BLEU scores in our experiments
+on a Chinese-Japanese patent parallel corpus.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#kevinyoogi@akane.waseda.jp
+Author{1}{Affiliation}#=%=#Waseda University
+Author{2}{Firstname}#=%=#Jinghui
+Author{2}{Lastname}#=%=#Yan
+Author{2}{Email}#=%=#jess256@suou.waseda.jp
+Author{2}{Affiliation}#=%=#Waseda University
+Author{3}{Firstname}#=%=#Yves
+Author{3}{Lastname}#=%=#Lepage
+Author{3}{Email}#=%=#yves.lepage@waseda.jp
+Author{3}{Affiliation}#=%=#Waseda University
+
+==========

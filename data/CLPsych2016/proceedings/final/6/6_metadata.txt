@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Exploratory Analysis of Social Media Prior to a Suicide Attempt
+ShortPaperTitle#=%=#Exploratory Analysis of Social Media Prior to a Suicide Attempt
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Glen Coppersmith
+JobTitle#==#
+Organization#==#Qntfy
+PO Box 0178
+Crownsville MD, 21032
+Abstract#==#Tragically, an estimated 42,000 Americans died by suicide in 2015, each one
+deeply affecting friends and family. 
+Very little data and information is available about people who attempt to take
+their life, 
+and thus scientific exploration has been hampered. 
+We examine data from Twitter users who have attempted 
+to take their life and provide an exploratory analysis 
+of patterns in language and emotions around their 
+attempt. We also show differences between 
+those who have attempted to take their life 
+and matched controls. We find quantifiable 
+signals of suicide attempts in the language of 
+social media data and estimate performance 
+of a simple machine learning classifier with 
+these signals as a non-invasive analysis in a screening process.
+Author{1}{Firstname}#=%=#Glen
+Author{1}{Lastname}#=%=#Coppersmith
+Author{1}{Email}#=%=#glen@qntfy.com
+Author{1}{Affiliation}#=%=#Qntfy
+Author{2}{Firstname}#=%=#Kim
+Author{2}{Lastname}#=%=#Ngo
+Author{2}{Email}#=%=#kim@qntfy.com
+Author{2}{Affiliation}#=%=#Qntfy
+Author{3}{Firstname}#=%=#Ryan
+Author{3}{Lastname}#=%=#Leary
+Author{3}{Email}#=%=#ryan@qntfy.com
+Author{3}{Affiliation}#=%=#Qntfy
+Author{4}{Firstname}#=%=#Anthony
+Author{4}{Lastname}#=%=#Wood
+Author{4}{Email}#=%=#tony@qntfy.com
+Author{4}{Affiliation}#=%=#Qntfy
+
+==========

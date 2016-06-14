@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#408
+FinalPaperTitle#=%=#VRep at SemEval-2016 Task 1 and Task 2: A System for Interpretable Semantic Similarity
+ShortPaperTitle#=%=#VRep: A System for Interpretable Semantic Similarity
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sam Henry
+JobTitle#==#
+Organization#==#Sam Henry
+Virginia Commonwealth University
+School of Engineering
+Department of Computer Science
+401 West Main Street, Room E4222
+P.O. Box 843019
+Richmond, Virginia 23284-3019, USA
+Abstract#==#VRep is a system designed for SemEval 2016 Task 1 - Semantic Textual Similarity
+(STS) and Task 2 - Interpretable Semantic Textual Similarity (iSTS). STS
+quantifies the semantic equivalence between two snippets of text, and iSTS
+provides a reason why those snippets of text are similar. VRep makes extensive
+use of WordNet for both STS, where the Vector relatedness measure is used, and
+for iSTS, where features are extracted to create a learned rule-based
+classifier. This paper outlines the VRep algorithm, provides results from the
+2016 SemEval competition, and analyzes the performance contributions of the
+system components.
+Author{1}{Firstname}#=%=#Sam
+Author{1}{Lastname}#=%=#Henry
+Author{1}{Email}#=%=#henryst@vcu.edu
+Author{1}{Affiliation}#=%=#VCU
+Author{2}{Firstname}#=%=#Allison
+Author{2}{Lastname}#=%=#Sands
+Author{2}{Email}#=%=#allisonsands1224@gmail.com
+Author{2}{Affiliation}#=%=#VCU
+
+==========

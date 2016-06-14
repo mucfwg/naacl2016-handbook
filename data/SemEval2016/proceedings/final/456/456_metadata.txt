@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#456
+FinalPaperTitle#=%=#MayAnd at SemEval-2016 Task 5: Syntactic and word2vec-based approach to aspect-based polarity detection in Russian
+ShortPaperTitle#=%=#Syntactic and word2vec-based approach to aspect-based polarity detection in Russian
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ivan Andrianov
+JobTitle#==#
+Organization#==#Institute for System Programming of the Russian Academy of Sciences
+25 Alexander Solzhenitsyn Street
+Moscow, Russia
+Abstract#==#This paper describes aspect-based polarity detection system for Russian, used
+in aspect-based sentiment analysis task (ABSA) of SemEval-2016 (Task 5, subtask
+1, slot 3). The system consists of two independent classifiers: for opinion
+target expressions and for implicit opinion target mentions. We introduce a set
+of standard unigram features together with more sophisticated ones: based on
+sentence syntactic structure and based on lemmas vector representation.
+Being applied to Russian restaurant reviews, our system achieved best quality
+among four participants.
+Author{1}{Firstname}#=%=#Vladimir
+Author{1}{Lastname}#=%=#Mayorov
+Author{1}{Email}#=%=#vmayorov@ispras.ru
+Author{1}{Affiliation}#=%=#ISP RAS
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Andrianov
+Author{2}{Email}#=%=#ivan.andrianov@ispras.ru
+Author{2}{Affiliation}#=%=#ISP RAS
+
+==========

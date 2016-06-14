@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#681
+FinalPaperTitle#=%=#Dependency Based Embeddings for Sentence Classification Tasks
+ShortPaperTitle#=%=#Dependency Based Embeddings for Sentence Classification Tasks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alexandros Komninos
+JobTitle#==#
+Organization#==#Department of Computer Science, University of York, York, YO10 5GH, United Kingdom
+Abstract#==#We compare different word embeddings from a standard window based skipgram
+model, a skipgram model trained using dependency context features and a novel
+skipgram variant that utilizes additional information from dependency graphs.
+We explore the effectiveness of the different types of word embeddings for word
+similarity and sentence classification tasks. We consider three common sentence
+classification tasks: question type classification on the TREC dataset, binary
+sentiment classification on Stanford's Sentiment Treebank and semantic relation
+classification on the SemEval 2010 dataset. For each task we use three
+different classification methods: a Support Vector Machine, a Convolutional
+Neural Network and a Long Short Term Memory Network.
+Our experiments show that dependency based embeddings outperform standard
+window based embeddings in most of the settings, while using dependency context
+embeddings as additional features improves performance in all tasks regardless
+of the classification method.
+Author{1}{Firstname}#=%=#Alexandros
+Author{1}{Lastname}#=%=#Komninos
+Author{1}{Email}#=%=#ak1153@york.ac.uk
+Author{1}{Affiliation}#=%=#University of York
+Author{2}{Firstname}#=%=#Suresh
+Author{2}{Lastname}#=%=#Manandhar
+Author{2}{Email}#=%=#suresh@cs.york.ac.uk
+Author{2}{Affiliation}#=%=#University of York
+
+==========

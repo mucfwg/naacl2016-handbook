@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#502
+FinalPaperTitle#=%=#VCU-TSA at Semeval-2016 Task 4: Sentiment Analysis in Twitter
+ShortPaperTitle#=%=#VCU-TSA at Semeval-2016 Task 4: Sentiment Analysis in Twitter
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Gerard Briones
+JobTitle#==#
+Organization#==#Virginia Commonwealth University
+907 Floyd Ave, Richmond, VA 23284, USA
+Abstract#==#The aim of this paper is to produce a methodology for analyzing sentiments of
+selected Twitter messages, better known as Tweets. This project elaborates on
+two experiments carried out to analyze the sentiment of Tweets from 
+SemEval-2016 Task 4 Subtask A and Subtask B. Our
+method is built from a simple unigram model baseline with three main feature
+enhancements incorporated into the model: 1) emoticon retention, 2) word
+stemming, and 3) token saliency calculation. Our results indicate an increase
+in classification accuracy with the addition of emoticon retention and word
+stemming, while token saliency shows mixed performance. These results elucidate
+a possible classification feature model that could aid in the sentiment 
+analysis of Twitter feeds and other microblogging environments.
+Author{1}{Firstname}#=%=#Gerard
+Author{1}{Lastname}#=%=#Briones
+Author{1}{Email}#=%=#brionesgc@vcu.edu
+Author{1}{Affiliation}#=%=#VCU
+Author{2}{Firstname}#=%=#Kasun
+Author{2}{Lastname}#=%=#Amarasinghe
+Author{2}{Email}#=%=#amarasinghek@vcu.edu
+Author{2}{Affiliation}#=%=#VCU
+Author{3}{Firstname}#=%=#Bridget
+Author{3}{Lastname}#=%=#McInnes
+Author{3}{Email}#=%=#btmcinnes@vcu.edu
+Author{3}{Affiliation}#=%=#Virginia Commonwealth University
+
+==========

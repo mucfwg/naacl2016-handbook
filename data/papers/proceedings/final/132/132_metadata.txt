@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#132
+FinalPaperTitle#=%=#STransE: a novel embedding model of entities and relationships in knowledge bases
+ShortPaperTitle#=%=#STransE: a novel embedding model of entities and relationships in knowledge bases
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dat Quoc Nguyen
+JobTitle#==#
+Organization#==#Department of Computing, Macquarie University, Sydney, Australia
+Abstract#==#Knowledge bases of real-world facts about entities and their relationships are
+useful resources for a variety of natural language processing tasks. However,
+because knowledge bases are typically incomplete, it is useful to be able to
+perform link prediction, i.e., predict whether a relationship not in the
+knowledge base is likely to be true. This paper combines insights from several
+previous link prediction models into a new embedding model STransE that
+represents each entity as a low-dimensional vector, and each relation by two
+matrices and a translation vector. STransE is a simple combination of the SE
+and TransE models, but it obtains better link prediction performance on two
+benchmark datasets than previous embedding models. Thus, STransE can serve as a
+new baseline for the more complex models in the link prediction task.
+Author{1}{Firstname}#=%=#Dat Quoc
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#dat.nguyen@students.mq.edu.au
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Kairit
+Author{2}{Lastname}#=%=#Sirts
+Author{2}{Email}#=%=#kairit.sirts@mq.edu.au
+Author{2}{Affiliation}#=%=#Macquarie University
+Author{3}{Firstname}#=%=#Lizhen
+Author{3}{Lastname}#=%=#Qu
+Author{3}{Email}#=%=#lizhen.qu@nicta.com.au
+Author{3}{Affiliation}#=%=#National ICT Australia
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Johnson
+Author{4}{Email}#=%=#Mark.Johnson@mq.edu.au
+Author{4}{Affiliation}#=%=#Macquarie University
+
+==========

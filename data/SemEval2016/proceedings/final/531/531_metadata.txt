@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#531
+FinalPaperTitle#=%=#VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)
+ShortPaperTitle#=%=#VectorWeavers : From Incremental Meaning to Semantic Unit (phrase by phrase)
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Andreas Scherbakov
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes an experimental approach to Detection of Minimal Semantic
+Units and their Meaning (DiMSUM), explored within the framework of SemEval'16
+Task 10. The approach is primarily based on a combination of word embeddings
+and parser-based features, and employs unidirectional incremental computation
+of compositional embeddings for multiword expressions.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Scherbakov
+Author{1}{Email}#=%=#ultrasparc@yandex.ru
+Author{1}{Affiliation}#=%=#the University of Melbourne
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Vylomova
+Author{2}{Email}#=%=#evylomova@gmail.com
+Author{2}{Affiliation}#=%=#the University of Melbourne
+Author{3}{Firstname}#=%=#Fei
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#fliu3@student.unimelb.edu.au
+Author{3}{Affiliation}#=%=#the University of Melbourne
+Author{4}{Firstname}#=%=#Timothy
+Author{4}{Lastname}#=%=#Baldwin
+Author{4}{Email}#=%=#tb@ldwin.net
+Author{4}{Affiliation}#=%=#The University of Melbourne
+
+==========

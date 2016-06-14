@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#385
+FinalPaperTitle#=%=#IHS-RD-Belarus at SemEval-2016 Task 9: Transition-based Chinese Semantic Dependency Parsing with Online Reordering and Bootstrapping.
+ShortPaperTitle#=%=#Transition-based Chinese Semantic Dependency Parsing with Online Reordering and Bootstrapping.
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Artsiom Artsymenia
+JobTitle#==#Principal Software Engineer
+Organization#==#IHS Global Belarus. 131 Starovilenskaya St 220123, Minsk, Belarus
+Abstract#==#This paper is a description of our system de-veloped for SemEval-2016 Task 9:
+Chinese Semantic Dependency Parsing. We have built a transition-based
+dependency parser with on-line reordering, which is not limited to a tree
+structure and can produce 99.7% of the necessary dependencies while maintaining
+linear algorithm complexity. To improve parsing quality we used additional
+techniques such as pre- and post-processing of the dependency graph,
+bootstrapping and a rich feature set with additional semantic features.
+Author{1}{Firstname}#=%=#Artsiom
+Author{1}{Lastname}#=%=#Artsymenia
+Author{1}{Email}#=%=#Artsiom.Artsymenia@ihs.com
+Author{1}{Affiliation}#=%=#IHS Inc. / IHS Global Belarus
+Author{2}{Firstname}#=%=#Palina
+Author{2}{Lastname}#=%=#Dounar
+Author{2}{Email}#=%=#Polina.Dovnar@ihs.com
+Author{2}{Affiliation}#=%=#IHS Inc. / IHS Global Belarus
+Author{3}{Firstname}#=%=#Maria
+Author{3}{Lastname}#=%=#Yermakovich
+Author{3}{Email}#=%=#Maria.Yermakovich@ihs.com
+Author{3}{Affiliation}#=%=#IHS Inc. / IHS Global Belarus
+
+==========

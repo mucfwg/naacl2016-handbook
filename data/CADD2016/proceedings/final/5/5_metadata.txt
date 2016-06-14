@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Identifying Individual Differences in Gender, Ethnicity, and Personality from Dialogue for Deception Detection
+ShortPaperTitle#=%=#Identifying Individual Differences in Gender, Ethnicity, and Personality for Deception Detection
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sarah Ita Levitan
+JobTitle#==#
+Organization#==#Department of Computer Science, Columbia University
+New York, NY USA
+Abstract#==#When automatically detecting deception, it is important to model individual
+differences across speakers.  We explore the automatic identification of
+individual traits such as gender, native language, and personality, using
+acoustic-prosodic and lexical features from an initial non-deceptive dialogue. 
+We also explore predicting success at deception and at deception detection,
+using the same features.
+Author{1}{Firstname}#=%=#Sarah Ita
+Author{1}{Lastname}#=%=#Levitan
+Author{1}{Email}#=%=#sarahita@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Yocheved
+Author{2}{Lastname}#=%=#Levitan
+Author{2}{Email}#=%=#yll2109@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Guozhen
+Author{3}{Lastname}#=%=#An
+Author{3}{Email}#=%=#gan@gc.cuny.edu
+Author{3}{Affiliation}#=%=#CUNY Graduate Center
+Author{4}{Firstname}#=%=#Michelle
+Author{4}{Lastname}#=%=#Levine
+Author{4}{Email}#=%=#mlevine@cs.columbia.edu
+Author{4}{Affiliation}#=%=#Columbia University
+Author{5}{Firstname}#=%=#Rivka
+Author{5}{Lastname}#=%=#Levitan
+Author{5}{Email}#=%=#levitan@sci.brooklyn.cuny.edu
+Author{5}{Affiliation}#=%=#Brooklyn College CUNY
+Author{6}{Firstname}#=%=#Andrew
+Author{6}{Lastname}#=%=#Rosenberg
+Author{6}{Email}#=%=#andrew@cs.qc.cuny.edu
+Author{6}{Affiliation}#=%=#Queens College, CUNY
+Author{7}{Firstname}#=%=#Julia
+Author{7}{Lastname}#=%=#Hirschberg
+Author{7}{Email}#=%=#julia@cs.columbia.edu
+Author{7}{Affiliation}#=%=#Columbia University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#417
+FinalPaperTitle#=%=#UtahBMI at SemEval-2016 Task 12: Extracting Temporal Information from Clinical Text
+ShortPaperTitle#=%=#Extracting Temporal Information from Clinical Text
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Abdulrahman
+JobTitle#==#
+Organization#==#University of Utah
+421 Wakara Way
+Salt Lake City
+Abstract#==#The 2016 Clinical TempEval continued 
+the 2015 shared task
+on temporal information extraction with a new evaluation  test set. 
+Our team, UtahBMI,  participated in all subtasks using machine learning
+approaches with ClearTK (LIBLINEAR), CRF++ and CRFsuite packages. 
+Our experiments show that 
+CRF-based classifiers yield, in general, higher recall for multi-word spans,
+while SVM-based classifiers are better at predicting correct attributes of
+TIMEX3. In addition, we show that an ensemble-based approach for TIMEX3 could
+yield improved results. Our team achieved competitive results in each subtask
+with an  F1 75.4\% for TIMEX3, F1 89.2\% for EVENT, F1 84.4\% for event
+relations with document time (DocTimeRel), and F1 51.1\% for narrative
+container (CONTAINS) relations.
+Author{1}{Firstname}#=%=#Abdulrahman
+Author{1}{Lastname}#=%=#AAl Abdulsalam
+Author{1}{Email}#=%=#abdul.academic@gmail.com
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Sumithra
+Author{2}{Lastname}#=%=#Velupillai
+Author{2}{Email}#=%=#sumithra@kth.se
+Author{2}{Affiliation}#=%=#School of Computer Science and Communication, KTH, Stockholm
+Author{3}{Firstname}#=%=#Stephane
+Author{3}{Lastname}#=%=#Meystre
+Author{3}{Email}#=%=#stephane.meystre@hsc.utah.edu
+Author{3}{Affiliation}#=%=#University of Utah
+
+==========

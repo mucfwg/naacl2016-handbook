@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#655
+FinalPaperTitle#=%=#Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks
+ShortPaperTitle#=%=#Capturing Semantic Similarity for Entity Linking with CNNs
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthew Francis-Landau
+JobTitle#==#
+Organization#==#Computer Science Division
+University of California, Berkeley
+Abstract#==#A key challenge in entity linking is making effective use of contextual
+information to disambiguate mentions that might refer to different entities in
+different contexts. We present a model that uses convolutional neural networks
+to capture semantic correspondence between a mention’s context and a proposed
+target entity. These convolutional networks operate at multiple granularities
+to exploit various kinds of topic information, and their rich parameterization
+gives them the capacity to learn which n-grams characterize different topics.
+We combine these networks with a sparse linear model to achieve
+state-of-the-art performance on multiple entity linking datasets, outperforming
+the prior systems of Durrett and Klein (2014) and Nguyen et al. (2014).
+Author{1}{Firstname}#=%=#Matthew
+Author{1}{Lastname}#=%=#Francis-Landau
+Author{1}{Email}#=%=#mfl@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Greg
+Author{2}{Lastname}#=%=#Durrett
+Author{2}{Email}#=%=#gdurrett@eecs.berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Klein
+Author{3}{Email}#=%=#klein@cs.berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#375
+FinalPaperTitle#=%=#Joint Learning with Global Inference for Comment Classification in Community Question Answering
+ShortPaperTitle#=%=#Joint Learning with Global Inference for Comment Classification in Community Question Answering
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shafiq Joty
+JobTitle#==#
+Organization#==#Qatar Computing Research Institute --- HBKU, Qatar Foundation
+Abstract#==#This paper addresses the problem of comment classification in community
+Question Answering. Following the state of the art, we approach the task with a
+global inference process to exploit the information of all com- ments in the
+answer-thread in the form of a fully connected graph. Our contribution
+comprises two novel joint learning models that are online and integrate
+inference within learning. The first one jointly learns two node- and
+edge-level MaxEnt classifiers with stochastic gradient descent and integrates
+the inference step with loopy belief propagation. The second model is an
+instance of fully connected pairwise CRFs (FCCRF). The FCCRF model
+significantly outperforms all other approaches and yields the best results on
+the task to date. Crucial elements for its success are the global normalization
+and an Ising-like edge potential.
+Author{1}{Firstname}#=%=#Shafiq
+Author{1}{Lastname}#=%=#Joty
+Author{1}{Email}#=%=#sjoty@qf.org.qa
+Author{1}{Affiliation}#=%=#QCRI
+Author{2}{Firstname}#=%=#Lluís
+Author{2}{Lastname}#=%=#Màrquez
+Author{2}{Email}#=%=#lluism@lsi.upc.edu
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{3}{Firstname}#=%=#Preslav
+Author{3}{Lastname}#=%=#Nakov
+Author{3}{Email}#=%=#preslav.nakov@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+
+==========

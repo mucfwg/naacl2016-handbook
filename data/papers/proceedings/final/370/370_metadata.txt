@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#370
+FinalPaperTitle#=%=#Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning
+ShortPaperTitle#=%=#Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yulia Tsvetkov
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We introduce polyglot language models, recurrent neural network models trained
+to predict symbol sequences in many different languages using shared
+representations of symbols and conditioning on typological information about
+the language to be predicted.
+We apply these to the problem of modeling phone sequences—a domain in which
+universal symbol inventories and cross-linguistically shared feature
+representations are a natural fit. Intrinsic evaluation on held-out perplexity,
+qualitative analysis of the learned representations, and extrinsic evaluation
+in two downstream applications that make use of phonetic features show (i) that
+polyglot models better generalize to held-out data than comparable monolingual
+models and (ii) that polyglot phonetic feature representations are of higher
+quality than those learned monolingually.
+Author{1}{Firstname}#=%=#Yulia
+Author{1}{Lastname}#=%=#Tsvetkov
+Author{1}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Sunayana
+Author{2}{Lastname}#=%=#Sitaram
+Author{2}{Email}#=%=#t-susita@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research India
+Author{3}{Firstname}#=%=#Manaal
+Author{3}{Lastname}#=%=#Faruqui
+Author{3}{Email}#=%=#manaalfar@gmail.com
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Guillaume
+Author{4}{Lastname}#=%=#Lample
+Author{4}{Email}#=%=#guillaume.lample@gmail.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Patrick
+Author{5}{Lastname}#=%=#Littell
+Author{5}{Email}#=%=#plittell@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#David
+Author{6}{Lastname}#=%=#Mortensen
+Author{6}{Email}#=%=#dmortens@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{7}{Firstname}#=%=#Alan W
+Author{7}{Lastname}#=%=#Black
+Author{7}{Email}#=%=#awb@cs.cmu.edu
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+Author{8}{Firstname}#=%=#Lori
+Author{8}{Lastname}#=%=#Levin
+Author{8}{Email}#=%=#lsl@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+Author{9}{Firstname}#=%=#Chris
+Author{9}{Lastname}#=%=#Dyer
+Author{9}{Email}#=%=#cdyer@cs.cmu.edu
+Author{9}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

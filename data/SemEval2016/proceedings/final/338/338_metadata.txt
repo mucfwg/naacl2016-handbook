@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#338
+FinalPaperTitle#=%=#INF-UFRGS-OPINION-MINING at SemEval-2016 Task 6: Automatic Generation of a Training Corpus for Unsupervised Identification of Stance in Tweets
+ShortPaperTitle#=%=#INF-UFRGS Unsupervised Identification of Stance in Tweets
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#MARCELO DIAS
+JobTitle#==#
+Organization#==#INSTITUTO DE INFORMÁTICA - UFRGS
+PORTO ALEGRE, RS, BRAZIL
+Abstract#==#This paper describe a weakly supervised solution for detecting stance in
+tweets, submitted to the SemEval 2016 Stance Task. Our approach is based on the
+premise that stance can be exposed as positive or negative opinions, although
+not necessarily about the stance target itself. Our system receives as input
+n-grams representing opinion targets and common terms used to denote stance
+(e.g. hashtags), and use these features, together with the sentiment detection
+solutions, to automatically compose a large training corpus. Then, it applies a
+supervised learning algorithm to develop a stance prediction model.
+Author{1}{Firstname}#=%=#Marcelo
+Author{1}{Lastname}#=%=#Dias
+Author{1}{Email}#=%=#marcelosantosdias@gmail.com
+Author{1}{Affiliation}#=%=#UFRGS
+Author{2}{Firstname}#=%=#Karin
+Author{2}{Lastname}#=%=#Becker
+Author{2}{Email}#=%=#karin.becker@inf.ufrgs.br
+Author{2}{Affiliation}#=%=#UFRGS
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#426
+FinalPaperTitle#=%=#PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis
+ShortPaperTitle#=%=#PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Mateusz Lango
+JobTitle#==#
+Organization#==#Institute of Computing Science
+Poznan University of Technology
+Piotrowo 2
+60-965~Poznań
+Poland
+Abstract#==#This paper describes a classification system that participated in SemEval-2016
+Task 4: Sentiment Analysis in Twitter. The proposed approach competed in
+subtasks A, B, and C, which involved tweet polarity classification, tweet
+classification according to a two-point scale, and tweet classification
+according to a five-point scale. Our system is based on an ensemble consisting
+of Random Forests, SVMs, and Gradient Boosting Trees, and involves the use of a
+wide range of features including: n-grams, Brown clustering, sentiment
+lexicons, Wordnet, and part-of-speech tagging. The proposed system achieved
+14th, 6th, and 3rd place in subtasks A, B, and C, respectively.
+Author{1}{Firstname}#=%=#Mateusz
+Author{1}{Lastname}#=%=#Lango
+Author{1}{Email}#=%=#mateusz.lango@cs.put.poznan.pl
+Author{1}{Affiliation}#=%=#Poznan University of Technology
+Author{2}{Firstname}#=%=#Dariusz
+Author{2}{Lastname}#=%=#Brzezinski
+Author{2}{Email}#=%=#dariusz.brzezinski@cs.put.poznan.pl
+Author{2}{Affiliation}#=%=#Poznan University of Technology
+Author{3}{Firstname}#=%=#Jerzy
+Author{3}{Lastname}#=%=#Stefanowski
+Author{3}{Email}#=%=#jerzy.stefanowski@cs.put.poznan.pl
+Author{3}{Affiliation}#=%=#Poznan University of Technology
+
+==========

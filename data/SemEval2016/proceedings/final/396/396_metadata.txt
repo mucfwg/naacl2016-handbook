@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#396
+FinalPaperTitle#=%=#Deftor at SemEval-2016 Task 14: Taxonomy enrichment using definition vectors
+ShortPaperTitle#=%=#Taxonomy enrichment using definition vectors
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Hristo Tanev
+JobTitle#==#
+Organization#==#Joint Research Centre, EC
+Abstract#==#In this paper we describe the participation of the Joint Research Centre, EC,
+in task 14 - Semantic Taxonomy Enrichment at SemEval 2016.
+The algorithm which we propose transforms each candidate definition into a term
+vector, where each dimension represents a term and its value 
+is calculated by TF.IDF. We attach the candidate term as a hyponym to the
+WordNet synset with the most similar definition. The results we obtained 
+are encouraging, considering the simplicity of our approach. The obtained F
+measure is  below the average, but above one of the baselines.
+\end{abstract}
+Author{1}{Firstname}#=%=#Hristo
+Author{1}{Lastname}#=%=#Tanev
+Author{1}{Email}#=%=#htanev@gmail.com
+Author{1}{Affiliation}#=%=#Joint Research Centre, European Commission
+Author{2}{Firstname}#=%=#Agata
+Author{2}{Lastname}#=%=#Rotondi
+Author{2}{Email}#=%=#rotondiagata@gmail.com
+Author{2}{Affiliation}#=%=#Ca Foscari, Venice
+
+==========

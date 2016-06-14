@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Reconstructing Ancient Literary Texts from Noisy Manuscripts
+ShortPaperTitle#=%=#Reconstructing Ancient Literary Texts from Noisy Manuscripts
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Moshe Koppel
+JobTitle#==#
+Organization#==#Dept. of Computer Science
+Bar-Ilan University
+Ramat-Gan, Israel
+Abstract#==#Given multiple corrupted versions of the same text, as is common with ancient
+manuscripts, we wish to reconstruct the original text from which the extant
+corrupted versions were copied (typically via latent intermediary versions).
+This is a challenge of cardinal importance in the humanities. We use a variant
+of expectation-maximization (EM), to solve this problem. We prove the efficacy
+of our method on both synthetic and real-world data.
+Author{1}{Firstname}#=%=#Moshe
+Author{1}{Lastname}#=%=#Koppel
+Author{1}{Email}#=%=#moishk@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Moty
+Author{2}{Lastname}#=%=#Michaely
+Author{2}{Email}#=%=#moty.mi@gmail.com
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+Author{3}{Firstname}#=%=#Alex
+Author{3}{Lastname}#=%=#Tal
+Author{3}{Email}#=%=#msaltal@gmail.com
+Author{3}{Affiliation}#=%=#University of Haifa
+
+==========

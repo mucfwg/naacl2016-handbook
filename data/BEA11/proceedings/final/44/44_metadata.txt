@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Evaluation Dataset (DT-Grade) and Word Weighting Approach towards Constructed Short Answers Assessment in Tutorial Dialogue Context
+ShortPaperTitle#=%=#Evaluation Dataset and a Method towards Constructed Answers Assessment in Tutorial Dialogue Context
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rajendra Banjade
+JobTitle#==#
+Organization#==#The University of Memphis, Memphis, Tennessee, USA
+Abstract#==#Evaluating student answers often requires contextual information, such as
+previous utterances in conversational tutoring systems. For example, students
+use coreferences and write elliptical responses, i.e. incomplete but can be
+interpreted in context. The DT-Grade corpus which we present in this paper
+consists of short constructed answers extracted from tutorial dialogues between
+students and an Intelligent Tutoring System and annotated for their correctness
+in the given context and whether the contextual information was useful. The
+dataset contains 900 answers (of which about 25% required contextual
+information to properly interpret them). We also present a baseline system
+developed to predict the correctness label (such as correct, correct but
+incomplete) in which weights for the words are assigned based on context.
+Author{1}{Firstname}#=%=#Rajendra
+Author{1}{Lastname}#=%=#Banjade
+Author{1}{Email}#=%=#rbanjade@memphis.edu
+Author{1}{Affiliation}#=%=#The University of Memphis
+Author{2}{Firstname}#=%=#Nabin
+Author{2}{Lastname}#=%=#Maharjan
+Author{2}{Email}#=%=#nmharjan@memphis.edu
+Author{2}{Affiliation}#=%=#The University of Memphis
+Author{3}{Firstname}#=%=#Nobal Bikram
+Author{3}{Lastname}#=%=#Niraula
+Author{3}{Email}#=%=#nb.niraula@gmail.com
+Author{3}{Affiliation}#=%=#Boeing Research & Technology
+Author{4}{Firstname}#=%=#Dipesh
+Author{4}{Lastname}#=%=#Gautam
+Author{4}{Email}#=%=#dgautam@memphis.edu
+Author{4}{Affiliation}#=%=#The University of Memphis
+Author{5}{Firstname}#=%=#Borhan
+Author{5}{Lastname}#=%=#Samei
+Author{5}{Email}#=%=#bsamei@memphis.edu
+Author{5}{Affiliation}#=%=#The University of Memphis
+Author{6}{Firstname}#=%=#Vasile
+Author{6}{Lastname}#=%=#Rus
+Author{6}{Email}#=%=#vrus@memphis.edu
+Author{6}{Affiliation}#=%=#The University of Memphis
+
+==========

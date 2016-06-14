@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#703
+FinalPaperTitle#=%=#LSTM Neural Reordering Feature for Statistical Machine Translation
+ShortPaperTitle#=%=#LSTM Neural Reordering Feature for Statistical Machine Translation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yiming Cui
+JobTitle#==#
+Organization#==#iFLYTEK Research
+Floor 5, Xinzonghe Building, No.15 Xueyuan Road, Haidian District, Beijing, China
+Abstract#==#Artificial neural networks are powerful models, which have been widely applied
+into many aspects of machine translation, such as language modeling and
+translation modeling. Though notable improvements have been made in these
+areas, the reordering problem still remains a challenge in statistical machine
+translations. In this paper, we present a novel neural reordering model that
+directly models word pairs and their alignment. Further by utilizing LSTM
+recurrent neural networks, much longer context could be learned for reordering
+prediction. Experimental results on NIST OpenMT12 Arabic-English and
+Chinese-English 1000-best rescoring task show that our LSTM neural reordering
+feature is robust, and achieves significant improvements over various baseline
+systems.
+Author{1}{Firstname}#=%=#Yiming
+Author{1}{Lastname}#=%=#Cui
+Author{1}{Email}#=%=#ymcui@iflytek.com
+Author{1}{Affiliation}#=%=#iFLYTEK Research
+Author{2}{Firstname}#=%=#Shijin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#sjwang3@iflytek.com
+Author{2}{Affiliation}#=%=#iFLYTEK Research
+Author{3}{Firstname}#=%=#Jianfeng
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#jfli3@iflytek.com
+Author{3}{Affiliation}#=%=#iFLYTEK Research
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Cross-Lingual Question Answering Using Common Semantic Space
+ShortPaperTitle#=%=#Cross-Lingual Question Answering Using Common Semantic Space
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Amir Pouran Ben Veyseh
+JobTitle#==#
+Organization#==#
+Abstract#==#With the advent of Big Data concept, a lot
+of attention have been paid to structuring and
+giving semantic to this data. Knowledge
+bases like DBPedia play an important role to
+achieve this goal. Question answering systems
+are common approach to address expressivity
+and usability of information extraction
+from knowledge bases. Recent researchers focused
+only on monolingual QA systems while
+cross-lingual setting has still so many barriers.
+In this paper, we introduce a new cross-lingual
+approach using a unified semantic space
+among languages. After keyword extraction,
+entity linking and answer type detection, we
+use cross-lingual semantic similarity to extract
+the answer from knowledge base via relation
+selection and type matching. We have evaluated
+our approach on Persian and Spanish
+which are typologically different languages.
+Our experiments are on DBPedia. The results
+are promising for both
+Author{1}{Firstname}#=%=#Amir
+Author{1}{Lastname}#=%=#Pouran Ben Veyseh
+Author{1}{Email}#=%=#veyseh@ut.ac.ir
+Author{1}{Affiliation}#=%=#University of Tehran
+
+==========

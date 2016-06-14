@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#532
+FinalPaperTitle#=%=#YZU-NLP Team at SemEval-2016 Task 4: Ordinal Sentiment Classification Using a Recurrent Convolutional Network
+ShortPaperTitle#=%=#YZU-NLP Team at SemEval-2016 Task 4
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Liang-Chih Yu
+JobTitle#==#Associate Professor
+Organization#==#No. 135, Yuan Tung Rd., Taoyuan City, Taiwan
+Abstract#==#Sentiment analysis of tweets has attracted considerable attentions recently for
+potential use in commercial and public sector applications. Typical sentiment
+analysis classifies the sentiment of sentences into several discrete classes
+(e.g., positive and negative). For Task 4 subtask C of SemEval-2016, the aim is
+to classify the sentiment of tweets into an ordinal five-point scale. In this
+paper, we presents a system that uses word embeddings and recurrent
+convolutional network for this competition. The word embeddings provide a
+continuous vector representation of words for the recurrent convolutional
+network to build sentence vectors for multi-point classification. The results
+show that the proposed method achieved the second rank among eleven teams for
+micro-averaged MAE (mean absolute error) and eighth rank for macro-averaged
+MAE.
+Author{1}{Firstname}#=%=#Yunchao
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#yunchaohe@gmail.com
+Author{1}{Affiliation}#=%=#Yunnan University
+Author{2}{Firstname}#=%=#Liang-Chih
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#lcyu@saturn.yzu.edu.tw
+Author{2}{Affiliation}#=%=#Yuan Ze University
+Author{3}{Firstname}#=%=#Chin-Sheng
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#csyang@saturn.yzu.edu.tw
+Author{3}{Affiliation}#=%=#Yuan Ze University
+Author{4}{Firstname}#=%=#K. Robert
+Author{4}{Lastname}#=%=#Lai
+Author{4}{Email}#=%=#krlai@saturn.yzu.edu.tw
+Author{4}{Affiliation}#=%=#Yuan Ze University
+Author{5}{Firstname}#=%=#Weiyi
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#wyliu@ynu.edu.cn
+Author{5}{Affiliation}#=%=#Yunnan University
+
+==========
